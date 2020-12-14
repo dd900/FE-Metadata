@@ -3138,21 +3138,27 @@ assets.screenshots: ./screenshot/Codename - Tenka (USA).png
 assets.videos: ./snap/Codename - Tenka (USA).mp4
 
 
-game: Colin McRae Rally 2.0
-file: ./Colin McRae Rally 2.0 (USA).chd
+game: Colin McRae Rally 2.1
+file: ./Colin McRae Rally 2.1 (v20071124).chd
 description:
 	Colin McRae Rally 2.0 is a racing video game developed and published by Codemasters for PlayStation. It is the second game in the Colin McRae Rally series. You get to race in locations around the world, over 60 stages in eight different countries. Battle your way towards winning the championship. You can choose from many real life car models, and tune them up to match the conditions! The game realistically simulates all road types, weather conditions, and the physics of car handling create an authentic rally experience. The locations and the cars are all real!
+	.
+	Colin 2.1 is a gameplay-enhancing fix that\n
+	- Makes that windscreen in the cockpit view completely transparent\n
+	- Makes the car controls respond instantly when using analog devices
+	.
+	In the original game steering, brakes and accelerator did not follow instantly the analog input as their movement speed was limited, resulting in unadequate car control. Now they are mapped directly to the position of the analog axes, taking also in account for the car settings (brake power and steering sensitivity)
 developer: Codemasters
 publisher: Codemasters
 genre: Racing
 release: 2000-12-05
 players: 2
 rating: 75%
-assets.background: ./background/Colin McRae Rally 2.0 (USA).jpg
-assets.boxfront: ./mixart/Colin McRae Rally 2.0 (USA).png
-assets.logo: ./wheel/Colin McRae Rally 2.0 (USA).png
-assets.screenshots: ./screenshot/Colin McRae Rally 2.0 (USA).png
-assets.videos: ./snap/Colin McRae Rally 2.0 (USA).mp4
+assets.background: ./background/Colin McRae Rally 2.1 (v20071124).jpg
+assets.boxfront: ./mixart/Colin McRae Rally 2.1 (v20071124).png
+assets.logo: ./wheel/Colin McRae Rally 2.1 (v20071124).png
+assets.screenshots: ./screenshot/Colin McRae Rally 2.1 (v20071124).png
+assets.videos: ./snap/Colin McRae Rally 2.1 (v20071124).mp4
 
 
 game: College Slam
@@ -6161,26 +6167,39 @@ assets.screenshots: ./screenshot/Final Fantasy VII (Retranslation).png
 assets.videos: ./snap/Final Fantasy VII (Retranslation).mp4
 
 
-game: Final Fantasy VIII
-file: ./Final Fantasy VIII (USA).m3u
+game: Final Fantasy VIII (No PocketStation)
+file: ./Final Fantasy VIII (No PocketStation v0.2) (+Almagest v1.0).m3u
 description:
 	A member of an elite military team, Squall is forced into a conflict beyond imagination.  To survive, he must contend with a desperate rival, a powerful sorceress, and his own mysterious dreams.
 	.
-	* Realistic, detailed characters and background graphics enhanced by a breathtaking musical score
-	* An epic story based on the theme of love, set in a massive new world
-	* New Junction System allows characters to be customized with powerful magic spells drawn from enemies
-	* Nearly an hour of stunning motion-captured CG cinemas seamlessly integrated into gameplay
+	Realistic, detailed characters and background graphics enhanced by a breathtaking musical score\n
+	An epic story based on the theme of love, set in a massive new world\n
+	New Junction System allows characters to be customized with powerful magic spells drawn from enemies\n
+	Nearly an hour of stunning motion-captured CG cinemas seamlessly integrated into gameplay
+	.
+	Get Mog’s Amulet and Enable MiniMog for MiniMog command after get Chocobo Card in Chocobo Forest from Esthar Region (No PocketStation needed)\n
+	Chocobo learn Chocobocle after get Chocobo Card in Chocobo Forest from Esthar Region\n
+	You can get 1 Gisahl Green and 10 Friendship in Chocobo Forest from Esthar Region\n
+	MiniMog and Ribbon Term from tutorial unlocked after get Chocobo Card.\n
+	Unused Succession of Sorceress Power Term unlocked after talk with Edea and Cid in begining of disk 3\n
+	Unused Trabia Shop unlocked in Trabia Garden (talk with lazy bum on the ground)\n
+	Selphie can cast the unused Limits Percent and Catastrophe now\n
+	Forbid Mag-RF now has 1 more entry (Total 6 + 1 = 7 Entries)\n
+	Tool-RF now has 5 more entries (Total 32 + 5 = 37 Entries)\n
+	GFAbl Med-RF has 2 more entries (Total 42 + 2 = 44 Entries)\n
+	Newest Entries added in Ability Term from Information\n
+	Removed censorship of green blood on wall in Armory of Ultimecia Castle
 developer: Squaresoft
 publisher: Squaresoft
 genre: Role-Playing
 release: 1999-09-07
 players: 1
 rating: 80%
-assets.background: ./background/Final Fantasy VIII (USA).jpg
-assets.boxfront: ./mixart/Final Fantasy VIII (USA).png
-assets.logo: ./wheel/Final Fantasy VIII (USA).png
-assets.screenshots: ./screenshot/Final Fantasy VIII (USA).png
-assets.videos: ./snap/Final Fantasy VIII (USA).mp4
+assets.background: ./background/Final Fantasy VIII (No PocketStation v0.2) (+Almagest v1.0).jpg
+assets.boxfront: ./mixart/Final Fantasy VIII (No PocketStation v0.2) (+Almagest v1.0).png
+assets.logo: ./wheel/Final Fantasy VIII (No PocketStation v0.2) (+Almagest v1.0).png
+assets.screenshots: ./screenshot/Final Fantasy VIII (No PocketStation v0.2) (+Almagest v1.0).png
+assets.videos: ./snap/Final Fantasy VIII (No PocketStation v0.2) (+Almagest v1.0).mp4
 
 
 game: Final Round
@@ -7017,10 +7036,12 @@ assets.screenshots: ./screenshot/Grand Theft Auto (USA).png
 assets.videos: ./snap/Grand Theft Auto (USA).mp4
 
 
-game: Grand Theft Auto: London 1969
-file: ./Grand Theft Auto - London 1969 (Europe).chd
+game: Grand Theft Auto: London 1969 (Standalone)
+file: ./Grand Theft Auto - London 1969 (Standalone v2.0).chd
 description:
 	Grand Theft Auto: Mission Pack #1 - London 1969 is an official expansion pack to Grand Theft Auto. Instead of the fictional interpretations of New York, Miami and Los Angeles of the original, this game opens up the city of London to the player. The game features thirty new vehicles, new graphics and thirty-two new missions; all in a distinctly British theme. The new city contains many familiar landmarks from London in the late 60s as well as other cultural reference and Cockney slang. This time the player can choose the avatar's appearance, otherwise gameplay has not been changed from the original game. The player still is involved in organized crime and must perform a variety of criminal activities.
+	.
+	This patch allows you to play the game without the need to perform a disc swap for the original Grand Theft Auto disc.
 developer: Rockstar Games
 publisher: Rockstar Games
 genres:
@@ -7029,10 +7050,10 @@ genres:
 release: 1999-03-12
 players: 1
 rating: 70%
-assets.boxfront: ./mixart/Grand Theft Auto - London 1969 (Europe).png
-assets.logo: ./wheel/Grand Theft Auto - London 1969 (Europe).png
-assets.screenshots: ./screenshot/Grand Theft Auto - London 1969 (Europe).png
-assets.videos: ./snap/Grand Theft Auto - London 1969 (Europe).mp4
+assets.boxfront: ./mixart/Grand Theft Auto - London 1969 (Standalone v2.0).png
+assets.logo: ./wheel/Grand Theft Auto - London 1969 (Standalone v2.0).png
+assets.screenshots: ./screenshot/Grand Theft Auto - London 1969 (Standalone v2.0).png
+assets.videos: ./snap/Grand Theft Auto - London 1969 (Standalone v2.0).mp4
 
 
 game: Grand Theft Auto 2
@@ -7053,27 +7074,6 @@ assets.boxfront: ./mixart/Grand Theft Auto 2 (USA).png
 assets.logo: ./wheel/Grand Theft Auto 2 (USA).png
 assets.screenshots: ./screenshot/Grand Theft Auto 2 (USA).png
 assets.videos: ./snap/Grand Theft Auto 2 (USA).mp4
-
-
-game: Grandia
-file: ./Grandia (USA).m3u
-description:
-	Grandia is a Japanese-style console RPG, with big-eyed anime style characters, that was first released on the Sega Saturn in 1997.  It centers around the story of a young hero named Justin who possesses a mysterious artifact known as the 'Spirit Stone'.  The story takes Justin and friends (who range from a bratty eight year-old to a noble knight and a thief with a short fuse) through distant towns and abandoned ruins of a forgotten civilization (and even the occasional military base) in a search for adventure and secrets long hidden from the world. Grandia makes use of FMV cut-scenes to advance the story.
-	.
-	The characters are represented by 2D sprites which are moved around over 3D backgrounds in towns and dungeons.  Combat is initiated by coming into contact with enemies on the screen, rather than through random battles.  Combat itself occurs in pseudo-real-time, using an 'IP Gauge' to determine when a character takes action. Striking at the right time or with the right ability can even delay or cancel an enemy's turn.
-	.
-	The characters in the game gradually advance in level as they gain experience points for killing monsters. Characters also gain experience based on the weapon (e.g. sword, mace, whip, etc.) or magic (e.g. fire, water, etc.) that they use, powering up their spells and learning new ones from continuous usage.  There are a large number of spells, weapons, and other items to use throughout the game.
-developer: Sony
-publisher: Sony
-genre: Role-Playing
-release: 1999-10-12
-players: 1
-rating: 65%
-assets.background: ./background/Grandia (USA).jpg
-assets.boxfront: ./mixart/Grandia (USA).png
-assets.logo: ./wheel/Grandia (USA).png
-assets.screenshots: ./screenshot/Grandia (USA).png
-assets.videos: ./snap/Grandia (USA).mp4
 
 
 game: The Granstream Saga
@@ -8794,8 +8794,8 @@ assets.screenshots: ./screenshot/Legacy of Kain - Soul Reaver (USA).png
 assets.videos: ./snap/Legacy of Kain - Soul Reaver (USA).mp4
 
 
-game: The Legend of Dragoon
-file: ./Legend of Dragoon, The (USA).m3u
+game: The Legend of Dragoon (LoDModS)
+file: ./Legend of Dragoon, The (LoDModS v1.2).m3u
 description:
 	Ten thousand years ago the Legend was born. The Divine Tree's mystical powers were said to have given birth to all life. The 105th race born of the Tree was the mighty Dragons. The 106th was the human race and the 107th was the Winglies. Peace and tranquility reigned throughout the land, but suddenly a violent uprising occurred, led by the Winglies, who enslaved humanity. To counter this, the humans acquired the Dragons' spiritual forces and defeated their nemeses, which led to eventual harmony between all. However, the prophecy has only begun as the past and future are about to collide...
 	In Sony's role-playing game, The Legend of Dragoon for the PlayStation, you'll travel across the land searching for clues and discovering new enemies as well as friends you can add to your party. Up to three members per party can fight at once, in an interface that Final Fantasy fans may find familiar, the difference being that you can become a Dragoon with supernatural powers taken from the souls of Dragons. Animals will attack you from nowhere while other creatures and even human opponents will specifically seek and destroy.
@@ -8803,17 +8803,23 @@ description:
 	Magical attacks draw their power from the Elements such as water, fire, wind, earth, darkness and light, thunder, and non-elemental. Using the opposite of an enemy's element will inflict the most damage. The game also consists of another unique fighting technique that is more commonly used: the Multi-Attack. It allows one to inflict more damage than normal. When it is used, the X button appears onscreen and you must rapidly tap the X button to increase the power of the attack to over 100 percent. If you do nothing, you will only inflict a small amount of damage. There is also the interactive counterattack which, if not properly done, will cut off the rest of your combos and damage your fighter as a result.
 	Arm yourself with a variety of weapons such as swords, spears, bows and arrows, axes and hammers. Protect yourself with body armor, helmets and boots. Other items like bracelets, amulets or stones carry with them magical powers to enhance attacks or deflect the damage of an attack. Although your journey begins with only basic weapons, others can be purchased from merchants or found in chests. Changing and upgrading weapons for the entire party can be done via the in-game menu, however some weapons are specialized for particular warriors. There are also items that can heal or wage war and they too are won in battle, found in chests, or purchased from merchants.
 	Although you start out as Dart, a brave and loyal warrior swordsman sworn to avenge his parents' death by the Black Monster, other party members you'll run into have their own unique story to tell. Saving the game is done wherever you find Save Points; the only requirement is that you must have at least two blocks of memory available on a memory card. This one-player game is also analog and vibration compatible and comes on four CDs.
+	.
+	Party members get full xp even when not in party instead of half when out of party.
+	Inventory expansion.
+	Encounter rate bugfix and half rate - This is actually closer to the western release encounter rate than normal option is (which is a restoration of JP rate which is super high).
+	Restores the previously censored (in the west) blood from Rose's attacks.
+	Restores Japanese audio for voice acting.
 developer: Sony
 publisher: Sony
 genre: Role-Playing
 release: 2000-06-11
 players: 1
 rating: 65%
-assets.background: ./background/Legend of Dragoon, The (USA).jpg
-assets.boxfront: ./mixart/Legend of Dragoon, The (USA).png
-assets.logo: ./wheel/Legend of Dragoon, The (USA).png
-assets.screenshots: ./screenshot/Legend of Dragoon, The (USA).png
-assets.videos: ./snap/Legend of Dragoon, The (USA).mp4
+assets.background: ./background/Legend of Dragoon, The (LoDModS v1.2).jpg
+assets.boxfront: ./mixart/Legend of Dragoon, The (LoDModS v1.2).png
+assets.logo: ./wheel/Legend of Dragoon, The (LoDModS v1.2).png
+assets.screenshots: ./screenshot/Legend of Dragoon, The (LoDModS v1.2).png
+assets.videos: ./snap/Legend of Dragoon, The (LoDModS v1.2).mp4
 
 
 game: Legend of Legaia
@@ -9111,38 +9117,47 @@ assets.screenshots: ./screenshot/Lucky Luke (USA).png
 assets.videos: ./snap/Lucky Luke (USA).mp4
 
 
-game: Lunar: Silver Star Story Complete
-file: ./Lunar - Silver Star Story Complete (USA).m3u
+game: Lunar: Silver Star Story Complete (Un-Worked Design)
+file: ./Lunar - Silver Star Story Complete (Un-Worked Design).m3u
 description:
 	Lunar: Silver Star Story was originally released on the Sega CD. In its time, it was one of the most cherished role-playing games and reaped in massive critical acclaim from reviewers and players alike. Due to space limitations, Working Designs were forced to restrain some things they wanted in the game. Because it is the company's favorite game, they decided to release Lunar: Silver Star Story Complete on the PlayStation -- an uncut version. It is said that this is the way they had always envisioned it.
+	.
+	This is a patch that fixes many issues introduced in the US version of the PlayStation game Lunar: Silver Star Story Complete by its publisher, Working Designs. The US release of the game heavily tampers with the enemy stats, decreases the amount of money and experience earned in battles and on the overworld, and makes several other frustrating changes to gameplay. This patch aims to restore the gameplay to match the original Japanese version.
+	.
+	Holding down the X button will continuously advance the dialogue.
 developer: Game Arts
 publisher: Game Arts
 genre: Role-Playing
 release: 1999-06-04
 players: 1
 rating: 85%
-assets.background: ./background/Lunar - Silver Star Story Complete (USA).jpg
-assets.boxfront: ./mixart/Lunar - Silver Star Story Complete (USA).png
-assets.logo: ./wheel/Lunar - Silver Star Story Complete (USA).png
-assets.screenshots: ./screenshot/Lunar - Silver Star Story Complete (USA).png
-assets.videos: ./snap/Lunar - Silver Star Story Complete (USA).mp4
+assets.background: ./background/Lunar - Silver Star Story Complete (Un-Worked Design).jpg
+assets.boxfront: ./mixart/Lunar - Silver Star Story Complete (Un-Worked Design).png
+assets.logo: ./wheel/Lunar - Silver Star Story Complete (Un-Worked Design).png
+assets.screenshots: ./screenshot/Lunar - Silver Star Story Complete (Un-Worked Design).png
+assets.videos: ./snap/Lunar - Silver Star Story Complete (Un-Worked Design).mp4
 
 
-game: Lunar 2: Eternal Blue Complete
-file: ./Lunar 2 - Eternal Blue Complete (USA).m3u
+game: Lunar 2: Eternal Blue Complete (Un-Working Designs)
+file: ./Lunar 2 - Eternal Blue Complete (Un-Working Designs).m3u
 description:
 	Lunar 2: Eternal Blue is a traditional role-playing video game featuring two-dimensional character sprites and backgrounds. The game is presented from a top-down perspective with players moving the characters across numerous fantasy environments while completing story-based scenarios and battling enemy monsters. While basic game function remains similar to Lunar: The Silver Star, with story segments being presented as both on-screen text and animated cutscenes, the abundance of these interludes has been increased to over fifty minutes of movie content and an hour of spoken dialogue. Players advance the story by taking part in quests and interacting with non-player characters, which engages them in the story as well as providing tips on how to advance.
+	.
+	This is a patch that fixes a few issues introduced in the US version of the PlayStation game Lunar 2: Eternal Blue Complete by its publisher, Working Designs.
+	Unlike the rest of the Lunar series and the vast majority of Working Designs releases, the PlayStation Lunar 2 doesn't appear to have had its difficulty altered in any meaningful way for the US release, so this patch just tidies up a few needless changes.
+	.
+	Holding down the X button will continuously advance the dialogue.
 developer: Game Arts
 publisher: Game Arts
 genre: Role-Playing
 release: 2000-12-12
 players: 1
 rating: 80%
-assets.background: ./background/Lunar 2 - Eternal Blue Complete (USA).jpg
-assets.boxfront: ./mixart/Lunar 2 - Eternal Blue Complete (USA).png
-assets.logo: ./wheel/Lunar 2 - Eternal Blue Complete (USA).png
-assets.screenshots: ./screenshot/Lunar 2 - Eternal Blue Complete (USA).png
-assets.videos: ./snap/Lunar 2 - Eternal Blue Complete (USA).mp4
+assets.background: ./background/Lunar 2 - Eternal Blue Complete (Un-Working Designs).jpg
+assets.boxfront: ./mixart/Lunar 2 - Eternal Blue Complete (Un-Working Designs).png
+assets.logo: ./wheel/Lunar 2 - Eternal Blue Complete (Un-Working Designs).png
+assets.screenshots: ./screenshot/Lunar 2 - Eternal Blue Complete (Un-Working Designs).png
+assets.videos: ./snap/Lunar 2 - Eternal Blue Complete (Un-Working Designs).mp4
 
 
 game: M&M's Shell Shocked
@@ -9435,23 +9450,23 @@ assets.screenshots: ./screenshot/Mass Destruction (USA).png
 assets.videos: ./snap/Mass Destruction (USA).mp4
 
 
-game: Master of Monsters: Disciples of Gaia
-file: ./Master of Monsters - Disciples of Gaia (USA).chd
+game: Master of Monsters: Disciples of Gaia (Bugfix v5)
+file: ./Master of Monsters - Disciples of Gaia (Bugfix v5).chd
 description:
-	Master of Monsters is a turn-based strategy game developed by System Soft.
+	Master of Monsters: Disciples of Gaia is a little know turn based strategy RPG game for the PlayStation. One of the main reasons it’s ‘little known’ is because the retail game shipped with game-breaking bugs making it frustrating if not unplayable.
 	.
-	Gameplay engages players by permitting them to summon and move monsters around a board in an effort to capture towers and to eventually defeat the opponents (which are controlled either by other humans or by the computer program). Moves are based on a hexagonal board structure, such that every tile on the board is adjacent to six other tiles. Other notable features were the large variety of monsters, upgrading ("leveling up") of veteran units and control of a "Master" character who, if killed, can end the game for that player.
+	Specifically a broken random number generator and a crash when the player reached level 100. This patch fixes those issues.
 	.
-	The focus of the game is strategic, despite the fantasy-type characters that might imply an RPG element. Other than the existence of the Master character and magic in the game, the gameplay is very similar to System Soft's more hardcore modern warfare strategic wargame series Daisenryaku, with the exception that some versions of the Master of Monsters (such as Master of Monsters ? Final) series allow equippable items, weapons and armor.
+	Gameplay offers single player and multi-player ‘versus’ mode and consists of summoning monsters for battle and capturing territory to gain resources. Though the graphics and menus are a bit ‘clunky’ for a PS1 era game, it can offer some decent entertainment value for strategy enthusiasts.
 developer: ASCII Corporation
 publisher: ASCII Corporation
 genre: Strategy
 release: 1998-10-12
 players: 4
-assets.boxfront: ./mixart/Master of Monsters - Disciples of Gaia (USA).png
-assets.logo: ./wheel/Master of Monsters - Disciples of Gaia (USA).png
-assets.screenshots: ./screenshot/Master of Monsters - Disciples of Gaia (USA).png
-assets.videos: ./snap/Master of Monsters - Disciples of Gaia (USA).mp4
+assets.boxfront: ./mixart/Master of Monsters - Disciples of Gaia (Bugfix v5).png
+assets.logo: ./wheel/Master of Monsters - Disciples of Gaia (Bugfix v5).png
+assets.screenshots: ./screenshot/Master of Monsters - Disciples of Gaia (Bugfix v5).png
+assets.videos: ./snap/Master of Monsters - Disciples of Gaia (Bugfix v5).mp4
 
 
 game: Mat Hoffman's Pro BMX
@@ -12893,11 +12908,19 @@ assets.screenshots: ./screenshot/Rescue Heroes - Molten Menace (USA).png
 assets.videos: ./snap/Rescue Heroes - Molten Menace (USA).mp4
 
 
-game: Resident Evil: Director's Cut
-file: ./Resident Evil - Director's Cut (USA).chd
+game: Resident Evil: Ultimate Director's Cut
+file: ./Resident Evil - Ultimate Director's Cut.m3u
 description:
 	After receiving a distress call from the Bravo Team, an elite group from S.T.A.R.S (Special Tactics And Rescue Squad) flew into the desolate Raccoon City. Apparently, the team had uncovered something concerning the Umbrella corporation -- a biotech research company. But then, without warning, the Bravo Team vanished into thin air.
 	Upon landing in the small city, the members of S.T.A.R.S began to investigate. They heard some strange noises coming from the surrounding woods and realized the sounds were getting closer. Scared, they took off running and kept on until they came to a large, ominous mansion. Seeking safety they entered, locking the door behind them. Their adventure had just begun.
+	.
+	This is a mod of Resident Evil: Director’s Cut – DualShock Ver.
+	It inserts the original soundtrack back from “Resident Evil” in “Resident Evil: Director’s Cut”, meaning you get the DualShock features without the DualShock soundtrack.
+	The original, uncut, full-color FMVs have been inserted. They’re higher quality than the original black and white ones, too.
+	A new Deranged Mode replaces Arrange Mode, which condenses the Spencer Mansion while making it a much more difficult experience.
+	A second disc is included that replicates the Sega Saturn exclusive Battle Mode, as well as including a new Maze Mode that turns the mansion into a nonviolent labyrinth. Choose the wrong door and it’s back to the start for you.
+	.
+	There is one small bug that was never fixed: on Jill’s route, if you get poisoned by the Yawn, a cutscene triggers of her waking up in the infirmary save room. Should this happen, a small room with candles you have to use the Lighter on will instead warp you inside the Garden’s shed without needing to collect any Crests. As the candle room doesn’t have any plot significant items, it can be safely ignored if the Yawn poisons Jill.
 developer: Virgin
 publisher: Virgin
 genres:
@@ -12906,11 +12929,11 @@ genres:
 release: 1997-09-12
 players: 1
 rating: 90%
-assets.background: ./background/Resident Evil - Director's Cut (USA).jpg
-assets.boxfront: ./mixart/Resident Evil - Director's Cut (USA).png
-assets.logo: ./wheel/Resident Evil - Director's Cut (USA).png
-assets.screenshots: ./screenshot/Resident Evil - Director's Cut (USA).png
-assets.videos: ./snap/Resident Evil - Director's Cut (USA).mp4
+assets.background: ./background/Resident Evil - Ultimate Director's Cut.jpg
+assets.boxfront: ./mixart/Resident Evil - Ultimate Director's Cut.png
+assets.logo: ./wheel/Resident Evil - Ultimate Director's Cut.png
+assets.screenshots: ./screenshot/Resident Evil - Ultimate Director's Cut.png
+assets.videos: ./snap/Resident Evil - Ultimate Director's Cut.mp4
 
 
 game: Resident Evil: Survivor
@@ -19118,9 +19141,11 @@ assets.screenshots: ./screenshot/Genso Suikogaiden Vol. 2 - Duel at Crystal Vall
 assets.video: ./snap/Genso Suikogaiden Vol. 2 - Duel at Crystal Valley (Japan) (En v1.1).mp4
 
 
-game: Grandia (Undub Version)
+game: Grandia (Undub)
 file: ./Grandia (Japan) (Undub v2.0).m3u
 description:
+	All texts are in English. All voices are in Japanese (100% battles and fields). All cutscenes are in Japanese subtitle English.
+	.
 	Grandia is a Japanese-style console RPG, with big-eyed anime style characters, that was first released on the Sega Saturn in 1997.  It centers around the story of a young hero named Justin who possesses a mysterious artifact known as the 'Spirit Stone'.  The story takes Justin and friends (who range from a bratty eight year-old to a noble knight and a thief with a short fuse) through distant towns and abandoned ruins of a forgotten civilization (and even the occasional military base) in a search for adventure and secrets long hidden from the world. Grandia makes use of FMV cut-scenes to advance the story.
 	.
 	The characters are represented by 2D sprites which are moved around over 3D backgrounds in towns and dungeons.  Combat is initiated by coming into contact with enemies on the screen, rather than through random battles.  Combat itself occurs in pseudo-real-time, using an 'IP Gauge' to determine when a character takes action. Striking at the right time or with the right ability can even delay or cancel an enemy's turn.

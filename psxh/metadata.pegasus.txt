@@ -1,0 +1,24 @@
+collection: Sony Playstation Hacks
+shortname: psxh
+sortBy: x-psxh
+extensions: chd, m3u
+launch: /opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ psxh {file.path}
+
+
+game: Resident Evil 1.5: Magic Zombie Door
+file: ./Resident Evil 1.5 - Magic Zombie Door (21-03-2020).chd
+description:
+	Resident Evil 1.5 is a name that was given to an unreleased version of Resident Evil that was supposed to come out after the first game but never did. The project was scrapped and left incomplete. Fast forward 2013 the game was leaked online by Team IGAS but it was mostly unplayable, the rooms weren’t connected, no zombies, etc. MartinBiohazard took over the task to hack the game and make it more playable, connecting the rooms and adding zombies.
+developer: MartinBiohazard
+publisher: MartinBiohazard
+genres:
+	Action
+	Horror
+release: 2020-03-21
+players: 1
+rating: 90%
+assets.background: ./media/background/Resident Evil 1.5 - Magic Zombie Door (21-03-2020).jpg
+assets.boxfront: ./media/mixart/Resident Evil 1.5 - Magic Zombie Door (21-03-2020).png
+assets.logo: ./media/wheel/Resident Evil 1.5 - Magic Zombie Door (21-03-2020).png
+assets.screenshots: ./media/screenshot/Resident Evil 1.5 - Magic Zombie Door (21-03-2020).png
+assets.videos: ./media/snap/Resident Evil 1.5 - Magic Zombie Door (21-03-2020).mp4
