@@ -9450,7 +9450,7 @@ assets.screenshots: ./screenshot/Mass Destruction (USA).png
 assets.videos: ./snap/Mass Destruction (USA).mp4
 
 
-game: Master of Monsters: Disciples of Gaia (Bugfix v5)
+game: Master of Monsters: Disciples of Gaia (Bugfix)
 file: ./Master of Monsters - Disciples of Gaia (Bugfix v5).chd
 description:
 	Master of Monsters: Disciples of Gaia is a little know turn based strategy RPG game for the PlayStation. One of the main reasons it’s ‘little known’ is because the retail game shipped with game-breaking bugs making it frustrating if not unplayable.
@@ -15519,42 +15519,85 @@ assets.screenshots: ./screenshot/Stuart Little 2 (USA).png
 assets.videos: ./snap/Stuart Little 2 (USA).mp4
 
 
-game: Suikoden
-file: ./Suikoden (USA).chd
+game: Suikoden (BugFix)
+file: ./Suikoden (BugFix v1.0).chd
 description:
 	Loosely based on the classic medieval Chinese novel "Water Margins" (Shuihuzhuan) by Shi Nai'an. The game is a fantasy RPG set in an imaginary universe, its main theme being political struggle. The hero of the game is the young son of Theo McDohl, a general who serves the Scarlet Moon Empire, presently controlling the land of Toran. Through a series of events the hero becomes involved in a rebellion against the Empire, led by an organization known as the Liberation Army. Will the hero find a new home there, will he be able to tear himself away from everything that has been sacred to him, including his own father?
 	.
 	Suikoden is a console-style RPG with several unusual additions. There are three kinds of combat in the game, the most common one being the traditional turn-based party combat (players can have up to six people in their active party). Magic runes can be equipped on the player's characters which allow limited usage of offensive and healing spells. There are also army battles, where the player must control whole units of fighters, archers, magicians, etc., and one-on-one fights.
 	.
 	The game allows the player to build and customize a castle, which serves as their home base and fortress.108 characters can be recruited in the game, a tribute to 108 Stars Of Destiny in "Water Margins". Many of those characters will be available as active party members and participate in battles, while others will act as strategy advisers, or enhance the castle itself in various ways.
+	.
+	This patch fixes the following things:
+	Bribe Glitch: Fixes a glitch that allowed bosses and even impossible battles to be bypassed with Bribe.
+	Clay Guardian (Base Defense): Restores the Clay Guardian spell’s effects, using unarmored defense to compute the bonus.
+	Escape Talismans (Krin): Adds a quantity of 1 to the Escape Talisman Krin starts with, so it cannot be used multiple times.
+	Escape Talismans (Stallion): Adds a quantity of 1 to the Escape Talisman Stallion starts with, so it cannot be used multiple times.
+	Guardian of Earth (Base Defense): Restores the Guardian of Earth spell’s effects, using unarmored defense to compute the bonus.
 developer: Konami
 publisher: Konami
 genre: Role-Playing
 release: 1996-11-01
 players: 1
 rating: 80%
-assets.background: ./background/Suikoden (USA).jpg
-assets.boxfront: ./mixart/Suikoden (USA).png
-assets.logo: ./wheel/Suikoden (USA).png
-assets.screenshots: ./screenshot/Suikoden (USA).png
-assets.videos: ./snap/Suikoden (USA).mp4
+assets.background: ./background/Suikoden (BugFix v1.0).jpg
+assets.boxfront: ./mixart/Suikoden (BugFix v1.0).png
+assets.logo: ./wheel/Suikoden (BugFix v1.0).png
+assets.screenshots: ./screenshot/Suikoden (BugFix v1.0).png
+assets.videos: ./snap/Suikoden (BugFix v1.0).mp4
 
 
-game: Suikoden II
-file: ./Suikoden II (USA).chd
+game: Suikoden II (GS2 BugFix)
+file: ./Suikoden II (GS2 Bug Fix v2.02.078).chd
 description:
-	Sequel to the early PlayStation RPG. As a member of the Alliance, a military force only really hinted at in the original, you play the unwitting hero of the game: an orphan who has been raised by a quiet, unassuming battle hero in a seemingly ancient war. Alongside you in the ranks is your best friend Jowy, a boy born of nobility but who has never been able to receive approval in his stubborn father's eyes. As the game begins, you are immediately tossed into a tale of political strife, betrayal and war on a grand scale beyond your scope in the early stages. As the game wears on, the plot will twist, turn and develop in numerous ways that expose the personalities of each of the characters involved. The battle system is turn-based, with the option to equip Runes for special abilities, combine party member attacks to create chain combos or devastating spells, and the option to run the battle in Auto mode.
+	Sequel to the early PlayStation RPG. As a member of the Alliance, a military force only really hinted at in the original, you play the unwitting hero of the game: an orphan who has been raised by a quiet, unassuming battle hero in a seemingly ancient war.
+	Alongside you in the ranks is your best friend Jowy, a boy born of nobility but who has never been able to receive approval in his stubborn father's eyes. As the game begins, you are immediately tossed into a tale of political strife, betrayal and war on a grand scale beyond your scope in the early stages.
+	As the game wears on, the plot will twist, turn and develop in numerous ways that expose the personalities of each of the characters involved. The battle system is turn-based, with the option to equip Runes for special abilities, combine party member attacks to create chain combos or devastating spells, and the option to run the battle in Auto mode.
+	.
+	Adds 30+ bugfixes to the original USA release.
+	Armor Attribute Fixes: Adjusts armor attributes and strips/restores resistances that were applied to incorrect items.
+	Badeaux Appears: Badeaux will appear in the castle grounds near the pond behind the library.
+	Castle Armory Fix: Prevents the Castle Armory from selling items when the player has insufficient potch.
+	Castle Farm Fix: Fixes the Castle Farm module so the player can hand in multiple seeds or animals at one time.
+	Chaco Bug Fix: Adds a missing Set Level command to Chaco’s recruit script.
+	Circlet Name Correction: Changes “circuret” to “circlet”.
+	Collectibles Fix: Repairs errors in the after-battle module that can prevent Recipes, Plans, Window Sets and Sound Sets from dropping.
+	Emilia Dialog Fix: Force Emilia to use the Hero’s alias during Greenhill events. Mostly for consistency, as the aliases are abandoned quickly by everyone else.
+	Forgiver Sign Fix: Fix display. Forgiver Sign does zero damage, but a huge value is displayed.
+	GodSpeed Rune Name Correction: Changes “True Holy” to “Godspeed”.
+	Gozz Rune renamed Minotaur Rune: Changes “Gozz” to “Minotaur”.
+	Gregminster Rune Shop Fix: Alters a script for the rune shop in Gregminster so only one set of rare finds is available, regardless of where the hero stands.
+	Gremio Text Fix: Fixes missing pointers for Gremio dialogues that should appear when you try to leave Banner.
+	GS1 Load – Names Fix: Fixes the transfer of the hero and castle Names from the original Genso Suikoden.
+	GS1 Load – Rune Import: Patches the broken Rune Import so that characters with unlocked, open slots can transfer runes.
+	GS1 Load – Tai Ho Import: Vincent (unplayable in GS1) is removed from the import and import bonuses are added for Tai Ho.
+	Inns Fix: Prevent the Inn from healing the party for free.
+	Join At 99 Fix: Prevents recruits from joining at level 99 in error.
+	Kindness Rune Fix (Penalty): When a character’s invisible Kindness Rating goes below zero the Rune gives a penalty to attack instead of maxing it out.
+	Knife Thrower Fix: Adds a custom routine for the Knife-throwing event in Ryube that keeps HP from being zeroed.
+	Lamb Fix (Unicorn Woods): Separates the acquired flag for the lamb from the flag for the first chest (can now get both).
+	Luca Battle Party-change Fix: The party is emptied but not reformed prior to fighting Luca, allowing the hero to be alone in the back row and effectively invincible. Fix forces the party to reform.
+	Matilda Gate Fix: Makes the Matilda Gate immovable.
+	Music Fixes: Fix various issues with music and audio.
+	North Sparrow Escape Talisman Fix: Prevents using an Escape Talisman in North Sparrow from allowing you to pass the guards, and return to Highland early.
+	Rope Climb – Turtle Plans #4: Prevents Turtle Plans #4 from being awarded multiple times by the Rope Climb mini-game.
+	Rune Speed Fix: Fixes an intermittent bug that gives healing spells’ temporary speed boost to Rune Unites.
+	Rune Unite Fix: Repairs a bug that could allow a single character to participate in multiple Rune Unite spells.
+	Scroll Shop Display Fix: Stops the Scroll Shop from displaying the actual Names of unidentified items.
+	Tenzan Pass Enemies Fix: Translates the Names of the enemies in Tenzan pass, and adds the formations that contain the Chimera-type monster to the encounter table.
+	Tinto Glitch Fix: Fixes a script error that could make it impossible to continue the game during events in Tinto.
+	Trade Gossip Translation: Translates the text of the trade gossip, which otherwise appears as a garbage in-game.
 developer: Konami
 publisher: Konami
 genre: Role-Playing
 release: 1999-08-12
 players: 1
 rating: 80%
-assets.background: ./background/Suikoden II (USA).jpg
-assets.boxfront: ./mixart/Suikoden II (USA).png
-assets.logo: ./wheel/Suikoden II (USA).png
-assets.screenshots: ./screenshot/Suikoden II (USA).png
-assets.videos: ./snap/Suikoden II (USA).mp4
+assets.background: ./background/Suikoden II (GS2 Bug Fix v2.02.078).jpg
+assets.boxfront: ./mixart/Suikoden II (GS2 Bug Fix v2.02.078).png
+assets.logo: ./wheel/Suikoden II (GS2 Bug Fix v2.02.078).png
+assets.screenshots: ./screenshot/Suikoden II (GS2 Bug Fix v2.02.078).png
+assets.videos: ./snap/Suikoden II (GS2 Bug Fix v2.02.078).mp4
 
 
 game: Super Bubble Pop
@@ -17785,17 +17828,40 @@ assets.screenshots: ./screenshot/Vigilante 8 (USA) (v1.1).png
 assets.videos: ./snap/Vigilante 8 (USA) (v1.1).mp4
 
 
-game: Vigilante 8: 2nd Offense
-file: ./Vigilante 8 - 2nd Offense (USA).chd
+game: Vigilante 8: 2nd Offense (BugFix)
+file: ./Vigilante 8 - 2nd Offense (Bug Fix v1.1).chd
 description:
 	It is time once again for another randy bout of vehicular homicide through the most literal interpretation of the phrase possible! You'll travel across the US through a series of levels meting out destruction, and what's more, you'll gain upgrades to you car as you total your opposition. One player mode will offer you the option of the Quest Mode, where you travel the land trying to meet your given mission objectives as your character's storyline unfolds, or you can simply dive straight into the action by choosing Arcade or Survival Mode.
 	Want to bring a friend along for the ride? You're in luck, Vigilante 8: Second Offense offers up a two player split screen cooperative mode in addition to the traditional VS mode. Cooperative action is split off into two separate options in of itself. You and a buddy can blast away cars in until one of you dies, or there are no others left, you you can take them along on a tour of the US in a two player version of the one player Quest mode. Two players at once will still be able to save or load their customized cars and weapons/improvements and scores with separate memory cards so you an get into some high powered blasting action that way.
 	Your car is customizable and will develop over the course of a game. As you destroy enemy cars, you'll gain upgrade points that'll make your car go faster, take more hits, and the usual assortment of things a car under combat conditions will need. If you max out a stat, you'll get a better part. If you max all the categories out, you'll get a new chassis for your car. During the course of a level you'll be able to pick up special propulsion mechanisms in addition to the usual shield and weapon power ups. You'll be able to nab Hoverpods for all terrain action, Hydrofloaters for those times when you need your car to not sink in water, and skis N' treads for those stubborn icy levels.
 	Now get in there 'pard, and get ready to shoot first and ask questions later.
-	Features:
-	Choose from 18 modern and '70s era vehicles
-	Customize vehicles with points earned from competition
-	Discover hidden power-ups while racing across eight new destructible arenas
+	.
+	Features - Choose from 18 modern and '70s era vehicles. Customize vehicles with points earned from competition. Discover hidden power-ups while racing across eight new destructible arenas.
+	.
+	Changes & Bug Fixes (v1.1):
+	In Quest Mode enemies have no friendly fire.
+	In Quest Mode defeated foes do not perish.
+	In John Torque's Quest at the Launch Site, Dallas 13 uses a different vehicle.
+	The Oil Platform now has more endurance.
+	When colliding with the Oil Platform, the vehicle does not fall immediately.
+	Convoy's AI now attacks with its special weapon more than once.
+	When the AI controls the Grubb Dual Loader Hot Rod, it is now able to grab the Player.
+	Spawn Points fixes.
+	Enemies now target designated structures.
+	When playing the Coyotes Florida Quest, there is a countdown for the rocket to launch. If the player does not destroy the launch pad before the time runs out, the shuttle will shoot into space, and the player will fail the objective.
+	When playing the Two-Player Coop Quest Mode as the Flying All-Star Trio, Padre Destino and Molo now appear as the main rivals.
+	Quest Mode can now only be played on the medium difficulty with medium damage.
+	Padre Destino will not warn the player when using the Goliath Halftrack special attack, if the player is too far from him.
+	Padre Destino will mock the player if he gets hit by "Hades Gate".
+	There is now one Tow Twister in a special crate.
+	Bull's Eye Rockets can now appear within a random crate.
+	When Missile Swarm cause a spark, it will extinguish (bug fix).
+	Hotrod rivals now use combo attacks.
+	Chassey's AI is now more aggressive.
+	Better AI Navigation.
+	Improved difficulty level in Quest Mode.
+	Better AI Navigation in stage Florida.
+	Minor bug fixes.
 developer: Luxoflux
 publisher: Luxoflux
 genres:
@@ -17804,10 +17870,10 @@ genres:
 release: 1999-12-12
 players: 2
 rating: 80%
-assets.boxfront: ./mixart/Vigilante 8 - 2nd Offense (USA).png
-assets.logo: ./wheel/Vigilante 8 - 2nd Offense (USA).png
-assets.screenshots: ./screenshot/Vigilante 8 - 2nd Offense (USA).png
-assets.videos: ./snap/Vigilante 8 - 2nd Offense (USA).mp4
+assets.boxfront: ./mixart/Vigilante 8 - 2nd Offense (Bug Fix v1.1).png
+assets.logo: ./wheel/Vigilante 8 - 2nd Offense (Bug Fix v1.1).png
+assets.screenshots: ./screenshot/Vigilante 8 - 2nd Offense (Bug Fix v1.1).png
+assets.videos: ./snap/Vigilante 8 - 2nd Offense (Bug Fix v1.1).mp4
 
 
 game: Virtual Kasparov
@@ -18766,22 +18832,31 @@ assets.screenshots: ./screenshot/Xena - Warrior Princess (USA).png
 assets.videos: ./snap/Xena - Warrior Princess (USA).mp4
 
 
-game: Xenogears
-file: ./Xenogears (USA).m3u
+game: Xenogears (Improvement)
+file: ./Xenogears (Improvement v2.0).m3u
 description:
 	After losing his memory, Fei Fong Wong found himself in the small town of Lahan. Because he couldn't remember who he really was or where he came from, he decided to stay there and teach martial arts and paint -- one of his personal hobbies. After his arrival, he became friends with the various townsfolk, who in return treated him like one of their own. Still, who he was and what happened to him in his past bothered him; he was afraid it would come back to haunt him one of these days.
 	And it did. One day, an organization in control of large Gears, mechanized robots built for war purposes, came into the small town of Lahan. Fei was at the center of attention and with no hesitation jumped into a nearby Gear and started fighting back. The villagers were scared to death as he began to destroy the threatening enemies; he also aided in the destruction of the town. Enraged at the way he had handled himself, the townsfolk exiled Fei from the village with his only friend being an inventor named Citan.
+	.
+	So what exactly is altered by this patch?
+	Controls are put back to the original Japanese controls.
+	In-game battle combos are back to the original Japanese ones (matching Japanese controls).
+	Audio in the Full Motion Videos is in Japanese with English subtitles.
+	Voices in the game are back to the original Japanese ones (in battles + certain cutscenes).
+	The weight unit in character's stats is back to kilos (.kgs instead of .lbs).
+	Emeralda's icon eyebrow transparency is corrected.
+	The selection arrow in shop menus doesn't overlap choices (Buy, Sell, Exit) anymore.
 developer: Squaresoft
 publisher: Squaresoft
 genre: Role-Playing
 release: 1998-10-12
 players: 1
 rating: 80%
-assets.background: ./background/Xenogears (USA).jpg
-assets.boxfront: ./mixart/Xenogears (USA).png
-assets.logo: ./wheel/Xenogears (USA).png
-assets.screenshots: ./screenshot/Xenogears (USA).png
-assets.videos: ./snap/Xenogears (USA).mp4
+assets.background: ./background/Xenogears (Improvement v2.0).jpg
+assets.boxfront: ./mixart/Xenogears (Improvement v2.0).png
+assets.logo: ./wheel/Xenogears (Improvement v2.0).png
+assets.screenshots: ./screenshot/Xenogears (Improvement v2.0).png
+assets.videos: ./snap/Xenogears (Improvement v2.0).mp4
 
 
 game: Xevious 3D/G+
