@@ -16,9 +16,55 @@ genres:
 	Horror
 release: 2020-03-21
 players: 1
-rating: 90%
 assets.background: ./media/background/Resident Evil 1.5 - Magic Zombie Door (21-03-2020).jpg
 assets.boxfront: ./media/mixart/Resident Evil 1.5 - Magic Zombie Door (21-03-2020).png
 assets.logo: ./media/wheel/Resident Evil 1.5 - Magic Zombie Door (21-03-2020).png
 assets.screenshots: ./media/screenshot/Resident Evil 1.5 - Magic Zombie Door (21-03-2020).png
 assets.videos: ./media/snap/Resident Evil 1.5 - Magic Zombie Door (21-03-2020).mp4
+
+
+game: King's Field III: Pilot Style (All Items)
+file: ./King's Field III - Pilot Style (All Items).chd
+description: All Items Unlocked!
+genre: Role-Playing
+players: 1
+assets.boxfront: /home/pi/RetroPie/roms/psx/media/mixart/King's Field III - Pilot Style (English Patched).png
+assets.logo: /home/pi/RetroPie/roms/psx/media/wheel/King's Field III - Pilot Style (English Patched).png
+assets.screenshots: /home/pi/RetroPie/roms/psx/media/screenshot/King's Field III - Pilot Style (English Patched).png
+assets.videos: /home/pi/RetroPie/roms/psx/media/snap/King's Field III - Pilot Style (English Patched).mp4
+
+
+game: Mortal Kombat 4 - Hardcore Attack
+file: ./Mortal Kombat 4 - Hardcore Attack (v1.6).chd
+description:
+	New mode “Hardcore attack” for two players.\n
+	Ultimate Endurance mode modification.\n
+	In “Ultimate endurance” added the menu for entering a name.\n
+	Endurance(1on2) mode is added to arcade mode.\n
+	Random kombat kodes are added to “Endurance” mode.\n
+	The boss Shinnok is added to arcade mode.\n
+	Meat modification.\n
+	Noob Saibot move list is changed.\n
+	Activated the meter for Reptile invisibility.\n
+	Unlocked ability to execute the Goro.\n
+	Select weapon of any fighter.\n
+	Hidden characters added to “vs endurance” mode.\n
+	Skipping credits is added.\n
+	New kombat kodes.\n
+	New soundtrack.\n
+	New backgrounds menu and items menu color.\n
+	Changed some default game options.\n
+	Finishing time item is added to the cheat menu.\n
+	Battle timer item is added to the options menu.\n
+	Score display is added to winner screen in Hardcore Attack mode.\n
+	Getting score code is updated in Hardcore Attack mode.
+developer: Mr2
+publisher: Mr2
+genre: Fighting
+release: 2020-12-01
+players: 2
+assets.background: ./media/background/Mortal Kombat 4 - Hardcore Attack (v1.6).jpg
+assets.boxfront: ./media/mixart/Mortal Kombat 4 - Hardcore Attack (v1.6).png
+assets.logo: ./media/wheel/Mortal Kombat 4 - Hardcore Attack (v1.6).png
+assets.screenshots: ./media/screenshot/Mortal Kombat 4 - Hardcore Attack (v1.6).png
+assets.videos: ./media/snap/Mortal Kombat 4 - Hardcore Attack (v1.6).mp4
