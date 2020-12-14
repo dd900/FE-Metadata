@@ -3143,8 +3143,8 @@ file: ./Colin McRae Rally 2.1 (v20071124).chd
 description:
 	Colin McRae Rally 2.0 is a racing video game developed and published by Codemasters for PlayStation. It is the second game in the Colin McRae Rally series. You get to race in locations around the world, over 60 stages in eight different countries. Battle your way towards winning the championship. You can choose from many real life car models, and tune them up to match the conditions! The game realistically simulates all road types, weather conditions, and the physics of car handling create an authentic rally experience. The locations and the cars are all real!
 	.
-	Colin 2.1 is a gameplay-enhancing fix that\n
-	- Makes that windscreen in the cockpit view completely transparent\n
+	Colin 2.1 is a gameplay-enhancing fix that
+	- Makes that windscreen in the cockpit view completely transparent
 	- Makes the car controls respond instantly when using analog devices
 	.
 	In the original game steering, brakes and accelerator did not follow instantly the analog input as their movement speed was limited, resulting in unadequate car control. Now they are mapped directly to the position of the analog axes, taking also in account for the car settings (brake power and steering sensitivity)
@@ -6172,22 +6172,22 @@ file: ./Final Fantasy VIII (No PocketStation v0.2) (+Almagest v1.0).m3u
 description:
 	A member of an elite military team, Squall is forced into a conflict beyond imagination.  To survive, he must contend with a desperate rival, a powerful sorceress, and his own mysterious dreams.
 	.
-	Realistic, detailed characters and background graphics enhanced by a breathtaking musical score\n
-	An epic story based on the theme of love, set in a massive new world\n
-	New Junction System allows characters to be customized with powerful magic spells drawn from enemies\n
+	Realistic, detailed characters and background graphics enhanced by a breathtaking musical score
+	An epic story based on the theme of love, set in a massive new world
+	New Junction System allows characters to be customized with powerful magic spells drawn from enemies
 	Nearly an hour of stunning motion-captured CG cinemas seamlessly integrated into gameplay
 	.
-	Get Mog’s Amulet and Enable MiniMog for MiniMog command after get Chocobo Card in Chocobo Forest from Esthar Region (No PocketStation needed)\n
-	Chocobo learn Chocobocle after get Chocobo Card in Chocobo Forest from Esthar Region\n
-	You can get 1 Gisahl Green and 10 Friendship in Chocobo Forest from Esthar Region\n
-	MiniMog and Ribbon Term from tutorial unlocked after get Chocobo Card.\n
-	Unused Succession of Sorceress Power Term unlocked after talk with Edea and Cid in begining of disk 3\n
-	Unused Trabia Shop unlocked in Trabia Garden (talk with lazy bum on the ground)\n
-	Selphie can cast the unused Limits Percent and Catastrophe now\n
-	Forbid Mag-RF now has 1 more entry (Total 6 + 1 = 7 Entries)\n
-	Tool-RF now has 5 more entries (Total 32 + 5 = 37 Entries)\n
-	GFAbl Med-RF has 2 more entries (Total 42 + 2 = 44 Entries)\n
-	Newest Entries added in Ability Term from Information\n
+	Get Mog’s Amulet and Enable MiniMog for MiniMog command after get Chocobo Card in Chocobo Forest from Esthar Region (No PocketStation needed)
+	Chocobo learn Chocobocle after get Chocobo Card in Chocobo Forest from Esthar Region
+	You can get 1 Gisahl Green and 10 Friendship in Chocobo Forest from Esthar Region
+	MiniMog and Ribbon Term from tutorial unlocked after get Chocobo Card.
+	Unused Succession of Sorceress Power Term unlocked after talk with Edea and Cid in begining of disk 3
+	Unused Trabia Shop unlocked in Trabia Garden (talk with lazy bum on the ground)
+	Selphie can cast the unused Limits Percent and Catastrophe now
+	Forbid Mag-RF now has 1 more entry (Total 6 + 1 = 7 Entries)
+	Tool-RF now has 5 more entries (Total 32 + 5 = 37 Entries)
+	GFAbl Med-RF has 2 more entries (Total 42 + 2 = 44 Entries)
+	Newest Entries added in Ability Term from Information
 	Removed censorship of green blood on wall in Armory of Ultimecia Castle
 developer: Squaresoft
 publisher: Squaresoft
