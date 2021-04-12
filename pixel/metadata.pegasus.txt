@@ -1,0 +1,14 @@
+game: Pixel Desktop
+file: ./Raspbian Desktop.sh
+genre: Utility
+description:
+	Raspbian with PIXEL (which stands for ‘Pi Improved Xwindow Environment, Lightweight’) is a huge software update to the desktop environment. It introduces a crisp new interface, and is brimming with new programs and features.
+	.
+	The biggest newcomer is Chromium Browser, which replaces Epiphany as the default web browser. Other new apps include RealVNC’s Viewer and Server, which allow you to control Raspberry Pi devices over a network, plus the recently released Sense HAT Emulator.
+	.
+	But the real star isn’t the new apps: it’s the sensational new look.
+assets.boxfront: ./mixart/pixel.png
+assets.video: ./snap/pixel.mp4
+assets.logo: ./wheel/pixel.png
+assets.screenshot: ./screenshot/pixel.png
+assets.background: ./background/pixel.jpg

@@ -1,0 +1,648 @@
+game: After Burner Complete
+file: ./After Burner Complete ~ After Burner (Japan, USA).zip
+sort-by: After Burner Complete ~ After Burner
+developer: Rutubo Games
+publisher: Sega
+genre: Shooter
+release: 1995-01-01
+players: 1
+rating: 70%
+description:
+	Afterburner is a conversion of the arcade game of the same name. The goal is simple: use your F-14 Tomcat and shoot as many enemies as you can. This aircraft has two weapons: lock-on missiles and Vulcan cannons (basically machine guns). In some versions there is an option to let the cannons shoot automatically all the time.
+	.
+	The game is viewed from behind the plane with you fighting wave after wave of enemy fighters. But at heart it offers the usual shooter mechanics, meaning you spend most of your time dodging and shooting. Sometimes you come across a friendly supply plane and if you dock with it you can replenish your missiles.
+assets.boxfront: ./media/mixart/After Burner Complete ~ After Burner (Japan, USA).png
+assets.video: ./media/snap/After Burner Complete ~ After Burner (Japan, USA).mp4
+assets.logo: ./media/wheel/After Burner Complete ~ After Burner (Japan, USA).png
+assets.screenshot: ./media/screenshot/After Burner Complete ~ After Burner (Japan, USA).png
+assets.background: ./media/background/After Burner Complete ~ After Burner (Japan, USA).jpg
+
+
+game: The Amazing Spider-Man: Web of Fire
+file: ./Amazing Spider-Man, The - Web of Fire (USA).zip
+sort-by: Amazing Spider-Man, The - Web of Fire
+developer: BlueSky Software
+publisher: Sega
+genres:
+	Action
+	Platform
+release: 1996-01-01
+players: 1
+rating: 80%
+description:
+	An electric plasma grid has left New York in a state of chaos, and only Spider-Man and Daredevil can save the city from total destruction.
+	.
+	Lead Spidey through side-scrolling levels filled with a range of enemies and puzzles and take on HYDRA, the source of the evil, head on.
+assets.boxfront: ./media/mixart/Amazing Spider-Man, The - Web of Fire (USA).png
+assets.video: ./media/snap/Amazing Spider-Man, The - Web of Fire (USA).mp4
+assets.logo: ./media/wheel/Amazing Spider-Man, The - Web of Fire (USA).png
+assets.screenshot: ./media/screenshot/Amazing Spider-Man, The - Web of Fire (USA).png
+assets.background: ./media/background/Amazing Spider-Man, The - Web of Fire (USA).jpg
+
+
+game: BC Racers
+file: ./BC Racers (USA).zip
+sort-by: BC Racers
+developer: Core Design
+publisher: Core Design
+genre: Racing
+release: 1995-06-01
+players: 2
+rating: 55%
+description:
+	BC Racers is a kart racing game starring characters from the Core Design's Chuck Rock series of games.
+	.
+	Each of the racers in this game rides a prehistoric motorcycle with a side car. On each two-character team, one person drives the motorcycle, and the other fights off opponents using clubs, punches, kicks, etc.
+	.
+	Graphics in BC Racers consist of a flat landscape decorated with scaled sprites to compose the track and scenery.
+assets.boxfront: ./media/mixart/BC Racers (USA).png
+assets.video: ./media/snap/BC Racers (USA).mp4
+assets.logo: ./media/wheel/BC Racers (USA).png
+assets.screenshot: ./media/screenshot/BC Racers (USA).png
+assets.background: ./media/background/BC Racers (USA).jpg
+
+
+game: Blackthorne
+file: ./Blackthorne (USA).zip
+sort-by: Blackthorne
+developer: Blizzard Entertainment
+publisher: Interplay
+genres:
+	Action
+	Platform
+release: 1995-10-01
+players: 1
+rating: 70%
+description:
+	Blackthorne is an action-adventure game that takes place on the planet Tuul. Tuul was a peaceful place, until the evil warrior Sarlac used the power of the Darkstone to take control.  Blackthorne's father, the good King Vlaros, sent him to Earth just as his kingdom crumbled around him.  Now, 20 years later, Blackthorne is grown and must return to Tuul to free it from the clutches of Sarlac.
+	.
+	This game is played from a side-view with non-scrolling backgrounds. It has strong similarities to Prince of Persia, except you battle your foes using guns and bombs instead of a sword.
+assets.boxfront: ./media/mixart/Blackthorne (USA).png
+assets.video: ./media/snap/Blackthorne (USA).mp4
+assets.logo: ./media/wheel/Blackthorne (USA).png
+assets.screenshot: ./media/screenshot/Blackthorne (USA).png
+assets.background: ./media/background/Blackthorne (USA).jpg
+
+
+game: Brutal: Above the Claw
+file: ./Brutal - Above the Claw (USA).zip
+sort-by: Brutal - Above the Claw
+developer: GameTek
+publisher: GameTek
+genre: Fighting
+release: 1995-01-01
+players: 2
+description:
+	As with the original Brutal: Paws of Fury, the game involves a martial arts tournament set up by the Dalai Llama. A selection of 12 anthropomorphic animals are involved; choose from them for the cartoon-styled beat 'em up action.
+	.
+	Characters each have their own fighting style, array of moves, and storyline.  As you progress through the game, you unlock more moves for each character.  There's also a progressive conquest mode which challenges you to take over the entire Brutal Island.
+assets.boxfront: ./media/mixart/Brutal - Above the Claw (USA).png
+assets.video: ./media/snap/Brutal - Above the Claw (USA).mp4
+assets.logo: ./media/wheel/Brutal - Above the Claw (USA).png
+assets.screenshot: ./media/screenshot/Brutal - Above the Claw (USA).png
+assets.background: ./media/background/Brutal - Above the Claw (USA).jpg
+
+
+game: Chaotix
+file: ./Chaotix ~ Knuckles' Chaotix (Japan, USA).zip
+sort-by: Chaotix ~ Knuckles' Chaotix
+developer: Sonic Team
+publisher: Sega
+genre: Platform
+release: 1995-03-20
+players: 2
+rating: 75%
+description:
+	Knuckles' Chaotix is a spin-off of the Sonic the Hedgehog series of Genesis games. Knuckles the Echidna (from Sonic the Hedgehog 3) works at Carnival Island, an amusement park where his job is to protect the park and make it a happy place for visitors. Dr. Robotnik, as usual, has an evil plan for the park. He wants the power emerald which supplies electricity to the entire island. What's worse, he has imprisoned several of Knuckles' friends in the "combi confiner." This contraption only allows Knuckles to free one of his friends at a time by using a ring force bond.
+	New characters featured include Vector the Crocodile, Mighty the Armadillo, Espio the Chameleon and Charmy Bee. There also two characters whose sole purpose is to slow you down, Heavy the Robot, and Bomb. Chaotix adds several new power-ups and 3D bonus levels as well.
+assets.boxfront: ./media/mixart/Chaotix ~ Knuckles' Chaotix (Japan, USA).png
+assets.video: ./media/snap/Chaotix ~ Knuckles' Chaotix (Japan, USA).mp4
+assets.logo: ./media/wheel/Chaotix ~ Knuckles' Chaotix (Japan, USA).png
+assets.screenshot: ./media/screenshot/Chaotix ~ Knuckles' Chaotix (Japan, USA).png
+assets.background: ./media/background/Chaotix ~ Knuckles' Chaotix (Japan, USA).jpg
+
+
+game: ClayFighter 2
+file: ./ClayFighter 2 (USA) (Proto) (1995-04-28).zip
+sort-by: ClayFighter 2
+genre: Fighting
+release: 1995-01-01
+players: 2
+description:
+	ClayFighter 2 revolves around the town of Mudville, where the clay meteor crashed in ClayFighter. Learning of the spectacle that took place in "Clayland", the evil Dr. Generic Kiln flies in on his aircraft containing the residue he collected from the meteor and spreads it to the rest of Mudville in order to create more fighters. He declares himself grand master of Mudville after the fall of N. Boss, the end boss of the original ClayFighter. He holds the C-2 tournament to see who can become next grandmaster of Mudville.
+assets.boxfront: ./media/mixart/ClayFighter 2 (USA) (Proto) (1995-04-28).png
+assets.screenshot: ./media/screenshot/ClayFighter 2 (USA) (Proto) (1995-04-28).png
+
+
+game: Cyber Brawl
+file: ./Cyber Brawl ~ Cosmic Carnage (Japan, USA).zip
+sort-by: Cyber Brawl ~ Cosmic Carnage
+developer: Givro
+publisher: Sega
+genre: Fighting
+release: 1994-11-21
+players: 2
+rating: 45%
+description:
+	Cosmic Carnage is a one-on-one fighting game set in outer space.  The story begins as a prison barge is hijacked by it's cargo in an escape attempt.  The resulting chaos caused the barge to crash into a military cruiser. The impact caused extensive damage to both ships.  There were only 8 survivors, 4 from each ship.  What's worse, there's only one escape pod.  You control one of the 8 survivors, and have to finish off all the others to escape with your life.
+	.
+	The gameplay in Cosmic carnage is similar to Street Fighter 2, but with a much slower pace.  Some of the fighters can be customized with different armor combinations, allowing them access to different special moves.
+assets.boxfront: ./media/mixart/Cyber Brawl ~ Cosmic Carnage (Japan, USA).png
+assets.video: ./media/snap/Cyber Brawl ~ Cosmic Carnage (Japan, USA).mp4
+assets.logo: ./media/wheel/Cyber Brawl ~ Cosmic Carnage (Japan, USA).png
+assets.screenshot: ./media/screenshot/Cyber Brawl ~ Cosmic Carnage (Japan, USA).png
+
+
+game: DarXide
+file: ./Darxide (Europe) (En,Fr,De,Es).zip
+sort-by: Darxide
+developer: Frontier Developments
+publisher: Sega
+genre: Shooter
+release: 1996-01-01
+players: 1
+description:
+	One of the last 32X games released (and exclusively in Europe), DarXide is a 3-D space shooter, inspired in part by the arcade gameplay of Asteroids. It is one of the few 32X games to used texture-mapped polygons.
+	.
+	Players control a lone starship rushing to destroy oncoming asteroids and alien vessels before they annihilate defenseless human miners and colonies. Asteroids break apart into smaller rocks, which much also be hunted down and destroyed. Aliens likewise arrive in larger, more dangerous vessels.
+	.
+	Asteroids broken down to their smallest size and then vaporized will sometimes drop shield or energy recharges, to repair damage caused by laser blasts or collisions. New weapons can also be found. Players have a time limit to meet all objectives in a stage before they are forced to land and try again. The right side of the HUD shows asteroids remaining (and their approximate size), while the left shows the player's distance to their base (and so, time remaining in the stage).
+assets.boxfront: ./media/mixart/Darxide (Europe) (En,Fr,De,Es).png
+assets.video: ./media/snap/Darxide (Europe) (En,Fr,De,Es).mp4
+assets.logo: ./media/wheel/Darxide (Europe) (En,Fr,De,Es).png
+assets.screenshot: ./media/screenshot/Darxide (Europe) (En,Fr,De,Es).png
+assets.background: ./media/background/Darxide (Europe) (En,Fr,De,Es).jpg
+
+
+game: Doom
+file: ./Doom (Japan, USA).zip
+sort-by: Doom
+developer: id Software
+publisher: GT Interactive
+genre: Shooter
+release: 1994-11-21
+players: 1
+rating: 55%
+description:
+	Doom is the definitive first person shooter developed by id Software and released in 1993. It became a Sega 32X launch title and is widely considered to be one of the games that pioneered and popularized the first person shooter genre. Doom retains a large, dedicated fan base to this day.
+	The player assumes the role of a nameless Space Marine who uses a variety of weaponry to fight his way through several Mars moonbases and the depths of Hell itself.
+assets.boxfront: ./media/mixart/Doom (Japan, USA).png
+assets.video: ./media/snap/Doom (Japan, USA).mp4
+assets.logo: ./media/wheel/Doom (Japan, USA).png
+assets.screenshot: ./media/screenshot/Doom (Japan, USA).png
+assets.background: ./media/background/Doom (Japan, USA).jpg
+
+
+game: Kolibri
+file: ./Kolibri (USA, Europe).zip
+sort-by: Kolibri
+developer: Novotrade
+publisher: Sega
+genre: Shooter
+release: 1995-10-01
+players: 2
+rating: 80%
+description:
+	Kolibri is a hummingbird hero in this unusual side scrolling shooter for the 32X.  Deep inside the earth's core, there is a crystal from another world.  This crystal is the earth's life force, and essential to it's survival.  One day, a dark crystal falls from the sky and damages the earth's crystal.  Desperate, the earth's crystal rockets to the surface and empowers Kolibri with the abilities he needs to defeat the dark crystal.
+	.
+	This game features 19 levels set in a variety of detailed natural settings.  Your goal in some levels is to destroy enemy bugs, in others your goal is to merely survive.
+assets.boxfront: ./media/mixart/Kolibri (USA, Europe).png
+assets.video: ./media/snap/Kolibri (USA, Europe).mp4
+assets.logo: ./media/wheel/Kolibri (USA, Europe).png
+assets.screenshot: ./media/screenshot/Kolibri (USA, Europe).png
+assets.background: ./media/background/Kolibri (USA, Europe).jpg
+
+
+game: Metal Head
+file: ./Metal Head (Japan, USA) (En,Ja).zip
+sort-by: Metal Head
+developer: Sega
+publisher: Sega
+genre: Action
+release: 1995-02-01
+players: 1
+rating: 60%
+description:
+	It's 5 years after the formation of the Worldwide Federation.  Although war has been averted, terrorist cells around the world threaten the stability of the federation.  To combat this menace, the Federation has created a bi-pedal armored tank known as the Metal Head.  You are a Metal Head pilot, and you have to use all the weapons at your disposal to take out the terrorists.
+	.
+	Metal Head is a bit of a variation on the usual giant robot combat game.  The game's mission areas bear more resemblance to a first-person shooter than a simulation.  The graphics are all rendered in texture mapped polygons, which is unusual for a 32X game.
+assets.boxfront: ./media/mixart/Metal Head (Japan, USA) (En,Ja).png
+assets.video: ./media/snap/Metal Head (Japan, USA) (En,Ja).mp4
+assets.logo: ./media/wheel/Metal Head (Japan, USA) (En,Ja).png
+assets.screenshot: ./media/screenshot/Metal Head (Japan, USA) (En,Ja).png
+assets.background: ./media/background/Metal Head (Japan, USA) (En,Ja).jpg
+
+
+game: Mortal Kombat II
+file: ./Mortal Kombat II (Japan, USA).zip
+sort-by: Mortal Kombat II
+developer: Probe Software Ltd.
+publisher: Acclaim
+genre: Fighting
+release: 1994-01-01
+players: 2
+rating: 85%
+description:
+	The Mortal Kombat fighters, plus several new ones, return for a tournament held by the evil Shang Tsung of the Outworld. The action is one-on-one as before, and famed for its high level of violence and blood (other than the sanitised Nintendo version). There are 5 difficulty levels and optional credits, as well as the usual two player mode including same character duels.
+	.
+	To win the main tournament, the player must beat each of the other human players, before taking on Shang Tsung, Kintaro and finally Shao Kahn. Players have a range of punches and kicks available, as well as flying kicks, uppercuts, roundhouses, and the special moves, which vary for each player. These include throws, uppercuts, long-distance bullets, bicycle kicks and a teleport feature.
+assets.boxfront: ./media/mixart/Mortal Kombat II (Japan, USA).png
+assets.video: ./media/snap/Mortal Kombat II (Japan, USA).mp4
+assets.logo: ./media/wheel/Mortal Kombat II (Japan, USA).png
+assets.screenshot: ./media/screenshot/Mortal Kombat II (Japan, USA).png
+assets.background: ./media/background/Mortal Kombat II (Japan, USA).jpg
+
+
+game: Motocross Championship
+file: ./Motocross Championship (USA).zip
+sort-by: Motocross Championship
+developer: Artech Studios
+publisher: Sega
+genre: Racing
+release: 1995-01-01
+players: 2
+rating: 60%
+description:
+	Motocross Championship is the only dirtbike racing game for the 32X.  The action takes place from a behind-the-bike perspective, and makes use of the 32X's hardware bitmap scaling to present a 3D graphical effect.
+	.
+	Like the title suggests, the main game mode is a points based championship.  You can compete in one of 3 motorcycle classes over 12 indoor and outdoor tracks.  There's also two player split screen mode so you can share off-road fun with a friend.
+assets.boxfront: ./media/mixart/Motocross Championship (USA).png
+assets.video: ./media/snap/Motocross Championship (USA).mp4
+assets.logo: ./media/wheel/Motocross Championship (USA).png
+assets.screenshot: ./media/screenshot/Motocross Championship (USA).png
+assets.background: ./media/background/Motocross Championship (USA).jpg
+
+
+game: Parasquad
+file: ./Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA).zip
+sort-by: Parasquad ~ Zaxxon's Motherbase 2000
+developer: CSK Research Institute Corp.
+publisher: Sega
+genre: Shooter
+release: 1995-06-01
+players: 2
+rating: 65%
+description:
+	This 32X-exclusive sci-fi shooter has gameplay is somewhat like Sega arcade classic Zaxxon. The graphics consist of a diagonally scrolling playfield which creates a pseudo 3D environment.  The backgrounds are drawn using 2D scrolling planes, but the enemy and ship objects are drawn using 3D flat-shaded polygons.
+	.
+	Although the basic goal of each of the 9 levels is to shoot everything without getting shot, the game has a strategic element.  Your basic spacecraft has very little firepower, and can only sustain one hit.  To make matters worse, there are very few power-ups.  In order to survive, you have to jump on top of enemies and take control of their weapons systems.  This system allows for a large variety of player-controllable ships.
+assets.boxfront: ./media/mixart/Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA).png
+assets.video: ./media/snap/Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA).mp4
+assets.logo: ./media/wheel/Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA).png
+assets.screenshot: ./media/screenshot/Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA).png
+assets.background: ./media/background/Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA).jpg
+
+
+game: Pinocchio
+file: ./Pinocchio (Europe) (Proto) (1995-06-12).zip
+sort-by: Pinocchio
+developer: Virgin
+publisher: Virgin
+genre: Platform
+release: 1995-12-06
+players: 1
+rating: 80%
+description:
+	Journey through as Geppetto, the carpenter's live wooden puppet, Pinocchio, as he did in his Disney animated film - which itself was based on a children's novel.
+	Have Pinocchio run, jump and twist-kick through all the familiar places, including the inside of a whale, and do good deeds enough to become the real human boy he's always wanted to be.
+assets.boxfront: ./media/mixart/Pinocchio (Europe) (Proto) (1995-06-12).png
+assets.video: ./media/snap/Pinocchio (Europe) (Proto) (1995-06-12).mp4
+assets.logo: ./media/wheel/Pinocchio (Europe) (Proto) (1995-06-12).png
+assets.screenshot: ./media/screenshot/Pinocchio (Europe) (Proto) (1995-06-12).png
+
+
+game: Pitfall: The Mayan Adventure
+file: ./Pitfall - The Mayan Adventure (USA).zip
+sort-by: Pitfall - The Mayan Adventure
+developer: Activision
+publisher: Activision
+genre: Platform
+release: 1995-09-01
+players: 1
+description:
+	Pitfall: The Mayan Adventure is a side-scrolling action game in which you play adventurer Pitfall Harry Jr in search of his father Pitfall Harry. You battle your way through the Mayan jungles, waterfalls, deserted mines and can bungee jump and boomerang your way to safety. There are 13 levels and the action is fast and gripping. You will need to be attentive—and quick. Or prepare to die.
+assets.boxfront: ./media/mixart/Pitfall - The Mayan Adventure (USA).png
+assets.video: ./media/snap/Pitfall - The Mayan Adventure (USA).mp4
+assets.logo: ./media/wheel/Pitfall - The Mayan Adventure (USA).png
+assets.screenshot: ./media/screenshot/Pitfall - The Mayan Adventure (USA).png
+assets.background: ./media/background/Pitfall - The Mayan Adventure (USA).jpg
+
+
+game: Primal Rage
+file: ./Primal Rage (USA, Europe).zip
+sort-by: Primal Rage
+developer: Probe Software Ltd.
+publisher: Time Warner Interactive
+genre: Fighting
+release: 1995-11-14
+players: 2
+rating: 70%
+description:
+	A meteor struck the Earth, and caused great chaos. Seven gods from ancient times awoke, and are now attempting to take control of the post-apocalyptic world.
+	.
+	Primal Rage is a one-on-one fighting game featuring dinosaurs and giant apes as the fighters. The graphics are done with digitized stop-motion animation. Gameplay is similar to Mortal Kombat in that it is viewed from a side perspective, and features deadly finishing moves at the end of the match.
+assets.boxfront: ./media/mixart/Primal Rage (USA, Europe).png
+assets.video: ./media/snap/Primal Rage (USA, Europe).mp4
+assets.logo: ./media/wheel/Primal Rage (USA, Europe).png
+assets.screenshot: ./media/screenshot/Primal Rage (USA, Europe).png
+assets.background: ./media/background/Primal Rage (USA, Europe).jpg
+
+
+game: Sangokushi IV
+file: ./Sangokushi IV (Japan).zip
+sort-by: Sangokushi IV
+developer: Koei
+publisher: Koei
+genre: Strategy
+release: 1995-07-07
+players: 1
+description:
+	Romance of the Three Kingdoms IV: Wall of Fire (released as Sangokushi IV in Japan) is the fourth in the Romance of the Three Kingdoms series of turn-based strategy games produced by Koei and based on the historical novel Romance of the Three Kingdoms. Romance of the Three Kingdoms IV: Wall of Fire was the last game in the series to be released on the PC in the United States until Romance of the Three Kingdoms XI.
+assets.boxfront: ./media/mixart/Sangokushi IV (Japan).png
+assets.video: ./media/snap/Sangokushi IV (Japan).mp4
+assets.logo: ./media/wheel/Sangokushi IV (Japan).png
+assets.screenshot: ./media/screenshot/Sangokushi IV (Japan).png
+assets.background: ./media/background/Sangokushi IV (Japan).jpg
+
+
+game: Shadow Squadron
+file: ./Shadow Squadron ~ Stellar Assault (USA, Europe).zip
+sort-by: Shadow Squadron ~ Stellar Assault
+developer: Sega
+publisher: Sega
+genre: Shooter
+release: 1995-01-01
+players: 2
+rating: 75%
+description:
+	Shadow Squadron is a 3D space combat shooter. The player controls a space fighter in a series of battles against huge enemy ships.  There are 2 different types of ships to fly, and 6 different missions.  In most missions, the player has to destroy several locations on a large ship in order to blow up the whole thing.
+	.
+	There are two ways to play the game.  First, one can directly control the ship and maneuver it around the 3D polygon environments.  Second, the player can let the 32X do the flying, and simply control a gun turret.
+assets.boxfront: ./media/mixart/Shadow Squadron ~ Stellar Assault (USA, Europe).png
+assets.video: ./media/snap/Shadow Squadron ~ Stellar Assault (USA, Europe).mp4
+assets.logo: ./media/wheel/Shadow Squadron ~ Stellar Assault (USA, Europe).png
+assets.screenshot: ./media/screenshot/Shadow Squadron ~ Stellar Assault (USA, Europe).png
+assets.background: ./media/background/Shadow Squadron ~ Stellar Assault (USA, Europe).jpg
+
+
+game: Soulstar X
+file: ./Soulstar X (USA) (Proto).zip
+sort-by: Soulstar X
+developer: Core Design
+publisher: Core Design
+genre: Shooter
+release: 1995-04-01
+players: 1
+description:
+	The Myrkoids, an alien species with a unified mind, descend upon unsuspecting star systems, sucking them dry and draining every planet of its internal energies. Following the destruction of his home system, Bryk Hammelt, the last of a noble race of warriors known as the Cryo-commandos, sets out in his starship, the Treaghon, to hunt down the Myrkoids.
+	Remake of Core Design's original Sega CD game Soul Star, The upgraded Soul Star X would have made a fine showcase title for the 32x, especially with enhanced graphics and additional levels.
+	Soulstar X was never released.
+	Soulstar X was never released.
+assets.boxfront: ./media/mixart/Soulstar X (USA) (Proto).png
+assets.video: ./media/snap/Soulstar X (USA) (Proto).mp4
+assets.logo: ./media/wheel/Soulstar X (USA) (Proto).png
+assets.screenshot: ./media/screenshot/Soulstar X (USA) (Proto).png
+assets.background: ./media/background/Soulstar X (USA) (Proto).jpg
+
+
+game: Space Harrier
+file: ./Space Harrier (Japan, USA).zip
+sort-by: Space Harrier
+developer: Sega
+publisher: Sega
+genre: Shooter
+release: 1994-01-01
+players: 1
+rating: 70%
+description:
+	Run… fly… dodge those obstacles, but return fire on wave after wave of attacking aliens. Armed with a really big gun, you have to defend yourself against the alien hordes using your wits to navigate around the screen. But watch out for those end of level bosses!
+assets.boxfront: ./media/mixart/Space Harrier (Japan, USA).png
+assets.video: ./media/snap/Space Harrier (Japan, USA).mp4
+assets.logo: ./media/wheel/Space Harrier (Japan, USA).png
+assets.screenshot: ./media/screenshot/Space Harrier (Japan, USA).png
+assets.background: ./media/background/Space Harrier (Japan, USA).jpg
+
+
+game: Star Trek: Starfleet Academy: Starship Bridge Simulator
+file: ./Star Trek - Starfleet Academy - Starship Bridge Simulator (USA).zip
+sort-by: Star Trek - Starfleet Academy - Starship Bridge Simulator
+developer: High Voltage
+publisher: Interplay
+genres:
+	Flight Simulator
+	Shooter
+release: 1995-01-01
+players: 2
+rating: 70%
+description:
+	Two years before the better-known computer game came this title, in which the aim is to successfully complete the space combat element of Starfleet training. You will fight Klingons, deal with repairs, and find yourself in all manner of dangerous situations, but try to stay within Starfleet directives.
+	.
+	The game is viewed from the bridge of your vessel (there are 5 different ones in total), with polygons used to display the action. Information on the world situation at the time of the game is supplied within the game. There are quick missions bringing scenes from Star Trek movies to life.
+assets.boxfront: ./media/mixart/Star Trek - Starfleet Academy - Starship Bridge Simulator (USA).png
+assets.video: ./media/snap/Star Trek - Starfleet Academy - Starship Bridge Simulator (USA).mp4
+assets.logo: ./media/wheel/Star Trek - Starfleet Academy - Starship Bridge Simulator (USA).png
+assets.screenshot: ./media/screenshot/Star Trek - Starfleet Academy - Starship Bridge Simulator (USA).png
+assets.background: ./media/background/Star Trek - Starfleet Academy - Starship Bridge Simulator (USA).jpg
+
+
+game: Star Wars Arcade
+file: ./Star Wars Arcade (USA).zip
+sort-by: Star Wars Arcade
+developer: Sega
+publisher: LucasArts
+genre: Shooter
+release: 1994-11-21
+players: 2
+rating: 70%
+description:
+	Star Wars Arcade is a 3D shoot 'em-up set in Episodes 4, 5, and 6 of the Star Wars saga.  You take control of either an X-Wing or Y-Wing, and are put right in the middle of the space combat.  In some levels, you have to shoot down a specific number of TIE fighters before time runs out. In other levels, your goal is to simply to make it to the end without getting blasted out of the sky.
+	.
+	Some of the missions take place in deep space, around asteroids, or near Star Destroyers.  Other missions take place on the surface of the Death Star and re-create the Luke Skywalker's famous trench run to destroy it.
+assets.boxfront: ./media/mixart/Star Wars Arcade (USA).png
+assets.video: ./media/snap/Star Wars Arcade (USA).mp4
+assets.logo: ./media/wheel/Star Wars Arcade (USA).png
+assets.screenshot: ./media/screenshot/Star Wars Arcade (USA).png
+assets.background: ./media/background/Star Wars Arcade (USA).jpg
+
+
+game: T-Mek
+file: ./T-MEK (USA, Europe).zip
+sort-by: T-MEK
+developer: Bits Studios
+publisher: Time Warner Interactive
+genre: Shooter
+release: 1995-01-01
+players: 2
+rating: 70%
+description:
+	T-Mek is essentially an updated Battlezone. You are a warrior battling in the T-Mek competition, a hugely popular event in the future. You control a hovercraft and try to blow up everyone else.
+	.
+	The action is viewed from your perspective as you travel around the arena. You also have an overall view of where your opponents are. Terrain surfaces and characteristics vary in each battle. In most levels you need to reach a certain score to progress, however there are out-and-out one-off Deathmatch duels to deal with periodically.
+assets.boxfront: ./media/mixart/T-MEK (USA, Europe).png
+assets.video: ./media/snap/T-MEK (USA, Europe).mp4
+assets.logo: ./media/wheel/T-MEK (USA, Europe).png
+assets.screenshot: ./media/screenshot/T-MEK (USA, Europe).png
+assets.background: ./media/background/T-MEK (USA, Europe).jpg
+
+
+game: Tempo
+file: ./Tempo (Japan, USA).zip
+sort-by: Tempo
+developer: Sega
+publisher: Sega
+genres:
+	Action
+	Platform
+release: 1995-01-01
+players: 1
+rating: 75%
+description:
+	Tempo is a grasshopper who lives on Planet Rythmia, the world of music.  Unfortunately, the malevolent King Dirge is trying to steal all the rhythm from the planet.  It's unclear as to how a creature with no appreciation for music became King, but it's up to Tempo to stop him!
+	.
+	Tempo's game is a side scrolling platformer with 7 levels.  It's a single player game, although you can collect "dance" power-ups that allow you to call your friend, a butterfly, to help you defeat your enemies using killer dance moves.
+assets.boxfront: ./media/mixart/Tempo (Japan, USA).png
+assets.video: ./media/snap/Tempo (Japan, USA).mp4
+assets.logo: ./media/wheel/Tempo (Japan, USA).png
+assets.screenshot: ./media/screenshot/Tempo (Japan, USA).png
+assets.background: ./media/background/Tempo (Japan, USA).jpg
+
+
+game: Toughman Contest
+file: ./Toughman Contest (USA, Europe).zip
+sort-by: Toughman Contest
+developer: Visual Concepts
+publisher: Electronic Arts
+genre: Sports
+release: 1995-01-01
+players: 8
+rating: 50%
+description:
+	Toughman Contest is a game based on the world famous boxing competition of the same name.  You pick one of 24 fighters, compete in one of 5 locations from around the world, and re-create the Toughman tournament as seen on TV.
+	.
+	The boxing action is viewed from behind the back of fighter you control.  Your fighter is rendered as an outline, so you can see what your opponent is up to and react accordingly.  Toughman matches consist of three one minute rounds.  Your goal is to KO your opponent by causing their stamina meter to decrease to the point where they fall down, or beating on them enough that you are scored the winner at end of the third round.
+assets.boxfront: ./media/mixart/Toughman Contest (USA, Europe).png
+assets.video: ./media/snap/Toughman Contest (USA, Europe).mp4
+assets.logo: ./media/wheel/Toughman Contest (USA, Europe).png
+assets.screenshot: ./media/screenshot/Toughman Contest (USA, Europe).png
+assets.background: ./media/background/Toughman Contest (USA, Europe).jpg
+
+
+game: Virtua Fighter
+file: ./Virtua Fighter (Japan, USA).zip
+sort-by: Virtua Fighter
+developer: Sega
+publisher: Sega
+genre: Fighting
+release: 1995-10-20
+players: 2
+rating: 70%
+description:
+	Virtua Fighter was the first of it's kind:  A one-on-one fighting game featuring fully 3D environments and characters. The fighters and arenas are rendered in flat-shaded polygons. Unlike many fighting games, Virtua Fighter focuses on deep gameplay based on actual fighting styles, rather than outrageous special moves and story lines.
+	.
+	There are 8 fighters to choose from in Virtua Fighter, and an equal number of fighting backdrops in which to compete. Each fighter has a distinctive fighting style, and their own set of signature moves.
+assets.boxfront: ./media/mixart/Virtua Fighter (Japan, USA).png
+assets.video: ./media/snap/Virtua Fighter (Japan, USA).mp4
+assets.logo: ./media/wheel/Virtua Fighter (Japan, USA).png
+assets.screenshot: ./media/screenshot/Virtua Fighter (Japan, USA).png
+assets.background: ./media/background/Virtua Fighter (Japan, USA).jpg
+
+
+game: Virtua Hamster
+file: ./Virtua Hamster (USA) (Proto).zip
+sort-by: Virtua Hamster
+developer: Sega
+publisher: Sega
+genre: Racing
+release: 2009-01-01
+players: 1
+description:
+	Virtua Hamster is a unreleased Sega 32X game. The game was to star a variety of selectable rodents attached to rocket packs who could travel through a series of connected tubes, fighting each other and avoiding various obstacles.
+	.
+	It was built solely with the 32X in mind, however after the console failed development moved to the Sega Saturn for a short while before being axed completely. It is also reported that Sega of Japan were not keen on use of the "Virtua" in the game's name, possibly so that the game was not associated with Sega AM2's Virtua Fighter and Virtua Racing. An alternate box mock-up uses the title Virtual Hamster instead.
+	.
+	In August 2009, Ryo Suzuki of SEGASaturno.com dumped an early prototype version of this game. In it, the only selectable character is hamster, Chip, and there is only one empty level (though there are numerous non-moving 3D models of other characters and items dotted around the map). A resets the game, and B/C can be used to move the camera forwards and backwards through the tube. There are also two Sega screens.
+assets.boxfront: ./media/mixart/Virtua Hamster (USA) (Proto).png
+assets.video: ./media/snap/Virtua Hamster (USA) (Proto).mp4
+assets.logo: ./media/wheel/Virtua Hamster (USA) (Proto).png
+assets.screenshot: ./media/screenshot/Virtua Hamster (USA) (Proto).png
+assets.background: ./media/background/Virtua Hamster (USA) (Proto).jpg
+
+
+game: Virtua Racing Deluxe
+file: ./Virtua Racing Deluxe (USA).zip
+sort-by: Virtua Racing Deluxe
+developer: Sega
+publisher: Sega
+genre: Racing
+release: 1994-11-21
+players: 2
+rating: 75%
+description:
+	Virtua Racing Deluxe is an enhanced arcade-to-console conversion of Sega's 3D racing game. This game is primarily an arcade-style affair; Players compete in a 5 lap race with timed checkpoints. It's also possible to play with 2 players in a split-screen mode.
+	.
+	The 32X version of Virtua Racing adds a couple of new features. There are now 3 different types of cars to drive, including a stock car and a prototype racer. Furthermore, there are two all-new tracks.
+assets.boxfront: ./media/mixart/Virtua Racing Deluxe (USA).png
+assets.video: ./media/snap/Virtua Racing Deluxe (USA).mp4
+assets.logo: ./media/wheel/Virtua Racing Deluxe (USA).png
+assets.screenshot: ./media/screenshot/Virtua Racing Deluxe (USA).png
+assets.background: ./media/background/Virtua Racing Deluxe (USA).jpg
+
+
+game: WWF Raw
+file: ./WWF Raw (World).zip
+sort-by: WWF Raw
+developer: Sculptured Software
+publisher: Acclaim
+genres:
+	Fighting
+	Sports
+release: 1995-01-31
+players: 4
+rating: 70%
+description:
+	WWF Raw is a professional wrestling game featuring 10 superstars from the World Wrestling Federation.  The wrestlers you can choose from include Bret "Hit Man" Hart, Bam Bam Bigelow, 1-2-3 Kid, Diesel, Doink, Lex Luger, Luna Vachon, Owen Hart, Razor Ramon, Shawn Michaels, Undertaker, and Yokozuna.
+	.
+	In this game, you attempt to pin your opponent to the mat by reducing his power meter until he can fight no more.  There is a large number of moves to perform, including turnbuckle maneuvers and "illegal" acts such as hitting your opponent with a metal folding chair.
+	.
+	This game supports up to 4 simultaneous players, and has the following game modes: One-on-One, Tag Team, Bedlam, Survivor Series, Royal Rumble, Raw Endurance Match, and Rematch.
+assets.boxfront: ./media/mixart/WWF Raw (World).png
+assets.video: ./media/snap/WWF Raw (World).mp4
+assets.logo: ./media/wheel/WWF Raw (World).png
+assets.screenshot: ./media/screenshot/WWF Raw (World).png
+assets.background: ./media/background/WWF Raw (World).jpg
+
+
+game: WWF WrestleMania: The Arcade Game
+file: ./WWF WrestleMania - The Arcade Game (USA).zip
+sort-by: WWF WrestleMania - The Arcade Game
+developer: Sculptured Software
+publisher: Acclaim
+genre: Sports
+release: 1995-01-01
+players: 2
+description:
+	WWF Wrestlemania: The Arcade Game merges the personalities and action of the popular WWF TV show characters with a Mortal Kombat-style fighting game. This title features digitized graphics of 8 WWF superstars: Doink, Razor Ramon, Bret "Hit Man" Hart, Shawn Michaels, The Undertaker, Yokozuna, Bam Bam Bigelow, and Lex Luger.
+	.
+	Although it is a wrestling title, this game is structured a lot like a one-on-one fighter. It is very fast-paced, and features crazy special moves. Also, each match is divided into a series of rounds, much like a fighting game. Instead of each round ending in a KO, each round simply ends when you force the other wrestler(s) to fall by reducing their energy meter. Game modes include single player arcade mode, tournament mode, and vs mode for 1-on-1 multiplayer.
+assets.boxfront: ./media/mixart/WWF WrestleMania - The Arcade Game (USA).png
+assets.video: ./media/snap/WWF WrestleMania - The Arcade Game (USA).mp4
+assets.logo: ./media/wheel/WWF WrestleMania - The Arcade Game (USA).png
+assets.screenshot: ./media/screenshot/WWF WrestleMania - The Arcade Game (USA).png
+assets.background: ./media/background/WWF WrestleMania - The Arcade Game (USA).jpg
+
+
+game: X-Men
+file: ./X-Men (USA) (Proto).zip
+sort-by: X-Men
+developer: Western Technologies
+publisher: Sega
+genre: Action
+players: 1
+description:
+	X-Men is an unreleased game. It was set to be an exclusive title for Sega 32x, but was cancelled for unknown reasons.
+	A prototype was dumped by Ryo Suzuki of SegaSaturno.com in August 2009. This prototype is very incomplete, and though gives hints that X-Men characters Wolverine, Rogue and Iceman would be playable, you can only control Bishop. Magazine shots show that the game progressed far enough for Wolverine to be included as a playable character.
+assets.boxfront: ./media/mixart/X-Men (USA) (Proto).png
+assets.video: ./media/snap/X-Men (USA) (Proto).mp4
+assets.logo: ./media/wheel/X-Men (USA) (Proto).png
+assets.screenshot: ./media/screenshot/X-Men (USA) (Proto).png
+assets.background: ./media/background/X-Men (USA) (Proto).jpg

@@ -1,0 +1,1756 @@
+game: 1943: Kai
+file: ./1943 Kai (Japan).zip
+sort-by: 1943 Kai
+developer: Capcom
+publisher: Naxat Soft
+genre: Shooter
+release: 1991-03-22
+players: 2
+rating: 65%
+description:
+	This is an enhanced version of 1943: The Battle of Midway, with most of the graphics and sounds reworked. There are also changes in the weapons and the inclusion of anachronical items such as laser-firing WWII planes and ships that run on ground. The player controls a biplane Boeing Stearman E75 N68828 instead of the P-38.
+	The PC Engine adaptation adds some original levels to those from the arcade version, as well as animated intermissions.
+assets.boxfront: ./media/mixart/1943 Kai (Japan).png
+assets.video: ./media/snap/1943 Kai (Japan).mp4
+assets.logo: ./media/wheel/1943 Kai (Japan).png
+assets.screenshot: ./media/screenshot/1943 Kai (Japan).png
+
+
+game: After Burner II
+file: ./After Burner II (Japan).zip
+sort-by: After Burner II
+developer: Sega
+publisher: NEC
+genre: Shooter
+release: 1990-09-28
+players: 1
+rating: 80%
+description:
+	Similar to its predecessor, the premise of After Burner II is to get on the F-14 Tomcat and fly mission after mission of shooting planes out of the sky. At your disposal is a vulcan cannon (basically a machine gun) and a limited number of missiles. In some versions of the game the guns fire automatically all the time. Sometimes you come across a friendly supply plane and if you dock with it you can replenish your missiles.
+	.
+	The game is viewed from behind the plane with you fighting wave after wave of enemy fighters. But at heart it offers the usual shooter mechanics, meaning you spend most of your time dodging and shooting. You also can speed up and slow down to deal with enemies which appear behind you.
+assets.boxfront: ./media/mixart/After Burner II (Japan).png
+assets.video: ./media/snap/After Burner II (Japan).mp4
+assets.logo: ./media/wheel/After Burner II (Japan).png
+assets.screenshot: ./media/screenshot/After Burner II (Japan).png
+
+
+game: Aoi Blink
+file: ./Aoi Blink (Japan) (Translated En).zip
+sort-by: Aoi Blink
+developer: West One
+publisher: Hudson
+genres:
+	Action
+	Platform
+release: 1990-04-27
+players: 2
+rating: 60%
+description:
+	Aoi Blink is a side-scrolling platformer based on the TV anime series of the same name. The five levels are similarly built as the ones in Super Mario Bros. 3: they are divided into various areas which are reached through a map screen with branching paths. Those areas need to be solved to be able to walk further on the map.
+	The speciality of this game is that the player can switch between three characters with different abilities on the fly, e.g. one can jump high and another has a better gun. Those are important to be able to solve the challenges the levels bring, mostly consisting of traditional platforming and avoiding/shooting enemies.  However, the boss area at the end of the level map has to be opened with a master key. There is one hidden in every area.
+	The three characters are based on characters of the series and change depending on the level. The health pool is shared between all characters and losing all hearts results in losing a life. Hearts can be refilled by collecting money which is left behind by killed enemies.
+assets.boxfront: ./media/mixart/Aoi Blink (Japan) (Translated En).png
+assets.video: ./media/snap/Aoi Blink (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/Aoi Blink (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/Aoi Blink (Japan) (Translated En).png
+
+
+game: Armed F
+file: ./Armed F (Japan).zip
+sort-by: Armed F
+developer: Manjyudo
+publisher: Pack In Video
+genre: Shooter
+release: 1990-03-23
+players: 2
+rating: 55%
+description:
+	Formation Armed F, or simply Armed F, is a vertically-scrolling shoot 'em up originally developed by Manjyudo and published by Nichibutsu for the Arcade in 1988. It was later ported to the PC Engine by Pack-In-Video in 1990.The Vowger RC30, the most state of the art starfighter in the Milky Way Federation's fleet, is sent to investigate an unusual phenomenon that has engulfed a number of space stations at the edge of the galaxy. The Vowger is capable of adapting itself via numerous power-ups, which often require that the player switch their weapon formations to better target the enemies they must face.
+assets.boxfront: ./media/mixart/Armed F (Japan).png
+assets.video: ./media/snap/Armed F (Japan).mp4
+assets.logo: ./media/wheel/Armed F (Japan).png
+assets.screenshot: ./media/screenshot/Armed F (Japan).png
+
+
+game: Atomic Robo-Kid Special
+file: ./Atomic Robo-Kid Special (Japan).zip
+sort-by: Atomic Robo-Kid Special
+developer: UPL
+publisher: UPL
+genre: Shooter
+release: 1990-01-19
+players: 2
+rating: 65%
+description:
+	Atomic Robo-Kid Special is a PC Engine adaptation of Atomic Robo-Kid, originally released by UPL for the Arcade in 1988. Unlike the versions released for other systems, which were all straight Arcade conversions, the PC Engine was rebuilt from scratch and thus carries the "Special" modifier in its title.The PC Engine version would never be released outside of Japan. GameplayAs with the standard Atomic Robo-Kid, the eponymous robotic war machine passes through a series of stages to find the exit. Each exit is blocked by a boss enemy, which often needs to be destroyed before the exit becomes accessible. Atomic Robo-Kid can collect up to three weapon upgrades and switch between them: if they lose a life, they lose the presently equipped upgrade but keep the others.The game will switch up how each stage is presented. The first two stages are side-scrollers, while others include a single-screen "duel" with a rival, a maze-like stage that the player explores in various directions and other divergences.
+assets.boxfront: ./media/mixart/Atomic Robo-Kid Special (Japan).png
+assets.video: ./media/snap/Atomic Robo-Kid Special (Japan).mp4
+assets.logo: ./media/wheel/Atomic Robo-Kid Special (Japan).png
+assets.screenshot: ./media/screenshot/Atomic Robo-Kid Special (Japan).png
+
+
+game: Batman
+file: ./Batman (Japan).zip
+sort-by: Batman
+developer: Sunsoft
+publisher: Sunsoft
+genre: Action
+release: 1990-10-12
+players: 1
+rating: 60%
+description:
+	The game consists of five stages based on the movie: the Streets of Gotham, Flugelheim Museum, AXIS Chemical Factory, the Parade a
+assets.boxfront: ./media/mixart/Batman (Japan).png
+assets.video: ./media/snap/Batman (Japan).mp4
+assets.logo: ./media/wheel/Batman (Japan).png
+assets.screenshot: ./media/screenshot/Batman (Japan).png
+
+
+game: Battle Lode Runner
+file: ./Battle Lode Runner (Japan).zip
+sort-by: Battle Lode Runner
+developer: Broderbund Software
+publisher: Broderbund Software
+genres:
+	Action
+	Puzzle
+release: 1993-02-10
+players: 1
+rating: 60%
+description:
+	Originally released only in Japan on the PC Engine (TurboGrafx-16), Battle Lode Runner is a sequel to Lode Runner and its major draw is a 5 player mode. Players move around several platforms collecting gold. Various enemies inhabit the levels, and the player, armed with a drill, attempts to drill holes to capture the enemies.  Unfortunately, this does not defeat the enemies, only disables them for a short time. After a few seconds, the enemies respawn and resume their chase of the player.
+	.
+	The five-player option was new to any incarnation of Lode Runner, and operates in a very similar manner to Bomberman, except with hole drilling instead of bombing.
+assets.boxfront: ./media/mixart/Battle Lode Runner (Japan).png
+assets.video: ./media/snap/Battle Lode Runner (Japan).mp4
+assets.logo: ./media/wheel/Battle Lode Runner (Japan).png
+assets.screenshot: ./media/screenshot/Battle Lode Runner (Japan).png
+
+
+game: Bikkuriman World
+file: ./Bikkuriman World (Japan) (Translated En).zip
+sort-by: Bikkuriman World
+developer: Westone Co., Ltd.
+publisher: Hudson
+genres:
+	Action
+	Platform
+release: 1987-10-30
+players: 1
+rating: 75%
+description:
+	Eleven years have gone by since Tom-Tom rescued his girlfriend Tanya from the clutches of the evil King. Word of Tom-Tom's dangerous adventure soon spread throughout Wonder Land. The people were very proud of him and gave Tom-Tom the highest honor of all - the legendary name of Wonder Boy. With the evil King defeated, Wonder Land returned to its peaceful state, and for over one decade, the kingdom was a paradise, and everything and everyone lived happily together.
+	.
+	Eventually, the peace was broken when a ferocious fire-breathing dragon appeared out of nowhere and took over Wonder Land with an army of evil, monsterous henchmen, causing Wonder Land was immediately thrown into utter chaos. Defenseless that they were, the people were quickly taken over and the tranquil and serene kingdom was transformed into a land of demons and devils. Wonder Land was now a Monster Land. Tom-Tom was summoned to set out on a journey, destroy this dragon, and restore peace once again. Tom-Tom is Wonder Land's last hope.
+	.
+	There are twelve locations in which Tom-Tom must venture through, including (but not limited to): the city of Wonder Land, Valley of Peace, The Coastal Town of Baraboro, The Mam Desert, and Pororo Islands. During his journey, he must defeat monsters with the sword that he got at the beginning of his adventure. These monsters will leave either gold coins or bags of cash, which he can use to buy better weapons, shields, armors, and boots. At the end of each location, there is usually a boss that Tom-Tom must defeat in order to obtain a gold key that will unlock the exit gate, as well as plenty of gold coins or bags of cash. If he touches any enemies, or is shot at, he will lose health. During his travels, Tom-Tom must take note of the hourglass; if the hourglass display sands at the bottom, he must get another one that appears out of nowhere, or he'll also lose health. There are two ways in which he can restore it. He can either go into bars to have a drink that will restore it and get a hint about what lies ahead as well, or go into hospitals and heal himself to restore the lost health.
+assets.boxfront: ./media/mixart/Bikkuriman World (Japan) (Translated En).png
+assets.video: ./media/snap/Bikkuriman World (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/Bikkuriman World (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/Bikkuriman World (Japan) (Translated En).png
+
+
+game: Bomberman '94
+file: ./Bomber Man '94 (Japan).zip
+sort-by: Bomber Man '94
+developer: Hudson
+publisher: Hudson
+genre: Action
+release: 1993-12-10
+players: 5
+rating: 80%
+description:
+	Never one to leave a good thing to be forgotten, Hudson are back with the third installment of the ever present Bomber Man series, and with this one comes a few changes. Apart from our dumpy little hero having lost a little weight since '93, the gameplay has also been altered significantly. While still retaining the basic bombing action, completing a level now no longer requires you to destroy all enemies on screen. Instead, you have to find and destroy a set of pillars on each level and these will unlock a broken piece of amulet from its protected dome. Collect the piece and all remaining destructible blocks turn into coins and you have about 15 seconds to collect as many as possible. Another major addition is kangaroo-type animals that you can jump on and ride. These have special abilities, like jumping and such and also count as an extra hit in case you walk into an enemy or stupidly blow yourself up.
+assets.boxfront: ./media/mixart/Bomber Man '94 (Japan).png
+assets.video: ./media/snap/Bomber Man '94 (Japan).mp4
+assets.logo: ./media/wheel/Bomber Man '94 (Japan).png
+assets.screenshot: ./media/screenshot/Bomber Man '94 (Japan).png
+
+
+game: Bomberman '93: Special Version
+file: ./Bomberman '93 - Special Version (Japan).zip
+sort-by: Bomberman '93 - Special Version
+developer: Hudson
+publisher: Hudson
+genre: Action
+release: 1993-01-01
+players: 5
+description:
+	HuCARD de promotion dans le même esprit que Bomberman Users Battle.
+	Elle fut offerte dans à travers le fan-club d'Hudson Soft afin de promouvoir la sortie du Bomberman '93. Cette HuCARD est plus complète que la Users Battle puisqu'elle offre huit arènes et les items supplémentaires.
+	2000 exemplaires de cette HuCARD ont été produits.
+assets.boxfront: ./media/mixart/Bomberman '93 - Special Version (Japan).png
+assets.video: ./media/snap/Bomberman '93 - Special Version (Japan).mp4
+assets.logo: ./media/wheel/Bomberman '93 - Special Version (Japan).png
+assets.screenshot: ./media/screenshot/Bomberman '93 - Special Version (Japan).png
+
+
+game: Bomberman: Users Battle
+file: ./Bomberman - Users Battle (Japan).zip
+sort-by: Bomberman - Users Battle
+developer: Hudson
+publisher: Hudson
+genre: Action
+release: 1990-01-01
+players: 5
+rating: 70%
+description:
+	Users Battle was a limited edition game with approximately only 1,000 copies produced. Some were distributed at Hudson Bomberman tournaments, though its main purpose appears to have been for demonstration purposes in demo kisoks.
+assets.boxfront: ./media/mixart/Bomberman - Users Battle (Japan).png
+assets.video: ./media/snap/Bomberman - Users Battle (Japan).mp4
+assets.logo: ./media/wheel/Bomberman - Users Battle (Japan).png
+assets.screenshot: ./media/screenshot/Bomberman - Users Battle (Japan).png
+
+
+game: Bubblegum Crash!: Knight Sabers 2034
+file: ./Bubblegum Crash! - Knight Sabers 2034 (Japan) (Translated En).zip
+sort-by: Bubblegum Crash! - Knight Sabers 2034
+developer: Spiel
+publisher: Naxat Soft
+genre: Adventure
+release: 1991-12-06
+players: 1
+rating: 70%
+description:
+	This is an adventure game based on the sequel to the superb classic cyberpunk anime Bubblegum Crisis. It puts you in the shoes of Nene from the Knight Sabers, a group of women in power suits out to sort out the problems that the AD Police canâ€™t handle.
+assets.boxfront: ./media/mixart/Bubblegum Crash! - Knight Sabers 2034 (Japan) (Translated En).png
+assets.video: ./media/snap/Bubblegum Crash! - Knight Sabers 2034 (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/Bubblegum Crash! - Knight Sabers 2034 (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/Bubblegum Crash! - Knight Sabers 2034 (Japan) (Translated En).png
+
+
+game: Champion Wrestler
+file: ./Champion Wrestler (Japan).zip
+sort-by: Champion Wrestler
+developer: Taito
+publisher: Taito
+genre: Fighting
+release: 1990-12-14
+players: 4
+rating: 65%
+description:
+	Champion Wrestler gained popularity in the arcade, and now it is reborn on the PC Engine! Up to 2 people can play simultaneously as well, and you can also enjoy a large number of wrestlers and tag team. In order to take the TWF championship belt, the game will challenge you with formidable enemy skills.
+assets.boxfront: ./media/mixart/Champion Wrestler (Japan).png
+assets.video: ./media/snap/Champion Wrestler (Japan).mp4
+assets.logo: ./media/wheel/Champion Wrestler (Japan).png
+assets.screenshot: ./media/screenshot/Champion Wrestler (Japan).png
+
+
+game: Circus Lido
+file: ./Circus Lido (Japan).zip
+sort-by: Circus Lido
+developer: Uni Post Company
+publisher: Uni Post Company
+genre: Puzzle
+release: 1991-04-06
+players: 1
+rating: 70%
+description:
+	You play as a little chameleon who must clean up around forty levels. To move, you can't jump. You have to use your language to achieve your ends. The first button allows you to swallow monsters and spit them out, like in Bubble Bobble. Except this time you have to send them to carnivorous plants to eradicate them for good.
+	In Circus Lido impossible to jump, you have to use the other button to stick your tongue out once more in order to pull yourself up via ropes. It follows a rather original handling, but which does not manage to depart from the shadow of Taito's hit. It's a shame, because throughout the levels we take pleasure in finding solutions. Indeed, the game is more of a puzzle game than an action game. Better to think before playing, otherwise you get stuck.
+assets.boxfront: ./media/mixart/Circus Lido (Japan).png
+assets.video: ./media/snap/Circus Lido (Japan).mp4
+assets.logo: ./media/wheel/Circus Lido (Japan).png
+assets.screenshot: ./media/screenshot/Circus Lido (Japan).png
+
+
+game: City Hunter
+file: ./City Hunter (Japan) (Translated En).zip
+sort-by: City Hunter
+developer: Sunsoft
+publisher: Sunsoft
+genre: Action
+release: 1990-03-02
+players: 2
+rating: 65%
+description:
+	City Hunter is based on the manga by Tsukasa Hojo. The story focuses on Ryo Saeba, a young man with a mysterious past, who founds the City Hunter private detective agency in Shinjuku, Tokyo.
+	The gameplay is a straightforward side-scrolling shooter with some adventure elements. The game lacks power-ups or variety of weapons and only one item can be carried at a time. The levels are usually designed as vast indoor areas, with many rooms Ryo can enter while solving 3 cases.
+assets.boxfront: ./media/mixart/City Hunter (Japan) (Translated En).png
+assets.video: ./media/snap/City Hunter (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/City Hunter (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/City Hunter (Japan) (Translated En).png
+
+
+game: Columns
+file: ./Columns (Japan).zip
+sort-by: Columns
+developer: Laser Soft
+publisher: Telenet
+genre: Puzzle
+release: 1991-03-29
+players: 2
+rating: 70%
+description:
+	Columns is loosely derived from Tetris, as it involves arranging falling blocks in such a way as to clear them. However, in columns they are groups of 3 same-size but varying color blocks, which must be arranged into sequences of 3 or more, either horizontally, vertically or diagonally. Sequences of 4 or 5 count for double or triple points, and diagonal sequences score the most. The real trick is to set up 'combos' - where one line causes other blocks to drop so as to create other lines.
+	.
+	As well as the normal game mode, there is also a 'flash' mode, in which the aim is simply to remove a particular block from the base of the pre-formed pile of bricks. The difficulty of this can be determined by increasing the number of complete rows which are already in place.
+assets.boxfront: ./media/mixart/Columns (Japan).png
+assets.video: ./media/snap/Columns (Japan).mp4
+assets.logo: ./media/wheel/Columns (Japan).png
+assets.screenshot: ./media/screenshot/Columns (Japan).png
+
+
+game: Coryoon: Child of Dragon
+file: ./Coryoon - Child of Dragon (Japan).zip
+sort-by: Coryoon - Child of Dragon
+developer: Naxat Soft
+publisher: Naxat Soft
+genre: Shooter
+release: 1991-11-29
+players: 1
+rating: 70%
+description:
+	Horizontal shoot 'em up that casts you as a baby dragon out to free a princess from the clutches of an evil....well, you get the idea. Gameplay is traditional, with power-up weapons that include multi-way shot and 'miniature' mode and a sort of reverse R-Type beam where you don't shoot to power it up. Also contains 2 minute and 5 minute time attack modes.
+assets.boxfront: ./media/mixart/Coryoon - Child of Dragon (Japan).png
+assets.video: ./media/snap/Coryoon - Child of Dragon (Japan).mp4
+assets.logo: ./media/wheel/Coryoon - Child of Dragon (Japan).png
+assets.screenshot: ./media/screenshot/Coryoon - Child of Dragon (Japan).png
+
+
+game: Cross Wiber: Cyber Combat Police
+file: ./Cross Wiber - Cyber Combat Police (Japan).zip
+sort-by: Cross Wiber - Cyber Combat Police
+developer: Sankindo
+publisher: FACE
+genre: Action
+release: 1990-12-21
+players: 1
+rating: 70%
+description:
+	Cross Wiber: Cyber Combat Police is a sequel to Cyber Cross and follows the adventures of Cross Wiber, an special inspector of the cyber combat police. Several years after the happenings in Cyber Cross, a new threat threatens Earth: Duma and his alien for
+assets.boxfront: ./media/mixart/Cross Wiber - Cyber Combat Police (Japan).png
+assets.video: ./media/snap/Cross Wiber - Cyber Combat Police (Japan).mp4
+assets.logo: ./media/wheel/Cross Wiber - Cyber Combat Police (Japan).png
+assets.screenshot: ./media/screenshot/Cross Wiber - Cyber Combat Police (Japan).png
+
+
+game: Darius Alpha
+file: ./Darius Alpha (Japan) (SG Enhanced).zip
+sort-by: Darius Alpha
+developer: Bits Laboratory
+publisher: NEC
+genre: Shooter
+release: 1990-01-01
+players: 1
+rating: 75%
+description:
+	One of the rarest games for the PC Engine, Darius Alpha was only offered to those who bought both the CD and HuCard versions of Darius Plus (Which doesn't make much sense, considering how similar the two versions are). People who just couldn't get enough of Darius could now play another variation on the same theme. Darius Alpha is built on the same codebase as Darius Plus, but has been remodeled into a so-called "boss-fight" game, e.g. a game where you only fight the bosses of a game or game series. You start out with an unequipped ship and must take down the boss of the first level, King Fossil. Upon defeating King Fossil, you are granted some slight upgrades and proceed directly to the boss of the next level. And so on.
+assets.boxfront: ./media/mixart/Darius Alpha (Japan) (SG Enhanced).png
+assets.video: ./media/snap/Darius Alpha (Japan) (SG Enhanced).mp4
+assets.logo: ./media/wheel/Darius Alpha (Japan) (SG Enhanced).png
+assets.screenshot: ./media/screenshot/Darius Alpha (Japan) (SG Enhanced).png
+
+
+game: Darius Plus
+file: ./Darius Plus (Japan) (SG Enhanced).zip
+sort-by: Darius Plus
+developer: Bits Laboratory
+publisher: NEC
+genre: Shooter
+release: 1990-09-21
+players: 1
+rating: 80%
+description:
+	Darius Plus when played on the SuperGrafx has enhanced sprite handing features which removes lots of the flickering issues experienced on the standard PC Engine.
+assets.boxfront: ./media/mixart/Darius Plus (Japan) (SG Enhanced).png
+assets.video: ./media/snap/Darius Plus (Japan) (SG Enhanced).mp4
+assets.logo: ./media/wheel/Darius Plus (Japan) (SG Enhanced).png
+assets.screenshot: ./media/screenshot/Darius Plus (Japan) (SG Enhanced).png
+
+
+game: Die Hard
+file: ./Die Hard (Japan) (Translated En).zip
+sort-by: Die Hard
+developer: Pack In Video
+publisher: NEC
+genre: Action
+release: 1990-09-28
+players: 1
+rating: 65%
+description:
+	Terrorists are holding people hostage in Nakatomi Plaza  in an attempt to steal $600 million. John McClain decides to visit his wife Holly, who happens to be one of the hostages, and gets involved in the situation. Unlike other versions of Die Hard that are in the MobyGames database, the TurboGrafx-16 version is played from a top-down perspective, and consists of ten stages which has you fighting bad guys from forests, all the way through the Nakatomi Building, and finally on the roof where the final confrontation takes place. Weapons can be picked up by knocking down enemies, and include machine guns, laser shots, and flamethrowers. If you look hard enough, you may even obtain a bullet-proof vest, which may protects you from shots, but can also reduce its life.
+assets.boxfront: ./media/mixart/Die Hard (Japan) (Translated En).png
+assets.video: ./media/snap/Die Hard (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/Die Hard (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/Die Hard (Japan) (Translated En).png
+
+
+game: Download
+file: ./Download (Japan).zip
+sort-by: Download
+developer: Alfa System
+publisher: NEC
+genres:
+	Action
+	Shooter
+release: 1990-06-22
+players: 1
+rating: 70%
+description:
+	Download is a horizontal shoot 'em up set in a dystopian cyberpunk future in which the main character, Syd, is haunted by memories of his friend Ohala falling to a cybernetic menace. Meanwhile, he receives a call from his contact/partner Deva and must rush to her rescue when she is abducted by the Kabukicho police force. The game's story is depicted in a series of animated vignettes before each stage, similar to Ninja Gaiden. Beginning with the mean streets of Kabukicho, Syd will eventually jack into the internet and fights in a similar manner through cyberspace.
+assets.boxfront: ./media/mixart/Download (Japan).png
+assets.video: ./media/snap/Download (Japan).mp4
+assets.logo: ./media/wheel/Download (Japan).png
+assets.screenshot: ./media/screenshot/Download (Japan).png
+
+
+game: Dragon Egg!
+file: ./Dragon Egg! (Japan).zip
+sort-by: Dragon Egg!
+developer: Masaya Games
+publisher: NCS Corporation
+genres:
+	Action
+	Platform
+release: 1991-09-27
+players: 1
+rating: 70%
+description:
+	A platformer where the player controls a small girl with an egg in her backpack, which can turn into a dragon.
+assets.boxfront: ./media/mixart/Dragon Egg! (Japan).png
+assets.video: ./media/snap/Dragon Egg! (Japan).mp4
+assets.logo: ./media/wheel/Dragon Egg! (Japan).png
+assets.screenshot: ./media/screenshot/Dragon Egg! (Japan).png
+
+
+game: Dragon Saber: After Story of Dragon Spirit
+file: ./Dragon Saber (Japan).zip
+sort-by: Dragon Saber
+developer: Namco
+publisher: Namco
+genre: Shooter
+release: 1991-12-27
+players: 2
+rating: 70%
+description:
+	Gameplay-wise, little has changed from the original, as both games are vertically-scrolling shoot 'em ups putting you in
+assets.boxfront: ./media/mixart/Dragon Saber (Japan).png
+assets.video: ./media/snap/Dragon Saber (Japan).mp4
+assets.logo: ./media/wheel/Dragon Saber (Japan).png
+assets.screenshot: ./media/screenshot/Dragon Saber (Japan).png
+
+
+game: Energy
+file: ./Energy (Japan) (Translated En).zip
+sort-by: Energy
+developer: Quasar Soft
+publisher: NCS Corporation
+genres:
+	Platform
+	Shooter
+release: 1989-04-19
+players: 5
+rating: 60%
+description:
+	The story of this game is rather simple: Tokyo has been destroyed by monsters! Terrifying creatures have invaded the city and ruined it. A scientist who possesses the secret knowledge of psychic powers known as ESP, imbues a young boy with them, and sends him to the streets and underground caverns of Tokyo, to rescue the few remaining survivors, and find out the source of the monstrous invasion!
+	.
+	Energy is a side-scrolling shooter. The player manipulates the young hero, who can shoot energy balls and jump. The energy attacks deplete his ESP bar, which refills itself gradually afterwards. The hero's life bar can only be refilled with healing potions which are sometimes dropped by the enemies. The boy can also collect items which change the properties or his ESP attack, and/or upgrade these attacks to the next level.
+assets.boxfront: ./media/mixart/Energy (Japan) (Translated En).png
+assets.video: ./media/snap/Energy (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/Energy (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/Energy (Japan) (Translated En).png
+
+
+game: Final Blaster
+file: ./Final Blaster (Japan).zip
+sort-by: Final Blaster
+developer: Aisystem Tokyo
+publisher: Namco
+genres:
+	Action
+	Shooter
+release: 1990-09-28
+players: 1
+rating: 65%
+description:
+	Final Blaster is a vertically scrolling shooter with seven levels. As usual, the player mans a space ship, has to kill the enemy opposition and a powerful boss enemy at the end of each level. A speciality is the dynamic difficulty: if the player offers a
+assets.boxfront: ./media/mixart/Final Blaster (Japan).png
+assets.video: ./media/snap/Final Blaster (Japan).mp4
+assets.logo: ./media/wheel/Final Blaster (Japan).png
+assets.screenshot: ./media/screenshot/Final Blaster (Japan).png
+
+
+game: Final Soldier: Special Version
+file: ./Final Soldier - Special Version (Japan) (En).zip
+sort-by: Final Soldier - Special Version
+developer: Hudson
+publisher: Hudson
+genre: Shooter
+release: 1991-07-05
+players: 1
+rating: 80%
+description:
+	A sci-fi top-down shooter, sequel to the Star Soldier games. Once again its your job to protect the Galactic Empire from an alien invasion using nothing but your trusty starfighter.
+	.
+	The game is divided in several stages in which enemies attack you in several waves until you reach the stage boss and proceed to the next one. Final Soldier incorporates four different gun pods mapped to each button, which can be fired independently or in conjunction. What you equip in each pod is up to you however as not only you get to select weapon loadouts between levels, but also shooting power-ups cycles to the available weapon types that you can incorporate mid-game.
+assets.boxfront: ./media/mixart/Final Soldier - Special Version (Japan) (En).png
+assets.video: ./media/snap/Final Soldier - Special Version (Japan) (En).mp4
+assets.logo: ./media/wheel/Final Soldier - Special Version (Japan) (En).png
+assets.screenshot: ./media/screenshot/Final Soldier - Special Version (Japan) (En).png
+
+
+game: Fushigi no Yume no Alice
+file: ./Fushigi no Yume no Alice (Japan).zip
+sort-by: Fushigi no Yume no Alice
+developer: FACE
+publisher: FACE
+genres:
+	Action
+	Platform
+release: 1990-12-07
+players: 1
+rating: 60%
+description:
+	Based on Lewis Carrol's Alice in Wonderland novels, Fushigi no Yume no Alice is a cute 2-D platformer which casts you as Alice, a blond-haired girl wearing a pink dress. Your job is to make your way through forests and caves, defeating enemies that you come across by either jumping on their heads or shouting 'IYA' at them. Some enemies will drop eggs which will explode. You can kick these eggs and use them to destroy the enemies themselves. There are three levels in each area, and each level ends with you defeating a boss.
+assets.boxfront: ./media/mixart/Fushigi no Yume no Alice (Japan).png
+assets.video: ./media/snap/Fushigi no Yume no Alice (Japan).mp4
+assets.logo: ./media/wheel/Fushigi no Yume no Alice (Japan).png
+assets.screenshot: ./media/screenshot/Fushigi no Yume no Alice (Japan).png
+
+
+game: Gaia no Monshou
+file: ./Gaia no Monshou (Japan) (Translated En).zip
+sort-by: Gaia no Monshou
+developer: NCS Corporation
+publisher: NCS Corporation
+genre: Strategy
+release: 1988-09-23
+players: 2
+rating: 70%
+description:
+	Gaia no Monsh? (also known as the 'Crest of Gaia') is a fantasy round-based strategy game by NCS and conversion of a game originally released for the NEC PC-8801 in 1987. The Light and Dark forces are engaged in a fierce war and Böser, leader of the Dark Army, is now ready to capture the Rall Tower, source of the world's energy. Sieghart, leader of the Light army, is the only one who stands between the evil Böser and the complete decimation of the kingdom. Gaia no Monsh? is a turn-based strategy game at heart - the player moves troops around a battlefield and attacks nearby enemy units. An Auto Battle mode is also available and gives the option to let the AI figure out of the player's next move. The game offers several play modes - the first one (Scenario Mode) gives the player the chance to jump straight into battle using predefined troops. The second (Construction Mode) allows him to build his own army using unit points. The last one (Campaign Mode) conveys story plot elements and starts in the siege town of Dirl, where king Sieghart battles the fierce Böser. This mode requires more complex strategy and the player must assemble his own troops using unit points and units lost in battle don't come back during the campaign. Unlike the other two modes, it offers a password system to save the player's progress through the game.
+assets.boxfront: ./media/mixart/Gaia no Monshou (Japan) (Translated En).png
+assets.video: ./media/snap/Gaia no Monshou (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/Gaia no Monshou (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/Gaia no Monshou (Japan) (Translated En).png
+
+
+game: Gekisha Boy
+file: ./Gekisha Boy (Japan) (Translated En).zip
+sort-by: Gekisha Boy
+developer: Tomcat System
+publisher: Irem
+genre: Action
+release: 1992-10-02
+players: 1
+rating: 75%
+description:
+	Novel game in which you have to earn points by taking photographs of the most newsworthy happenings as you walk down the street. These involve people falling over, planes crashing, UFOs and many other bizarre events. You have a
+assets.boxfront: ./media/mixart/Gekisha Boy (Japan) (Translated En).png
+assets.video: ./media/snap/Gekisha Boy (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/Gekisha Boy (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/Gekisha Boy (Japan) (Translated En).png
+
+
+game: Gomola Speed
+file: ./Gomola Speed (Japan).zip
+sort-by: Gomola Speed
+developer: UPL
+publisher: UPL
+genre: Action
+release: 1990-09-28
+players: 1
+rating: 80%
+description:
+	Gomola Speed is an action game featuring a robot snake. You must find the pieces of your body strewn about each maze-like stage, which increase your size, and use your length to surround items, food, and enemies in order to eliminate them. You can also use bombs to stun more dangerous enemies.
+	.
+	Different stages may have different goals -- for example, you may have to find a key, or use your surround ability on floor tiles to reveal items or enemies. Only your snake's head is vulnerable; if an enemy hits your body it will scatter all the pieces and you'll have to collect them again. After completing set conditions on each stage, a door will open that leads to the next stage, at which point you'll be just a head again, and will have to hunt for your body once more.
+	.
+	The game has the same unique UPL style that will be familiar to fans of games such as Atomic Robo-Kid and Mutant Night.
+assets.boxfront: ./media/mixart/Gomola Speed (Japan).png
+assets.video: ./media/snap/Gomola Speed (Japan).mp4
+assets.logo: ./media/wheel/Gomola Speed (Japan).png
+assets.screenshot: ./media/screenshot/Gomola Speed (Japan).png
+assets.background: ./media/background/Gomola Speed (Japan).jpg
+
+
+game: Gradius
+file: ./Gradius (Japan).zip
+sort-by: Gradius
+developer: Konami
+publisher: Konami
+genre: Shooter
+release: 1991-11-15
+players: 2
+rating: 75%
+description:
+	The people of Gradius are in trouble. The ameoboid Bacterions have launched an all out attack against the planet, and it's up to you to fly into battle and save them. Along the way you'll be able to power up your ship with hyper speed, force fields, lasers, missiles, double beam cannons and more to help you battle. Based on the arcade game, Gradius is a side scrolling shooter. Shooting certain enemies will leave a power up pod behind which can be collected to add more power to your ship. Each level features a wide variety of enemies trying to stop you, with a large boss at the end. Gameplay is for one player or two players alternating.
+assets.boxfront: ./media/mixart/Gradius (Japan).png
+assets.video: ./media/snap/Gradius (Japan).mp4
+assets.logo: ./media/wheel/Gradius (Japan).png
+assets.screenshot: ./media/screenshot/Gradius (Japan).png
+
+
+game: Gunhed: Special Version
+file: ./Gunhed - Special Version (Japan).zip
+sort-by: Gunhed - Special Version
+developer: Compile
+publisher: NEC
+genre: Shooter
+release: 1989-07-07
+players: 1
+rating: 80%
+description:
+	Blazing Lazers is a top-down shooter featuring 9 levels of varied and fast-paced action.  The story here is the usual save-the-world variety. You must pilot your ship against 8 super-weapons and ultimately destroy the menace once and for all.
+	.
+	The power-up system in Blazing Lazers deserves special mention.  There are four main types of weapons, and each type of weapon can be upgraded several times to produce an incredible amount of firepower.  In addition, there are secondary weapons systems that provide you with shields, homing missiles, multi-fire units, or super weapon power.
+assets.boxfront: ./media/mixart/Gunhed - Special Version (Japan).png
+assets.video: ./media/snap/Gunhed - Special Version (Japan).mp4
+assets.logo: ./media/wheel/Gunhed - Special Version (Japan).png
+assets.screenshot: ./media/screenshot/Gunhed - Special Version (Japan).png
+
+
+game: Hana Taaka Daka!?
+file: ./Hana Taaka Daka! (Japan).zip
+sort-by: Hana Taaka Daka!
+developer: Taito
+publisher: Taito
+genre: Shooter
+release: 1991-08-09
+players: 1
+rating: 65%
+description:
+	Konta the little fox is in trouble - while on a walk with his girlfriend Inari, he "accidentally" broke the magical seal that held the evil tanuki raccoon Jikanda and his minions prisoner. They have abducted Inari and Konta is in great despair. He decides to seek assistance from the gods and ask them for help. A flying Tengu answers to his desperate plea.
+assets.boxfront: ./media/mixart/Hana Taaka Daka! (Japan).png
+assets.video: ./media/snap/Hana Taaka Daka! (Japan).mp4
+assets.logo: ./media/wheel/Hana Taaka Daka! (Japan).png
+assets.screenshot: ./media/screenshot/Hana Taaka Daka! (Japan).png
+
+
+game: Hanii in the Sky
+file: ./Hanii in the Sky (Japan).zip
+sort-by: Hanii in the Sky
+developer: FACE
+publisher: FACE
+genre: Shooter
+release: 1989-03-01
+players: 1
+rating: 50%
+description:
+	One day, Hani (sometimes known as Honey), who is a phallic objet d'art from stoneage Japan, is summoned by the god Izanaki. Izanaki is worried because his wife Izanami's heart has been invaded by a demon. His once peaceful wife now kills thousands of humans each day and threatens to destroy the world that she once created together with her husband. Hani must fly into Izanami's heart and destroy the demon.
+	Once Hani has entered Izanami's heart, and you are put in control, it turns into a vertically-scrolling shoot'em up. One button fire the gun, but the other one rotates the gun clockwise, so that you may shoot at enemies coming from any direction. Hani is thus reminiscent of a flying tank. Hani starts out with only one life to spare and a weak weapon, usually giving few minutes of play before game over. However, each enemy shot gives spiritual power to Hani. Pressing the run button puts you in contact with Izanaki, who will let you trade in those power points in exchange for the usual assortment of power-ups, such as multiple shots. Izanaki will also grant you teleportation abilities, so that you may travel back and forth between levels.
+assets.boxfront: ./media/mixart/Hanii in the Sky (Japan).png
+assets.video: ./media/snap/Hanii in the Sky (Japan).mp4
+assets.logo: ./media/wheel/Hanii in the Sky (Japan).png
+assets.screenshot: ./media/screenshot/Hanii in the Sky (Japan).png
+
+
+game: Hanii on the Road
+file: ./Hanii on the Road (Japan).zip
+sort-by: Hanii on the Road
+developer: FACE
+publisher: FACE
+genre: Platform
+release: 1990-09-14
+players: 2
+rating: 65%
+description:
+	Also known as "Hany on the Road".  He might look like a condom, but Hany is one active little guy. Following on from Hany in the Sky (released the year before), Hany on the Road is a scrolling action game and bears a strong resemblance to Shockway Rider,
+assets.boxfront: ./media/mixart/Hanii on the Road (Japan).png
+assets.video: ./media/snap/Hanii on the Road (Japan).mp4
+assets.logo: ./media/wheel/Hanii on the Road (Japan).png
+assets.screenshot: ./media/screenshot/Hanii on the Road (Japan).png
+
+
+game: Hatris
+file: ./Hatris (Japan).zip
+sort-by: Hatris
+developer: Micro Cabin
+publisher: Micro Cabin
+genre: Puzzle
+release: 1991-05-24
+players: 1
+rating: 60%
+description:
+	In Hatris, the falling blocks of Tetris are replaced by falling hats which are top hats, cowboy hats, baseball caps, derbys, party hats and crowns. The setting is a hat factory, where hats are dropped down from a conveyor belt two at a time and must be st
+assets.boxfront: ./media/mixart/Hatris (Japan).png
+assets.video: ./media/snap/Hatris (Japan).mp4
+assets.logo: ./media/wheel/Hatris (Japan).png
+assets.screenshot: ./media/screenshot/Hatris (Japan).png
+
+
+game: Heavy Unit
+file: ./Heavy Unit (Japan).zip
+sort-by: Heavy Unit
+developer: Inter State
+publisher: Taito
+genre: Shooter
+release: 1989-12-22
+players: 1
+rating: 50%
+description:
+	Heavy Unit is a "shoot-'em-up" game.
+	.
+	It's year 2014 and human colony "Le Tau" is under attack by some strange aliens. You are given command a special starship that can be transformed into mecha (giant robot) through game by obtaining various power ups. Besides that it's a typical shooting game where you have to fly through various side scrolling levels and shoot everything you see.
+assets.boxfront: ./media/mixart/Heavy Unit (Japan).png
+assets.video: ./media/snap/Heavy Unit (Japan).mp4
+assets.logo: ./media/wheel/Heavy Unit (Japan).png
+assets.screenshot: ./media/screenshot/Heavy Unit (Japan).png
+
+
+game: Hisou Kihei X-Serd
+file: ./Hisou Kihei X-Serd (Japan) (Translated En).zip
+sort-by: Hisou Kihei X-Serd
+developer: NCS Corporation
+publisher: NCS Corporation
+genre: Strategy
+release: 1990-02-23
+players: 1
+rating: 60%
+description:
+	Hisou Kihei X-Serd ("Flying Mounted Cavalry X-Serd") is a strategy game where the majority of the units are mecha, or robot suits. The game was exclusive to the PC Engine and was released soon after another mecha strategy game from Masaya: Gaiflame.
+	In each scenario, the Serds - a league of specialized attack mecha - are deployed from their HQ ship Altea. The Serds all have single-letter code-names and different specializations: for example, the G-Serd wields a laser sword for devastating melee attacks and can move quickly, while the B-Serd is capable of long-range mortar attacks but has limited movement. The eponymous X-Serd is the most powerful of the team.
+assets.boxfront: ./media/mixart/Hisou Kihei X-Serd (Japan) (Translated En).png
+assets.video: ./media/snap/Hisou Kihei X-Serd (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/Hisou Kihei X-Serd (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/Hisou Kihei X-Serd (Japan) (Translated En).png
+
+
+game: Image Fight
+file: ./Image Fight (Japan).zip
+sort-by: Image Fight
+developer: Irem
+publisher: Irem
+genre: Shooter
+release: 1990-07-27
+players: 1
+rating: 80%
+description:
+	A mysterious alien life form is spreading across the galaxy, trying to conquer the world. It took control of the moon base and is threatening to descend on the Earth. The humans have sent the most advanced fighter jet to oppose the aliens: the OF-1. The OF-1  has the ability to change speed at any time and equip different weapons and pods. OF-1 is humanity's last hope!
+	ImageFight is a top-down vertically scrolling space shooter. On every level there will be enemy ships, turrets, robots, and other machines shooting projectiles or trying to ram you. But there are also power-ups scattered around in small green containers. You must destroy these containers before you can obtain the power-up. Those power-ups include pods that add extra attack power or speed, new kinds of weapons, the ability to fire in different directions, etc.
+assets.boxfront: ./media/mixart/Image Fight (Japan).png
+assets.video: ./media/snap/Image Fight (Japan).mp4
+assets.logo: ./media/wheel/Image Fight (Japan).png
+assets.screenshot: ./media/screenshot/Image Fight (Japan).png
+
+
+game: Jaseiken Necromancer
+file: ./Jaseiken Necromancer (Japan) (Translated En).zip
+sort-by: Jaseiken Necromancer
+developer: Hudson
+publisher: Hudson
+genre: Role-Playing
+release: 1988-01-22
+players: 1
+rating: 60%
+description:
+	Long time ago, the Gods fought the Demons in a cosmic battle. To ensure victory, the Gods had to sacrifice part of their divine nature, and forge a weapon that had both good and bad in it - the "Evil Holy Sword" Necromancer. The demons were forced to dwel
+assets.boxfront: ./media/mixart/Jaseiken Necromancer (Japan) (Translated En).png
+assets.video: ./media/snap/Jaseiken Necromancer (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/Jaseiken Necromancer (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/Jaseiken Necromancer (Japan) (Translated En).png
+
+
+game: Kaizou Choujin Shubibinman
+file: ./Kaizou Choujin Shubibinman (Japan).zip
+sort-by: Kaizou Choujin Shubibinman
+developer: NCS
+publisher: Masaya Games
+genres:
+	Action
+	Platform
+release: 1989-03-18
+players: 2
+rating: 70%
+description:
+	The evil robot Dark Skull has escaped Doc's control and now threatens to destroy the city with his army of evil robots, now only Doc's newest creations: the cyborgs Tasuke and Kyapiko can put an end to his plans.
+	Shubibinman is a 2D side-scrolling action platformer, in which you play as either of the Shubibinmen (or both in the cooperative 2-player mode) and try to defeat Dark Skull's forces using your blade and your cyborg-powers. The game starts in a city-map from which you select which stage to tackle next, each stage features a hostage and a boss cyborg that must be defeated. Successful completion of these objectives rewards you with money that you can take back to "Doc" for upgrades that augment your existing powers or add new ones, which you'll surely need for the final battle.
+assets.boxfront: ./media/mixart/Kaizou Choujin Shubibinman (Japan).png
+assets.video: ./media/snap/Kaizou Choujin Shubibinman (Japan).mp4
+assets.logo: ./media/wheel/Kaizou Choujin Shubibinman (Japan).png
+assets.screenshot: ./media/screenshot/Kaizou Choujin Shubibinman (Japan).png
+
+
+game: KiKi KaiKai
+file: ./Kiki Kaikai (Japan).zip
+sort-by: Kiki Kaikai
+developer: Taito
+publisher: Taito
+genres:
+	Action
+	Shooter
+release: 1990-03-27
+players: 1
+rating: 70%
+description:
+	Sayo-chan/Pocky makes her way across various levels, changing directions occasionally, and using either a wand or scrolls to exorcise the unruly spirits she meets. She can only get hit once before dying, though some enemies will grab her instead to slow her down.
+assets.boxfront: ./media/mixart/Kiki Kaikai (Japan).png
+assets.video: ./media/snap/Kiki Kaikai (Japan).mp4
+assets.logo: ./media/wheel/Kiki Kaikai (Japan).png
+assets.screenshot: ./media/screenshot/Kiki Kaikai (Japan).png
+
+
+game: Knight Rider Special
+file: ./Knight Rider Special (Japan) (Translated En).zip
+sort-by: Knight Rider Special
+developer: Pack In Video
+publisher: Pack In Video
+genres:
+	Action
+	Racing
+release: 1989-12-22
+players: 1
+rating: 70%
+description:
+	Michael Knight is a man on a mission. Reborn, so to speak, after getting shot in the face, Knight decides to dedicate his life to fighting for justice. Self-made billionaire Wilton Knight hires Michael to be the lead field agent in his Knight Foundation's public justice organization, part of which includes the developoing of KITT (Knight Industries Two Thousand), a superpowered, intelligent souped-up Pontiac Trans-Am. KITT can drive 300 miles an hour, is bulletproof, fireproof, can talk, and helps Michael fight injustices in the world.
+assets.boxfront: ./media/mixart/Knight Rider Special (Japan) (Translated En).png
+assets.video: ./media/snap/Knight Rider Special (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/Knight Rider Special (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/Knight Rider Special (Japan) (Translated En).png
+assets.background: ./media/background/Knight Rider Special (Japan) (Translated En).jpg
+
+
+game: Lady Sword: Ryakudatsusareta 10-nin no Otome
+file: ./Lady Sword - Ryakudatsu Sareta 10-nin no Otome (Japan) (Unl) (Translated En).zip
+sort-by: Lady Sword - Ryakudatsu Sareta 10-nin no Otome
+developer: Games Express
+publisher: Games Express
+genre: Role-Playing
+release: 1992-07-13
+players: 1
+description:
+	In this game, the player takes control of a young nameless traveler. One day, the hero meets a man who tells him a sad story: monsters have kidnapped his granddaughter, and locked her away in a tower. Apparently, the monsters also took away nine other young girls, and have some evil plans in mind. The hero agrees to venture into the tower's labyrinth and succeed where no other adventurer could...
+	.
+	Lady Sword is a first-person solo dungeon crawler. The player navigates the hero through the complex, maze-like corridors of the tower (with an auto-map feature), trying to find the right way to the stairs to the next floor. Fake walls, teleporters, one-way doors, items that must be collected to unlock hidden passages, boss enemies, etc., are there to make this task harder than it looks. Regular enemies pop out randomly, and must be defeated in a very simple turn-based combat.
+	.
+	There is no damage feedback for the hero (though the player can see exactly how badly the hero himself is hurt), no weapons, armor, or items for combat usage. The player can heal the hero's wounds by selecting "sleep" from the menu. Sleeping restores the hero to full HP; but if he rests too much, a tough demon will appear and attack.
+	.
+	Character growth is handled via direct stat increasing; there are no "levels", and the hero's HP, attack and defense power, as well as agility, increase gradually the more he fights.
+	.
+	On each floor, a digitized photo of a young woman will greet the hero and encourage the player to explore further - at the stairs to the next floor, should the hero overcome all the obstacles, the player will be able to see the girl naked.
+assets.boxfront: ./media/mixart/Lady Sword - Ryakudatsu Sareta 10-nin no Otome (Japan) (Unl) (Translated En).png
+assets.logo: ./media/wheel/Lady Sword - Ryakudatsu Sareta 10-nin no Otome (Japan) (Unl) (Translated En).png
+assets.screenshot: ./media/screenshot/Lady Sword - Ryakudatsu Sareta 10-nin no Otome (Japan) (Unl) (Translated En).png
+
+
+game: Lode Runner: Lost Labyrinth
+file: ./Lode Runner - Lost Labyrinth (Japan) (Translated En).zip
+sort-by: Lode Runner - Lost Labyrinth
+developer: Broderbund Software
+publisher: Pack In Video
+genre: Platform
+release: 1990-07-27
+players: 1
+rating: 60%
+description:
+	Lode Runner: Lost Labyrinth is an exact conversion of the original Lode Runner. However, this version features one hundred levels which mostly differ from the original ones. Another difference is that the levels scroll.  This is a platformer in which the
+assets.boxfront: ./media/mixart/Lode Runner - Lost Labyrinth (Japan) (Translated En).png
+assets.video: ./media/snap/Lode Runner - Lost Labyrinth (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/Lode Runner - Lost Labyrinth (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/Lode Runner - Lost Labyrinth (Japan) (Translated En).png
+
+
+game: Maerchen Maze
+file: ./Maerchen Maze (Japan) (Translated En).zip
+sort-by: Maerchen Maze
+developer: Namco
+publisher: Namco
+genre: Action
+release: 1990-12-11
+players: 1
+rating: 80%
+description:
+	Märchen Maze is a platform/shooter game and conversion of Namco's 1988 arcade game of the same name. The gameplay remains largely the same - the player takes control of Alice who must shoot bubbles at enemies to knock them off platforms. Unlike the arcade original which was in isometric perspective, Märchen Maze on the PC Engine is an overhead game. This version features different stages than the arcade game, and because of the lack of a time limit, many of the stages are much more expansive. The chequered platforms at the end of a level are static rather than moving, hopping on to them automatically takes you to the boss. Also, instead of starting from a checkpoint when you die, your lives are represented by balloons. Should Alice fall, you'll be respawned on the spot.
+assets.boxfront: ./media/mixart/Maerchen Maze (Japan) (Translated En).png
+assets.video: ./media/snap/Maerchen Maze (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/Maerchen Maze (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/Maerchen Maze (Japan) (Translated En).png
+
+
+game: Maison Ikkoku
+file: ./Maison Ikkoku (Japan) (Translated En).zip
+sort-by: Maison Ikkoku
+developer: Micro Cabin
+publisher: Micro Cabin
+genre: Adventure
+release: 1989-08-04
+players: 1
+rating: 75%
+description:
+	The game is based on the manga Maison Ikkoku by Rumiko Takahashi.  Set in Tokyo of the 80-ies, the story can be described as a romantic tale with a touch of comedy. It centers on a boarding house which is managed by the young and lovely widow Kyoko Otonas
+assets.boxfront: ./media/mixart/Maison Ikkoku (Japan) (Translated En).png
+assets.video: ./media/snap/Maison Ikkoku (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/Maison Ikkoku (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/Maison Ikkoku (Japan) (Translated En).png
+
+
+game: Makai Hakkenden Shada
+file: ./Makai Hakkenden Shada (Japan) (Translated En).zip
+sort-by: Makai Hakkenden Shada
+developer: Data East
+publisher: Data East
+genres:
+	Action
+	Role-Playing
+release: 1989-04-01
+players: 1
+rating: 60%
+description:
+	The story of this game is loosely based on the 19th century Japanese epic novel Nans? Satomi Hakkenden ("Tale of Eight Dogs") by Kyokutei Bakin. In the game, the player controls a young warrior named Shin. The elder of his home village tells him that a magical artifact known as the Statue of the Four Gods has been stolen. This artifact was sealing away the spirit of the evil Tamazusa. To prevent Tamazusa's resurrection, Shin must find seven other warriors. Only when they are united can the evil be defeated once and for all...
+	Despite the premise of eight warriors, Makai Hakkenden Shada is an action RPG in which the player controls only Shin. The game is similar to the better-known  Ys games in many ways. As in Ys, the hero fights enemies simply by "bumping" into them. Defeated enemies produce money, which can be spent in villages to purchase weapons and various types of armor, and experience points. Once a set amount of those is accumulated, the hero gains a level.
+	Later in the game Shin receives spells and special techniques, which must be executed actively, by pressing a button. There is also a "search" command in the game, which is required to use to solve certain situations.
+assets.boxfront: ./media/mixart/Makai Hakkenden Shada (Japan) (Translated En).png
+assets.video: ./media/snap/Makai Hakkenden Shada (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/Makai Hakkenden Shada (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/Makai Hakkenden Shada (Japan) (Translated En).png
+
+
+game: Makai Prince Dorabocchan
+file: ./Makai Prince Dorabocchan (Japan).zip
+sort-by: Makai Prince Dorabocchan
+developer: Red Company
+publisher: Naxat Soft
+genre: Platform
+release: 1990-12-21
+players: 1
+rating: 75%
+description:
+	Makai Prince Dorabocchan ("Demon Prince Dorabo") is a 2D platformer for the PC Engine. The player controls the titular character who is on a quest to rescue his master and defeat the evil demons that have invaded the kingdom.
+	As well as his own magical powers, he can be upgraded by finding suits of armor which boost his abilities as well as temporary power-ups that provide double-jumping, a syringe weapon that stuns enemies and cleats that allow him to jump on enemies to defeat them. If he finds a bat with a bell, he can summon his burly Moai guardians who use their stone bodies to create bridges that allow Dorabo to move forward or find secret areas.
+assets.boxfront: ./media/mixart/Makai Prince Dorabocchan (Japan).png
+assets.video: ./media/snap/Makai Prince Dorabocchan (Japan).mp4
+assets.logo: ./media/wheel/Makai Prince Dorabocchan (Japan).png
+assets.screenshot: ./media/screenshot/Makai Prince Dorabocchan (Japan).png
+
+
+game: Metal Stoker
+file: ./Metal Stoker (Japan).zip
+sort-by: Metal Stoker
+developer: Sankindo
+publisher: FACE
+genre: Shooter
+release: 1991-07-12
+players: 1
+rating: 65%
+description:
+	Metal Stoker is a 2D top-down, multi-directional shooter. The player controls a female pilot (presented only in several cut-scenes) controlling a prototype CS-05 tank. The tank can freely be moved around the screen in any direction and the game scrolls along until the edge of the area is reached. The tank needs to destroy enemies and locate the exit. There are several weapons such as lasers, homing missiles, mines, a force field etc. The tank's turret can be locked into one position to shoot, so it is possible to strafe. Sometimes the player must destroy all the enemies or a boss to progress. The game has seven levels in totals and many parts of the levels are mazes.
+assets.boxfront: ./media/mixart/Metal Stoker (Japan).png
+assets.video: ./media/snap/Metal Stoker (Japan).mp4
+assets.logo: ./media/wheel/Metal Stoker (Japan).png
+assets.screenshot: ./media/screenshot/Metal Stoker (Japan).png
+assets.background: ./media/background/Metal Stoker (Japan).jpg
+
+
+game: Momotarou Katsugeki
+file: ./Momotarou Katsugeki (Japan).zip
+sort-by: Momotarou Katsugeki
+developer: Hudson
+publisher: Hudson
+genres:
+	Action
+	Platform
+release: 1990-09-21
+players: 1
+rating: 80%
+description:
+	Momotaro Katsugeki ("Momotaro Action Movie") is a side-scrolling action-platformer from Hudson that uses their Momotaro character who is better known as the star of the Momotaro Dentetsu and Momotaro Densetsu series. It is a PC Engine exclusive and never saw international releases.
+	Momotaro Katsugeki seems influenced by and plays similarly to Westone's Wonder Boy in Monster Land and the sequels that followed: the goal is to move across a set of 2D stages, and the player can talk to NPCs for hints and to purchase better equipment with the money they find. There is also a world map that links the various stages together.
+assets.boxfront: ./media/mixart/Momotarou Katsugeki (Japan).png
+assets.video: ./media/snap/Momotarou Katsugeki (Japan).mp4
+assets.logo: ./media/wheel/Momotarou Katsugeki (Japan).png
+assets.screenshot: ./media/screenshot/Momotarou Katsugeki (Japan).png
+
+
+game: Moto Roader II
+file: ./Moto Roader II (Japan).zip
+sort-by: Moto Roader II
+developer: NCS Corporation
+publisher: NCS Corporation
+genre: Racing
+release: 1991-03-29
+players: 5
+rating: 75%
+description:
+	Moto Roader II is a racing game shown in a top-down perspective. Five vehicles compete on a course with the goal to finish first. However, the screen always follows the leading vehicle and if a vehicle is left behind, it gets replaced on the current scree
+assets.boxfront: ./media/mixart/Moto Roader II (Japan).png
+assets.video: ./media/snap/Moto Roader II (Japan).mp4
+assets.logo: ./media/wheel/Moto Roader II (Japan).png
+assets.screenshot: ./media/screenshot/Moto Roader II (Japan).png
+
+
+game: Mr. Heli no Daibouken
+file: ./Mr. Heli no Daibouken (Japan).zip
+sort-by: Mr. Heli no Daibouken
+developer: Irem
+publisher: Irem
+genre: Shooter
+release: 1989-12-01
+players: 1
+rating: 80%
+description:
+	It is 2999 and Mr Muddy threatens your planet. Fortunately you have a fully armed large helicopter with which to attack his sadistic minions. You hop aboard and fly through four side-view levels, primiarly scrolling left to right but with some variant, each of which ends with a boss.
+	.
+	As well as enemies, there are many blocks on the levels. The weapon upgrade system is build into these, which function in two different ways. Most will drop crystals, which if collected are added to your cash total. The others reveal a picture of a weapon with a price - make contact with it while carrying enough credits and you will buy this weapon. When your energy bar runs out you lose a life; when this happens you lose all your money.
+assets.boxfront: ./media/mixart/Mr. Heli no Daibouken (Japan).png
+assets.video: ./media/snap/Mr. Heli no Daibouken (Japan).mp4
+assets.logo: ./media/wheel/Mr. Heli no Daibouken (Japan).png
+assets.screenshot: ./media/screenshot/Mr. Heli no Daibouken (Japan).png
+
+
+game: The Newzealand Story
+file: ./NewZealand Story, The (Japan).zip
+sort-by: NewZealand Story, The
+developer: Taito
+publisher: Taito
+genres:
+	Action
+	Platform
+release: 1990-02-23
+players: 1
+rating: 60%
+description:
+	One day, a kiwi tribe was having fun and games outside the zoo, only to be kidnapped by the evil-minded Leopard Seal, who plans to sell them at the black market. Fortunately, during the kidnapping process, Tiki, leader of the tribe, managed to escape the sack, and her job is to rescue Phee-Phee and the other kiwis scattered around New Zealand, and are held in cages in various locations that include Auckland, Rotorua, Waitomo Caves, Strait Cook, and Mt. Cook.
+	If Tiki doesn't rescue a kiwi in a limited amount of time, the devil will appear and try to kill her. When Tiki reaches the outskirts of each city, except Strait Cook, there is a boss waiting to meet Tiki, and kill her by using their own choice of weapons. Also making the rescue mission difficult are several nasties that attempt to throw their own weapons, like bombs and arrows, at her. To defeat these enemies, Tiki shoots at them using her crossbow and arrows. More often than not, when Tiki shoots at enemies, they will leave behind pieces of fruit that she can pick up for points. However, it is likely that Tiki may get other weapons or the letters E, X, T, E, N, and D. Collecting all these letters will result in an extra life, and as for the weapons, they include laser shots, bombs, and fireballs.
+	In some levels, a few areas are located further up than just left or right, and the only way that Tiki can go up is by snatching something off the enemy that gives her the ability to fly up. Other areas are underwater, and when Tiki goes underwater, her oxygen  meter decreases, so she has to rise up to the surface again to restore her oxygen levels. Apart from her own weapons, Tiki is able to squirt water at enemies if she gets to the top of the water.
+assets.boxfront: ./media/mixart/NewZealand Story, The (Japan).png
+assets.video: ./media/snap/NewZealand Story, The (Japan).mp4
+assets.logo: ./media/wheel/NewZealand Story, The (Japan).png
+assets.screenshot: ./media/screenshot/NewZealand Story, The (Japan).png
+
+
+game: Ninja Ryuukenden
+file: ./Ninja Ryuukenden (Japan) (En,Ja,Zh) (Translated En).zip
+sort-by: Ninja Ryuukenden
+developer: Tecmo
+publisher: Hudson
+genre: Action
+release: 1992-01-24
+players: 1
+rating: 70%
+description:
+	Ninja Gaiden begins with a cinematic animation in which two ninjas duel to the death and one goes down. It is then revealed that the doomed ninja is the father of Ryu Hayabusa. When Ryu learns of this, he embarks on a quest to find out who killed his father and why. This quest takes him to America to find an archaeologist with whom his father was working. From there, Ryu becomes embroiled in an evil, supernatural conspiracy involving a villain named Jaquio who has plans to use an ancient castle and some relics to unleash a terrifying evil upon the world.
+	Ninja Gaiden is a side scrolling game where Ryu the ninja can run, jump and slash with his ninja sword. He can also attach to any vertical surface. Power-ups that allow Ryu to toss fireballs and ninja stars as well as perform other feats are scattered throughout the landscape.
+	Ryu will battle through urban city settings, forests, jungles, snow covered castles, underground railroads and ancient castles. A major feature in Ninja Gaiden are the cinematic scenes ? sometimes fullscreen ? through which the storyline unfolds.
+assets.boxfront: ./media/mixart/Ninja Ryuukenden (Japan) (En,Ja,Zh) (Translated En).png
+assets.video: ./media/snap/Ninja Ryuukenden (Japan) (En,Ja,Zh) (Translated En).mp4
+assets.logo: ./media/wheel/Ninja Ryuukenden (Japan) (En,Ja,Zh) (Translated En).png
+assets.screenshot: ./media/screenshot/Ninja Ryuukenden (Japan) (En,Ja,Zh) (Translated En).png
+
+
+game: Ninja Warriors
+file: ./Ninja Warriors, The (Japan).zip
+sort-by: Ninja Warriors, The
+developer: Taito
+publisher: Taito
+genre: Beat 'em Up
+release: 1989-06-30
+players: 1
+rating: 55%
+description:
+	The Ninja Warriors is a one or two player side-scrolling beat-em-up. The Taito coin-op featured three monitor screens side by side, while the Amiga version was developed in letterbox format in order to show as much of the wide screen background graphics as possible.
+	The player(s) control robot Ninjas, which battle their way through the levels using Shuriken and knives. As the Ninja's take damage their classic Ninja garb is torn away to reveal robotic limbs, torso or head. When the damage reaches a critical level the Ninja Robot explodes scattering mechanical body parts.
+	As with The Sales Curve's later title SWIV, The Ninja Warriors uses the company's Dynamic Loading System to load sprites, sound and background graphics from disk on the fly.
+assets.boxfront: ./media/mixart/Ninja Warriors, The (Japan).png
+assets.video: ./media/snap/Ninja Warriors, The (Japan).mp4
+assets.logo: ./media/wheel/Ninja Warriors, The (Japan).png
+assets.screenshot: ./media/screenshot/Ninja Warriors, The (Japan).png
+
+
+game: Operation Wolf
+file: ./Operation Wolf (Japan).zip
+sort-by: Operation Wolf
+developer: Taito
+publisher: NEC
+genre: Shooter
+release: 1990-08-31
+players: 1
+rating: 70%
+description:
+	You have been recruited for Operation Wolf, a desperate attempt to rescue prisoners from the enemy. Through a series of missions, you'll engage a variety of enemies, from soldiers to ninjas, patrol boats to helicopters, and more. Can you carry the day?
+	Operation Wolf is an arcade game by Taito. It is essentially a bitmapped "rail-shooter", where you basically hold the gun and shoot just about everything that moves, while conserving your ammo and grenades. Shoot ammo/grenades and healing items on the screen to "pick them up". Your primary machine gun can kill everything if you hit it enough times, but you can also use the grenade launcher for really deadly targets like helicopters or armored cars. You can collect a machine gun which will allow you to shoot faster for a few seconds.
+	You'll be pummelled by a LOT of enemies. Some will be shooting, others will be tossing grenades, knifes, and more. Some are armored and requires more than a few hits, others dodges. You can shoot grenades and knifes out of the air if you aim well enough. There are also civilians running around which can be shot, but it's not beneficial.
+	Bosses appear at the end of some levels, and each has a specific weakness you need to exploit.
+assets.boxfront: ./media/mixart/Operation Wolf (Japan).png
+assets.video: ./media/snap/Operation Wolf (Japan).mp4
+assets.logo: ./media/wheel/Operation Wolf (Japan).png
+assets.screenshot: ./media/screenshot/Operation Wolf (Japan).png
+
+
+game: Out Live
+file: ./Out Live (Japan) (Translated En).zip
+sort-by: Out Live
+developer: Sunsoft
+publisher: Sunsoft
+genre: Role-Playing
+release: 1989-03-17
+players: 2
+rating: 75%
+description:
+	A very important discovery was recently made on the planet Laffra - ancient ruins at an excavation site, containing relics of another civilization, with technique that would surely benefit the great intergalactic Empire. But a mysterious organization that calls itself Mars began to stir unrest on the planet. The head of Imperial Scouts sends the hero, piloting a combat robot known as FW, into the depths of the ruins, to face the enemies and retrieve the precious knowledge...
+	Out Live is a solo dungeon crawler; unlike most representatives of this genre, it is set in a sci-fi environment, and the player controls a giant robot rather than a medieval warrior. Most of the enemies are also machines and robots of different kinds.
+	Before venturing into the dungeon, the player has access to various shops, where it is possible to repair the robot, buy weapons, protective shields, and items that restore the robot's energy. Most of the gameplay takes place in pseudo-3D, maze like underground complexes (without an auto-map, but with a compass feature). There, the game plays similarly to other dungeon crawlers: random enemies must be fought in turn-based fashion; they drop money and award the player character with experience points.
+	A somewhat unusual feature is double leveling: the robot has two independent levels, for attack and for defense. The experience points the robot receives after battles also come in two different flavors. Depending on the enemy type and outcome of the battle, the robot receives different amounts of experience. The leveling-up itself is automatic, increasing maximum energy, attack and defense parameters.
+assets.boxfront: ./media/mixart/Out Live (Japan) (Translated En).png
+assets.video: ./media/snap/Out Live (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/Out Live (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/Out Live (Japan) (Translated En).png
+
+
+game: Out Run
+file: ./Out Run (Japan).zip
+sort-by: Out Run
+developer: NEC
+publisher: Sega
+genre: Racing
+release: 1990-12-21
+players: 1
+rating: 65%
+description:
+	Brace yourself for the most realistic racing experience yet. And to play, you've got to have what it takes: NERVE, SKILL and BRAINS. NERVE - you're behind the wheel of a supertuned race car with one speed only: fast. SKILL - you're maneuvering a car that can nearly reach a simulated 270 KMH. BRAINS - because you're in control of your car's speed and handling at a dangerous pace, you have to use your head and not just your hands to survive. So get geared for the ride of your life and stay alert. The track may look terrific, but at these speeds anything can turn into a danger zone.
+assets.boxfront: ./media/mixart/Out Run (Japan).png
+assets.video: ./media/snap/Out Run (Japan).mp4
+assets.logo: ./media/wheel/Out Run (Japan).png
+assets.screenshot: ./media/screenshot/Out Run (Japan).png
+
+
+game: Override
+file: ./Override (Japan).zip
+sort-by: Override
+developer: Sting
+publisher: Data East
+genre: Shooter
+release: 1991-01-08
+players: 1
+rating: 75%
+description:
+	Override is a vertically-scrolling shooter in which the player controls a fighter craft on a mission to stop an alien invasion of the Earth. Much of the action takes place on planet surfaces, and enemies include spaceships of various kinds as well as ground enemies, mobile (tanks) or stationary (turrets). The player-controlled craft begins with two lives with three hit points each; restoring power-ups can repair the plane or increase its number of lives. nnnnOther power-ups come in two varieties: strength-increasing or secondary weapons. Depending on the color, the latter grants the plane wingmen with laser attacks, spreading fire, side lasers, rotating energy balls, etc. The strength of secondary weapons can be increase by flying over strength-increasing power-ups as well. Special weapon that hurts all enemies on screen must be activated by charging, which is achieved by not pressing the fire button for a certain amount of time.
+assets.boxfront: ./media/mixart/Override (Japan).png
+assets.video: ./media/snap/Override (Japan).mp4
+assets.logo: ./media/wheel/Override (Japan).png
+assets.screenshot: ./media/screenshot/Override (Japan).png
+
+
+game: P-47: The Freedom Fighter
+file: ./P-47 - The Freedom Fighter (Japan).zip
+sort-by: P-47 - The Freedom Fighter
+developer: NMK
+publisher: Aicom
+genre: Shooter
+release: 1989-03-20
+players: 1
+rating: 60%
+description:
+	The P-47 was one of the toughest planes in use in World War 2, and this side-scrolling shoot 'em up puts you in control of one as you take on hordes of Nazis. 16-bit versions have a simultaneous 2-player mode, as well as the ability to wrap-around the game with increased difficulty up to 4 times.
+	You are initially armed with a machine gun, but can also pick up bombs, spray missiles and multi-missiles by picking up the appropriate letter. Each weapon can be upgraded by picking up further tokens of the same type. Tokens offering extra lives and speed-ups are also on offer.
+assets.boxfront: ./media/mixart/P-47 - The Freedom Fighter (Japan).png
+assets.video: ./media/snap/P-47 - The Freedom Fighter (Japan).mp4
+assets.logo: ./media/wheel/P-47 - The Freedom Fighter (Japan).png
+assets.screenshot: ./media/screenshot/P-47 - The Freedom Fighter (Japan).png
+
+
+game: Parodius Da!: Shinwa kara Owarai e
+file: ./Parodius Da! - Shinwa kara Owarai e (Japan).zip
+sort-by: Parodius Da! - Shinwa kara Owarai e
+developer: Konami
+publisher: Konami
+genre: Shooter
+release: 1992-02-21
+players: 2
+rating: 80%
+description:
+	One day, our octopus friend gets into a fight to the death with his old rival, the bug. Our octopus wins and people start to call him Mr. Parodius. On his paid vacation he goes to the countryside to enjoy a little farming. Returning to our ready-made octopus pot, he reads the "People of the Universe" newspaper and nearly falls off his chopping board in surprise. There now is a picture of the mysterious Great Octopus with the Earth in his arms. "F... father?," he stutters. It was his father, who had disappeared just two years before, never to return home. So Octopus sets out on a search for the truth and with his companions begins to travel the world!
+assets.boxfront: ./media/mixart/Parodius Da! - Shinwa kara Owarai e (Japan).png
+assets.video: ./media/snap/Parodius Da! - Shinwa kara Owarai e (Japan).mp4
+assets.logo: ./media/wheel/Parodius Da! - Shinwa kara Owarai e (Japan).png
+assets.screenshot: ./media/screenshot/Parodius Da! - Shinwa kara Owarai e (Japan).png
+
+
+game: Power Drift
+file: ./Power Drift (Japan).zip
+sort-by: Power Drift
+developer: Asmik
+publisher: Sega
+genre: Racing
+release: 1990-04-13
+players: 1
+rating: 55%
+description:
+	Ever wanted to race dune buggies at high speed on a variety of tracks? Power Drift is an arcade racer that gives you the chance to do just that.
+	.
+	There are 5 tracks to choose from, each with 5 stages. The stages range from cities, to deserts to tracks over water. There are also 12 drivers to pick from, from businessmen to skinheads and mohicans.
+	.
+	Your buggy has 2 gears, high and low. Once the light goes green, just keep the pedal to the metal. You’ll need to place third or higher to continue to the next stage. Be careful not to bump into other buggies or objects next to the road. While you’re buggy can take a pounding, crashing will slow you down.
+	.
+	Finish all 5 stages in a level and you’ll be presented with a bonus level.
+assets.boxfront: ./media/mixart/Power Drift (Japan).png
+assets.video: ./media/snap/Power Drift (Japan).mp4
+assets.logo: ./media/wheel/Power Drift (Japan).png
+assets.screenshot: ./media/screenshot/Power Drift (Japan).png
+
+
+game: Psycho Chaser
+file: ./Psycho Chaser (Japan).zip
+sort-by: Psycho Chaser
+developer: Sting, Inc.
+publisher: Naxat Soft
+genre: Shooter
+release: 1990-04-06
+players: 1
+rating: 70%
+description:
+	Space year X2981Y. Earth has developed battle androids to fight bloodless wars. A new battle android called "Aura" was developed and sent into battle, and seemed to be leading its country to victory. However, Aura broke free of human control and revolted against the Earth, taking control of the other androids and starting a war against humanity. In a last ditch effort, humanity developed one more android, stronger than any before and imbued with the wishes of humanity, dubbed "Psycho Chaser." It is making its assault on Aura's stronghold to end the war.
+	Psycho Chaser is a vertically-scrolling sci-fi shooter. The player takes control of the titular battle android. There are multiple weapons which can be picked up and freely switched between, and also power-ups which allow for weapon and energy upgrades between stages.
+assets.boxfront: ./media/mixart/Psycho Chaser (Japan).png
+assets.video: ./media/snap/Psycho Chaser (Japan).mp4
+assets.logo: ./media/wheel/Psycho Chaser (Japan).png
+assets.screenshot: ./media/screenshot/Psycho Chaser (Japan).png
+
+
+game: Puzzle Boy
+file: ./Puzzle Boy (Japan) (Translated En).zip
+sort-by: Puzzle Boy
+developer: Atlus
+publisher: Telenet
+genre: Puzzle
+release: 1991-02-22
+players: 2
+rating: 80%
+description:
+	Puzzle Boy is a port of the Game Boy title Kwirk, but features more and different levels along with changed graphics. In contrast to the original version, the perspective is straight top-down and there is no undo-function.  However, regarding gameplay thi
+assets.boxfront: ./media/mixart/Puzzle Boy (Japan) (Translated En).png
+assets.video: ./media/snap/Puzzle Boy (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/Puzzle Boy (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/Puzzle Boy (Japan) (Translated En).png
+
+
+game: Puzznic
+file: ./Puzznic (Japan).zip
+sort-by: Puzznic
+developer: Taito
+publisher: Taito
+genre: Puzzle
+release: 1990-06-29
+players: 1
+rating: 80%
+description:
+	The challenge in each level of Puzznic is to maneuvre a selection of blocks into place so as to clear them all, by making them make contact with blocks of the same design. You control a cross-hair, which can move a block left or right, which can cause it to fall if there is no block under the space it would occupy.
+	.
+	There are many complications in terms of solving the levels. Moving platforms meaning that you need to move a block at a particular time, or in particular order, to prevent them being blockaded. In some situations there are an odd number of a certain type of block - solving these requires positioning two of the blocks one space apart, such that a move will result in a piece making contact with 2 others, and immediately removing all 3. You will also encounter blocks positioned on platforms suspended in space and gaps in level arrangements meaning that a certain number of blocks must be in place to make a certain move possible (by forming a stack, for example)
+	.
+	The game structure is slightly unusual, as after you complete each batch of four levels you get a choice of 2 sets of levels - you are progressing through an expanding matrix of levels, which means there are 2 sets on level 2, 3 on level 3, 4 on level 4, and so on. This means that there are a total of 220 screens in the game. Each screen is played against a time limit, and losing a level (either by running out of time, or by making a poor move and leaving an impossible position) loses one of your 3 lives.
+assets.boxfront: ./media/mixart/Puzznic (Japan).png
+assets.video: ./media/snap/Puzznic (Japan).mp4
+assets.logo: ./media/wheel/Puzznic (Japan).png
+assets.screenshot: ./media/screenshot/Puzznic (Japan).png
+
+
+game: R-Type I
+file: ./R-Type I (Japan).zip
+sort-by: R-Type I
+developer: Irem
+publisher: NEC
+genre: Shooter
+release: 1988-03-25
+players: 1
+rating: 70%
+description:
+	R-Type is a side scrolling shoot 'em up best known for its extremely tough and strategic gameplay.  You control the R-9 spaceship as it launches a last-ditch effort to repel the evil Bydo empire.
+	The R-9 comes equipped as standard with a small gun which can only take down the smallest of enemies without firing several shots. By holding down the fire button, it can be loaded up so as to release a large burst of energy, eliminating all but the strongest enemies in its path. From time to time, pods will come flying in your direction. Upon being shot, they release an upgrade. The first one will invariably be the one called "The Force", which is a weapons pod that clings either to the front or the back of your ship, absorbing any enemy bullets or acting as a bumper with which you can fly head-on into them. You can also use it as an offensive weapon by firing it and pulling it back in. Mastering the Force is vital to surviving in R-Type, since it must be used both as protection against bullet clusters, as a remote controlled cannon, and in order to clear the screen from obstacles. Other upgrades give you target-seeking missiles or a bigger main gun. Different gun types, differentiated by their colour, serve different purposes. The blue one sends laser beams bouncing across the screen (good for tunnels), the red one fires straight ahead, and the yellow one follows any walls it may encounter (good for artillery emplacements).
+	The stages of R-Type are made in an organic style, certainly inspired by H. R. Giger's artwork for the Alien movies. When it came out, it was considered trend-setting since it broke off from the stereotypical sci-fi mould of other shoot'em'ups. In part, the levels themselves are your enemy, which is exemplified by the fourth, where spider-like creatures weave webs that cover the screen and block your path, or levels with intricate tunnel systems. Still, the levels are best handled with a combination of strategy and reflexes, without the memorisation that is required of R-Type's contemporary rival, Gradius.
+assets.boxfront: ./media/mixart/R-Type I (Japan).png
+assets.video: ./media/snap/R-Type I (Japan).mp4
+assets.logo: ./media/wheel/R-Type I (Japan).png
+assets.screenshot: ./media/screenshot/R-Type I (Japan).png
+assets.background: ./media/background/R-Type I (Japan).jpg
+
+
+game: R-TYPE II
+file: ./R-Type II (Japan).zip
+sort-by: R-Type II
+developer: Hudson
+publisher: Hudson
+genre: Shooter
+release: 1988-06-03
+players: 1
+rating: 75%
+description:
+	The PC Engine port of the shoot'em up classic R-Type was released in two parts in Japan: R-Type I includes the first four, R-Type II the last four levels.
+assets.boxfront: ./media/mixart/R-Type II (Japan).png
+assets.video: ./media/snap/R-Type II (Japan).mp4
+assets.logo: ./media/wheel/R-Type II (Japan).png
+assets.screenshot: ./media/screenshot/R-Type II (Japan).png
+
+
+game: Rastan Saga II
+file: ./Rastan Saga II (Japan).zip
+sort-by: Rastan Saga II
+developer: Taito
+publisher: Taito
+genre: Action
+release: 1990-07-06
+players: 1
+rating: 70%
+description:
+	The "Rastania" was a sacred place, in which the sacred temple, "Skyscraper", soared into the sky. It is said that whoever conquer the "Skyscraper" would rule the "Rastania". A wicked group has invaded the "Skyscraper" and has tried to make it their own. If the situation is left as it is, the place would eventually be controlled by the wicked group.
+	Rastan Saga II is the sequel to Rastan,   containing the same hack-em'/slash-'em gameplay as the original. You are a warrior who must get through a number of levels, and trying to collect gems which can only be obtained by defeating the end-of-level bosses.  Collecting power-ups along the way awards you with extra life or better weapons.
+assets.boxfront: ./media/mixart/Rastan Saga II (Japan).png
+assets.video: ./media/snap/Rastan Saga II (Japan).mp4
+assets.logo: ./media/wheel/Rastan Saga II (Japan).png
+assets.screenshot: ./media/screenshot/Rastan Saga II (Japan).png
+
+
+game: Special Criminal Investigation
+file: ./S.C.I. - Special Criminal Investigation (Japan).zip
+sort-by: S.C.I. - Special Criminal Investigation
+developer: Taito
+publisher: Taito
+genres:
+	Racing
+	Shooter
+release: 1991-01-25
+players: 1
+rating: 80%
+description:
+	Three girls have been reported missing including the mayor's daughter, and Chase Special Investigations has asked you to track down five vehicles, mentioned in the mission briefing, who are believed to be involved in the kidnapping. Using a heavy-designed machine with a V6 DOHC 3000CC Twin Turbo Engine, five sets of nitro-fuel boosts, and a gun attached to the steering wheel (which you can use to damage the target vehicle), your mission is to patrol the streets and find these vehicles.
+	The gameplay is similar to Chase H.Q., but there are a few differences. For example, cars travel in both directions instead of one, and some of them will catch up to your car and shoot at you. At least once in every stage a helicopter does a fly by and drops you some grenades you can use to further damage the target vehicle. A guy on a motorcycle will catch up to you and throw grenades at your car. And, most importantly, as mentioned earlier, you can shoot at the target vehicle rather than just bumping into it.
+	Have fun driving around, but remember, there is a strict time limit, so I wouldn't waste time or keep crashing into things if I were you.
+assets.boxfront: ./media/mixart/S.C.I. - Special Criminal Investigation (Japan).png
+assets.video: ./media/snap/S.C.I. - Special Criminal Investigation (Japan).mp4
+assets.logo: ./media/wheel/S.C.I. - Special Criminal Investigation (Japan).png
+assets.screenshot: ./media/screenshot/S.C.I. - Special Criminal Investigation (Japan).png
+
+
+game: Salamander
+file: ./Salamander (Japan).zip
+sort-by: Salamander
+developer: Konami
+publisher: Konami
+genre: Shooter
+release: 1991-12-06
+players: 2
+rating: 85%
+description:
+	Salamander (or LifeForce on other media) is a shoot'em up on PC Engine. Aboard your severely armed ship, you must progress through the levels by shooting everything that moves up to the final boss. A multiplayer option allows you to play two at the same time.
+assets.boxfront: ./media/mixart/Salamander (Japan).png
+assets.video: ./media/snap/Salamander (Japan).mp4
+assets.logo: ./media/wheel/Salamander (Japan).png
+assets.screenshot: ./media/screenshot/Salamander (Japan).png
+
+
+game: Shinobi
+file: ./Shinobi (Japan).zip
+sort-by: Shinobi
+developer: Asmik
+publisher: Sega
+genres:
+	Action
+	Platform
+release: 1989-12-08
+players: 1
+rating: 95%
+description:
+	You control a ninja, Shinobi, who must battle his way through each level in search of hostages which must be rescued. You have shurikens, kicks and punches to defend yourself with. As well as the powerful ninja magic which can clear the screen of enemies in one go.
+	.
+	Each level is broken down into smaller scenes and hostages are guarded by big blokes who throw swords. Watch out for gun-toting enemy henchmen and ninjas.
+	.
+	Reaching the end of each level will find you battling it out with a boss. These range from 8ft giants to helicopter gunships.
+assets.boxfront: ./media/mixart/Shinobi (Japan).png
+assets.video: ./media/snap/Shinobi (Japan).mp4
+assets.logo: ./media/wheel/Shinobi (Japan).png
+assets.screenshot: ./media/screenshot/Shinobi (Japan).png
+
+
+game: Shiryou Sensen: War of the Dead
+file: ./Shiryou Sensen - War of the Dead (Japan) (Translated En).zip
+sort-by: Shiryou Sensen - War of the Dead
+developer: Fun Project
+publisher: Victor Entertainment
+genres:
+	Action
+	Role-Playing
+release: 1989-03-24
+players: 1
+rating: 75%
+description:
+	This version of Shiry Sensen: War of the Dead can be described as a cross between the MSX and the PC-88 releases.
+	Similarly to the original MSX release, guns require ammunition, battles have backgrounds, several enemies may attack at once, and it is possible to leave the side-scrolling battle area (which became larger in this release) by walking to its edge. However, map layout and locations are almost identical with those of the PC-88 version, hence being completely different from those of the MSX release.
+	The most significant change - which is unique to this version - is the addition of a RPG system. Whereas in the two other versions the battles didn't serve any other purpose but challenge the player and impede the progress of the story, in the PC Engine (TurboGrafx-16) release they are essential to Laila's character growth. Like in most RPGs, Laila can now gain levels, which enhance her parameters and make her stronger in combat. When defeated, enemies leave orbs of various colors and chests; these serve to heal Laila, grant her experience points, "mind points" (to replenish her psychic abilities), or ammunition for the firearms.
+assets.boxfront: ./media/mixart/Shiryou Sensen - War of the Dead (Japan) (Translated En).png
+assets.video: ./media/snap/Shiryou Sensen - War of the Dead (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/Shiryou Sensen - War of the Dead (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/Shiryou Sensen - War of the Dead (Japan) (Translated En).png
+
+
+game: Skweek
+file: ./Skweek (Japan).zip
+sort-by: Skweek
+developer: Loriciel SA
+publisher: Victor Entertainment
+genre: Puzzle
+release: 1991-08-02
+players: 1
+rating: 70%
+description:
+	The Skweeks lived in harmony for centuries, being a naturally peaceful peoples, until Pitark arrived. He ruined their bright pink land by removing the colour, and it was only after he died that they had the opportunity to clean the land up. Your job is to travel through the 99 continents and clean each one in sequence.
+	Skweek can move in each of the four compass directions, and is armed with a simple weapon, whose shots rebound around before they hit one of Pitark's minions, the Schnoreuls - contact with which is instantly fatal. Some squares contain arrows which force you in a particular direction, while there are also blockades to avoid. Bomb squares blow up surrounding squares but give you time to move away from them as they do this, while Shortcut squares allow you to move to another teleport-type square by pushing the joystick in its direction.
+assets.boxfront: ./media/mixart/Skweek (Japan).png
+assets.video: ./media/snap/Skweek (Japan).mp4
+assets.logo: ./media/wheel/Skweek (Japan).png
+assets.screenshot: ./media/screenshot/Skweek (Japan).png
+
+
+game: Soldier Blade: Special Version
+file: ./Soldier Blade - Special Version (Japan).zip
+sort-by: Soldier Blade - Special Version
+developer: Hudson
+publisher: Hudson
+genre: Shooter
+release: 1992-07-10
+players: 1
+rating: 75%
+description:
+	A top down sci-fi shooter in which you take to the skies of several planets in an advanced starfighter in order to eradicate an alien invasion.
+	Soldier Blade puts you in direct control of a starfighter as you make your way through each enemy-infested stage. You are not alone in the fight this time however, as a small mecha follows your fighter at all times, and provides cover and supporting firepower at regular intervals.
+	The game also features a unique weapon system with three customizable gun pods, in which you can mount any of the several types of weapons available. Additionally you can sacrifice each of your pods to incorporate "option" satellites, bombs and other super moves depending on the pod/weapon combination you have equipped.
+assets.boxfront: ./media/mixart/Soldier Blade - Special Version (Japan).png
+assets.video: ./media/snap/Soldier Blade - Special Version (Japan).mp4
+assets.logo: ./media/wheel/Soldier Blade - Special Version (Japan).png
+assets.screenshot: ./media/screenshot/Soldier Blade - Special Version (Japan).png
+assets.background: ./media/background/Soldier Blade - Special Version (Japan).jpg
+
+
+game: Son Son II
+file: ./Son Son II (Japan) (Translated En).zip
+sort-by: Son Son II
+developer: NEC
+publisher: Capcom
+genres:
+	Action
+	Platform
+release: 1989-01-27
+players: 1
+rating: 75%
+description:
+	In this platformer, loosely based on the classic Chinese novel Xi You Ji, players take control of Son Goku who has to rescue his friends from a mysterious villain. In seven levels, Son Goku has to survive various jumping puzzles, fight off enemies with his staff and collect money in form of fruit. Along the way, he can pick up various helpful items that can either be bought in stores or found hidden within the levels. They include: Medicine that refills Son Goku's health, a magic lamp that allows him to continue after losing a life, keys that open doors, a glove that breaks certain walls and a cloud that Son Goku can use to fly during boss-battles. Additionally, Son Goku can buy longer and more powerful staffs if he finds somebody who sells them.
+assets.boxfront: ./media/mixart/Son Son II (Japan) (Translated En).png
+assets.video: ./media/snap/Son Son II (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/Son Son II (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/Son Son II (Japan) (Translated En).png
+
+
+game: Spin Pair
+file: ./Spin Pair (Japan).zip
+sort-by: Spin Pair
+developer: Media Rings
+publisher: Media Rings
+genre: Puzzle
+release: 1990-12-14
+players: 2
+rating: 60%
+description:
+	This might look like a typical drop-the-block puzzle game, but there?s a twist (or spin) to it. Instead of just matching block colours, you also have to fill in the blocks by rotating their 'full' half so it matches the 'empty' half of the shape below. As levels progress, blocks represent different things like plants, animals etc to give some variety. There are several modes of play, including a story mode and link-up.
+assets.boxfront: ./media/mixart/Spin Pair (Japan).png
+assets.video: ./media/snap/Spin Pair (Japan).mp4
+assets.logo: ./media/wheel/Spin Pair (Japan).png
+assets.screenshot: ./media/screenshot/Spin Pair (Japan).png
+
+
+game: Street Fighter II': Champion Edition
+file: ./Street Fighter II' - Champion Edition (Japan).zip
+sort-by: Street Fighter II' - Champion Edition
+developer: Capcom
+publisher: NEC
+genre: Fighting
+release: 1993-06-12
+players: 2
+rating: 80%
+description:
+	This version of Street Fighter II is similar in most aspects to the original, save that all 12 characters are selectable from the get-go (the boss characters were originally locked), and the game engine has been revamped.
+assets.boxfront: ./media/mixart/Street Fighter II' - Champion Edition (Japan).png
+assets.video: ./media/snap/Street Fighter II' - Champion Edition (Japan).mp4
+assets.logo: ./media/wheel/Street Fighter II' - Champion Edition (Japan).png
+assets.screenshot: ./media/screenshot/Street Fighter II' - Champion Edition (Japan).png
+
+
+game: Strip Fighter II
+file: ./Strip Fighter II (Japan) (Unl).zip
+sort-by: Strip Fighter II
+developer: Games Express
+publisher: Games Express
+genre: Fighting
+release: 1993-01-01
+players: 2
+rating: 55%
+description:
+	Strip Fighter II is similar to Street Fighter II, but has a distinguishing feature: in this fighting game all the participants are attractive women. Players can choose one of six female characters. The player-controlled character must use her fighting and combat strengths to defeat the other five girls and a palette-swap of herself.
+	The game has some fairly explicit content: during some moves the fighters would take their clothes off; after each fight the player is presented with a picture of female stripper.
+assets.boxfront: ./media/mixart/Strip Fighter II (Japan) (Unl).png
+assets.video: ./media/snap/Strip Fighter II (Japan) (Unl).mp4
+assets.logo: ./media/wheel/Strip Fighter II (Japan) (Unl).png
+assets.screenshot: ./media/screenshot/Strip Fighter II (Japan) (Unl).png
+
+
+game: Super Metal Crusher
+file: ./Super Metal Crusher (Japan).zip
+sort-by: Super Metal Crusher
+developer: Make
+publisher: Pack In Video
+genre: Strategy
+release: 1991-11-29
+players: 2
+rating: 85%
+description:
+	Strategy game where you design a robot by allocating points to various stats, then let it scrap it out with an opponent while you watch.
+assets.boxfront: ./media/mixart/Super Metal Crusher (Japan).png
+assets.video: ./media/snap/Super Metal Crusher (Japan).mp4
+assets.logo: ./media/wheel/Super Metal Crusher (Japan).png
+assets.screenshot: ./media/screenshot/Super Metal Crusher (Japan).png
+
+
+game: Tatsujin
+file: ./Tatsujin (Japan).zip
+sort-by: Tatsujin
+developer: Sting
+publisher: Taito
+genre: Shooter
+release: 1992-07-24
+players: 1
+rating: 60%
+description:
+	Power on! All systems go! Takeoff! Meet the alien attack head-on in your Super Fighter! Before the Gidans overrun your planet, destroy them in an explosive scramble in space. You are the one pilot alive with the guts to do it! The Gidans have blown up your planet's cargo barge and are on their way to Borogo with a swarm of flying fortresses - asteroids loaded with tanks, guns, and explosives for an all-points takeover! Attack them face-to-face in your Super Fighter, the most powerful assault ship in the universe. Blast them to kingdom come with Power Shots. Fire the incredible Truxton Beam to disintegrate their speeding onslaught. And when there's no escape through their force fields, surprise them with the devastating Rainbow Circle Shot! You CAN save the planet!
+assets.boxfront: ./media/mixart/Tatsujin (Japan).png
+assets.video: ./media/snap/Tatsujin (Japan).mp4
+assets.logo: ./media/wheel/Tatsujin (Japan).png
+assets.screenshot: ./media/screenshot/Tatsujin (Japan).png
+
+
+game: Terra Cresta II: Mandoler no Gyakushuu
+file: ./Terra Cresta II - Mandoler no Gyakushuu (Japan).zip
+sort-by: Terra Cresta II - Mandoler no Gyakushuu
+developer: Nichibutsu
+publisher: Nichibutsu
+genre: Shooter
+release: 1992-11-27
+players: 1
+rating: 75%
+description:
+	Vertically scrolling shoot 'em up where you collect modules that can either combine with your ship or fly in formation with you to alter their effectiveness.
+assets.boxfront: ./media/mixart/Terra Cresta II - Mandoler no Gyakushuu (Japan).png
+assets.video: ./media/snap/Terra Cresta II - Mandoler no Gyakushuu (Japan).mp4
+assets.logo: ./media/wheel/Terra Cresta II - Mandoler no Gyakushuu (Japan).png
+assets.screenshot: ./media/screenshot/Terra Cresta II - Mandoler no Gyakushuu (Japan).png
+
+
+game: Thunder Blade
+file: ./Thunder Blade (Japan).zip
+sort-by: Thunder Blade
+developer: NEC
+publisher: Sega
+genre: Shooter
+release: 1990-12-07
+players: 1
+rating: 70%
+description:
+	Get ready to take part in the greatest helicopter battle of the century with THUNDER BLADE! You're the Gunship Gladiator. You fly the Thunder Blade chopper. Some say you're unstoppable. This mission will put you to the test! The enemy has invaded your country. That makes you mad. So you're going to stop them... all by yourself! In cities... over deserts and oceans... in caves and through refineries... you're cutting loose with your cannons and dropping air-to-surface missiles from your skids. They've got tanks, airpower and incredible super fortresses. But you have guts, a taste for glory... and the meanest fightin' copter in the sky!
+assets.boxfront: ./media/mixart/Thunder Blade (Japan).png
+assets.video: ./media/snap/Thunder Blade (Japan).mp4
+assets.logo: ./media/wheel/Thunder Blade (Japan).png
+assets.screenshot: ./media/screenshot/Thunder Blade (Japan).png
+
+
+game: Titan
+file: ./Titan (Japan).zip
+sort-by: Titan
+developer: Naxat Soft
+publisher: Titus
+genre: Puzzle
+release: 1991-03-15
+players: 1
+rating: 60%
+description:
+	Titan is a 2D arcade game / puzzle game hybrid.
+	.
+	For some reason, mad professors of the future tend to invent strange entertainment games in which every participant dies. Professor Hybrys’ variant is called Titan and involves a ball, a control unit and 80 labyrinths. Your objective is either to destroy all destructible blocks in each level by hitting them with the sphere, or to pilot it to the exit. The black ball is beyond your control; it will bounce straight or diagonally through the labyrinth with constant speed. You move the control unit, a small box, with you are to position in a way that the ball bounces off it in the desired direction. You can also catch the sphere by quickly moving over it, and then release it in a direction of your choice.
+	.
+	The labyrinths not only contain harmless, destructible blocks, but also increasingly difficult hazards. If the sphere or your control unit hit a skull symbol, one of your nine lives is lost. Teleporters exchange the position of you and the ball, wall pieces can be pushed around or destroyed by your unit, floor tiles will grow into walls when you pass over them too often. The high game speed can be slowed down by holding the space key – a very useful option in tricky situations.
+	.
+	Titan mixes an arcade game foundation (requiring quick reflexes and good nerves) with puzzle game elements (requiring logical thinking to beat the complex levels). The challenge is to control the sphere accurately, yet indirectly.
+assets.boxfront: ./media/mixart/Titan (Japan).png
+assets.video: ./media/snap/Titan (Japan).mp4
+assets.logo: ./media/wheel/Titan (Japan).png
+assets.screenshot: ./media/screenshot/Titan (Japan).png
+
+
+game: Toilet Kids
+file: ./Toilet Kids (Japan).zip
+sort-by: Toilet Kids
+developer: Bits Laboratory
+publisher: Media Rings
+genre: Shooter
+release: 1992-03-06
+players: 2
+rating: 45%
+description:
+	One night, while visiting the bathroom, the protagonist suddenly finds himself flushed down the toilet and transported to a mysterious realm filled with strange monsters. Piloting a flying vehicle, the protagonist is tasked to defeat the the inhabitants of the mysterious world and find a way to return home.
+	Toilet Kids is an Japanese exclusive PC Engine vertical-scrolling shooter very similar in gameplay to Xevious. The game has only four stages and makes heavy use of toilet humor and scatological references.
+assets.boxfront: ./media/mixart/Toilet Kids (Japan).png
+assets.video: ./media/snap/Toilet Kids (Japan).mp4
+assets.logo: ./media/wheel/Toilet Kids (Japan).png
+assets.screenshot: ./media/screenshot/Toilet Kids (Japan).png
+
+
+game: Druaga no Tou
+file: ./Tower of Druaga, The (Japan) (Translated En).zip
+sort-by: Tower of Druaga, The
+developer: Namco
+publisher: Namco
+genres:
+	Action
+	Role-Playing
+release: 1992-06-25
+players: 1
+rating: 55%
+description:
+	This is a remake of the original game. The story still's the same: Ishtar sends Gilgamesh up the 60 maze levels of the Druaga's tower to rescue Ki and retrieve the Blue Crystal Rod. He must find each level's key to proceed to the next one.
+	.
+	Besides the updated graphics, this remake features a 3/4 view instead of the original top-down one. It also bears some RPG elements, as Gilgamesh gathers experience points for killing enemies, which are spent at the end of each level, to improve his stats (such as speed, health, etc.). He'll also find equipment such as swords, helmets, armors, shields, gauntlets and boots, which can be changed to better his stats, and will also find special items in hidden chests. The way to find theses chests is different for each floor. There are new treasures and new enemies.
+	.
+	The game also features four different difficulty levels (easy, normal, hard and pro), as well as a password feature.
+assets.boxfront: ./media/mixart/Tower of Druaga, The (Japan) (Translated En).png
+assets.video: ./media/snap/Tower of Druaga, The (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/Tower of Druaga, The (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/Tower of Druaga, The (Japan) (Translated En).png
+
+
+game: Toy Shop Boys
+file: ./Toy Shop Boys (Japan).zip
+sort-by: Toy Shop Boys
+developer: Victor Entertainment
+publisher: Victor Entertainment
+genre: Shooter
+release: 1990-12-14
+players: 2
+rating: 65%
+description:
+	Toy Shop Boys is a vertical shoot 'em up exclusive to the PC Engine. It features three kids - the titular Toy Shop Boys - who fight to recover their toys from a villain named Gamma.
+	The player can switch between the three at any time: the kid in the red cap fires a straightforward shot that will branch out into a spreadshot when upgraded; the kid in the yellow cap fires boomerangs which home in on enemies on the screen, with power-ups increasing the number fired at once; the kid in the blue cap swings around a lightsaber that catches projectiles and works as a close-range weapon.
+	Most of the game's enemies are toy based: a giant cymbal monkey, for instance, or a pair of toy Formula 1 cars.
+assets.boxfront: ./media/mixart/Toy Shop Boys (Japan).png
+assets.video: ./media/snap/Toy Shop Boys (Japan).mp4
+assets.logo: ./media/wheel/Toy Shop Boys (Japan).png
+assets.screenshot: ./media/screenshot/Toy Shop Boys (Japan).png
+
+
+game: Valkyrie no Densetsu
+file: ./Valkyrie no Densetsu (Japan) (Translated En).zip
+sort-by: Valkyrie no Densetsu
+developer: Namco
+publisher: Namco
+genre: Action
+release: 1990-08-09
+players: 1
+rating: 85%
+description:
+	Legend of Valkyrie puts you in the shoes of a young Valkyrie of Norse mythology as she sets out to reclaim the fabled golden seed, which has been stolen by an evil god.
+	.
+	The game plays as a top-down action/adventure title with some RPG and platformer elements. You must navigate the many levels that compose Valhalla and defeat all the enemies in your path while sorting out chasms and other platformer-styled obstacles.
+	.
+	You can also find several NPCs in each stage, who offer gameplay hints, clues and items to buy with the gold stolen from fallen enemies. You can buy health power-ups, improved weapons and even magic spells for added fire-power.
+assets.boxfront: ./media/mixart/Valkyrie no Densetsu (Japan) (Translated En).png
+assets.video: ./media/snap/Valkyrie no Densetsu (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/Valkyrie no Densetsu (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/Valkyrie no Densetsu (Japan) (Translated En).png
+assets.background: ./media/background/Valkyrie no Densetsu (Japan) (Translated En).jpg
+
+
+game: Volfied
+file: ./Volfied (Japan).zip
+sort-by: Volfied
+developer: Taito
+publisher: Empire Interactive
+genre: Action
+release: 1989-12-27
+players: 1
+rating: 65%
+description:
+	Volfied is a home conversion of an arcade coin-op developed by Taito in the late '80s. The game is very similar to Qix -- the player takes control of an object whose purpose is to roam the screen, forming shapes and removing them from the play field. By way of reward, a picture is gradually revealed in the removed areas of the screen. The borders of the area which the player has not cleared become the border of the area the player's pointer can move along.
+	.
+	The player's object must avoid contact with any of the enemies which float around the screen, as this will weaken and eventually destroy it. Barriers limit which parts of the border boxes can be formed through. The goal is to clear 80% or more of the screen, and each additional percent adds bonus points.
+	.
+	As an arcade conversion this game allows for one or two player games in three difficulty levels, but offers no passwords or saved games across its numerous levels.
+assets.boxfront: ./media/mixart/Volfied (Japan).png
+assets.video: ./media/snap/Volfied (Japan).mp4
+assets.logo: ./media/wheel/Volfied (Japan).png
+assets.screenshot: ./media/screenshot/Volfied (Japan).png
+
+
+game: W-Ring: The Double Rings
+file: ./W-Ring - The Double Rings (Japan).zip
+sort-by: W-Ring - The Double Rings
+developer: Naxat Soft
+publisher: Naxat Soft
+genre: Shooter
+release: 1990-09-28
+players: 1
+rating: 70%
+description:
+	W Ring: The Double Rings is a shoot 'em up developed and published by Naxat Soft for the PC Engine platform. The player makes their way across horizontal levels collecting power-ups from fallen foes.
+	The game has three difficulty modes which determine the amount of enemies and their health: Beginner, Normal and Expert.
+	Each power-up provides a different weapon to the player depending on the color, and collecting subsequent power-ups increases the power of that weapon. If the player switches colored power-ups, they'll acquire the stronger versions of those power-ups. If the player gets hit, they'll lose the current power-ups they have; if they don't have a power-up, they'll lose a life.
+assets.boxfront: ./media/mixart/W-Ring - The Double Rings (Japan).png
+assets.video: ./media/snap/W-Ring - The Double Rings (Japan).mp4
+assets.logo: ./media/wheel/W-Ring - The Double Rings (Japan).png
+assets.screenshot: ./media/screenshot/W-Ring - The Double Rings (Japan).png
+
+
+game: Wonder Momo
+file: ./Wonder Momo (Japan).zip
+sort-by: Wonder Momo
+developer: Namco
+publisher: Namco
+genre: Action
+release: 1989-04-21
+players: 1
+rating: 35%
+description:
+	In Wonder Momo you play as Momo, an actress playing the lead role in a kid's show about a crime-fighting heroine that puts the hurt on several alien monsters and assorted criminals.
+	.
+	Set in the stage of the "Namco Theater", the game plays as an action side-scroller in which you progress across each stage kicking the snot out of all the enemies you run across. By collecting the right power-up you can transform into Wonder Momo for a limited time, who can perform ranged attacks with a hoola-hoop and is more powerful than regular Momo.
+	.
+	Not only must you clear the enemies of each stage, but also please the crowd with your performances, being wary of perverts that attempt to take pictures of your underwear whenever you attack (Momo shows quite a bit of leg whenever she "kicks high") which results in blinding flashes that stun Momo and leave her open to an attack.
+assets.boxfront: ./media/mixart/Wonder Momo (Japan).png
+assets.video: ./media/snap/Wonder Momo (Japan).mp4
+assets.logo: ./media/wheel/Wonder Momo (Japan).png
+assets.screenshot: ./media/screenshot/Wonder Momo (Japan).png
+
+
+game: Yōkai Dōchūki
+file: ./Youkai Douchuuki (Japan) (Translated En).zip
+sort-by: Youkai Douchuuki
+developer: Namco
+publisher: Namco
+genres:
+	Action
+	Shooter
+release: 1988-02-05
+players: 1
+rating: 65%
+description:
+	Youkai Dochuuki is a side-scrolling 2D platformer with multiple branching paths. Each stage is full of bonuses, secrets and alternate exits and the player must be economical with their savings to purchase items that will help them progress. Though Tarosuke only has one life, he has a health bar with sixteen segments allowing for multiple enemy attacks. The player can recover some or all Tarosuke's lost health with healing items.
+assets.boxfront: ./media/mixart/Youkai Douchuuki (Japan) (Translated En).png
+assets.video: ./media/snap/Youkai Douchuuki (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/Youkai Douchuuki (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/Youkai Douchuuki (Japan) (Translated En).png
+assets.background: ./media/background/Youkai Douchuuki (Japan) (Translated En).jpg
+
+
+game: Zipang
+file: ./Zipang (Japan).zip
+sort-by: Zipang
+developer: Arc System Works
+publisher: Pack In Video
+genres:
+	Action
+	Puzzle
+release: 1990-12-14
+players: 1
+rating: 70%
+description:
+	Zipang is a puzzle game released exclusively for the PC Engine in 1990. It is based on the movie of the same name (which in turn is an antiquated word for the nation of Japan): a comedy action movie from director Kaizo Hayashi that was loosely based on Japanese mythology and was also released in 1990. The same movie would also be the inspiration for the NES game Kabuki Quantum Fighter, which in Japan was named Jigoku Gokurakumaru: the name of the movie's protagonist.
+	Zipang plays similarly to Solomon's Key/Solomon no Kagi by Tecmo. The player character can destroy and place blocks, using them as platforms to get higher up in the stage. The player needs to remove enemies in their way and collect necessary items along the way to the exit. After each stage, a prefecture of Japan is placed on a map of Japan: upon completing them all, the game is over.
+assets.boxfront: ./media/mixart/Zipang (Japan).png
+assets.video: ./media/snap/Zipang (Japan).mp4
+assets.logo: ./media/wheel/Zipang (Japan).png
+assets.screenshot: ./media/screenshot/Zipang (Japan).png

@@ -1,10 +1,3 @@
-collection: Sony Playstation
-shortname: psx
-sortBy: c-e-sonyplaystation
-extensions: chd, m3u
-launch: /opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ psx {file.path}
-
-
 game: 007: The World Is Not Enough
 file: ./007 - The World Is Not Enough (USA).chd
 description:
@@ -3121,7 +3114,7 @@ assets.screenshots: ./media/screenshot/Codename - Tenka (USA).png
 assets.videos: ./media/snap/Codename - Tenka (USA).mp4
 
 
-game: Colin McRae Rally 2.1
+game: Colin McRae Rally (2.1)
 file: ./Colin McRae Rally 2.1 (v20071124).chd
 description:
 	Colin McRae Rally 2.0 is a racing video game developed and published by Codemasters for PlayStation. It is the second game in the Colin McRae Rally series. You get to race in locations around the world, over 60 stages in eight different countries. Battle your way towards winning the championship. You can choose from many real life car models, and tune them up to match the conditions! The game realistically simulates all road types, weather conditions, and the physics of car handling create an authentic rally experience. The locations and the cars are all real!
@@ -6942,7 +6935,7 @@ assets.videos: ./media/snap/Gradius Gaiden.mp4
 
 
 game: Gran Turismo
-file: ./Gran Turismo (USA).chd
+file: ./Gran Turismo (USA) (Rev 1).chd
 description:
 	Gran Turismo is fundamentally based on the racing simulator genre. The player must maneuver an automobile to compete against artificially intelligent drivers on various race tracks. The game uses two different modes: Arcade Mode and Simulation Mode (Gran Turismo Mode in PAL and Japanese versions). In the arcade mode, the player can freely choose the courses and vehicles they wish to use. Winning races unlocks additional cars and courses.
 	.
@@ -6955,15 +6948,17 @@ genre: Racing
 release: 1998-05-08
 players: 2
 rating: 80%
-assets.background: ./media/background/Gran Turismo (USA).jpg
-assets.boxfront: ./media/mixart/Gran Turismo (USA).png
-assets.logo: ./media/wheel/Gran Turismo (USA).png
-assets.screenshots: ./media/screenshot/Gran Turismo (USA).png
-assets.videos: ./media/snap/Gran Turismo (USA).mp4
+assets.background: ./media/background/Gran Turismo (USA) (Rev 1).jpg
+assets.boxfront: ./media/mixart/Gran Turismo (USA) (Rev 1).png
+assets.logo: ./media/wheel/Gran Turismo (USA) (Rev 1).png
+assets.screenshots: ./media/screenshot/Gran Turismo (USA) (Rev 1).png
+assets.videos: ./media/snap/Gran Turismo (USA) (Rev 1).mp4
 
 
 game: Gran Turismo 2
-file: ./Gran Turismo 2 (USA) (Arcade Mode).m3u
+files:
+	./Gran Turismo 2 (USA) (Arcade Mode) (Rev 1).chd
+	./Gran Turismo 2 (USA) (Simulation Mode) (Rev 2).chd
 description:
 	Gran Turismo 2 is fundamentally based on the racing game genre. The player must maneuver an automobile to compete against artificially intelligent drivers on various race tracks. The game uses two different modes: arcade and simulation. In the arcade mode, the player can freely choose the courses and vehicles they wish to use. However, the simulation mode requires the player to earn driver's licenses, pay for vehicles, and earn trophies in order to unlock new courses. Gran Turismo 2 features nearly 650 automobiles and 27 racing tracks.
 developer: Polyphony Digital
@@ -6972,11 +6967,11 @@ genre: Racing
 release: 2000-01-12
 players: 2
 rating: 80%
-assets.background: ./media/background/Gran Turismo 2 (USA) (Arcade Mode).jpg
-assets.boxfront: ./media/mixart/Gran Turismo 2 (USA) (Arcade Mode).png
-assets.logo: ./media/wheel/Gran Turismo 2 (USA) (Arcade Mode).png
-assets.screenshots: ./media/screenshot/Gran Turismo 2 (USA) (Arcade Mode).png
-assets.videos: ./media/snap/Gran Turismo 2 (USA) (Arcade Mode).mp4
+assets.background: ./media/background/Gran Turismo 2 (USA) (Arcade Mode) (Rev 1).jpg
+assets.boxfront: ./media/mixart/Gran Turismo 2 (USA) (Arcade Mode) (Rev 1).png
+assets.logo: ./media/wheel/Gran Turismo 2 (USA) (Arcade Mode) (Rev 1).png
+assets.screenshots: ./media/screenshot/Gran Turismo 2 (USA) (Arcade Mode) (Rev 1).png
+assets.videos: ./media/snap/Gran Turismo 2 (USA) (Arcade Mode) (Rev 1).mp4
 
 
 game: Grand Slam
@@ -9692,21 +9687,23 @@ assets.screenshots: ./media/screenshot/Mega Man Legends 2 (USA).png
 assets.videos: ./media/snap/Mega Man Legends 2 (USA).mp4
 
 
-game: Mega Man X3
-file: ./Mega Man X3 (Europe).chd
+game: Mega Man X3 (PAL to NTSC)
+file: ./Mega Man X3 (USA).chd
 description:
 	Mega Man X3 revolves around a Reploid scientist named Dr. Doppler. In the year 21XX, the threat of the Mavericks had been neutralized thanks to Doppler's technology, which prevented the Mavericks from going berserk. The reformed Reploids had formed a utopia near their new mentor called Doppler Town. It seemed that all was well, until the former Maverick Reploids suddenly reverted and once again began causing trouble. Dr. Doppler was held accountable, and X and Zero were sent out to contain the new threat. They were soon after called back to Maverick Hunter HQ, which was under attack by Doppler's forces.
+	.
+	This patch converts Mega Man X3 for the Playstation from PAL to NTSC. The game moves 20% faster because of the change from 50hz to 60hz, but the SNES version of the game also have this speed difference. It is very likely that the game wasn’t released in the US because of the no 2D games policy Sony of America had at the time.
 developer: Capcom
 publisher: Capcom
 genre: Action
 release: 1996-04-12
 players: 1
 rating: 80%
-assets.background: ./media/background/Mega Man X3 (Europe).jpg
-assets.boxfront: ./media/mixart/Mega Man X3 (Europe).png
-assets.logo: ./media/wheel/Mega Man X3 (Europe).png
-assets.screenshots: ./media/screenshot/Mega Man X3 (Europe).png
-assets.videos: ./media/snap/Mega Man X3 (Europe).mp4
+assets.background: ./media/background/Mega Man X3 (USA).jpg
+assets.boxfront: ./media/mixart/Mega Man X3 (USA).png
+assets.logo: ./media/wheel/Mega Man X3 (USA).png
+assets.screenshots: ./media/screenshot/Mega Man X3 (USA).png
+assets.videos: ./media/snap/Mega Man X3 (USA).mp4
 
 
 game: Mega Man X4
@@ -9728,8 +9725,8 @@ assets.screenshots: ./media/screenshot/Mega Man X4 (USA).png
 assets.videos: ./media/snap/Mega Man X4 (USA).mp4
 
 
-game: Mega Man X5
-file: ./Mega Man X5 (USA).chd
+game: Mega Man X5 (Improvement)
+file: ./Mega Man X5 (Improvement).chd
 description:
 	Years after the Reploid Wars, all seems peaceful in the world. But peace was not meant to last forever. When the "Eurasia" space colony is attacked by an unknown virus, the call goes out! X and Zero are called back into action to help destroy the colony, which is now on a collision course with Earth, and is expected to collide into the planet in only 16 hours! At the same time, guess who decides to show up once again...give you a hint: his name is a Greek letter.
 	.
@@ -9742,17 +9739,19 @@ genres:
 release: 2001-01-12
 players: 1
 rating: 80%
-assets.background: ./media/background/Mega Man X5 (USA).jpg
-assets.boxfront: ./media/mixart/Mega Man X5 (USA).png
-assets.logo: ./media/wheel/Mega Man X5 (USA).png
-assets.screenshots: ./media/screenshot/Mega Man X5 (USA).png
-assets.videos: ./media/snap/Mega Man X5 (USA).mp4
+assets.background: ./media/background/Mega Man X5 (Improvement).jpg
+assets.boxfront: ./media/mixart/Mega Man X5 (Improvement).png
+assets.logo: ./media/wheel/Mega Man X5 (Improvement).png
+assets.screenshots: ./media/screenshot/Mega Man X5 (Improvement).png
+assets.videos: ./media/snap/Mega Man X5 (Improvement).mp4
 
 
-game: Mega Man X6
-file: ./Mega Man X6 (USA).chd
+game: Mega Man X6 (Improvement)
+file: ./Mega Man X6 (Improvement) (v2.5).chd
 description:
 	Three weeks after the Eurasia space colony incident, the Earth's surface was severely damaged and humans were forced to flee underground to escape from the planet's severe pollution, and Zero is still missing, presumed to be dead. Reploids were sent in to terraform the land in an attempt to make the planet habitable for humans once more, however, a Reploid and former colleague of Alia named Gate discovered something unusual amidst the ruins of Earth — a piece of Zero's DNA. After examining Zero's DNA, Gate became mad with power and an outbreak of bizarre Mavericks occurred. Weeks passed, Isoc, a Reploid scientist and an associate of Gate, announced to the people that a new phenomenon known as "Nightmare" has quickly spread throughout the world, causing Reploids to hallucinate and eventually destroy themselves. Isoc suspects the cause of the outbreak is none other than Zero who been spreading the phenomenon as he goes, much to X's anger and confusion. Isoc rallies Reploids throughout the world to aid the Nightmare Investigators, led by the powerful High-Max, at key locations to track down the source of this new phenomenon as well as Zero. X, along with the Maverick Hunters, must confront the Nightmare Investigators as they try to solve the mystery behind the Nightmare Phenomenon and clear Zero's name.
+	.
+	A compilation of tweaks for Mega Man X6, initially aiming only to remove the unnecessary padding and limitations the game uses to compensate for its shortcomings. Over time, it expanded to address gameplay mechanics and a few balance issues, and later to a major "v2.0" overhaul which included a retranslated script, restored content from the japanese version, custom graphics, and even a few minor stage mods. The project will continue to be updated to address bugs and improvements on its current set of options.
 developer: Capcom
 publisher: Capcom
 genres:
@@ -9761,11 +9760,11 @@ genres:
 release: 2001-12-04
 players: 1
 rating: 80%
-assets.background: ./media/background/Mega Man X6 (USA).jpg
-assets.boxfront: ./media/mixart/Mega Man X6 (USA).png
-assets.logo: ./media/wheel/Mega Man X6 (USA).png
-assets.screenshots: ./media/screenshot/Mega Man X6 (USA).png
-assets.videos: ./media/snap/Mega Man X6 (USA).mp4
+assets.background: ./media/background/Mega Man X6 (Improvement) (v2.5).jpg
+assets.boxfront: ./media/mixart/Mega Man X6 (Improvement) (v2.5).png
+assets.logo: ./media/wheel/Mega Man X6 (Improvement) (v2.5).png
+assets.screenshots: ./media/screenshot/Mega Man X6 (Improvement) (v2.5).png
+assets.videos: ./media/snap/Mega Man X6 (Improvement) (v2.5).mp4
 
 
 game: Mega Man Battle & Chase
@@ -9830,13 +9829,14 @@ assets.videos: ./media/snap/Metal Gear Solid VR Missions (USA).mp4
 game: Metal Slug X
 file: ./Metal Slug X (USA).chd
 description:
-	Metal Slug X is an enhanced version of Metal Slug 2: Super Vehicle - 001/II. The main differences to the original release include:
-	Additional weapons: Stones, Iron Lizard, Enemy Chaser, Super Grenade, and Drop Shot.
-	Additional power-ups, items, and prisoners in most of the levels.
-	Additional times of the day: stages can take place at twilight, sunset, or dusk.
-	Some of the locations and vehicles in the game have been altered.
-	Increased enemy count. Some of the enemies' placement has been changed.
-	Many weapons have a stronger explosive force. Explosions yield more unexpected results.
+	Metal Slug X is an enhanced version of Metal Slug 2: Super Vehicle - 001/II.\n
+	The main differences to the original release include\n
+	Additional weapons: Stones, Iron Lizard, Enemy Chaser, Super Grenade, and Drop Shot.\n
+	Additional power-ups, items, and prisoners in most of the levels.\n
+	Additional times of the day: stages can take place at twilight, sunset, or dusk.\n
+	Some of the locations and vehicles in the game have been altered.\n
+	Increased enemy count. Some of the enemies' placement has been changed.\n
+	Many weapons have a stronger explosive force. Explosions yield more unexpected results.\n
 	The soundtrack has been re-mixed.
 developer: SNK
 publisher: SNK
@@ -10148,19 +10148,24 @@ assets.screenshots: ./media/screenshot/Monster Rancher (USA).png
 assets.videos: ./media/snap/Monster Rancher (USA).mp4
 
 
-game: Monster Rancher 2
-file: ./Monster Rancher 2 (USA).chd
+game: Monster Rancher 2 (Seasonal Shrine)
+file: ./Monster Rancher 2 (Seasonal Shrine).chd
 description:
 	Monster Rancher 2 is at heart an arena fighting game with a lot of ancillary game play thrown in. As a trainer of a fighting monster you have to train, reward, punish, cajole and bribe your minion to build up its statistics. You then take your monster into the arena where it battles with other monsters for cash prizes, prestige, and better stats. Like the original Monster Rancher, this game allows players to create a monster using an innovative technique: you can stick in any CD you own (PlayStation, audio, PC, or other) and the data that is read off the CD is used to generate the characteristics of the monster.
+	.
+	Patch Info\n
+	Instead of generating a monster based on the inserted CD, the shrine CD function now generates a monster based on the current year, season and the player name. The type and statistics of the monster are similar to as if a random CD was inserted. The original restrictions still apply, so it may not always be possible to generate the chosen monster.
+	.
+	The probability of generating a unique monster is ~1%. A few non-CD obtainable monsters have been added to the group of unique monsters, such as those obtainable by slating or obtainable in other versions of the game.
 developer: Tecmo
 publisher: Tecmo
 genre: Fighting
 release: 1999-01-01
 players: 2
-assets.boxfront: ./media/mixart/Monster Rancher 2 (USA).png
-assets.logo: ./media/wheel/Monster Rancher 2 (USA).png
-assets.screenshots: ./media/screenshot/Monster Rancher 2 (USA).png
-assets.videos: ./media/snap/Monster Rancher 2 (USA).mp4
+assets.boxfront: ./media/mixart/Monster Rancher 2 (Seasonal Shrine).png
+assets.logo: ./media/wheel/Monster Rancher 2 (Seasonal Shrine).png
+assets.screenshots: ./media/screenshot/Monster Rancher 2 (Seasonal Shrine).png
+assets.videos: ./media/snap/Monster Rancher 2 (Seasonal Shrine).mp4
 
 
 game: Monster Rancher Battle Card: Episode II
@@ -10331,25 +10336,27 @@ assets.screenshots: ./media/screenshot/Mortal Kombat Mythologies - Sub-Zero (USA
 assets.videos: ./media/snap/Mortal Kombat Mythologies - Sub-Zero (USA).mp4
 
 
-game: Mortal Kombat Trilogy
-file: ./Mortal Kombat Trilogy (USA).chd
+game: Mortal Kombat Trilogy (Audio Fix)
+file: ./Mortal Kombat Trilogy (Audio Fix v0.999).chd
 description:
 	All the characters from the first three Mortal Kombat games return for the ultimate battle. You can play as Kano, Reptile, Mileena, Kung Lao, Shang Tsung, Sindel, Sketor, Stryker, Nightwolf, Sheeva, Kitana, Scorpion, Sonya, Smoke (Cyber Ninja), Rain, Jade, Baraka, Johnny Cage, Ermac, Noob Saibot, Sub-Zero (Unmasked), Sub-Zero (Classic), Jax, Rayden, Cyrax, Liu Kang, Smoke (Human), Kabal, Goro, Kintaro, Motaro, or Shao Kahn.
 	.
 	This game is one-on-one martial arts fighting. The player can choose from over thirty different characters, all with their own fighting style and their own special moves. Trilogy differs from the other games in that you can play combinations of people that otherwise isn't possible, such as old Liu Kang vs. new Liu Kang, etc.
 	.
-	Mortal Kombat Trilogy also allows you to challenge a friend to a fight through a Windows IPX network connection.
+	This is a small (relative to effort, not size) patch that fixes a pretty obvious oversight in Mortal Kombat Trilogy. For the bulk of tracks ripped from MK3, Midway apparently wanted to use high-quality music which was encoded at 48khz; failing to realize that CD technology was only capable of 44.1khz redbook audio. The result is that at least half of the music in Trilogy is played at (approximately) 0.992x their original speed, leading to tracks that can sound artificially sluggish.
+	.
+	This patch, thusly, fixes that by re-syncing the redbook audio tracks from Trilogy back to their equivalents as heard in the (U)MK3 music CDs. There are also some tracks which had some minor or major corruption in the Redump sets sourced, so creative liberties have been taken in correcting those as well. Some of them are minor skips, but two of the tracks needed to be outright replaced by rips from the MS-DOS port of MK3.
 developer: Midway
 publisher: Midway
 genre: Fighting
 release: 1996-10-01
 players: 2
 rating: 70%
-assets.background: ./media/background/Mortal Kombat Trilogy (USA).jpg
-assets.boxfront: ./media/mixart/Mortal Kombat Trilogy (USA).png
-assets.logo: ./media/wheel/Mortal Kombat Trilogy (USA).png
-assets.screenshots: ./media/screenshot/Mortal Kombat Trilogy (USA).png
-assets.videos: ./media/snap/Mortal Kombat Trilogy (USA).mp4
+assets.background: ./media/background/Mortal Kombat Trilogy (Audio Fix v0.999).jpg
+assets.boxfront: ./media/mixart/Mortal Kombat Trilogy (Audio Fix v0.999).png
+assets.logo: ./media/wheel/Mortal Kombat Trilogy (Audio Fix v0.999).png
+assets.screenshots: ./media/screenshot/Mortal Kombat Trilogy (Audio Fix v0.999).png
+assets.videos: ./media/snap/Mortal Kombat Trilogy (Audio Fix v0.999).mp4
 
 
 game: Motocross Mania 2
@@ -15254,7 +15261,9 @@ assets.videos: ./media/snap/Street Fighter Alpha 3 (USA).mp4
 
 
 game: Street Fighter Collection
-file: ./Street Fighter Collection (USA) (Rev 1).m3u
+files:
+	./Street Fighter Collection (USA) (Disc 1) (Rev 1).chd
+	./Street Fighter Collection (USA) (Disc 2) (Rev 1).chd
 description:
 	Street Fighter Collection is a 1997 fighting game compilation released for the PlayStation and Sega Saturn. It collects the original Super Street Fighter II and its follow-up Super Street Fighter II Turbo, along with an enhanced version of Street Fighter Alpha 2 titled Street Fighter Alpha 2 Gold exclusive to this compilation.
 	.

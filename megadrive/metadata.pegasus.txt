@@ -1,0 +1,1595 @@
+game: Advanced Busterhawk Gleylancer
+file: ./Advanced Busterhawk Gleylancer (Japan) (Translated En).zip
+sort-by: Advanced Busterhawk Gleylancer
+developer: Masaya Games
+publisher: NCS Corporation
+genre: Shooter
+release: 1992-07-17
+players: 1
+rating: 75%
+description:
+	A side-scrolling sci-fi shooter, Gleylancer casts you as Lucia, a young pilot in the Space Fleet of starfighters that hijacks the experimental Gleylancer fighter to go explore the outer borders of known space in search of her missing father. Along the way Lucia will have to shoot down dozens of enemies in standard shooter fashion, while avoiding destruction and collecting power-ups that extend her ship's energy, upgrade weapons and gather screen-clearing bombs.
+	.
+	The Gleylancer comes equipped with two hovering satellites that can receive weapon upgrades of their own, and can lock their positions at specific angles to increase your firepower and protect the player from enemy attacks. Features only a single-player campaign with two different endings depending on how the final stages are completed (e.g. if Lucia's father is rescued or not).
+assets.boxfront: ./media/mixart/Advanced Busterhawk Gleylancer (Japan) (Translated En).png
+assets.video: ./media/snap/Advanced Busterhawk Gleylancer (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/Advanced Busterhawk Gleylancer (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/Advanced Busterhawk Gleylancer (Japan) (Translated En).png
+assets.background: ./media/background/Advanced Busterhawk Gleylancer (Japan) (Translated En).jpg
+
+
+game: Advanced Daisenryaku: Deutsch Dengeki Sakusen
+file: ./Advanced Daisenryaku - Deutsch Dengeki Sakusen (Japan) (Rev A) (Translated En).zip
+sort-by: Advanced Daisenryaku - Deutsch Dengeki Sakusen
+developer: Systemsoft
+publisher: Sega
+genre: Strategy
+release: 1991-06-17
+players: 4
+rating: 60%
+description:
+	Advanced Daisenryaku: Deutsch Dengeki Sakusen  commonly referred to simply as Advanced Daisenryaku, is a 1991 strategy game developed jointly by Sega and SystemSoft and published by Sega for the Sega Mega Drive exclusively in Japan. It is part of SystemSoft's Daisenryaku series of strategy games, and is one of the few retail Mega Drive games to have online play compatibility via Sega Meganet. It also started the Advanced Daisenryaku line, all of which have been published by Sega.
+	Sega and now-renamed SystemSoft Alpha rereleased the game in 2006 as part of Sega Ages 2500.
+	In 2002-2006, Nebelwurfer fan-translated the game to English as Advanced Military Commander along with a translated manual.
+assets.boxfront: ./media/mixart/Advanced Daisenryaku - Deutsch Dengeki Sakusen (Japan) (Rev A) (Translated En).png
+assets.video: ./media/snap/Advanced Daisenryaku - Deutsch Dengeki Sakusen (Japan) (Rev A) (Translated En).mp4
+assets.logo: ./media/wheel/Advanced Daisenryaku - Deutsch Dengeki Sakusen (Japan) (Rev A) (Translated En).png
+assets.screenshot: ./media/screenshot/Advanced Daisenryaku - Deutsch Dengeki Sakusen (Japan) (Rev A) (Translated En).png
+
+
+game: Aladdin II
+file: ./Aladdin II (Taiwan) (En) (Unl).zip
+sort-by: Aladdin II
+publisher: Homebrew
+genre: Platform
+release: 1993-01-01
+players: 1
+description:
+	Aladdin II is an unlicensed Mega Drive port of the SNES version of Disney's Aladdin, originally made by Capcom in 1994.
+	It was developed by an unknown company and was likely published by X Boy.
+	This port can be considered the "opposite" of Aladdin 2000, a port of Virgin's Aladdin to the SNES.
+	Some of Aladdin's moves as well as some of the enemy sprites can be found in Hercules 2, which was published by X Boy in 1999.
+assets.boxfront: ./media/mixart/Aladdin II (Taiwan) (En) (Unl).png
+assets.video: ./media/snap/Aladdin II (Taiwan) (En) (Unl).mp4
+assets.logo: ./media/wheel/Aladdin II (Taiwan) (En) (Unl).png
+assets.screenshot: ./media/screenshot/Aladdin II (Taiwan) (En) (Unl).png
+assets.background: ./media/background/Aladdin II (Taiwan) (En) (Unl).jpg
+
+
+game: Bahamut Senki
+file: ./Bahamut Senki (Japan) (Translated En).zip
+sort-by: Bahamut Senki
+developer: Sega
+publisher: Sega
+genre: Strategy
+release: 1991-03-08
+players: 4
+rating: 50%
+description:
+	The world of Bahumut is divided into eight powerful countries, four of which are ruled by humans or human-like creatures, while the other four are ruled by evil forces. These countries constantly wage war against one another trying to dominate and destroy the others. It's the player's job to choose which country to control and make it the most powerful country in all of Bahumut.
+	At the beginning of each turn, you control your leader and take certain actions such as: recruit soldiers, declare war, engage in diplomatic talks, ect. In battles you can control several units of soldiers or magical creatures you can summon to assist you in battle.
+assets.boxfront: ./media/mixart/Bahamut Senki (Japan) (Translated En).png
+assets.video: ./media/snap/Bahamut Senki (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/Bahamut Senki (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/Bahamut Senki (Japan) (Translated En).png
+assets.background: ./media/background/Bahamut Senki (Japan) (Translated En).jpg
+
+
+game: Bare Knuckle III
+file: ./Bare Knuckle III (Japan) (Translated En).zip
+sort-by: Bare Knuckle III
+developer: Sega
+publisher: Sega
+genres:
+	Action
+	Beat 'em Up
+release: 1994-03-18
+players: 2
+description:
+	Streets of Rage 3 aimed to build on the success of its predecessor, so while the style of gameplay and control scheme is largely identical to its predecessors, significant changes were made to the overall structure of the game. Streets of Rage 3 is a faster paced release with longer levels, a more complex plot (which in turn leads to more in-depth scenarios complete with interactive levels and multiple endings) and the return of traps such as pits. Dash and dodge moves were added to each character's arsenal of moves, and weapons can now only be used for a few times before breaking.
+	Changes to the fighting mechanics allows for the integration of weapons with certain movesets. Team attacks, absent from Streets of Rage 2 but available in the original Streets of Rage, make a return, and are occasionally used by enemies too. Blitz moves, performed while running, have also been altered and are now upgradable over the course of the game (predicated on how many points are earned per level). Death causes a downgrade, however holding the X button before a series of button combinations can give players access to the upgraded moveset at any point in the game, at the expense of the time taken to perform attacks.
+	Enemies are also smarter with weapons, and some can even steal health upgrades, and there are also several secret playable characters, unlockable after overcoming certain conditions during the game. Special moves also no longer drain the user's health - a separate, automatically regenerating bar is introduced for this purpose.
+assets.boxfront: ./media/mixart/Bare Knuckle III (Japan) (Translated En).png
+assets.video: ./media/snap/Bare Knuckle III (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/Bare Knuckle III (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/Bare Knuckle III (Japan) (Translated En).png
+assets.background: ./media/background/Bare Knuckle III (Japan) (Translated En).jpg
+
+
+game: Barver Battle Saga: Tai Kong Zhan Shi
+file: ./Barver Battle Saga - Tai Kong Zhan Shi (Taiwan) (Unl) (Translated En).zip
+sort-by: Barver Battle Saga - Tai Kong Zhan Shi
+developer: Chuanpu
+publisher: Chuanpu
+genre: Role-Playing
+release: 1996-01-01
+players: 1
+rating: 75%
+description:
+	Humans and daemons develop civilization independently using technology and magic, respectively. Technology comes to triumph over magic, and the world is destroyed in an technological accident. Survivors continued without technology for a thousand years, until the old technology was discovered and returned to use.
+	Furthermore, the world is divided into four kingdoms, each representing one of the four natural forces and with four temples: Cruz, whose Moon Temple controls water, Galien, whose Sun Temple controls the earth, Zak, whose Star Temple controls technology, and Lear, whose Wind Temple controls wind.
+	Now the daemons have returned...
+assets.boxfront: ./media/mixart/Barver Battle Saga - Tai Kong Zhan Shi (Taiwan) (Unl) (Translated En).png
+assets.video: ./media/snap/Barver Battle Saga - Tai Kong Zhan Shi (Taiwan) (Unl) (Translated En).mp4
+assets.logo: ./media/wheel/Barver Battle Saga - Tai Kong Zhan Shi (Taiwan) (Unl) (Translated En).png
+assets.screenshot: ./media/screenshot/Barver Battle Saga - Tai Kong Zhan Shi (Taiwan) (Unl) (Translated En).png
+assets.background: ./media/background/Barver Battle Saga - Tai Kong Zhan Shi (Taiwan) (Unl) (Translated En).jpg
+
+
+game: Battle Golfer Yui
+file: ./Battle Golfer Yui (Japan) (Translated En).zip
+sort-by: Battle Golfer Yui
+developer: Santos
+publisher: Sega
+genres:
+	Adventure
+	Sports
+release: 1991-01-01
+players: 2
+rating: 50%
+description:
+	Gil Hazard, president of the Hazard Foundation, is secretly Professor G, the leader of the evil Dark Hazard organization. He has designs on world domination, and has plans to use the power of golf toward this end; this is the Battle Golfer project. Yui Mizuhara and Ran Ryuzaki are two ordinary high school girls who just so happen to be golf prodigies, and so are prime candidates for the Battle Golfer project. They are abducted by Professor G, but are rescued by a mysterious man before they can be taken under his control. Having escaped, Yui hears about a golf tournament being held by the Hazard Foundation, and suspecting more nefarious plans, she secretly enters the tournament to stop him for good.
+	.
+	Battle Golfer Yui is a unique genre fusion between a golf game and a Japanese-style adventure game. The main adventure mode casts the player as Yui competing in the Hazard Cup tournament. The player can interact with other characters on the course, and will need to defeat several different opponents at match play on oddly-themed courses in order to proceed. The system is quite simple and fast-paced; simply choose a direction, a club, spin, and hit the bar with the right timing to adjust shot power. Each character also has special abilities to help them out, but these are limited in use. There is also a regular golf mode for one or two players, offered as both stroke and match play.
+assets.boxfront: ./media/mixart/Battle Golfer Yui (Japan) (Translated En).png
+assets.video: ./media/snap/Battle Golfer Yui (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/Battle Golfer Yui (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/Battle Golfer Yui (Japan) (Translated En).png
+assets.background: ./media/background/Battle Golfer Yui (Japan) (Translated En).jpg
+
+
+game: Battle Mania Daiginjou
+file: ./Battle Mania Daiginjou (Japan, Korea) (Translated En).zip
+sort-by: Battle Mania Daiginjou
+developer: Vic Tokai Corporation
+publisher: Tokai Engineering
+genre: Shooter
+release: 1993-01-01
+players: 1
+rating: 85%
+description:
+	The Trouble Shooters, Mania Otorii and Maria Haneda, are a pair of bounty hunters who will take any job that involves lots of trouble and plenty of shooting. Their last job saw them saving the Crown Prince Denka from the evil military mastermind Don Morguestein, presumably ending his evil plans. However, three days later, Morguestein has returned once more to take revenge upon the Trouble Shooters. Mania and Maria, never wanting to miss out on the action, head off to take care of him once and for all.
+	.
+	Battle Mania Daiginjo is a comical anime-themed scrolling shooter, and the sequel to Trouble Shooter. The player controls the Dirty Pair-esque Mania and Maria simultaneously, with Maria following closely behind Mania, and also able to turn around and fire to the rear. Unlike most shooters, Mania has a health meter which can be replenished via pickups. There are a variety of weapons to choose from at the start of each stage, and during the game, weapons can be powered up. There is also a screen-clearing bomb attack, but it must be allowed to charge back up each time it is used.
+	.
+	The game includes a standard single-player mode with three difficulty settings. There is also a score attack mode which challenges the player to earn the most points possible in two minutes on a set stage.
+assets.boxfront: ./media/mixart/Battle Mania Daiginjou (Japan, Korea) (Translated En).png
+assets.video: ./media/snap/Battle Mania Daiginjou (Japan, Korea) (Translated En).mp4
+assets.logo: ./media/wheel/Battle Mania Daiginjou (Japan, Korea) (Translated En).png
+assets.screenshot: ./media/screenshot/Battle Mania Daiginjou (Japan, Korea) (Translated En).png
+assets.background: ./media/background/Battle Mania Daiginjou (Japan, Korea) (Translated En).jpg
+
+
+game: Battle Mania Daiginjou: Trouble Shooter Vintage
+file: ./Battle Mania Daiginjou - Trouble Shooter Vintage (Japan, Korea) (Translated En).zip
+sort-by: Battle Mania Daiginjou - Trouble Shooter Vintage
+developer: Vic Tokai Corporation
+publisher: Tokai Engineering
+genre: Shooter
+release: 1993-01-01
+players: 1
+rating: 85%
+description:
+	The Trouble Shooters, Mania Otorii and Maria Haneda, are a pair of bounty hunters who will take any job that involves lots of trouble and plenty of shooting. Their last job saw them saving the Crown Prince Denka from the evil military mastermind Don Morguestein, presumably ending his evil plans. However, three days later, Morguestein has returned once more to take revenge upon the Trouble Shooters. Mania and Maria, never wanting to miss out on the action, head off to take care of him once and for all.
+	.
+	Battle Mania Daiginjo is a comical anime-themed scrolling shooter, and the sequel to Trouble Shooter. The player controls the Dirty Pair-esque Mania and Maria simultaneously, with Maria following closely behind Mania, and also able to turn around and fire to the rear. Unlike most shooters, Mania has a health meter which can be replenished via pickups. There are a variety of weapons to choose from at the start of each stage, and during the game, weapons can be powered up. There is also a screen-clearing bomb attack, but it must be allowed to charge back up each time it is used.
+	.
+	The game includes a standard single-player mode with three difficulty settings. There is also a score attack mode which challenges the player to earn the most points possible in two minutes on a set stage.
+assets.boxfront: ./media/mixart/Battle Mania Daiginjou - Trouble Shooter Vintage (Japan, Korea) (Translated En).png
+assets.video: ./media/snap/Battle Mania Daiginjou - Trouble Shooter Vintage (Japan, Korea) (Translated En).mp4
+assets.logo: ./media/wheel/Battle Mania Daiginjou - Trouble Shooter Vintage (Japan, Korea) (Translated En).png
+assets.screenshot: ./media/screenshot/Battle Mania Daiginjou - Trouble Shooter Vintage (Japan, Korea) (Translated En).png
+assets.background: ./media/background/Battle Mania Daiginjou - Trouble Shooter Vintage (Japan, Korea) (Translated En).jpg
+
+
+game: Bishoujo Senshi Sailor Moon
+file: ./Bishoujo Senshi Sailor Moon (Japan) (Translated En).zip
+sort-by: Bishoujo Senshi Sailor Moon
+developer: Arc System Works
+publisher: Ma-Ba
+genre: Action
+release: 1994-07-08
+players: 1
+rating: 85%
+description:
+	The game is based on the popular manga/animé series of the same name. The heroine of the series is a 14-year-old schoolgirl named Serena (Usagi in the Japanese version). One day she encounters a magical talking cat named Luna, who tells her she has been chosen to be a Sailor Moon fighter, to find the lost Princess of the Moon Kingdom and to fight the forces of darkness lead by the evil Queen Beryl.
+	.
+	This adaptation of the story is a beat-'em-up game. You can control either Serena herself or one of her Sailor Moon companions. Each girl has different strengths and special attacks. You advance in the game by moving on a platform and defeating the enemies you encounter. You can't move on if you haven't defeated all the enemies that keep coming at you.
+assets.boxfront: ./media/mixart/Bishoujo Senshi Sailor Moon (Japan) (Translated En).png
+assets.video: ./media/snap/Bishoujo Senshi Sailor Moon (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/Bishoujo Senshi Sailor Moon (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/Bishoujo Senshi Sailor Moon (Japan) (Translated En).png
+assets.background: ./media/background/Bishoujo Senshi Sailor Moon (Japan) (Translated En).jpg
+
+
+game: Bomboy
+file: ./Bomboy (Taiwan) (En) (Unl).zip
+sort-by: Bomboy
+developer: Gamtec
+publisher: Gamtec
+genre: Action
+release: 1993-01-01
+players: 1
+description:
+	It is a simple clone of Bomberman. Bomboy is said to have been a pack-in game with the unlicensed Dynacom Megavision console.
+assets.boxfront: ./media/mixart/Bomboy (Taiwan) (En) (Unl).png
+assets.video: ./media/snap/Bomboy (Taiwan) (En) (Unl).mp4
+assets.logo: ./media/wheel/Bomboy (Taiwan) (En) (Unl).png
+assets.screenshot: ./media/screenshot/Bomboy (Taiwan) (En) (Unl).png
+
+
+game: A Bug's Life
+file: ./Bug's Life, A (Taiwan) (En) (Unl).zip
+sort-by: Bug's Life, A
+developer: X BOY
+publisher: Homebrew
+genre: Platform
+release: 1999-01-01
+players: 1
+description:
+	Pixar's second animated feature, A Bug's Life, arrived in movie theatres in 1998, and the videogame adaptation was released on the Nintendo GameBoy Color and the Sony Playstation.
+	It wasn't supposed to appear on the Genesis at all -- Sega's 16-bit system was well past its commercial prime by the late 1990's, even on the hand-me-down/bedroom system basis that tends to keep a trickle of kids' titles coming late in a console's life.  And it never did in any legal form.  But enterprising Asian game pirates saw an opportunity to cash in on Sega and Disney in one go, and thus this wholly unlicensed conversion of the GameBoy Color version of A Bug's Life appeared on the Genesis:
+assets.boxfront: ./media/mixart/Bug's Life, A (Taiwan) (En) (Unl).png
+assets.video: ./media/snap/Bug's Life, A (Taiwan) (En) (Unl).mp4
+assets.logo: ./media/wheel/Bug's Life, A (Taiwan) (En) (Unl).png
+assets.screenshot: ./media/screenshot/Bug's Life, A (Taiwan) (En) (Unl).png
+assets.background: ./media/background/Bug's Life, A (Taiwan) (En) (Unl).jpg
+
+
+game: Curse
+file: ./Curse (Japan).zip
+sort-by: Curse
+developer: Micronet
+publisher: Micronet
+genre: Shooter
+release: 1989-12-23
+players: 1
+rating: 60%
+description:
+	Curse is a basic horizontal-scrolling shooter, one of the first released for the Megadrive, where one pilots a space fighter through deadly environments such as a mutated jungle, a ruined city, and an underground volcano. The game features five stages, and at several points in each stage, a larger boss enemy appears which must be destroyed to continue.
+	.
+	There a variety of weapon power-ups to collect, each with three power levels. There is a spread shot that can cover nearly the entire screen, a bomb that explodes into shrapnel when it connects, and a twisting wide shot that can pass through environmental obstacles. There are also homing missiles, smart bombs, speed-ups, and an option that can be placed on any side of the ship. The ship also has a shield which can absorb damage from smaller bullets, meaning it can take a few hits before exploding unless it's hit by an enemy ship, part of the landscape or some special enemy weapons that just ignore the shield.
+assets.boxfront: ./media/mixart/Curse (Japan).png
+assets.video: ./media/snap/Curse (Japan).mp4
+assets.logo: ./media/wheel/Curse (Japan).png
+assets.screenshot: ./media/screenshot/Curse (Japan).png
+assets.background: ./media/background/Curse (Japan).jpg
+
+
+game: Dahna: Megami Tanjou
+file: ./Dahna - Megami Tanjou (Japan) (Translated En).zip
+sort-by: Dahna - Megami Tanjou
+developer: IGS
+publisher: IGS
+genre: Beat 'em Up
+release: 1991-12-20
+players: 1
+rating: 70%
+description:
+	Dahna: Megami Tanjo (Dahna: Birth of a Goddess) is a beat'em up with some RPG elements. The player controls Dahna as she scrolls horizontally or vertically through the levels. Dahna fights her enemies using a sword, and she can jump in two heights, duck and crawl. Dahna has also a magic meter, which has several colored levels. Different levels of her magic will produce different magical effects (as in Golden Axe). Her magic can be replenished by gathering magical orbs, dropped by enemy mages when killed. They will also drop health orbs as well.
+	.
+	She starts the game "riding" a giant, and in other portions of the game, she'll also ride other creatures, such as a horse and a griffin. When riding a creature, Dahna can't use her magic powers.
+	.
+	As she kills enemies and gather orbs, Dahna gains experience points, which grant her level upgrades. Leveling up affects only her health, as she gains more health points.
+assets.boxfront: ./media/mixart/Dahna - Megami Tanjou (Japan) (Translated En).png
+assets.video: ./media/snap/Dahna - Megami Tanjou (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/Dahna - Megami Tanjou (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/Dahna - Megami Tanjou (Japan) (Translated En).png
+assets.background: ./media/background/Dahna - Megami Tanjou (Japan) (Translated En).jpg
+
+
+game: Dangerous Seed
+file: ./Dangerous Seed (Japan).zip
+sort-by: Dangerous Seed
+developer: Namco
+publisher: Namco
+genre: Shooter
+release: 1990-12-18
+players: 1
+rating: 70%
+description:
+	It is the 25th century, and the solar system has come under attack by an mysterious alien enemy known as Dangerous Seed. Human forces have been decimated, and the aliens' next target is Earth! The enemy draws closer to the frontline base on the moon by the hour, and the final line of defense for Earth, the fighter ship Moon Diver, has launched.
+	.
+	Dangerous Seed is a vertical scrolling shooter converted from the 1989 Namco coin-op. The player controls the three-part fighter ship Moon Diver through 12 stages to confront the alien menace and secure peace in the solar system. Each of the three parts of the ship, Alpha, Beta, and Gamma, have their own properties which can be combined in various ways. Each type and combination has multiple shot types which can be powered up, and there are also options and bombs available which contribute to Moon Diver's extensive arsenal.
+assets.boxfront: ./media/mixart/Dangerous Seed (Japan).png
+assets.video: ./media/snap/Dangerous Seed (Japan).mp4
+assets.logo: ./media/wheel/Dangerous Seed (Japan).png
+assets.screenshot: ./media/screenshot/Dangerous Seed (Japan).png
+assets.background: ./media/background/Dangerous Seed (Japan).jpg
+
+
+game: Darwin 4081
+file: ./Darwin 4081 (Japan, Korea).zip
+sort-by: Darwin 4081
+developer: Data East
+publisher: Sega
+genre: Shooter
+release: 1990-04-07
+players: 1
+rating: 55%
+description:
+	Lakya is a technologically-advanced civilization on a planet far from our own galaxy. The planet's inhabitants have unknowingly unleashed the planet's life force, Evol. As the Evol drifts from Lakya, it reaches a planet called Cokyo, whose inhabitants use it to attack and invade Lakya. Now, fighters from Lakya must fight back against the invading army by using the Evol themselves.
+	.
+	Darwin 4081 is a vertical scrolling shooter based on the 1987 Data East coin-op Super Real Darwin. The main attraction of the game is the ability to evolve your ship into a wide variety of different forms, each with their own attack abilities, by collecting DNA dropped by enemies. Other powerups will increase you ship's speed, give you an option that follows your ship, or even increase the power of your smart bombs. The game features surreal futuristic art design fitting of its title.
+assets.boxfront: ./media/mixart/Darwin 4081 (Japan, Korea).png
+assets.video: ./media/snap/Darwin 4081 (Japan, Korea).mp4
+assets.logo: ./media/wheel/Darwin 4081 (Japan, Korea).png
+assets.screenshot: ./media/screenshot/Darwin 4081 (Japan, Korea).png
+assets.background: ./media/background/Darwin 4081 (Japan, Korea).jpg
+
+
+game: Daze Before Christmas
+file: ./Daze Before Christmas (Australia).zip
+sort-by: Daze Before Christmas
+developer: Funcom
+publisher: Funcom
+genre: Action
+release: 1994-01-01
+players: 2
+rating: 80%
+description:
+	Christmas is a time where people get together and give others presents and spend all day eating food. But there's only one problem this year. You see, while Santa was sleeping in his bed, the cold and evil snowman spooked all the elves away, and the Timekeeper has stolen Santa's plans from his house. There won't be any Christmas if Santa doesn't stop them.
+	.
+	In Daze Before Christmas, you're Santa. According to the game's Christmas calender, you have 24 areas to explore such as factories, workshops, caves, and more. Each area is filled with nasty enemies like penguins, jack-in-the-boxes, helicopters, snowmen, and many others. Furthermore, after every five areas, Santa has to come face-to-face with not only The Evil Snowman, The Timekeeper, and Louse the Mouse,  but also Mr. Weather.
+	.
+	Santa's health is represented by five Santa hats. When Santa is hit by any one of his enemies, one hat is lost. If Santa loses all of his hats, then he will lose a life. He will then have to restart at the beginning of the area, unless he passes a gold bell somewhere in the area. When you explore each area, Santa can collect presents that contain a mini-Santa (aka: Extra Life), a red hat, or he may release an elf. Santa should be careful when opening these presents as some of them may contain bombs or other enemies. If Santa manages to find a spinning star, he must get it as this will take him to the next area.
+	.
+	Santa kills his enemies by throwing magic at them. In almost each area, Santa can get a cup of hot cocoa. Doing this will transform him into Anti-Santa, a type of Santa who wears nothing but white, grows Satan's horns on top of his head, is invincible, and comes equipped with a hammer in which he can use to bonk enemies with. The Anti-Santa business only lasts for 20 seconds, but this can be changed via the Options menu.
+	.
+	Daze acts like one of those platform games where you run through the level, shoot at enemies, and proceed to the exit. However, there are some areas where the gameplay changes, and these areas involve Santa flying through the sky in England, Russia, Japan, and the USA, and dropping presents in chimneys to score points. The game also uses a password-saving system, where entering a password given will allow gamers to restart at the beginning of a specific area, in case they happen to run out of lives.
+assets.boxfront: ./media/mixart/Daze Before Christmas (Australia).png
+assets.video: ./media/snap/Daze Before Christmas (Australia).mp4
+assets.logo: ./media/wheel/Daze Before Christmas (Australia).png
+assets.screenshot: ./media/screenshot/Daze Before Christmas (Australia).png
+assets.background: ./media/background/Daze Before Christmas (Australia).jpg
+
+
+game: Double Dragon II: The Revenge
+file: ./Double Dragon II - The Revenge (Japan) (En).zip
+sort-by: Double Dragon II - The Revenge
+developer: PAL Soft
+publisher: Tecmo
+genre: Beat 'em Up
+release: 1991-12-20
+players: 2
+rating: 35%
+description:
+	The lovely Marian was rescued from the clutches of the Black Warriors gang by Billy & Jimmy Lee in the first Double Dragon game, but now the gang has killed her in retaliation of their early defeat. The Dragons must now embark on a mission to avenge her death and defeat the Black Warriors for the second and final time.
+	.
+	The original arcade version of "Double Dragon II" was essentially an improved version of the first game. In addition to offering renewed audio and visuals, as well as new traps, moves and enemy characters, "Double Dragon II" discarded the conventional punch and kick buttons in favor of a direction-oriented attacking system similar to the original Technos beat-em-up Renegade.
+	.
+	The NES version offered new stages, new moves and illustrated cut-scenes, as well as a new final boss and a new ending. Unlike the first NES game, it offered 2-Player Co-Op gameplay with the option to turn off the friendly fire.
+	.
+	The Game Boy version of "Double Dragon II" is an English localization of a "Kunio-kun" game (the Japanese franchise which inspired "Renegade" and "River City Ransom" and has nothing to do with the arcade and NES versions.
+assets.boxfront: ./media/mixart/Double Dragon II - The Revenge (Japan) (En).png
+assets.video: ./media/snap/Double Dragon II - The Revenge (Japan) (En).mp4
+assets.logo: ./media/wheel/Double Dragon II - The Revenge (Japan) (En).png
+assets.screenshot: ./media/screenshot/Double Dragon II - The Revenge (Japan) (En).png
+assets.background: ./media/background/Double Dragon II - The Revenge (Japan) (En).jpg
+
+
+game: Dragon Ball Z: L'Appel du Destin
+file: ./Dragon Ball Z - L'Appel du Destin (France) (Translated En).zip
+sort-by: Dragon Ball Z - L'Appel du Destin
+developer: Bandai
+publisher: Bandai
+genre: Fighting
+release: 1994-01-01
+players: 2
+rating: 70%
+description:
+	Dragon Ball Z: L'Appel Du Destin is a fighting game that maintains the dual screen mode previously seen in the DBZ Super Butouden series of the SNES, which allowed you to be far from the opponent yet still be able to see him by having the screen split between the two characters. This is important to note, as the most damaging attack of the game could be just executed from far away of your opponent, the energy fireball projectiles. These special attacks also need that you have your KI bar (which unlike energy one, is rechargeable) to a considerable level and the only way to block them is by means of a long button combination.
+	.
+	The constitution of the characters is based strictly on the Freezer and Cell sagas (Son Goku SSJ, Son Gohan SSJ2, Piccolo, Vegeta SSJ, Future Trunks SSJ, Krilin, Recoome, Ginyu, Freezer, A-18 and Perfect Cell), with special mention to Krilin, Ginyu and Recoome, who made here their first appearance in a fighting game. There are also 9 scenarios available, all of them corresponding to recognizable areas of the anime itself, some also appearing for 2 times but in different status (ie, "normal" Namek and Namek "in flames").
+assets.boxfront: ./media/mixart/Dragon Ball Z - L'Appel du Destin (France) (Translated En).png
+assets.video: ./media/snap/Dragon Ball Z - L'Appel du Destin (France) (Translated En).mp4
+assets.logo: ./media/wheel/Dragon Ball Z - L'Appel du Destin (France) (Translated En).png
+assets.screenshot: ./media/screenshot/Dragon Ball Z - L'Appel du Destin (France) (Translated En).png
+assets.background: ./media/background/Dragon Ball Z - L'Appel du Destin (France) (Translated En).jpg
+
+
+game: Dynamite Headdy
+file: ./Dynamite Headdy (Japan) (Translated En).zip
+sort-by: Dynamite Headdy
+developer: Treasure
+publisher: Sega
+genre: Platform
+release: 1994-09-01
+players: 1
+rating: 80%
+description:
+	Dynamite Headdy is a platformer... with a difference. You control a little character whose main attack comes from his disembodied head. Yes, years before Rayman appeared, we already had a hero who used detachable appendages to attack his enemies.
+	.
+	Rather than the traditional power-ups, Dynamite Headdy enables you to swap your head for different kinds – such as heads that heal you or heads that stick on to walls. You use your head in order to climb up on platforms as well, as you can grab hold of things with it, and on certain stages of the Mega Drive/Genesis version it is used to turn the game into a side-scrolling shooter, as you gain a propeller, jet, or bird head. Basically, Dynamite Headdy is just a traditional platformer at heart.
+assets.boxfront: ./media/mixart/Dynamite Headdy (Japan) (Translated En).png
+assets.video: ./media/snap/Dynamite Headdy (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/Dynamite Headdy (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/Dynamite Headdy (Japan) (Translated En).png
+assets.background: ./media/background/Dynamite Headdy (Japan) (Translated En).png
+
+
+game: Eliminate Down
+file: ./Eliminate Down (Japan).zip
+sort-by: Eliminate Down
+developer: Aprinet
+publisher: Soft Vision
+genres:
+	Action
+	Shooter
+release: 1993-06-25
+players: 1
+rating: 90%
+description:
+	Eliminate Down is a horizontally-scrolling shooter similar in style to Thunder Force. The player has several weapons that can be freely switched (forward shot, back shot, and missile), and can also change the speed of the ship. Enemies come from all directions, and certain waves will drop powerups, including shields and weapon upgrades. The player needs to collect five upgrades in order to improve their weaponry, but the upgrade affects all three weapons.
+	.
+	The game includes eight stages, most of which include both a midboss and a boss at the end, and three difficulty settings. There is also a minigame similar to Whack-a-Mole where there is a grid of ship icons, and the player must hit the rotating ships.
+assets.boxfront: ./media/mixart/Eliminate Down (Japan).png
+assets.video: ./media/snap/Eliminate Down (Japan).mp4
+assets.logo: ./media/wheel/Eliminate Down (Japan).png
+assets.screenshot: ./media/screenshot/Eliminate Down (Japan).png
+assets.background: ./media/background/Eliminate Down (Japan).jpg
+
+
+game: Fastest 1
+file: ./Fastest 1 (Japan).zip
+sort-by: Fastest 1
+developer: Human
+publisher: Human
+genre: Racing
+release: 1991-01-01
+players: 2
+rating: 35%
+description:
+	Fastest 1 is a Formula One racing game. The game doesn't have an official FIA license, but much like Human's Fire Pro Wrestling series, includes a number of recognizable fictionalized drivers, such as Ayrton Sesna and Satoru Inakajima. The game includes a world championship mode, where the player must start from the lowest rankings and win races to become the F1 world champion. There is also a battle mode where one or two players can race each other or against computer opponents, as well as a test run mode where the player can learn each course and try to set course records. There are a total of 16 different courses, which can be played in either dry, wet, or half-wet conditions, as well as a wide variety of vehicle settings that can be tweaked.
+assets.boxfront: ./media/mixart/Fastest 1 (Japan).png
+assets.video: ./media/snap/Fastest 1 (Japan).mp4
+assets.logo: ./media/wheel/Fastest 1 (Japan).png
+assets.screenshot: ./media/screenshot/Fastest 1 (Japan).png
+assets.background: ./media/background/Fastest 1 (Japan).jpg
+
+
+game: Fire Mustang
+file: ./Fire Mustang (Japan).zip
+sort-by: Fire Mustang
+developer: Taito
+publisher: Taito
+genre: Shooter
+release: 1991-05-31
+players: 1
+rating: 75%
+description:
+	Fire Mustang is a fast side-scrolling shooter set during World War II. The player controls a P-51D Mustang plane through different missions, with many enemies on the screen at the same time and a large aircraft as a boss at the end of every mission. The Mustang has an unlimited amount of bullets, but one hit is sufficient to lose a life. There are different power-ups to collect, providing additional fire power and new firing patterns. Regardless of the power-ups, the Mustang shoots forward and drops bombs to the ground at the same time, targeting ground troops. There is a limited amount of forgers, large blasts damaging many enemies at once.
+assets.boxfront: ./media/mixart/Fire Mustang (Japan).png
+assets.video: ./media/snap/Fire Mustang (Japan).mp4
+assets.logo: ./media/wheel/Fire Mustang (Japan).png
+assets.screenshot: ./media/screenshot/Fire Mustang (Japan).png
+assets.background: ./media/background/Fire Mustang (Japan).jpg
+
+
+game: Flash Point
+file: ./Flash Point (Japan) (En) (Proto).zip
+sort-by: Flash Point
+developer: Zemina
+publisher: Zemina
+genre: Puzzle
+release: 1993-01-01
+players: 2
+description:
+	Flash Point (ãƒ•ãƒ©ãƒƒã‚·ãƒ¥ãƒ ã‚¤ãƒ³ãƒˆ) is an arcade puzzle game by Sega that is based on Tetris. The player is given a pre-designed Tetris puzzle where the goal is to clear a set of specified, highlighted blocks off the screen. The game ends if the player's blocks reach the top of the screen, similar to traditional Tetris rules.
+	It was later re-released in the Sega Ages 2500 Series Vol.28: Tetris Collection in its original form. Also included in this collection is a previously-unreleased Sega Mega Drive version of Flash Pointâ€”the ROM of which has since been ripped and circulates on the internet today. It is unknown whether Flash Point suffered a similar fate to Sega's Tetris.
+assets.boxfront: ./media/mixart/Flash Point (Japan) (En) (Proto).png
+assets.video: ./media/snap/Flash Point (Japan) (En) (Proto).mp4
+assets.logo: ./media/wheel/Flash Point (Japan) (En) (Proto).png
+assets.screenshot: ./media/screenshot/Flash Point (Japan) (En) (Proto).png
+assets.background: ./media/background/Flash Point (Japan) (En) (Proto).jpg
+
+
+game: Fushigi no Umi no Nadia
+file: ./Fushigi no Umi no Nadia (Japan) (Translated En).zip
+sort-by: Fushigi no Umi no Nadia
+developer: Namco
+publisher: Namco
+genre: Adventure
+release: 1991-01-01
+players: 1
+rating: 65%
+description:
+	This is one of the several games based on the animé series The Secret of Blue Water. The series (and the game) are loosely based on the stories by the famous French science fiction author Jules Verne. The game is set in 1889, a time of great inventions and technology progress unseen before. You play as Jean, a young genius scientist. In Paris he meets Nadia, an African circus performer. Nadia wears a pendant that contains magical powers, and that is why the evil Gargoyle is after her - this pendant is just the item she needs to build the ultimate weapon, the Tower of Babel. Jean will do anything to protect Nadia, and hope that his love to her, his adventurer spirit, and the power of science will eventually defeat Gargoyle!
+	.
+	Unlike most Japanese adventures, "Fushigi no Umi no Nadia" is a top-down, third-person perspective game, in which you actually move your character around. Nadia and other friends join Jean in a RPG-like fashion (although there is no combat in the game, different characters have their own item-based abilities you should use at certain points). There are no real puzzles in the game, but you'll often have to use your inventory items to make the game progress.
+	.
+	Not to confuse with other Fushigi no Umi no Nadia games (for NES, Turbo CD, etc.)!
+assets.boxfront: ./media/mixart/Fushigi no Umi no Nadia (Japan) (Translated En).png
+assets.video: ./media/snap/Fushigi no Umi no Nadia (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/Fushigi no Umi no Nadia (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/Fushigi no Umi no Nadia (Japan) (Translated En).png
+assets.background: ./media/background/Fushigi no Umi no Nadia (Japan) (Translated En).jpg
+
+
+game: Gunfight 3 in 1
+file: ./Gunfight 3 in 1 (Taiwan) (En) (Unl).zip
+sort-by: Gunfight 3 in 1
+developer: Unknown
+publisher: Unknown
+genre: Shooter
+players: 2
+description:
+	Developed and edited by Sega in 1994 for the Mega Drive, Gunfight 3 in 1 is a shooting game only compatible with the Justifier, Konami's optical gun. This cartridge is a compilation that includes 3 games: Mischievous Gopher, Terminator, Falling Star.
+assets.boxfront: ./media/mixart/Gunfight 3 in 1 (Taiwan) (En) (Unl).png
+assets.video: ./media/snap/Gunfight 3 in 1 (Taiwan) (En) (Unl).mp4
+assets.logo: ./media/wheel/Gunfight 3 in 1 (Taiwan) (En) (Unl).png
+assets.screenshot: ./media/screenshot/Gunfight 3 in 1 (Taiwan) (En) (Unl).png
+
+
+game: Heavy Unit: Mega Drive Special
+file: ./Heavy Unit - Mega Drive Special (Japan).zip
+sort-by: Heavy Unit - Mega Drive Special
+developer: Kaneko
+publisher: Toho Company
+genre: Shooter
+release: 1990-01-01
+players: 1
+rating: 50%
+description:
+	Heavy Unit is a typical side-scrolling shooter in which you have to fly through several levels filled with enemies, mid and end bosses. Apart from the usual power ups that increase your speed and weapons, there is also one that transforms your spaceship into a large robot that has a different weapon system.
+	.
+	This is the same game as Heavy Unit for Turbografx-16 but with improved graphics (more colours, bigger enemies) and sound. Levels layout is the same.
+assets.boxfront: ./media/mixart/Heavy Unit - Mega Drive Special (Japan).png
+assets.video: ./media/snap/Heavy Unit - Mega Drive Special (Japan).mp4
+assets.logo: ./media/wheel/Heavy Unit - Mega Drive Special (Japan).png
+assets.screenshot: ./media/screenshot/Heavy Unit - Mega Drive Special (Japan).png
+assets.background: ./media/background/Heavy Unit - Mega Drive Special (Japan).jpg
+
+
+game: Hercules 2
+file: ./Hercules 2 (Taiwan) (En) (Unl).zip
+sort-by: Hercules 2
+developer: Chuanpu Technology
+publisher: IGS
+genres:
+	Platform
+	Shooter
+release: 1991-01-01
+players: 1
+description:
+	The game is composed of four stages based off of the original PlayStation game. All of the graphics try to copy the original game, though are downgraded with lots of detail missing such as the whole forest atmosphere of the first level. Also, a few enemies use sprites from either Aladdin for the SNES, or the Mega Drive pirate of the same game.
+	The first three stages are platform based, while the final fourth stage is more like a shooter where you ride Pegasus. Each stage ends with a boss that must be defeated in order to advance.
+assets.boxfront: ./media/mixart/Hercules 2 (Taiwan) (En) (Unl).png
+assets.logo: ./media/wheel/Hercules 2 (Taiwan) (En) (Unl).png
+assets.screenshot: ./media/screenshot/Hercules 2 (Taiwan) (En) (Unl).png
+
+
+game: Kishi Densetsu
+file: ./Kishi Densetsu (Japan) (Translated En).zip
+sort-by: Kishi Densetsu
+developer: Kodansha
+publisher: Kodansha
+genre: Strategy
+release: 1993-07-30
+players: 1
+description:
+	Kishi Densetsu (é¨Žå£«ä¼ èª¬) is a 1993 war simulation game for the Sega Mega Drive by Kodansha Research Institute released exclusively in Japan.
+assets.boxfront: ./media/mixart/Kishi Densetsu (Japan) (Translated En).png
+assets.video: ./media/snap/Kishi Densetsu (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/Kishi Densetsu (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/Kishi Densetsu (Japan) (Translated En).png
+
+
+game: Langrisser II
+file: ./Langrisser II (Japan) (Rev B) (Translated En).zip
+sort-by: Langrisser II
+developer: Masaya Games
+publisher: NCS Corporation
+genre: Role-Playing
+release: 1994-12-26
+players: 1
+rating: 75%
+description:
+	"Langrisser II" is a sequel to  Warsong (whose original title is Langrisser). The events of the game take place several years after those described in "Warsong". Gone is the benevolent kingdom of Baltia, and a new power has risen - the Rayguard Empire, led by Emperor Bernhart and his four generals. Recently, Bernhart ordered his army to attack the neighboring countries, obviously searching for something. This "something" might be none else but a legendary evil sword, that makes the one who wields undefeated. It is up to the noble knight Elwin and his friends to stop the Emperor!
+	.
+	"Langrisser II" is a strategy RPG. The army is divided into soldier units and generals, who fight alone and who are usually stronger than a whole unit. Before the scenario begins, you must hire soldiers, buy weapons and items, etc. During the battle, if you come into contact with an enemy unit, an automatic battle sequence occurs. You can also cast healing spells on your units or offensive spells to hurt the enemy.
+	.
+	The major difference between "Langrisser II" and its "remake",  Der Langrisser for SNES, is the absence of branching storyline in Genesis release.
+assets.boxfront: ./media/mixart/Langrisser II (Japan) (Rev B) (Translated En).png
+assets.video: ./media/snap/Langrisser II (Japan) (Rev B) (Translated En).mp4
+assets.logo: ./media/wheel/Langrisser II (Japan) (Rev B) (Translated En).png
+assets.screenshot: ./media/screenshot/Langrisser II (Japan) (Rev B) (Translated En).png
+assets.background: ./media/background/Langrisser II (Japan) (Rev B) (Translated En).jpg
+
+
+game: Link Dragon
+file: ./Link Dragon (Taiwan) (En) (Unl).zip
+sort-by: Link Dragon
+developer: Jumbo Team
+publisher: Jumbo Team
+genre: Action
+release: 1993-01-01
+players: 1
+description:
+	Link Dragon (Long) (é¾ ) is an unlicensed Blockade clone for the Sega Mega Drive by the Taiwanese companies Songtly and Jumbo Team released in 1993. The game is divided into several levels; after collecting a certain amount of pieces (fire?) a door opens (which you must go to without dying). Dying starts you at the beginning of the stage.
+assets.boxfront: ./media/mixart/Link Dragon (Taiwan) (En) (Unl).png
+assets.video: ./media/snap/Link Dragon (Taiwan) (En) (Unl).mp4
+assets.logo: ./media/wheel/Link Dragon (Taiwan) (En) (Unl).png
+assets.screenshot: ./media/screenshot/Link Dragon (Taiwan) (En) (Unl).png
+assets.background: ./media/background/Link Dragon (Taiwan) (En) (Unl).jpg
+
+
+game: Lion King 3
+file: ./Lion King 3 (Taiwan) (En) (Unl).zip
+sort-by: Lion King 3
+developer: Gamtec
+publisher: X BOY
+genre: Platform
+release: 1997-01-01
+players: 1
+description:
+	Lion King 3 is a platform game released for the Sega Mega Drive based, not the Disney film of the same name, but the original film itself, as a follow-up to The Lion King II. It was developed by an unknown company likely connected to Chuanpu & Gamtec and published by X Boy.
+	A second release does not credit X Boy but it is unknown if it was published by another company or by X Boy without their logo.
+	In this game, players get the choice of playing as either Simba or Mufasa, although they play identically to one another, through several levels, each with a boss at the end, all while having to contend with various platforming hazards such as floating platforms, swings and all sorts of enemies that obstruct their path.
+	Both lions possess the ability to attack with their claws using the B button and can fire a special attack, a energy wave that shoots straight forward, with the A button. Extra special attacks can be found throughout every level.
+	Health can be restored in game by picking up hearts and lives can be gained by picking up a 1-up. Atop of this, a life is earnt by picking up 100 Sun Emblems with the counter resetting afterwards. Throughout each level, progress can be saved by leaping at an unlit torch, which will light and act as a Checkpoint.
+	There is no story in-game and the ending screen is simply a shot of the player's lion gazing out across a lake as the word "FIN" appears overhead.
+	Trivia
+	Strangely enough, Simba's in-game sprite is coloured a pale pink. Atop of this, while his idle graphics are taken from The Lion King, every other sprite seems to be an original.
+	On the same note, Mufasa' sprite is simply Adult Simba's from the same game.
+	Even more so then with Mulan, this game takes almost every resource from other games, such as enemies from Donkey Kong Country and the background on the Stage Screen screen is from the Transylvania stage in QuackShot.
+	Most bizarrely of all, this game contains many sound samples taken from games like The Lion King and Disney's Aladdin often distorted immensely and employed in appropriate places. For example, a bug will sound like a monkey and the sound effect played when you pause the game is a portion of Mufasa's sound bite from The Lion King, slowed down incredibly and cut off. It merely says: "Everything the".
+assets.boxfront: ./media/mixart/Lion King 3 (Taiwan) (En) (Unl).png
+assets.video: ./media/snap/Lion King 3 (Taiwan) (En) (Unl).mp4
+assets.logo: ./media/wheel/Lion King 3 (Taiwan) (En) (Unl).png
+assets.screenshot: ./media/screenshot/Lion King 3 (Taiwan) (En) (Unl).png
+assets.background: ./media/background/Lion King 3 (Taiwan) (En) (Unl).jpg
+
+
+game: The Lion King 2
+file: ./Lion King II (Taiwan) (En) (Unl).zip
+sort-by: Lion King II
+developer: Gamtec
+publisher: X BOY
+genre: Platform
+release: 1995-01-01
+players: 2
+description:
+	The Lion King II is an unlicensed platformer for the Sega Mega Drive. It is based on the 1994 film The Lion King (as opposed to its 1998 sequel which shares the Lion King II title). It was developed by Gamtec at an unknown date, and uses sound effects from other unlicensed Mega Drive games. For example, the sound for Simba slashing enemies is the select sound from Rockman X3, and the sound when picking up an item is from Squirrel King.
+	There are two playable characters: Simba and Mufasa, the latter can be played by collecting a golden star. Simba can be reaccessed when touching an enemy, and torches act as checkpoints; the player's lion can activate them by jumping up when next to a torch.
+assets.boxfront: ./media/mixart/Lion King II (Taiwan) (En) (Unl).png
+assets.logo: ./media/wheel/Lion King II (Taiwan) (En) (Unl).png
+assets.screenshot: ./media/screenshot/Lion King II (Taiwan) (En) (Unl).png
+
+
+game: Madou Monogatari I
+file: ./Madou Monogatari I (Japan) (Translated En).zip
+sort-by: Madou Monogatari I
+developer: Compile
+publisher: Compile
+genre: Role-Playing
+release: 1996-03-22
+players: 1
+rating: 60%
+description:
+	In this game, you play a young apprentice sorceress named Arle. She studies at a magic school, and is about to take her most important examination: go to the Tower of Satan, defeat the enemies and overcome all the obstacles on the way using her magic power!
+	.
+	Mado Monogatari I is a puzzle/RPG mixture. Featuring characters and puzzles from Puyo Puyo games, it is set in a 3D dungeon which you explore from first-person perspective. Combat takes place on a platform, and is a mixture of turn-based and real time styles. Enemies attack you even if you wait, but you have time to perform your moves. You should hold down buttons and press direction arrows to execute various magic spells.
+assets.boxfront: ./media/mixart/Madou Monogatari I (Japan) (Translated En).png
+assets.video: ./media/snap/Madou Monogatari I (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/Madou Monogatari I (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/Madou Monogatari I (Japan) (Translated En).png
+assets.background: ./media/background/Madou Monogatari I (Japan) (Translated En).png
+
+
+game: Magic Bubble
+file: ./Magic Bubble (Taiwan) (En) (Unl).zip
+sort-by: Magic Bubble
+developer: C&E
+publisher: C&E
+genre: Puzzle
+release: 1993-01-01
+players: 2
+description:
+	Magic Bubble is an unlicensed 1993 puzzle game developed by C&E for the Sega Mega Drive. It was the only game produced by C&E (a Taiwanese company) where the packaging, instructions and in-game text is all in English. The game involves matching like-coloured bubbles which float to the top of the screen.
+	In the 2000s, publishing rights to the game were purchased by Super Fighter Team, who also published a translation of another of C&E's games, Beggar Prince.
+assets.boxfront: ./media/mixart/Magic Bubble (Taiwan) (En) (Unl).png
+assets.video: ./media/snap/Magic Bubble (Taiwan) (En) (Unl).mp4
+assets.logo: ./media/wheel/Magic Bubble (Taiwan) (En) (Unl).png
+assets.screenshot: ./media/screenshot/Magic Bubble (Taiwan) (En) (Unl).png
+
+
+game: Marble Madness
+file: ./Marble Madness (Japan).zip
+sort-by: Marble Madness
+developer: Atari
+publisher: Atari
+genre: Action
+release: 1993-08-13
+players: 2
+rating: 80%
+description:
+	A port of the arcade game. The idea is deceptively simple: Guide a marble down a path without hitting any obstacles or straying off the course. The game is viewed from an isometric perspective, which makes it harder to stay focused on the direction the ball is to follow. There are tight corridors to follow and enemies to avoid. There is a 2-player mode in which players must race to the finish; otherwise you're racing against the clock.
+assets.boxfront: ./media/mixart/Marble Madness (Japan).png
+assets.video: ./media/snap/Marble Madness (Japan).mp4
+assets.logo: ./media/wheel/Marble Madness (Japan).png
+assets.screenshot: ./media/screenshot/Marble Madness (Japan).png
+assets.background: ./media/background/Marble Madness (Japan).jpg
+
+
+game: Master of Weapon
+file: ./Master of Weapon (Japan).zip
+sort-by: Master of Weapon
+developer: Taito
+publisher: Taito
+genre: Shooter
+release: 1991-09-27
+players: 4
+description:
+	The "7-Day War" -- seven days of nuclear winter -- have caused massive ecological shifts on Earth. The ground splits open, the oceans boil, and all living things on the planet begin to change...including humanity. Scientists create a computer to leave a seed and restore humanity, a computer known simply as "N", which is part of the top-secret Project Yukiwo. What is Project Yukiwo? None who know remain...
+	.
+	Master of Weapon is a vertically-scrolling shooter based on the 1990 Taito arcade game. The player controls the fighter ship "N", shooting various biological enemies. Powerups are sparse, with only a handful of upgrades available from item pods. The player can fire in the air, as well as towards the ground to hit land-based enemies. There is also a special weapon which can be changed with powerups, but also takes time to recharge back to full stock. There are a total of nine "acts", and three difficulty settings.
+assets.boxfront: ./media/mixart/Master of Weapon (Japan).png
+assets.video: ./media/snap/Master of Weapon (Japan).mp4
+assets.logo: ./media/wheel/Master of Weapon (Japan).png
+assets.screenshot: ./media/screenshot/Master of Weapon (Japan).png
+assets.background: ./media/background/Master of Weapon (Japan).jpg
+
+
+game: MK5: Mortal Kombat Mythologies: Sub-Zero
+file: ./MK5 - Mortal Kombat Mythologies - Sub-Zero (Taiwan) (En) (Unl).zip
+sort-by: MK5 - Mortal Kombat Mythologies - Sub-Zero
+publisher: DVS Electronic
+genres:
+	Fighting
+	Platform
+release: 1998-01-01
+players: 1
+description:
+	MK5 - Mortal Combat - Sub Zero is a pirated port of Mortal Kombat Mythologies: Sub-Zero for PlayStation and Nintendo 64.
+	This game uses the system of Mortal Kombat Mythologies in that it's a cross between fighting and side-scrolling. The controls are somewhat awkward; during fights, Sub-Zero won't automatically turn around when behind an opponent, forcing the player to use the A button to turn around. The fighting engine isn't taken from the official Mortal Kombat games and instead uses an engine similar to one used in some other pirated Mega Drive fighting games. All of the opponents in this game are clones of major Mortal Kombat characters. There are four levels, each with a different set of clones to fight.
+assets.boxfront: ./media/mixart/MK5 - Mortal Kombat Mythologies - Sub-Zero (Taiwan) (En) (Unl).png
+assets.video: ./media/snap/MK5 - Mortal Kombat Mythologies - Sub-Zero (Taiwan) (En) (Unl).mp4
+assets.logo: ./media/wheel/MK5 - Mortal Kombat Mythologies - Sub-Zero (Taiwan) (En) (Unl).png
+assets.screenshot: ./media/screenshot/MK5 - Mortal Kombat Mythologies - Sub-Zero (Taiwan) (En) (Unl).png
+
+
+game: Monster World IV
+file: ./Monster World IV (Japan) (Translated En).zip
+sort-by: Monster World IV
+developer: Westone
+publisher: Sega
+genre: Action
+release: 1994-04-01
+players: 1
+rating: 80%
+description:
+	This is a sequel to Wonder Boy 5: Monster World 3. You control Asha, the green-haired girlfriend of Shion, the hero of the previous game. One day, Asha was standing on a cliff near her home village, and suddenly heard a mysterious voice calling for help. She decided to leave the village and to embark on an adventure to discover the identity of this mysterious person.
+	.
+	Monster World 4 is essentially a platform game, with slight RPG/adventure elements (puzzles, treasure, equipment, etc.) Asha can jump, run, attack or defend (by pressing the "down" button). She can also use items and equip weapons and armor, talk to people, and open treasure chests. Later in the game, she will also be able to use magic, and a little blue pet animal will assist and help her on her journey. The combat system is very similar to the classical Zelda style. Health and mana points are measured in little hearts, and the more you progress in the game, the more hit points you gain.
+	.
+	The game was released only in Japan. It is sometimes erroneously called "Wonder Boy 6".
+assets.boxfront: ./media/mixart/Monster World IV (Japan) (Translated En).png
+assets.video: ./media/snap/Monster World IV (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/Monster World IV (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/Monster World IV (Japan) (Translated En).png
+assets.background: ./media/background/Monster World IV (Japan) (Translated En).jpg
+
+
+game: The NewZealand Story
+file: ./NewZealand Story, The (Japan).zip
+sort-by: NewZealand Story, The
+developer: Taito
+publisher: Taito
+genre: Platform
+release: 1990-03-03
+players: 1
+rating: 65%
+description:
+	One day, a kiwi tribe was having fun and games outside the zoo, only to be kidnapped by the evil-minded Leopard Seal, who plans to sell them at the black market. Fortunately, during the kidnapping process, Tiki, leader of the tribe, managed to escape the sack, and her job is to rescue Phee-Phee and the other kiwis scattered around New Zealand, and are held in cages in various locations that include Auckland, Rotorua, Waitomo Caves, Strait Cook, and Mt. Cook.
+	.
+	If Tiki doesn't rescue a kiwi in a limited amount of time, the devil will appear and try to kill her. When Tiki reaches the outskirts of each city, except Strait Cook, there is a boss waiting to meet Tiki, and kill her by using their own choice of weapons. Also making the rescue mission difficult are several nasties that attempt to throw their own weapons, like bombs and arrows, at her. To defeat these enemies, Tiki shoots at them using her crossbow and arrows. More often than not, when Tiki shoots at enemies, they will leave behind pieces of fruit that she can pick up for points. However, it is likely that Tiki may get other weapons or the letters E, X, T, E, N, and D. Collecting all these letters will result in an extra life, and as for the weapons, they include laser shots, bombs, and fireballs.
+	.
+	In some levels, a few areas are located further up than just left or right, and the only way that Tiki can go up is by snatching something off the enemy that gives her the ability to fly up. Other areas are underwater, and when Tiki goes underwater, her oxygen  meter decreases, so she has to rise up to the surface again to restore her oxygen levels. Apart from her own weapons, Tiki is able to squirt water at enemies if she gets to the top of the water.
+assets.boxfront: ./media/mixart/NewZealand Story, The (Japan).png
+assets.video: ./media/snap/NewZealand Story, The (Japan).mp4
+assets.logo: ./media/wheel/NewZealand Story, The (Japan).png
+assets.screenshot: ./media/screenshot/NewZealand Story, The (Japan).png
+assets.background: ./media/background/NewZealand Story, The (Japan).jpg
+
+
+game: Ninja Gaiden
+file: ./Ninja Gaiden (Japan) (En) (Proto).zip
+sort-by: Ninja Gaiden
+developer: Sega
+publisher: Sega
+genre: Beat 'em Up
+release: 1992-12-12
+players: 1
+description:
+	Sega even had a third project running, this time for the Mega Drive. Once again, the development was done by a third party. This time it seems to have been the mostly unknown developer called Opus, as in-game art and the sound engine used indicate. This game was never released, probably due to quality issues, but a beta copy was leaked and can be played on emulators nowadays. The game would have tried to build on the concept of the original arcade game, but feels to some degree more like a very bad approach to the Streets of Rage school of beat-em-ups. It is obvious that it either was in a rather early development stage, or Sega did right to pull the plug on this botched mess.
+	.
+	The game features a lot of cut scenes, all of them in the finest Engrish. The chapter titles are in Japanese, though. The story doesn't make any sense, at least not in its presented state. Later in the game, you meet people you should know but don't, and about halfway through the game you get to know that your goal from the beginning was to rescue Ryu's kidnapped lady friend.
+assets.boxfront: ./media/mixart/Ninja Gaiden (Japan) (En) (Proto).png
+assets.video: ./media/snap/Ninja Gaiden (Japan) (En) (Proto).mp4
+assets.logo: ./media/wheel/Ninja Gaiden (Japan) (En) (Proto).png
+assets.screenshot: ./media/screenshot/Ninja Gaiden (Japan) (En) (Proto).png
+assets.background: ./media/background/Ninja Gaiden (Japan) (En) (Proto).jpg
+
+
+game: Panorama Cotton
+file: ./Panorama Cotton (Japan) (Translated En).zip
+sort-by: Panorama Cotton
+developer: Success
+publisher: Success
+genre: Shooter
+release: 1994-08-12
+players: 1
+rating: 90%
+description:
+	The fairy kingdom has long been threatened by the dark witch Wool, the leader of the Dark Undulation. The queen Velvet sent the cute little fairy Silk to seek aid by the red-haired witch Cotton, the only one who could defeat Wool. Cotton agrees under one condition: she will receive some willows as a reward, since willows are her favorite food. Finally, after defeating Wool, Cotton realized that someone poisoned the promised willows, and swears revenge. Accompanied by Silk, she begins to chase the mysterious enemy.
+	.
+	"Panorama Cotton" is a pseudo-3D scrolling shooter reminiscent of  Space Harrier, set in an animé-style fantasy world. Various levels scroll "into the screen", vertically, horizontally, or diagonally. You can move Cotton over the screen, shooting at oncoming enemies and avoiding obstacles on her way. Cotton can upgrade her weapon to higher levels as you advance in the game, and can also cast magical spells by collecting special items.
+assets.boxfront: ./media/mixart/Panorama Cotton (Japan) (Translated En).png
+assets.video: ./media/snap/Panorama Cotton (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/Panorama Cotton (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/Panorama Cotton (Japan) (Translated En).png
+assets.background: ./media/background/Panorama Cotton (Japan) (Translated En).jpg
+
+
+game: Pepenga Pengo
+file: ./Pepenga Pengo (Japan).zip
+sort-by: Pepenga Pengo
+developer: JSH
+publisher: Sega
+genre: Action
+release: 1995-12-22
+players: 4
+rating: 85%
+description:
+	The Sno-Bees are back! One day in Antarctica, an asteroid crashes into the crystal that protects the penguins, shattering it into many pieces and freeing the Sno-Bees who had been frozen in ice. In order to rescue his people, the blue penguin (along with a pink penguin in two-player mode) goes after the Sno-Bees and to recover the missing pieces of the crystal. The game takes the basic template of the 1982 original and expands on it, offering a greater variety of enemies, various environmental hazards, and power-ups, along with of course updated 16-bit graphics and sound. The goal is still to push blocks and crush enemies. Enemies now appear from generators, which must be destroyed to stop new enemies from appearing, and all enemies must then be eliminated to complete each stage.
+	.
+	In addition to the main story mode, the game also features a competitive battle mode for up to four players, as well as a conversion of the original arcade game.
+assets.boxfront: ./media/mixart/Pepenga Pengo (Japan).png
+assets.video: ./media/snap/Pepenga Pengo (Japan).mp4
+assets.logo: ./media/wheel/Pepenga Pengo (Japan).png
+assets.screenshot: ./media/screenshot/Pepenga Pengo (Japan).png
+assets.background: ./media/background/Pepenga Pengo (Japan).jpg
+
+
+game: Phantasy Star II: Amia's Adventure
+file: ./Phantasy Star II - Amia's Adventure (Japan) (SegaNet) (Translated En).zip
+sort-by: Phantasy Star II - Amia's Adventure
+developer: Sega
+publisher: Sega
+genre: Adventure
+release: 1991-01-01
+players: 1
+description:
+	This game is one of the eight text adventures that chronicles the lives of characters before their story continues in Phantasy Star II. This particular game covers Anna Zirski, a counter-hunter. A counter-hunter hunts down and arrests hunters who have become criminals. Anna is tasked with capturing criminals holed up in a Motavian town. These criminals are accused of illegally accessing Mother Brain in order to disrupt the food production of that region. Anna must put a stop to these hackers.nnnnGameplay consists of exploring various locations, looking around them to find other characters to converse with in order to gain clues, and searching for items to take in order to use them to solve problems which helps further the plot. nnnnSome items that can be picked up can be used for weapons during combat. When in combat, the players weapon's attack power is multiplied by a random dice roll to figure out the strength of the attack. The same rule applies to the enemy combatant's attack. The goal of combat is to drain all the enemy's HP.
+assets.boxfront: ./media/mixart/Phantasy Star II - Amia's Adventure (Japan) (SegaNet) (Translated En).png
+assets.video: ./media/snap/Phantasy Star II - Amia's Adventure (Japan) (SegaNet) (Translated En).mp4
+assets.logo: ./media/wheel/Phantasy Star II - Amia's Adventure (Japan) (SegaNet) (Translated En).png
+assets.screenshot: ./media/screenshot/Phantasy Star II - Amia's Adventure (Japan) (SegaNet) (Translated En).png
+
+
+game: Phantasy Star II: Anne's Adventure
+file: ./Phantasy Star II - Anne's Adventure (Japan) (SegaNet) (Translated En).zip
+sort-by: Phantasy Star II - Anne's Adventure
+developer: Sega
+publisher: Sega
+genre: Adventure
+release: 1991-01-01
+players: 1
+rating: 75%
+description:
+	This game is one of the eight text adventures that chronicles the lives of characters before their story continues in Phantasy Star II. This particular game covers Amy Sage, a doctor who is tasked with getting medicine to an elementary school that has been recently attacked by biomonsters.
+	.
+	Gameplay consists of exploring various locations, looking around them to find other characters to converse with in order to gain clues, and searching for items to take in order to use them to solve problems which helps further the plot.
+	.
+	Some items that can be picked up can be used for weapons during combat. When in combat, the players weapon's attack power is multiplied by a random dice roll to figure out the strength of the attack. The same rule applies to the enemy combatant's attack. The goal of combat is to drain all the enemy's HP.
+assets.boxfront: ./media/mixart/Phantasy Star II - Anne's Adventure (Japan) (SegaNet) (Translated En).png
+assets.video: ./media/snap/Phantasy Star II - Anne's Adventure (Japan) (SegaNet) (Translated En).mp4
+assets.logo: ./media/wheel/Phantasy Star II - Anne's Adventure (Japan) (SegaNet) (Translated En).png
+assets.screenshot: ./media/screenshot/Phantasy Star II - Anne's Adventure (Japan) (SegaNet) (Translated En).png
+assets.background: ./media/background/Phantasy Star II - Anne's Adventure (Japan) (SegaNet) (Translated En).jpg
+
+
+game: Phantasy Star II: Huey's Adventure
+file: ./Phantasy Star II - Huey's Adventure (Japan) (SegaNet) (Translated En).zip
+sort-by: Phantasy Star II - Huey's Adventure
+developer: Sega
+publisher: Sega
+genre: Adventure
+release: 1991-01-01
+players: 1
+description:
+	The game takes place in the summer of AW 1284, shortly before the events of Phantasy Star II.
+	Hugh Thompson (or Huey Reane)) is a scholar in biology at Motavia University. He's called in by the University president to investigate an incident involving an energy-sapping plant creature roaming the campus, feeding itself on electricity and steadily growing larger in the process. After the creature spreads itself through the college's reactor over to the main energy center, threatening to deprive the entire town of Kvarts of its electricity, Hugh sets out to try and stop it. This adventure is what eventually drives Hugh to adapt his knowledge of anatomy to combat biomonsters, in the aid of Rolf in Phantasy Star II.
+assets.boxfront: ./media/mixart/Phantasy Star II - Huey's Adventure (Japan) (SegaNet) (Translated En).png
+assets.video: ./media/snap/Phantasy Star II - Huey's Adventure (Japan) (SegaNet) (Translated En).mp4
+assets.logo: ./media/wheel/Phantasy Star II - Huey's Adventure (Japan) (SegaNet) (Translated En).png
+assets.screenshot: ./media/screenshot/Phantasy Star II - Huey's Adventure (Japan) (SegaNet) (Translated En).png
+
+
+game: Phantasy Star II: Kinds's Adventure
+file: ./Phantasy Star II - Kinds's Adventure (Japan) (SegaNet) (Translated En).zip
+sort-by: Phantasy Star II - Kinds's Adventure
+developer: Sega
+publisher: Sega
+genre: Adventure
+release: 1991-01-01
+players: 1
+rating: 70%
+description:
+	Phantasy Star II Text Adventures were a series of eight text adventure videogames available to users of Sega Meganet, a modem for the Sega Mega Drive in Japan, and later released as part of two compilations on the Sega Mega-CD. Each of the games takes place shortly before Phantasy Star II, documenting the backgrounds of its characters, and explaining what brings them to the town Paseo where they eventually team up to investigate the pervasive troubles of the Algol Solar System.
+	Kinds's Adventure: Kind (Josh on the American and European versions), aged 18, is an aspiring engineer. He has always loved machines and knows perfectly how robots work. He built many small devices and knows how to hack computers. However, being head in the air, it often destroys things, but tries nevertheless to repair them. Finally, after being a "repairer" with little talent, he decided instead to put his talent to the destruction of machines, but for good reasons. He began to join a gang of rebels to destroy Mother Brain, the great electronic brain of the Algol solar system. And finally, he ends up teaming up with Rolf in Phantasy Star II.
+assets.boxfront: ./media/mixart/Phantasy Star II - Kinds's Adventure (Japan) (SegaNet) (Translated En).png
+assets.video: ./media/snap/Phantasy Star II - Kinds's Adventure (Japan) (SegaNet) (Translated En).mp4
+assets.logo: ./media/wheel/Phantasy Star II - Kinds's Adventure (Japan) (SegaNet) (Translated En).png
+assets.screenshot: ./media/screenshot/Phantasy Star II - Kinds's Adventure (Japan) (SegaNet) (Translated En).png
+
+
+game: Phantasy Star II: Nei's Adventure
+file: ./Phantasy Star II - Nei's Adventure (Japan) (SegaNet) (Translated En).zip
+sort-by: Phantasy Star II - Nei's Adventure
+developer: Sega
+publisher: Sega
+genre: Adventure
+release: 1994-01-01
+players: 1
+rating: 75%
+description:
+	Phantasy Star II Text Adventures were a series of eight text adventure videogames available to users of Sega Meganet, a modem for the Sega Mega Drive in Japan, and later released as part of two compilations on the Sega Mega-CD. Each of the games takes place shortly before Phantasy Star II, documenting the backgrounds of its characters, and explaining what brings them to the town Paseo where they eventually team up to investigate the pervasive troubles of the Algol Solar System.
+	Nei's Adventure : This chapter features Nei - a Numan created through an experiment to breed humans with biomonsters. After her escape from Neifirst, she is rescued by Rolf and adopted as his little sister.
+assets.boxfront: ./media/mixart/Phantasy Star II - Nei's Adventure (Japan) (SegaNet) (Translated En).png
+assets.video: ./media/snap/Phantasy Star II - Nei's Adventure (Japan) (SegaNet) (Translated En).mp4
+assets.logo: ./media/wheel/Phantasy Star II - Nei's Adventure (Japan) (SegaNet) (Translated En).png
+assets.screenshot: ./media/screenshot/Phantasy Star II - Nei's Adventure (Japan) (SegaNet) (Translated En).png
+
+
+game: Phantasy Star II: Rudger's Adventure
+file: ./Phantasy Star II - Rudger's Adventure (Japan) (SegaNet) (Translated En).zip
+sort-by: Phantasy Star II - Rudger's Adventure
+developer: Sega
+publisher: Sega
+genre: Adventure
+release: 1989-01-01
+players: 1
+rating: 70%
+description:
+	Phantasy Star II Text Adventures were a series of eight text adventure videogames available to users of Sega Meganet, a modem for the Sega Mega Drive in Japan, and later released as part of two compilations on the Sega Mega-CD. Each of the games takes place shortly before Phantasy Star II, documenting the backgrounds of its characters, and explaining what brings them to the town Paseo where they eventually team up to investigate the pervasive troubles of the Algol Solar System.
+	Rudger's Adventure : This chapter features Rudolf "Rudo" Steiner, who after the loss of his wife and child in a Biomonster attack, becomes a hunter dedicated to their extermination.
+assets.boxfront: ./media/mixart/Phantasy Star II - Rudger's Adventure (Japan) (SegaNet) (Translated En).png
+assets.video: ./media/snap/Phantasy Star II - Rudger's Adventure (Japan) (SegaNet) (Translated En).mp4
+assets.logo: ./media/wheel/Phantasy Star II - Rudger's Adventure (Japan) (SegaNet) (Translated En).png
+assets.screenshot: ./media/screenshot/Phantasy Star II - Rudger's Adventure (Japan) (SegaNet) (Translated En).png
+
+
+game: Phantasy Star II: Shilka's Adventure
+file: ./Phantasy Star II - Shilka's Adventure (Japan) (SegaNet) (Translated En).zip
+sort-by: Phantasy Star II - Shilka's Adventure
+developer: Sega
+publisher: Sega
+genre: Adventure
+release: 1991-01-01
+players: 1
+rating: 75%
+description:
+	Phantasy Star II Text Adventures were a series of eight text adventure videogames available to users of Sega Meganet, a modem for the Sega Mega Drive in Japan, and later released as part of two compilations on the Sega Mega-CD. Each of the games takes place shortly before Phantasy Star II, documenting the backgrounds of its characters, and explaining what brings them to the town Paseo where they eventually team up to investigate the pervasive troubles of the Algol Solar System.
+	Shilka's Adventure: Shilka or Shir on American and European versions. She is the only heiress of a rich family in Paseo, the capital of the planet Motavia. Instead of spending her time doing nothing and remedying the monotony of everyday life, she became an expert thief. She likes to take the air, the freshness of the night breeze and often rests on the roofs. It is called "Shir of the Wind". His adventure takes place in autumn of the interstellar year 1282, about two years before the events that take place in Phantasy Star II. She plans to steal a painting entitled "Opa-Opa", which is on display in an exhibition hotel.
+assets.boxfront: ./media/mixart/Phantasy Star II - Shilka's Adventure (Japan) (SegaNet) (Translated En).png
+assets.video: ./media/snap/Phantasy Star II - Shilka's Adventure (Japan) (SegaNet) (Translated En).mp4
+assets.logo: ./media/wheel/Phantasy Star II - Shilka's Adventure (Japan) (SegaNet) (Translated En).png
+assets.screenshot: ./media/screenshot/Phantasy Star II - Shilka's Adventure (Japan) (SegaNet) (Translated En).png
+
+
+game: Phantasy Star II: Yushis's Adventure
+file: ./Phantasy Star II - Yushis's Adventure (Japan) (SegaNet) (Translated En).zip
+sort-by: Phantasy Star II - Yushis's Adventure
+developer: Sega
+publisher: Sega
+genre: Adventure
+release: 1991-01-01
+players: 1
+rating: 70%
+description:
+	Phantasy Star II Text Adventures were a series of eight text adventure videogames available to users of Sega Meganet, a modem for the Sega Mega Drive in Japan, and later released as part of two compilations on the Sega Mega-CD. Each of the games takes place shortly before Phantasy Star II, documenting the backgrounds of its characters, and explaining what brings them to the town Paseo where they eventually team up to investigate the pervasive troubles of the Algol Solar System.
+	Yushis's Adventure: His name is Rolf on the American and European versions. He is a government's agent of Moltavia planet Capital, Paseo. He is the main character of Phantasy Star II. On mission, he rescues a young Newman: Nei.
+assets.boxfront: ./media/mixart/Phantasy Star II - Yushis's Adventure (Japan) (SegaNet) (Translated En).png
+assets.video: ./media/snap/Phantasy Star II - Yushis's Adventure (Japan) (SegaNet) (Translated En).mp4
+assets.logo: ./media/wheel/Phantasy Star II - Yushis's Adventure (Japan) (SegaNet) (Translated En).png
+assets.screenshot: ./media/screenshot/Phantasy Star II - Yushis's Adventure (Japan) (SegaNet) (Translated En).png
+
+
+game: Pocket Monsters
+file: ./Pocket Monsters (Taiwan) (En) (Unl).zip
+sort-by: Pocket Monsters
+developer: DVS Electronic Co
+publisher: Homebrew
+genre: Platform
+release: 2000-01-01
+players: 1
+description:
+	Like the Famicom pirate, the player controls Pikachu through numerous sidescrolling levels. There are 5 levels in total, with a boss at the end of each, as well a mini-boss in the first level of the Mega Drive version. Pikachu can jump on enemies and use a special move which clears all of the enemies on the screen, although the latter can only be done when the charge meter is full (indicated by a power bar at the top of the screen of the SNES version, or a numeric counter in the Mega Drive version, which is full when it hits 20.) The player can start either 3 and 5 lives and continues each, and there's a difficulty setting in the options menu.
+assets.boxfront: ./media/mixart/Pocket Monsters (Taiwan) (En) (Unl).png
+assets.logo: ./media/wheel/Pocket Monsters (Taiwan) (En) (Unl).png
+assets.screenshot: ./media/screenshot/Pocket Monsters (Taiwan) (En) (Unl).png
+
+
+game: Pocket Monsters 2
+file: ./Pocket Monsters 2 (Taiwan) (En) (Unl).zip
+sort-by: Pocket Monsters 2
+developer: DVS Electronic Co
+publisher: Homebrew
+genre: Platform
+release: 2001-01-01
+players: 1
+description:
+	Pocket Monster II is a platform game for the Sega Mega Drive and it's the direct sequel to Pocket Monster, both probably developed by ex-workers from Chuanpu Technology and perhaps published by X Boy. Unlike the first game, no SNES port has yet been discovered.
+	This game shows a significant improvement over the original, as both the artwork and audio has been improved since the first game, though the former is still mostly stolen from other games and it still shows all the previous glitches, in addition to a new one. The music is mostly remade from the Japanese Pokémon TV series, with songs including the original Japanese opening theme (Stage 1 and Stage 4) and the ending theme of the pilot. (Boss theme.)
+assets.boxfront: ./media/mixart/Pocket Monsters 2 (Taiwan) (En) (Unl).png
+assets.logo: ./media/wheel/Pocket Monsters 2 (Taiwan) (En) (Unl).png
+assets.screenshot: ./media/screenshot/Pocket Monsters 2 (Taiwan) (En) (Unl).png
+
+
+game: Pokemon Stadium
+file: ./Pokemon Stadium (Taiwan) (En) (Unl).zip
+sort-by: Pokemon Stadium
+publisher: Homebrew
+genre: Strategy
+players: 2
+description:
+	Pokemon Stadium is an unlicensed game loosely based on the Nintendo 64 game of the same name, made for the Sega Genesis & SNES by an unknown developer.
+	The game has two modes: Arcade and VS, with twelve playable Pokémon.
+assets.boxfront: ./media/mixart/Pokemon Stadium (Taiwan) (En) (Unl).png
+assets.logo: ./media/wheel/Pokemon Stadium (Taiwan) (En) (Unl).png
+assets.screenshot: ./media/screenshot/Pokemon Stadium (Taiwan) (En) (Unl).png
+
+
+game: Psy-O-Blade
+file: ./Psy-O-Blade (Japan) (Translated En).zip
+sort-by: Psy-O-Blade
+developer: T&E Soft
+publisher: Sigma Enterprises
+genre: Adventure
+release: 1990-01-01
+players: 1
+rating: 85%
+description:
+	In 21th century, there are three main powers on the Earth. The free world and the communist block carried over from the 20th century; the third power is the New Communist Federation. Since a program of denuclearizing was supported by all those powers, the New Communist Federation developed a devastating non-nuclear weapon: the satellite "Raiden". The two other powers competed with the New Communist Federation, developing their own killer satellites, and the danger of total annihilation became once again an issue. Seeing no future for the Earth, humans started to colonize other planets. In 22th century, they sent an experimental ship "Septemius 1" to a star six light years far away from the Solar System. The ship's main computer, "Racoon", sent a strange message before stopping any communication. You are Keith McDonnell, a seventeen-year-old crew member of the ship "Septemius 2" that was sent to investigate the strange disappearance. Will you be able to uncover the mystery?
+	.
+	This is a Japanese adventure in animé style. You interact with the game world by moving a cursor and clicking on objects to examine or use them, and people to talk to them, or by choosing options ("Move" and "Scroll") from a menu. There are no puzzles to solve; you advance in the game by talking to characters, visiting different locations, and examining and using objects.
+assets.boxfront: ./media/mixart/Psy-O-Blade (Japan) (Translated En).png
+assets.video: ./media/snap/Psy-O-Blade (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/Psy-O-Blade (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/Psy-O-Blade (Japan) (Translated En).png
+assets.background: ./media/background/Psy-O-Blade (Japan) (Translated En).jpg
+
+
+game: Pulseman
+file: ./Pulseman (Japan) (Translated En).zip
+sort-by: Pulseman
+developer: Game Freak
+publisher: Sega
+genres:
+	Action
+	Platform
+release: 1994-07-22
+players: 1
+rating: 85%
+description:
+	Pulseman is an electric hero who was created to fight cyber crime. Combat the galaxy gang throughout 7 stages with around 50 levels. Pulseman is best described as a fusion between the gameplay of Sonic the Hedgehog and Mega Man in ways of gameplay.
+assets.boxfront: ./media/mixart/Pulseman (Japan) (Translated En).png
+assets.video: ./media/snap/Pulseman (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/Pulseman (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/Pulseman (Japan) (Translated En).png
+
+
+game: Rent a Hero
+file: ./Rent a Hero (Japan) (Translated En).zip
+sort-by: Rent a Hero
+developer: Sega
+publisher: Sega
+genres:
+	Action
+	Role-Playing
+release: 1991-09-20
+players: 1
+rating: 50%
+description:
+	Taro Yamada lives in the town of Corja in Japan with his mother, eccentric father and younger sister Alyssa; the family moved there after his father changed jobs. He received his Combat Armor by accident during their house-warming party, when he ordered pizza from 'Sensational Cafeteria' and instead received the suit. After realizing the suit gave him incredible strength and that he is required to pay for the armor, Taro decides to become Rent a Hero, a hero for hire, performing various heroic tasks and odd-jobs for the townspeople of Corja.
+assets.boxfront: ./media/mixart/Rent a Hero (Japan) (Translated En).png
+assets.video: ./media/snap/Rent a Hero (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/Rent a Hero (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/Rent a Hero (Japan) (Translated En).png
+
+
+game: Rockman X3
+file: ./Rockman X3 (Taiwan) (En) (Unl).zip
+sort-by: Rockman X3
+developer: Sankyo Fundship
+publisher: Homebrew
+genres:
+	Action
+	Platform
+players: 1
+description:
+	Rockman X3 is a pirated port of the game of the same name, made for the Mega Drive by an unknown company.  There are two versions of this of this on the internet with slight differences between them, mostly due to stage music.
+assets.boxfront: ./media/mixart/Rockman X3 (Taiwan) (En) (Unl).png
+assets.video: ./media/snap/Rockman X3 (Taiwan) (En) (Unl).mp4
+assets.logo: ./media/wheel/Rockman X3 (Taiwan) (En) (Unl).png
+assets.screenshot: ./media/screenshot/Rockman X3 (Taiwan) (En) (Unl).png
+
+
+game: Slap Fight MD
+file: ./Slap Fight MD (Japan).zip
+sort-by: Slap Fight MD
+developer: Toaplan
+publisher: Toaplan
+genre: Shooter
+release: 1993-01-01
+players: 1
+rating: 80%
+description:
+	At first glance, Slap Fight MD is a direct conversion of the 1986 arcade classic Slap Fight from Toaplan and Taito, featuring a faithful conversion of the original title with several difficulty settings, as well as both original and arranged soundtracks. However, also included on the cartridge is a completely new sequel with all-new stages, bosses, graphics, and music. The basic gameplay is identical: a vertically-scrolling shooter where power-ups cycle through a list to choose from, and it is possible to construct massively-wide ships with incredible firepower. Slap Fight MD also adds the ability to jettison your ship's power-ups causing a massive screen-filling explosion that can potentially save your life.
+assets.boxfront: ./media/mixart/Slap Fight MD (Japan).png
+assets.video: ./media/snap/Slap Fight MD (Japan).mp4
+assets.logo: ./media/wheel/Slap Fight MD (Japan).png
+assets.screenshot: ./media/screenshot/Slap Fight MD (Japan).png
+assets.background: ./media/background/Slap Fight MD (Japan).jpg
+
+
+game: Snow Bros.: Nick & Tom
+file: ./Snow Bros. - Nick & Tom (Japan).zip
+sort-by: Snow Bros. - Nick & Tom
+developer: Toaplan
+publisher: Tengen
+genre: Action
+release: 1993-01-01
+players: 2
+rating: 75%
+description:
+	Nick and Tom are two Princes living the dream with two beautiful princesses. When suddenly the evil King Scorch freezes Prince Nick and Tom and kidnaps the Princesses. Now Nick and Tom find themselves with abilities dealing with snow and ice. These two Snow Brothers will need to hunt down the evil King Scorch and rescue the princesses.
+	.
+	Snow Bros. is a fixed-screen platform game where players must defeat all enemies on each level (screen), 50 altogether. The Snow Bros use  snow as their weapon, throwing it at the enemies to stun them. When lots of snow is thrown at an enemy, it becomes covered in a flurry and unable to move. These can be rolled into  giant snowballs and pushed or kicked into other enemies. If left alone, enemies will eventually  defrost and become angry at the player. The enemy filled snowballs are a much stronger weapon then the regular handful of snow and are the only effective weapon Nick and Tom have against the bosses.
+assets.boxfront: ./media/mixart/Snow Bros. - Nick & Tom (Japan).png
+assets.video: ./media/snap/Snow Bros. - Nick & Tom (Japan).mp4
+assets.logo: ./media/wheel/Snow Bros. - Nick & Tom (Japan).png
+assets.screenshot: ./media/screenshot/Snow Bros. - Nick & Tom (Japan).png
+
+
+game: Sonic Eraser
+file: ./Sonic Eraser (Japan) (SegaNet) (Translated En).zip
+sort-by: Sonic Eraser
+developer: Sega
+publisher: Sega
+genre: Puzzle
+release: 1991-01-01
+players: 2
+rating: 15%
+description:
+	Sonic Eraser is a puzzle game very similar to Columns that features Sega mascot Sonic the Hedgehog. Pieces in different arrangements drop into a well; if two or more matching pieces touch, they disappear and the above pieces fall to take their place. There are four different single-player game modes:
+	.
+	1. Round: Each stage starts with pieces in the well already. There are several spinning green pieces, which must all be destroyed to finish the stage.
+	.
+	2. Normal: A standard endless mode in which the game speed continually rises as matches are made.
+	.
+	3. Doubt: No white-colored blocks will appear in the drop formations, but often a random block in the formation will change to a white block after it is placed.
+	.
+	4. Block: Similar to Normal mode, but blocks will not fall out of formation until a match is made, allowing for impressive clear combos.
+	.
+	These modes can be played either single player or two-player simultaneous on separate fields. There is also a versus mode for one or two players, in which creating a combo of three or more clears will attack the opposing player, which causes them to lose control of their pieces for a short time.
+assets.boxfront: ./media/mixart/Sonic Eraser (Japan) (SegaNet) (Translated En).png
+assets.video: ./media/snap/Sonic Eraser (Japan) (SegaNet) (Translated En).mp4
+assets.logo: ./media/wheel/Sonic Eraser (Japan) (SegaNet) (Translated En).png
+assets.screenshot: ./media/screenshot/Sonic Eraser (Japan) (SegaNet) (Translated En).png
+
+
+game: Sorcerian
+file: ./Sorcerian (Japan) (Translated En).zip
+sort-by: Sorcerian
+developer: Nihon Falcom
+publisher: Nihon Falcom
+genre: Role-Playing
+release: 1990-02-24
+players: 1
+rating: 70%
+description:
+	Sorcerian is the fifth game in the Dragon Slayer series. It is set in the fantasy land known as Pentawa, whose inhabitants are in constant need of protection from ferocious creatures roaming the wilderness. The king of Pentawa hires a party of adventurers, and their first assignment is to retrieve a precious sceptre from a dungeon, where it is guarded by the evil demonic lord Ouks.
+	.
+	The game is an RPG with an unusual side-scrolling perspective and action-based combat, somewhat of a cross between  Wizardry and platform games. Despite being a Japanese game, Sorcerian resembles Western RPGs of its time, focusing more on character development than story. In the beginning, the player creates a party of four characters, choosing between fighter, wizard, elf, and dwarf (races and classes are not distinguished). Beside the usual inns and shops, there are many things that can be done in the towns of the game, including complex development of magical spells (up to 120 spells of different disciplines), training to raise personal skills (strength, intelligence, etc.), enchanting weapons with elemental magic, as well as looking for part-time jobs.
+	.
+	The view switches to side-scrolling when the party ventures into a hostile area. Combat is performed in real time, with the player controlling the entire party at once. The lead character can be changed at any time, and battle actions will be carried out by whoever is in front. Melee attacks and magic spells are unleashed by pressing corresponding buttons. The characters can also jump and interact with objects by bumping into them. Dungeons are usually maze-like, and some contain simple puzzles such as finding and activating hidden switches to open doors.
+assets.boxfront: ./media/mixart/Sorcerian (Japan) (Translated En).png
+assets.video: ./media/snap/Sorcerian (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/Sorcerian (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/Sorcerian (Japan) (Translated En).png
+assets.background: ./media/background/Sorcerian (Japan) (Translated En).jpg
+
+
+game: Soul Blade
+file: ./Soul Blade (Taiwan) (En) (Unl).zip
+sort-by: Soul Blade
+publisher: Homebrew
+genre: Fighting
+release: 1997-01-01
+players: 2
+description:
+	Soul Blade is an unlicensed Sega Mega Drive game featuring characters from Namco's Soul franchise (specifically Soul Edge/Soul Blade). Little is known about the origin of this game, though a similar game exists for the SNES and Game Boy Color.
+	The game is a standard one-on-one fighter.
+assets.boxfront: ./media/mixart/Soul Blade (Taiwan) (En) (Unl).png
+assets.video: ./media/snap/Soul Blade (Taiwan) (En) (Unl).mp4
+assets.logo: ./media/wheel/Soul Blade (Taiwan) (En) (Unl).png
+assets.screenshot: ./media/screenshot/Soul Blade (Taiwan) (En) (Unl).png
+
+
+game: Soul Edge Vs. Samurai Spirits
+file: ./Soul Edge VS Samurai Spirits (Taiwan) (En) (Unl).zip
+sort-by: Soul Edge VS Samurai Spirits
+publisher: Homebrew
+genre: Fighting
+release: 1997-01-01
+players: 2
+description:
+	Soul Edge VS Samurai Spirits is an unlicensed fighting game released on the Sega Mega Drive/Genesis as a follow up to both Soul Calibur and Samurai Spirits II. It which was presumably developed by the same company as they use the same exact fighting engine. The game features characters from the Samurai Shodown and Soul Blade series. The theme song of the game is lifted from the Mega Drive RPG Barver Battle Saga: Tai Kong Zhan Shi.
+assets.boxfront: ./media/mixart/Soul Edge VS Samurai Spirits (Taiwan) (En) (Unl).png
+assets.video: ./media/snap/Soul Edge VS Samurai Spirits (Taiwan) (En) (Unl).mp4
+assets.logo: ./media/wheel/Soul Edge VS Samurai Spirits (Taiwan) (En) (Unl).png
+assets.screenshot: ./media/screenshot/Soul Edge VS Samurai Spirits (Taiwan) (En) (Unl).png
+
+
+game: Squirrel King
+file: ./Squirrel King (Taiwan) (En) (Unl).zip
+sort-by: Squirrel King
+developer: GameTek
+publisher: Gamtec
+genre: Platform
+release: 1991-01-01
+players: 2
+rating: 50%
+description:
+	Squirrel King is an unlicensed platform game developed for the Sega Mega Drive. It was published and developed by Gamtec, and therefore its origin is Taiwan.
+	Squirrel King is extremely similar to Capcom's Chip 'N Dale: Rescue Rangers and it sequel, Chip 'N Dale: Rescue Rangers 2 for the NES, to the point where the player actually plays as two characters named "Chip" and "Dale" (though they look slightly different to their Disney counterparts). C jumps, B picks up and throws crates, and A allows Chip or Dale to throw fireballs, assuming they have some in their inventory.
+	Squirrel King is the basis for another unlicensed title, Super Mario World, also for the Mega Drive,but developed by Chuanpu and possibly published by Ming Super Chip Electronic.
+assets.boxfront: ./media/mixart/Squirrel King (Taiwan) (En) (Unl).png
+assets.video: ./media/snap/Squirrel King (Taiwan) (En) (Unl).mp4
+assets.logo: ./media/wheel/Squirrel King (Taiwan) (En) (Unl).png
+assets.screenshot: ./media/screenshot/Squirrel King (Taiwan) (En) (Unl).png
+assets.background: ./media/background/Squirrel King (Taiwan) (En) (Unl).jpg
+
+
+game: Star Cruiser
+file: ./Star Cruiser (Japan) (Translated En).zip
+sort-by: Star Cruiser
+developer: Arsys
+publisher: Masaya
+genres:
+	Action
+	Shooter
+release: 1990-01-01
+players: 1
+rating: 75%
+description:
+	Star Cruiser is a 1990 adventure game for the Sega Mega Drive by Arsys Software, published by NCS. It combines two prior games by Arsys, Star Cruiser and Star Cruiser II, both released on various Japanese home computers. No version has been released outside Japan.
+assets.boxfront: ./media/mixart/Star Cruiser (Japan) (Translated En).png
+assets.video: ./media/snap/Star Cruiser (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/Star Cruiser (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/Star Cruiser (Japan) (Translated En).png
+assets.background: ./media/background/Star Cruiser (Japan) (Translated En).jpg
+
+
+game: Super Bubble Bobble
+file: ./Super Bubble Bobble (Taiwan) (En) (Unl).zip
+sort-by: Super Bubble Bobble
+developer: GameTek
+publisher: Gamtec
+genres:
+	Action
+	Platform
+release: 1993-01-01
+players: 2
+rating: 70%
+description:
+	Super Bubble Bobble® is a Sega Mega Drive game unlikely to be developed by Gamtec. As the name suggests, this is a pirate attempt to emulate the formula of Bubble Bobble Taito games.
+	The game allows the user to play as Bub and Cororon, as well as anime characters Shin-Chan Pencil and Doraemon.
+assets.boxfront: ./media/mixart/Super Bubble Bobble (Taiwan) (En) (Unl).png
+assets.video: ./media/snap/Super Bubble Bobble (Taiwan) (En) (Unl).mp4
+assets.logo: ./media/wheel/Super Bubble Bobble (Taiwan) (En) (Unl).png
+assets.screenshot: ./media/screenshot/Super Bubble Bobble (Taiwan) (En) (Unl).png
+
+
+game: Super Donkey Kong 99
+file: ./Super Donkey Kong 99 (Taiwan) (En) (Unl).zip
+sort-by: Super Donkey Kong 99
+developer: Gamtec
+publisher: Gamtec
+genre: Platform
+release: 1998-01-01
+players: 1
+description:
+	Super Donkey Kong 99, sometimes known as Super King Kong 99, is an unlicensed Sega Mega Drive game created by a currently unknown developer. It is an attempt to bring the likes of SNES game, Donkey Kong Country (Super Donkey Kong in Japan) to Sega's system, though is very different to any of the SNES games.
+	Players control Donkey Kong through a variety of levels whose graphics are taken from Donkey Kong Country and Donkey Kong Country 3: Dixie Kong's Double Trouble!. There are also several enemies taken from Donkey Kong Country 2: Diddy's Kong Quest. A picks up barrels, B runs and C jumps, and a boss will appear every couple of levels. The final boss is unbeatable without using a cheat.
+assets.boxfront: ./media/mixart/Super Donkey Kong 99 (Taiwan) (En) (Unl).png
+assets.logo: ./media/wheel/Super Donkey Kong 99 (Taiwan) (En) (Unl).png
+assets.screenshot: ./media/screenshot/Super Donkey Kong 99 (Taiwan) (En) (Unl).png
+
+
+game: Super Mario 2
+file: ./Super Mario 2 (Taiwan) (En) (Unl).zip
+sort-by: Super Mario 2
+developer: Gamtec
+publisher: Gamtec
+genre: Platform
+release: 1998-01-01
+players: 1
+description:
+	Super Mario 2 1998 or Super 1998 Mario 2 is an unlicensed clone of the original Super Mario Bros. made by some unknown developers presumably in 1998. It was later hacked into another unlicensed game, Sonic Jam 6 released in 2000 by the same company, Gamtec.
+assets.boxfront: ./media/mixart/Super Mario 2 (Taiwan) (En) (Unl).png
+assets.logo: ./media/wheel/Super Mario 2 (Taiwan) (En) (Unl).png
+assets.screenshot: ./media/screenshot/Super Mario 2 (Taiwan) (En) (Unl).png
+
+
+game: Super Mario World 64
+file: ./Super Mario World 64 (Taiwan) (En) (Unl).zip
+sort-by: Super Mario World 64
+genre: Platform
+release: 1997-01-01
+players: 1
+description:
+	Super Mario World 64 is a pirated port of the SNES Super Mario World, made for the Mega Drive/Genesis by an unknown developer, at an unknown date (but presumably some time after the original release of Super Mario 64, in 1996). Super Mario World 64 was probably created by the same people who created Super Donkey Kong 99.
+assets.boxfront: ./media/mixart/Super Mario World 64 (Taiwan) (En) (Unl).png
+assets.video: ./media/snap/Super Mario World 64 (Taiwan) (En) (Unl).mp4
+assets.logo: ./media/wheel/Super Mario World 64 (Taiwan) (En) (Unl).png
+assets.screenshot: ./media/screenshot/Super Mario World 64 (Taiwan) (En) (Unl).png
+
+
+game: Super Tank War
+file: ./Super Tank War (Taiwan) (En) (Unl).zip
+sort-by: Super Tank War
+developer: Gamtec
+genre: Action
+players: 2
+description:
+	Here is Super Tank War, a pretty rare unlicensed Mega Drive (or Genesis if you're American) game by Gamtec. It's pretty much a Battle City clone, which is not an entirely surprising thing for them to have made, considering the popularity of Battle City and its hacks in Taiwan and other Famiclone-heavy markets, not to mention the fact that Gamtec had already made such a clone for the NES, variously known as either "King Tank" or "Super City Tank"
+assets.boxfront: ./media/mixart/Super Tank War (Taiwan) (En) (Unl).png
+assets.logo: ./media/wheel/Super Tank War (Taiwan) (En) (Unl).png
+assets.screenshot: ./media/screenshot/Super Tank War (Taiwan) (En) (Unl).png
+
+
+game: Tekken Special
+file: ./Tekken Special (Taiwan) (En) (Unl).zip
+sort-by: Tekken Special
+publisher: Homebrew
+genre: Fighting
+release: 1997-01-01
+players: 2
+description:
+	Tekken 3 Special is a pirated fighting game based off Tekken 2, created for the Mega Drive by an unknown company.
+	The graphics are taken from the original game and simplified, with the characters being original hand drawn 2D sprites made to roughly resemble a the 3D models used in the original arcade board. The backgrounds are simple and not animated, often being mirrored horizontally like many other pirates on the Mega Drive in order to conserve ROM space. Many of the backgrounds appear to utilize poorly digitized elements. The music appears to be original. The ending is a simple "Congratulations" screen.
+	The title screen and character icons are taken from the original Tekken 2 and reduced in color. These seem to be the only elements lifted directly from the arcade source.
+assets.boxfront: ./media/mixart/Tekken Special (Taiwan) (En) (Unl).png
+assets.video: ./media/snap/Tekken Special (Taiwan) (En) (Unl).mp4
+assets.logo: ./media/wheel/Tekken Special (Taiwan) (En) (Unl).png
+assets.screenshot: ./media/screenshot/Tekken Special (Taiwan) (En) (Unl).png
+
+
+game: Tetris
+file: ./Tetris (Japan).zip
+sort-by: Tetris
+developer: Sega
+publisher: Sega
+genre: Puzzle
+release: 1989-01-01
+players: 2
+rating: 65%
+description:
+	Tetris is one of many conversions of the famous block-stacking game, this one is based on the 1988 coin-op version produced by Sega. The goal is to place pieces made up of four tiles in a ten-by-twenty well, organizing them into complete rows, which then disappear. As rows are cleared, the pace of the game increases and the background changes, and the game ends if the stack reaches the top of the well.
+	.
+	In addition to a standard endless mode for one or two players, the game also includes a "time trial" mode for one or two players, where the goal is to get as many points as possible in three minutes. There is also a "doubles" mode, where two players work together to fill lines in an extra-wide well, each controlling their own pieces simultaneously.
+	.
+	The game offers a number of standard options: setting the starting level, how much "garbage" is at the bottom of the well when the game starts, and whether the next piece is visible. There are also optional "item blocks," which are special flashing pieces that give an extra bonus if they are used to clear a line.
+assets.boxfront: ./media/mixart/Tetris (Japan).png
+assets.video: ./media/snap/Tetris (Japan).mp4
+assets.logo: ./media/wheel/Tetris (Japan).png
+assets.screenshot: ./media/screenshot/Tetris (Japan).png
+
+
+game: Thunderbolt II
+file: ./Thunderbolt II (Taiwan) (En) (Unl).zip
+sort-by: Thunderbolt II
+publisher: Ming Super Chip
+genre: Shooter
+release: 1995-01-01
+players: 1
+description:
+	Thunderbolt II, which also refers to itself as Lei Dian Chuan Shuo II or just Lei Dian II  is an unlicensed vertical scrolling shoot-'em-up released for the Sega Mega Drive in 1995. There is not thought to have been a Thunderbolt I - more likely it is borrowing its name from Raiden II, a 1993 arcade shooter by Seibu Kaihatsu that is a sequel to Raiden.
+assets.boxfront: ./media/mixart/Thunderbolt II (Taiwan) (En) (Unl).png
+assets.video: ./media/snap/Thunderbolt II (Taiwan) (En) (Unl).mp4
+assets.logo: ./media/wheel/Thunderbolt II (Taiwan) (En) (Unl).png
+assets.screenshot: ./media/screenshot/Thunderbolt II (Taiwan) (En) (Unl).png
+
+
+game: Tiny Toon Adventures 3
+file: ./Tiny Toon Adventures 3 (Taiwan) (En) (Unl).zip
+sort-by: Tiny Toon Adventures 3
+developer: Gamtec
+publisher: Gamtec
+genre: Action
+release: 1996-01-01
+players: 1
+description:
+	The game consists of five stages, each usually composed of four screens each and then a boss. Following with the story, you free different types of animals each stage, trapped in what appear to be either little cages or trash bins, jumping on the cages will release them and will destroy all enemies currently as well as adding to your score. In the game, the graphics in stages three and four are based off those from Super Mario World. Stage three appears to outright lift level graphics straight from the SNES game, while stage four uses what appear to be original graphics based on the Super Mario World style. Unlike stage three though, stage four also has enemy sprites that are based off of Super Mario World enemies, including Koopas and Chargin' Chuck, and pigs that fly with parachutes, much like Para-bombs.
+assets.boxfront: ./media/mixart/Tiny Toon Adventures 3 (Taiwan) (En) (Unl).png
+assets.video: ./media/snap/Tiny Toon Adventures 3 (Taiwan) (En) (Unl).mp4
+assets.logo: ./media/wheel/Tiny Toon Adventures 3 (Taiwan) (En) (Unl).png
+assets.screenshot: ./media/screenshot/Tiny Toon Adventures 3 (Taiwan) (En) (Unl).png
+
+
+game: Tom Clown
+file: ./Tom Clown (Taiwan) (En) (Unl).zip
+sort-by: Tom Clown
+developer: AV Artisan
+publisher: Realtec
+genre: Action
+release: 1993-01-01
+players: 1
+description:
+	Tom Clown is an unlicensed game for the Sega Mega Drive developed by AV artisan and published by Realtec in 1993.
+	The game is a re-imagining of the Atari 2600 game Circus ? move the teeter-board back and forth to bounce the clowns upwards and pop balloons. Power-ups will pass by overhead and give the player extra chances or clear certain colored balloons. After clearing the stage, the player moves onto the next round.
+assets.boxfront: ./media/mixart/Tom Clown (Taiwan) (En) (Unl).png
+assets.video: ./media/snap/Tom Clown (Taiwan) (En) (Unl).mp4
+assets.logo: ./media/wheel/Tom Clown (Taiwan) (En) (Unl).png
+assets.screenshot: ./media/screenshot/Tom Clown (Taiwan) (En) (Unl).png
+
+
+game: Top Fighter 2000 MK VIII
+file: ./Top Fighter 2000 MK VIII (Taiwan) (En) (Unl).zip
+sort-by: Top Fighter 2000 MK VIII
+developer: X BOY
+publisher: X BOY
+genre: Fighting
+release: 2000-01-01
+players: 2
+description:
+	Top Fighter 2000 MK VIII is a fighting game created for the Mega Drive, presumably in the year 2000 by an unknown company. It features 8 characters from many different places and sources, including real-life personalities such as Michael Jordan and Muhammad Ali.
+	This is a fighting game with 8 opponents and no repeats between them. Each character has their own special moves and one super move, along with 8 backgrounds that are not character specific. The backgrounds are cobbled together using elements of backgrounds found in several different games, including World Heroes, Street Fighter II, The King of Fighters '95, and Fatal Fury 2. The controls appear to be somewhat better than other Mega Drive pirated fighting games, such as Tekken 3 Special. However, the A button is unused, leaving B and C to be used for all attacks, similar to a NES fighting pirate.
+	Each fight lasts until one fighter wins 1 or 3 rounds and each round can last for up to 30, 60 or 99 seconds, depending on the settings. The hit detection is poor, with many attacks that miss the opponent when they're supposed to hit them. The endings are minimal, with a portrait of your character on a simple "YOU ARE BEST. GAME OVER" (sic) screen.
+assets.boxfront: ./media/mixart/Top Fighter 2000 MK VIII (Taiwan) (En) (Unl).png
+assets.video: ./media/snap/Top Fighter 2000 MK VIII (Taiwan) (En) (Unl).mp4
+assets.logo: ./media/wheel/Top Fighter 2000 MK VIII (Taiwan) (En) (Unl).png
+assets.screenshot: ./media/screenshot/Top Fighter 2000 MK VIII (Taiwan) (En) (Unl).png
+
+
+game: Tougi-Ou: King Colossus
+file: ./Tougiou King Colossus (Japan) (Translated En).zip
+sort-by: Tougiou King Colossus
+developer: Sega
+publisher: Sega
+genres:
+	Action
+	Role-Playing
+release: 1992-06-26
+players: 1
+rating: 80%
+description:
+	The story of "King Colossus" is simple: you are a young fighter who lives in a small house somewhere on a fantasy continent and who was raised by the local wise man. Now, when he became skilled at sword fighting, the wise man sends him to the dangerous South Cave, to defeat the monsters populating it. By visiting different places, the hero will battle even more fearsome monsters, until he finally challenges the ultimate evil.
+	.
+	"King Colossus" is a top-down adventure with action combat and light RPG elements. You fight monsters by equipping weapons and swinging them in real time. There is a variety of accessories and items to find in the game, as well as different obstacles to overcome in the dungeons.
+assets.boxfront: ./media/mixart/Tougiou King Colossus (Japan) (Translated En).png
+assets.video: ./media/snap/Tougiou King Colossus (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/Tougiou King Colossus (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/Tougiou King Colossus (Japan) (Translated En).png
+assets.background: ./media/background/Tougiou King Colossus (Japan) (Translated En).jpg
+
+
+game: Twinkle Tale
+file: ./Twinkle Tale (Japan) (Translated En).zip
+sort-by: Twinkle Tale
+developer: Zap
+publisher: Wonder Amusement Studio
+genre: Shooter
+release: 1992-07-24
+players: 1
+rating: 70%
+description:
+	An overhead scrolling fantasy shoot 'em up, Twinkle Tale casts the player in the role of the young witch Saria, in a quest to rid her magical floating island of the evil creatures that have invaded it.
+	.
+	The game is played from an overhead perspective, with Saria having complete freedom of movement in all directions and with the objective being to clear out all enemies in all 9 stages, looting whatever treasure you can find and defeating each stage's boss.
+	.
+	Saria's offensive weapons come pre-defined as three different spells, which you can freely switch to at any time and level-up by collecting power stars, as well as screen-clearing bombs.
+assets.boxfront: ./media/mixart/Twinkle Tale (Japan) (Translated En).png
+assets.video: ./media/snap/Twinkle Tale (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/Twinkle Tale (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/Twinkle Tale (Japan) (Translated En).png
+assets.background: ./media/background/Twinkle Tale (Japan) (Translated En).jpg
+
+
+game: Undead Line
+file: ./Undead Line (Japan) (Translated En).zip
+sort-by: Undead Line
+developer: T&E Soft
+publisher: PALSOFT
+genre: Shooter
+release: 1991-01-01
+players: 1
+rating: 70%
+description:
+	Undead Line is a top-down arcade shooter with scrolling screens, like Commando and other games. The player controls a character (from a selection of three on the MSX 2 version) that shoots projectiles at enemy monsters.
+	.
+	The six levels available are presented in a menu and can be selected and played in any order. There is a boss battle at the end of each one.
+	.
+	Chests with power-ups are scattered throughout the levels. They open when shot, and in the Genesis version it is possible to cycle through the available power-ups by keeping firing at them. The power-ups include armor and speed boosts, and several types of projectiles.
+assets.boxfront: ./media/mixart/Undead Line (Japan) (Translated En).png
+assets.video: ./media/snap/Undead Line (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/Undead Line (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/Undead Line (Japan) (Translated En).png
+assets.background: ./media/background/Undead Line (Japan) (Translated En).jpg
+
+
+game: Virtua Fighter 2 VS Tekken 2
+file: ./Virtua Fighter 2 VS Tekken 2 (Taiwan) (En) (Unl).zip
+sort-by: Virtua Fighter 2 VS Tekken 2
+genre: Fighting
+release: 2002-01-01
+players: 2
+description:
+	Virtua Fighter 2 vs. Tekken 2 is an unlicensed Sega Mega Drive fighting game. The name has been taken from box and cartridge designs - in game it refers to itself as V.R Fighter VS Taken2. Its creator is currently unknown.
+	As the name suggests, it is a crossover between characters from Sega AM2's Virtua Fighter 2 and Namco's Tekken 2, though for unknown reasons Bahn and Honey from Fighting Vipers are also playable. As expected, it is heavily influenced by Virtua Fighter 2 and Tekken 2, mimicking many of the stages and borrowing many sounds and music tracks. It does not, however, pull content from the Mega Drive port of Virtua Fighter 2 - only the Sega Saturn/Sega Model 2 version.
+assets.boxfront: ./media/mixart/Virtua Fighter 2 VS Tekken 2 (Taiwan) (En) (Unl).png
+assets.video: ./media/snap/Virtua Fighter 2 VS Tekken 2 (Taiwan) (En) (Unl).mp4
+assets.logo: ./media/wheel/Virtua Fighter 2 VS Tekken 2 (Taiwan) (En) (Unl).png
+assets.screenshot: ./media/screenshot/Virtua Fighter 2 VS Tekken 2 (Taiwan) (En) (Unl).png
+
+
+game: Vixen 357
+file: ./Vixen 357 (Japan) (Translated En).zip
+sort-by: Vixen 357
+developer: Masaya Games
+publisher: NCS Corporation
+genres:
+	Role-Playing
+	Strategy
+release: 1992-10-23
+players: 1
+rating: 60%
+description:
+	In 2384 AD, a great interstellar war took place. The Earth emerged victorious, thanks to a secretly developed robot weapon called "Serd". After the war, the usage of Serds was not a secret any more, and various nations started using them for military purposes. Several years, a more powerful weapon named Vector was developed. The usage of such highly destructive weapons led to wars between the nations of the world. You control Takuya Murasawa and his comrades, member of a special military force called Slash. Everything begins with an attack of unidentified Vectors on their base...
+	.
+	"Vixen 357" is an animé-style strategy/RPG game with mech combat. You control your robots by moving them over the battle map, and fighting enemies with long-ranged or melée attacks. An animated battle sequence is shown when you and enemy robots attack each other. You can switch pilots in the robots and repair them during battles. Your pilots level up by gaining experience points, and you'll be able to acquire new robots and weapons during the game.
+assets.boxfront: ./media/mixart/Vixen 357 (Japan) (Translated En).png
+assets.video: ./media/snap/Vixen 357 (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/Vixen 357 (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/Vixen 357 (Japan) (Translated En).png
+assets.background: ./media/background/Vixen 357 (Japan) (Translated En).jpg
+
+
+game: XDR: X-Dazedly-Ray
+file: ./XDR - X-Dazedly-Ray (Japan).zip
+sort-by: XDR - X-Dazedly-Ray
+developer: Affect
+publisher: UNIPACC
+genre: Shooter
+release: 1990-08-26
+players: 1
+rating: 55%
+description:
+	XDR is a horizontal scrolling shooter in the mold of Gradius, featuring upgradable weapons and six stages of shooting action. The game features a vague science fiction theme, and includes six stages with a boss at the end of each. There are three difficulty settings.
+assets.boxfront: ./media/mixart/XDR - X-Dazedly-Ray (Japan).png
+assets.video: ./media/snap/XDR - X-Dazedly-Ray (Japan).mp4
+assets.logo: ./media/wheel/XDR - X-Dazedly-Ray (Japan).png
+assets.screenshot: ./media/screenshot/XDR - X-Dazedly-Ray (Japan).png
+assets.background: ./media/background/XDR - X-Dazedly-Ray (Japan).jpg
+
+
+game: Yu Yu Hakusho: Makyou Toitsusen
+file: ./Yu Yu Hakusho - Makyou Toitsusen (Japan) (Translated En).zip
+sort-by: Yu Yu Hakusho - Makyou Toitsusen
+developer: Treasure
+publisher: Sega
+genre: Fighting
+release: 1994-09-30
+players: 4
+rating: 85%
+description:
+	Yusuke Urameshi and his friends are invited to a tournament by Makyou Toitsusen, a mysterious martial arts society. In this tournament they are gonna face again some demons who fought them in the past, and decide who are the strongest.
+assets.boxfront: ./media/mixart/Yu Yu Hakusho - Makyou Toitsusen (Japan) (Translated En).png
+assets.video: ./media/snap/Yu Yu Hakusho - Makyou Toitsusen (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/Yu Yu Hakusho - Makyou Toitsusen (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/Yu Yu Hakusho - Makyou Toitsusen (Japan) (Translated En).png
+assets.background: ./media/background/Yu Yu Hakusho - Makyou Toitsusen (Japan) (Translated En).jpg

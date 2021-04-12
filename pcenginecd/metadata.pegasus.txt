@@ -1,0 +1,2121 @@
+game: Advanced Variable Geo
+file: ./Advanced V.G. (Japan) (pcenginecd).chd
+sort-by: Advanced V.G.
+developer: GIGA
+publisher: Technical Group Laboratory, Inc.
+genre: Fighting
+release: 1994-07-22
+players: 2
+description:
+	The story of Advanced V.G. follows a similar template as those of the previous  Variable Geo games: the strongest young women in the country hold a tournament, which is sponsored by various restaurant chains, which in turn ask the competing girls to pose as waitresses working in said restaurants, for promotional purposes. The girls of the Jahana group who starred in the previous games return, with the new main protagonist being the young martial artist Yuka Takeuchi, who has been training in a secluded forest area before joining the competition.
+	.
+	Like its predecessors, Advanced V.G. is a fighting game, with the basic "kick" and "punch" moves, while the various special attacks are executed by pressing combinations of buttons. There are three modes in the game, "Normal", "Vs.", and "Story". The normal mode is basically training matches between the player character and an AI-controlled girl. Vs. mode allows two-player mode, as well as demo "computer vs. computer" gameplay, with the possibility to choose any of the stages. Any of the nine heroines is available as a playable character in these modes (Yuka Takeuchi, Chiho Masuda, Jun Kubota, Manami Kusunoki. Kaori Yanase, Reimi Jahana, Satomi Yajima, Ayako Y?ki, and Erina Goldsmith). The story mode, on the other hand, allows the player to control Yuka Takeuchi only, and follow her story. Cut scenes advance the story between matches.
+	.
+	The SNES received a stripped-down version, Super V.G., without the Story Mode and all explicit hentai elements. Hybrids (pair of bosses in Advanced V.G.) were also removed.
+assets.boxfront: ./media/mixart/Advanced V.G. (Japan) (pcenginecd).png
+assets.video: ./media/snap/Advanced V.G. (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Advanced V.G. (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Advanced V.G. (Japan) (pcenginecd).png
+
+
+game: Ai Chou Aniki
+file: ./Ai Chou Aniki (Japan) (SADS) (pcenginecd).chd
+sort-by: Ai Chou Aniki
+developer: Masaya Games
+publisher: NCS Corporation
+genre: Shooter
+release: 1995-02-24
+players: 2
+rating: 70%
+description:
+	The sequel to the first Cho Aniki (Super Big Brother) game, this is very Japanese in its bizarreness. It's a shoot ?em up, with the player taking the role of an almost nude muscle-man (Adon) or his brother (Samson) in a 2 player game. Their main weapon is a ball of energy that grows over a hole in their heads and shoots out towards any advancing enemies. Other, more powerful shots are achieved by a combination of back-forward-fire, down-up-fire etc on the pad. Through the levels you will encounter all manner of nasties out to get you, but you are aided by a woman in blue that flies around and drops power-ups conveniently for you. Also, levels vary from the standard left-to-right to vertically scrolling.
+assets.boxfront: ./media/mixart/Ai Chou Aniki (Japan) (SADS) (pcenginecd).png
+assets.video: ./media/snap/Ai Chou Aniki (Japan) (SADS) (pcenginecd).mp4
+assets.logo: ./media/wheel/Ai Chou Aniki (Japan) (SADS) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Ai Chou Aniki (Japan) (SADS) (pcenginecd).png
+
+
+game: Akumajou Dracula X: Chi no Rondo
+file: ./Akumajou Dracula X - Chi no Rondo (Japan) (Translated En) (pcenginecd).chd
+sort-by: Akumajou Dracula X - Chi no Rondo
+developer: Konami
+publisher: Konami
+genres:
+	Action
+	Adventure
+	Platform
+release: 1993-10-29
+players: 1
+rating: 90%
+description:
+	In the days of old, the people thrived on peace and prosperity. Indeed, fears of unrest were not among their thoughts...
+	But, ever-present, beneath the veneer of tranquility, evil lurks. Evil, which spurns prosperity and disdains peace.
+	Gather they did, those who wished to summon the powers of darkness and cleanse the decadence of the world. And, with smiling countenance, they anxiously awaited the coming of their era.
+	A hundred years had past, and he was resurrected. Able to become bat, wolf, or mist at will, he lived in the night. He drank the blood of young maidens and lived an eternal life. The lord of Castlevania, the god of evil, Count Dracula was reborn.
+assets.boxfront: ./media/mixart/Akumajou Dracula X - Chi no Rondo (Japan) (Translated En) (pcenginecd).png
+assets.video: ./media/snap/Akumajou Dracula X - Chi no Rondo (Japan) (Translated En) (pcenginecd).mp4
+assets.logo: ./media/wheel/Akumajou Dracula X - Chi no Rondo (Japan) (Translated En) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Akumajou Dracula X - Chi no Rondo (Japan) (Translated En) (pcenginecd).png
+assets.background: ./media/background/Akumajou Dracula X - Chi no Rondo (Japan) (Translated En) (pcenginecd).jpg
+
+
+game: Ane-san
+file: ./Ane-san (Japan) (pcenginecd).chd
+sort-by: Ane-san
+developer: NEC
+publisher: NEC
+genres:
+	Action
+	Fighting
+release: 1995-02-25
+players: 2
+rating: 65%
+description:
+	The two sisters, Ai and Yuuko, have taken different paths in life. Yuuko has been taken away by a mysterious gang. Ai is determined to save her from the clutches of crime. In a seemingly all-female city overrun by insane workers, biker gangs, and assorted criminals, Ai and her friends Chika and Makoto decide to work together in order to restore the world to normality again.
+	.
+	Ane-san is what is commonly called beat-'em-up, i.e. a fighting game that allows limited movement through side-scrolling environment. The player can choose to control a variety of female fighters. In the beginning, only Ai, Chika, and Makoto are selectable. Ai is the all-around balanced character, Chika is fast and fragile, while Makoto is very strong, but slow. Later in the game, other playable characters become available. Each fighter has a health points bar, which can be restored by healing items scattered through the levels. Once a character is dead, the player can continue playing with another one.
+	.
+	The player typically advances through side-scrolling stages, clearing each screen of enemies before being able to continue walking to the right. Each girl has the standard kicks, punches, and jumps at her disposal, as well as special moves, one per each girl. Stages culminate by boss battles (usually two per stage).
+	.
+	Between the stages, the player can go shopping. A large variety of items is available, some enhancing the performance of the girls, but most purely for visual effect - the room the player views between the stages changes its appearance depending on the items the player has bought.
+	.
+	Also available between the stages (and as a separate gameplay mode, "vs.") is a mini-game, in which the player(s) have to rapidly press buttons in order to make the controllable girl execute a hideous grimace, that will surpass that of the opponent in ugliness and speed of execution.
+assets.boxfront: ./media/mixart/Ane-san (Japan) (pcenginecd).png
+assets.video: ./media/snap/Ane-san (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Ane-san (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Ane-san (Japan) (pcenginecd).png
+
+
+game: Asuka 120% Maxima: Burning Fest. Maxima
+file: ./Asuka 120% Maxima - Burning Fest. Maxima (Japan) (pcenginecd).chd
+sort-by: Asuka 120% Maxima - Burning Fest. Maxima
+developer: Fill in Café
+publisher: NEC
+genre: Fighting
+release: 1995-07-28
+players: 1
+rating: 70%
+description:
+	Welcome to the "Ryouran Private School for Women" which educates the daughters of the upper echelons of society. Here, the high class clubs annually hold a martial arts tournament: the "Club Rivalry Budget Contest Mega Fight." Each character employs a different fighting style; techniques are unique to each club.
+assets.boxfront: ./media/mixart/Asuka 120% Maxima - Burning Fest. Maxima (Japan) (pcenginecd).png
+assets.video: ./media/snap/Asuka 120% Maxima - Burning Fest. Maxima (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Asuka 120% Maxima - Burning Fest. Maxima (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Asuka 120% Maxima - Burning Fest. Maxima (Japan) (pcenginecd).png
+assets.background: ./media/background/Asuka 120% Maxima - Burning Fest. Maxima (Japan) (pcenginecd).jpg
+
+
+game: Avenger
+file: ./Avenger (Japan) (pcenginecd).chd
+sort-by: Avenger
+developer: Shin-Nihon Laser Soft
+publisher: Telenet
+genre: Shooter
+release: 1990-12-07
+players: 1
+rating: 65%
+description:
+	A devastating atomic war wiped out the biggest cities on the Earth and most of its population. Anarchy reigned, different military organizations fighting each other in a new war for dominance. One of such organizations eventually seized control of the planet, establishing itself as a tyrannic government and using advanced technology for military purposes. Only a lone pilot can save humanity from their clutches...
+	Avenger is a vertically-scrolling shooter, in which the player navigates a plane through levels populated by hostile planes, tanks, cannons, ships, stationary devices, and massive boss enemies. Before each mission, the player can choose among different weapons in three categories: main, sub, and special. Main and sub weapons are fired simultaneously and have unlimited ammunition, while the powerful special attacks are accessed by pressing a different button and are limited. The player can try any combination of the three categories, for example enhancing the main rocket launcher with a pod that fires laser to the sides as a sub weapon, and a protective shield as a special one. Power-ups change properties rapidly, so the player has to catch them at a specific time to enhance either main, sub, or special weapon. Those power-ups do not change the properties of a weapon, but rather give it additional fire power.
+assets.boxfront: ./media/mixart/Avenger (Japan) (pcenginecd).png
+assets.video: ./media/snap/Avenger (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Avenger (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Avenger (Japan) (pcenginecd).png
+
+
+game: Baby Jo: The Superhero
+file: ./Baby Jo - The Super Hero (Japan) (pcenginecd).chd
+sort-by: Baby Jo - The Super Hero
+developer: Loriciel SA
+publisher: Loriciel SA
+genre: Platform
+release: 1994-08-28
+players: 1
+description:
+	Baby Jo in: "Going Home" or Super Hero' is a side-scrolling platform game. Jo can pick up rattles which can be tossed at enemies (such as bees, lawnmowers or spiders). Apart from watching out for the baby's dropping health (represented as an increasingly tearful face), the baby's diaper gets wetter over time and the thirst increases, too. If the diaper becomes too wet or the baby becomes too thirsty, the player immediately loses a life, so collecting fresh bottles and diapers is important.
+assets.boxfront: ./media/mixart/Baby Jo - The Super Hero (Japan) (pcenginecd).png
+assets.video: ./media/snap/Baby Jo - The Super Hero (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Baby Jo - The Super Hero (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Baby Jo - The Super Hero (Japan) (pcenginecd).png
+
+
+game: Bakushou Yoshimoto no Shinkigeki
+file: ./Bakushou Yoshimoto Shinkigeki (Japan) (FABT) (pcenginecd).chd
+sort-by: Bakushou Yoshimoto Shinkigeki
+developer: Hudson
+publisher: Hudson
+genre: Platform
+release: 1994-01-03
+players: 1
+rating: 60%
+description:
+	The game is based on the comedy TV show Yoshimoto no Shinkigeki, which in its turn is based on a theatrical comedy show popular in Osaka and its surroundings. The game stars characters that either look like the actors from the TV show and/or resemble characters played by them.
+	The show consists of short episodes which are depictions of comical situations, and are not related to each other story-wise. Same can be applied to the game: there is no real story, just a stretch of hilarious and intentionally impossible situations the protagonists find themselves in.
+assets.boxfront: ./media/mixart/Bakushou Yoshimoto Shinkigeki (Japan) (FABT) (pcenginecd).png
+assets.video: ./media/snap/Bakushou Yoshimoto Shinkigeki (Japan) (FABT) (pcenginecd).mp4
+assets.logo: ./media/wheel/Bakushou Yoshimoto Shinkigeki (Japan) (FABT) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Bakushou Yoshimoto Shinkigeki (Japan) (FABT) (pcenginecd).png
+
+
+game: Bishoujo Senshi Sailor Moon
+file: ./Bishoujo Senshi Sailor Moon (Japan) (Translated En) (pcenginecd).chd
+sort-by: Bishoujo Senshi Sailor Moon
+developer: Banpresto
+publisher: Banpresto
+genre: Adventure
+release: 1994-08-05
+players: 1
+description:
+	Sailor Moon was the title of a video game released in Japan in 1994 for the PC-Engine console. The game was an interactive story, including characters and voice actors from the anime as well as some original characters.
+	The songs "Koisuru Otome wa Makenai" and "Onaji Hoshi ni Umareta Futari Dakara" were written specifically for this game. A shortened version of each song appeared in the game, while full versions were available on the single "Sailor Moon: PC Engine Theme Songs".
+assets.boxfront: ./media/mixart/Bishoujo Senshi Sailor Moon (Japan) (Translated En) (pcenginecd).png
+assets.video: ./media/snap/Bishoujo Senshi Sailor Moon (Japan) (Translated En) (pcenginecd).mp4
+assets.logo: ./media/wheel/Bishoujo Senshi Sailor Moon (Japan) (Translated En) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Bishoujo Senshi Sailor Moon (Japan) (Translated En) (pcenginecd).png
+
+
+game: Black Hole Assault
+file: ./Black Hole Assault (Japan) (pcenginecd).chd
+sort-by: Black Hole Assault
+developer: Micronet
+publisher: Micronet
+genre: Fighting
+release: 1993-07-23
+players: 1
+description:
+	Set in the 22nd century; earth technology has advanced to the point where exploration of the immediate solar system is not only possible, but necessary due to resource constraints. Humans are attempting to harvest the resources of the entire solar system but have met with trouble from alien invaders. It is up to a small force of humans who recognize and understand the threat to confront the aliens head on.
+	Players use large robotic Cybernetic Anthropomorphized Machines (C.A.M) to fights 1-on-1 against alien robots across various planets and moons around the solar system.
+	The game has 4 different modes; story, exhibition, tournament and league battles.
+assets.boxfront: ./media/mixart/Black Hole Assault (Japan) (pcenginecd).png
+assets.video: ./media/snap/Black Hole Assault (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Black Hole Assault (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Black Hole Assault (Japan) (pcenginecd).png
+
+
+game: Bomberman: Panic Bomber
+file: ./Bomberman - Panic Bomber (Japan) (FABT) (pcenginecd).chd
+sort-by: Bomberman - Panic Bomber
+developer: Hudson
+publisher: Hudson
+genre: Puzzle
+release: 1994-12-22
+players: 2
+rating: 85%
+description:
+	Panic Bomber is a falling block puzzle game, somewhat reminiscent of Puyo Puyo games: instead of Tetris-like abstract blocks, little colored heads are falling down and must be arranged in rows of three (vertically or horizontally), by rotating them and matching them with other heads of the same color. In this case, the heads clearly belong to the titular character of the Bomberman series.
+assets.boxfront: ./media/mixart/Bomberman - Panic Bomber (Japan) (FABT) (pcenginecd).png
+assets.video: ./media/snap/Bomberman - Panic Bomber (Japan) (FABT) (pcenginecd).mp4
+assets.logo: ./media/wheel/Bomberman - Panic Bomber (Japan) (FABT) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Bomberman - Panic Bomber (Japan) (FABT) (pcenginecd).png
+
+
+game: Bonanza Bros.
+file: ./Bonanza Bros. (Japan) (pcenginecd).chd
+sort-by: Bonanza Bros.
+developer: SEGA
+publisher: NEC
+genre: Action
+release: 1992-07-31
+players: 2
+rating: 70%
+description:
+	Mobo and Robo Bonanza are enjoying their favorite television show when the picture crackles and a shadowy figure of a mysterious stranger appears on screen. This figure asks them to collect certain items that he has placed inside various buildings to test his security force. If they return the items successfully, Mobo and Robo will be rewarded. The two of them state that they will get the job done in just three minutes. However, little do they know that each building is packed with security guards who will raise the alarm if they are caught red-handed. Fortunately both Mobo and Robo are equipped with bullets that can knock the guards unconscious for a few seconds. An $100 reward will be given out if Mobo and Robo are apprehended.
+	.
+	As either Mobo or Robo, you must collect all the treasures before leaving the ten buildings and shoot any security guards that get in your way. Remember that you are under a time limit. An in-game map will help you locate the treasures. There is a bonus stage after three buildings, where the object is to collect the gold bars in a limited amount of time without  one of the three spotlights shining on you. If it is possible, hide behind open doors. If you manage to get all the gold bars, 10,000 points is added to your score. There are three of these bonus stages, but each of them varies.
+assets.boxfront: ./media/mixart/Bonanza Bros. (Japan) (pcenginecd).png
+assets.video: ./media/snap/Bonanza Bros. (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Bonanza Bros. (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Bonanza Bros. (Japan) (pcenginecd).png
+
+
+game: Browning
+file: ./Browning (Japan) (pcenginecd).chd
+sort-by: Browning
+developer: Riot
+publisher: Telenet
+genres:
+	Action
+	Shooter
+release: 1992-02-07
+players: 1
+rating: 70%
+description:
+	A mysterious organization has constructed an artificial island in the Atlantic ocean, naming it "Sea Square". Afterwards, they began producing giant combat robots, evidently prepared to build an entire army and become the most dominant military power on the Earth. It's time to stop them! The young hero, piloting a giant combat robot of his own, is sent to Sea Square precisely for that reason...
+	.
+	Browning is a side-scrolling shooter. The player controls the giant robot, equipped with a single gun (with unlimited ammunition), and must fight waves of enemies (mostly of a robotic kind), and eventually the stage boss. Short cut scenes appear between the stages. The player-controlled robot has the ability to hover in the air (the player has to repeatedly press a button to make the robot keep the height). The hit points of the robot depend on the condition of its shield. When the robot stands still, shield energy recharges slowly. Complete loss of shield energy makes the robot so vulnerable that the next hit destroys it. The player is given unlimited continues, but must return to the beginning of the stage each time the robot is destroyed.
+assets.boxfront: ./media/mixart/Browning (Japan) (pcenginecd).png
+assets.video: ./media/snap/Browning (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Browning (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Browning (Japan) (pcenginecd).png
+
+
+game: Builderland: The Story of Melba
+file: ./BuilderLand - The Story of Melba (Japan) (pcenginecd).chd
+sort-by: BuilderLand - The Story of Melba
+developer: Micro World
+publisher: Micro World
+genre: Puzzle
+release: 1993-04-01
+players: 1
+description:
+	Another western game converted to the PC Engine by Micro World, Builderland has a concept similar to the infamous Lemmings, and requires equally sharp forethought and reactions. The aim is to escort your little buddy across the vast playing area without him getting stuck, burned up, eaten by sheep etc. To do this, you can pick up and move various items that are scattered around the landscape, such as blocks to fill in gaps or create handy slopes, bombs to destroy areas of the map and so on. All this time your red headed friend is moving forward with alarming rapidity towards his doom. Thankfully, you can freeze the action to give yourself some breathing space to juggle things around, but this is limited to a timer which counts down slowly at the top of the screen.
+assets.boxfront: ./media/mixart/BuilderLand - The Story of Melba (Japan) (pcenginecd).png
+assets.video: ./media/snap/BuilderLand - The Story of Melba (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/BuilderLand - The Story of Melba (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/BuilderLand - The Story of Melba (Japan) (pcenginecd).png
+
+
+game: Cardangels
+file: ./Cardangels (Japan) (pcenginecd).chd
+sort-by: Cardangels
+developer: Fujicom
+publisher: Fujicom
+genre: Casino
+release: 1994-12-09
+players: 1
+rating: 20%
+description:
+	The Asano family possessed a heirloom known as the Sorcerer's Trump. In the year 1984, however, it was stolen under mysterious circumstances. Seventeen years later, Sayaka, the young heiress of the Asano family, forms a group together with her friends Miki and Kyoko, and the three begin looking for the lost treasure. Heist after heist goes by unsuccessfully. Eventually, the girls organize a TV show, challenging dubious personalities to card games, hoping to find the Sorcerer's Trump in process.
+	.
+	Cardangels is a card game in which the player takes the roles of the three friends, playing cards against young, attractive female opponents. Four types of card games are available: poker, blackjack, speed, and babanuki (a variant of old maid). A slot machine-like introduction determines which games are played against which opponents. The player can select the amount of rounds (minimum ten) needed to win a game and advance to the next opponent. The "free play" mode allows the player to choose the type of game actively, but the amount of available opponents is lower. There is no gambling in any of the games; points are awarded for combinations in poker and blackjack. The opponents undress after losing a game; however, they retain their underwear - there is no explicit nudity in the game.
+assets.boxfront: ./media/mixart/Cardangels (Japan) (pcenginecd).png
+assets.video: ./media/snap/Cardangels (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Cardangels (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Cardangels (Japan) (pcenginecd).png
+
+
+game: Chiki Chiki Boys
+file: ./Chiki Chiki Boys (Japan) (pcenginecd).chd
+sort-by: Chiki Chiki Boys
+developer: Capcom
+publisher: NEC
+genres:
+	Action
+	Platform
+release: 1994-07-15
+players: 2
+description:
+	This platform-based action game is set in the land of Alurea. The idyllic life of the Alurean people was shattered when the King is killed by a dragon, and a range of nasties inhabit the lands. Fortunately his twin sons have come to the rescue, and you must take control of one or the other to put the world right.
+	.
+	The boys have differing skills - one is more skilled in sword-fighting (which you are always armed with), the other in magic (available in limited amounts on each level). You collect coins as the game goes on, and spend these in the shop on extra magic, extra lives and enhanced swords.
+	.
+	There are 3 levels on offer - Earth, The Heavens and The Sea, and these can be tackled in any order. The first is straight platform action, the second involves jumping across clouds, and the third sees your characters swim. After those are completed, you must venture into the Monster Castle and finally slay the dragon.
+assets.boxfront: ./media/mixart/Chiki Chiki Boys (Japan) (pcenginecd).png
+assets.video: ./media/snap/Chiki Chiki Boys (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Chiki Chiki Boys (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Chiki Chiki Boys (Japan) (pcenginecd).png
+
+
+game: Cho Aniki
+file: ./Chou Aniki (Japan) (FAAT, FACT) (pcenginecd).chd
+sort-by: Chou Aniki
+developer: Masaya Games
+publisher: NCS Corporation
+genre: Shooter
+release: 1992-12-25
+players: 1
+description:
+	The odd world in this shooter made for quite the conversation piece in its day. Players control either Idaten or Benten, celestial warriors out to bring an end to the tyrannical rule of the emperor of Planet Builder, who holds muscular prowess to be the supreme virtue of the universe. Aided by able-bodied muscle-head options Adon and Samson, they must battle to defeat the emperors army across five stages. Use the buttons to fire away and lay into the Builder forces! Power up your character and options with protein from defeated enemies to have them "bulk up" with a yell, and take their macho battle to the next level!
+assets.boxfront: ./media/mixart/Chou Aniki (Japan) (FAAT, FACT) (pcenginecd).png
+assets.video: ./media/snap/Chou Aniki (Japan) (FAAT, FACT) (pcenginecd).mp4
+assets.logo: ./media/wheel/Chou Aniki (Japan) (FAAT, FACT) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Chou Aniki (Japan) (FAAT, FACT) (pcenginecd).png
+
+
+game: Chou Eiyuu Densetsu: Dynastic Hero
+file: ./Chou Eiyuu Densetsu - Dynastic Hero (Japan) (pcenginecd).chd
+sort-by: Chou Eiyuu Densetsu - Dynastic Hero
+developer: Westone
+publisher: Hudson
+genres:
+	Action
+	Adventure
+release: 1994-05-20
+players: 1
+description:
+	The Dynastic Hero is a slightly re-branded version of Wonder Boy in Monster World for the Turbo Duo.The game features palette-swapped visuals, new insect-themed graphics for main characters (and insects' natural predators as bosses), a Red Book audio soundtrack which is completely different from the Wonder Boy original, and anime-style cutscenes at the intro and ending. Shion was renamed Dyna and was modeled after a Hercules Beetle, and the final boss was changed to a giant lizard king. An English-language version was also produced, but both were built off of the Japanese version of Wonder Boy in Monster World. They feature the same difficulty and mechanics as the Japanese original.
+assets.boxfront: ./media/mixart/Chou Eiyuu Densetsu - Dynastic Hero (Japan) (pcenginecd).png
+assets.video: ./media/snap/Chou Eiyuu Densetsu - Dynastic Hero (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Chou Eiyuu Densetsu - Dynastic Hero (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Chou Eiyuu Densetsu - Dynastic Hero (Japan) (pcenginecd).png
+
+
+game: Chou Jikuu Yousai Macross 2036
+file: ./Chou Jikuu Yousai Macross 2036 (Japan) (pcenginecd).chd
+sort-by: Chou Jikuu Yousai Macross 2036
+developer: NCS Corporation
+publisher: Masaya Games
+genre: Shooter
+release: 1992-04-03
+players: 1
+rating: 85%
+description:
+	Macross 2036 is a horizontally scrolling shooter set in the universe of the Macross anime series. The player takes control of one of the series' minor characters, the female pilot Mylene Jenius, who navigates the space fighter Veritech, fighting against ships and robotic soldiers of the alien Zentradi race. The player-controlled space ship is equipped with a vulcan gun (which can be upgraded with power-ups) and bombs, which are released simultaneously. Another button controls a special weapon, which the player can purchase for points (awarded for defeating enemies) between stages.
+assets.boxfront: ./media/mixart/Chou Jikuu Yousai Macross 2036 (Japan) (pcenginecd).png
+assets.video: ./media/snap/Chou Jikuu Yousai Macross 2036 (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Chou Jikuu Yousai Macross 2036 (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Chou Jikuu Yousai Macross 2036 (Japan) (pcenginecd).png
+
+
+game: Color Wars
+file: ./Color Wars (Japan) (pcenginecd).chd
+sort-by: Color Wars
+developer: Tomcat System
+publisher: Coconuts Japan
+genre: Puzzle
+release: 1992-07-10
+players: 4
+description:
+	Color Wars is a puzzle game in which up to four players try to win by putting colored balls on poles, converting adjacent balls to their color. Each stage consists of a rotatable 3D screen containing a number of poles of the same height. Players take turns in placing balls onto these poles. Adjacent balls (horizontally, vertically, or diagonally) can be "captured" and hence change their color. Points are awarded per ball of each color. The round ends when there is no more place on the poles to put balls onto, and the player with the most points wins.
+	.
+	The story mode begins with an introduction depicting a powerful demon that can only be vanquished by traveling to the Color World; a young pilot ventures there and must defeat opponents in the Color Wars game at each stage. This mode puts one player against three AI-controlled opponents; the free mode also allows four human players to compete against each other. Two-player mode can be played by either two human players or one player against computer AI.
+assets.boxfront: ./media/mixart/Color Wars (Japan) (pcenginecd).png
+assets.video: ./media/snap/Color Wars (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Color Wars (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Color Wars (Japan) (pcenginecd).png
+
+
+game: Daisenpuu Custom
+file: ./Daisenpuu Custom (Japan) (pcenginecd).chd
+sort-by: Daisenpuu Custom
+developer: Toaplan
+publisher: NEC
+genre: Shooter
+release: 1991-07-26
+players: 1
+description:
+	Twin Hawk is a typical vertical scrolling shooter with a top-down view. Your goal is easy, shoot all the enemies along the way. You only get a standard gun on your plane, and no bombs. Instead of bombs you can call helper planes. These planes make a formation around you and help to shoot all enemies.
+	Along the way you get the chance to collect power-ups by shooting transport trucks. When these are destroyed they release a power-up. There are three types. First is the weapon upgrade, with this you get a wider and more powerful shot. Second, you get more calls for helper planes. And third are extra lives.
+assets.boxfront: ./media/mixart/Daisenpuu Custom (Japan) (pcenginecd).png
+assets.video: ./media/snap/Daisenpuu Custom (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Daisenpuu Custom (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Daisenpuu Custom (Japan) (pcenginecd).png
+
+
+game: Dekoboko Densetsu: Hashiru Wagamanmaa
+file: ./Dekoboko Densetsu - Hashiru Wagamanmaa (Japan) (pcenginecd).chd
+sort-by: Dekoboko Densetsu - Hashiru Wagamanmaa
+developer: Renovation Products
+publisher: Telenet
+genres:
+	Action
+	Racing
+release: 1990-11-02
+players: 5
+description:
+	Dekoboko Densetsu is a humorous game that combines elements of arcade action and racing. Up to five players can compete in the races. All the stages are vertically-scrolling (top-down), with the cars represented as small sprites of different colors. The player's goal is not only to beat the other cars, but also reach the finish line safely: each car has limited hit points, and continuously receives damage during the race.
+	.
+	Damage can be sustained by driving over environmental hazards (pits, traps, bombs, etc.), failing to move the car forward in time (if the screen scrolls while the player-controlled car is at the bottom, it takes damage), being hit by the many enemies encountered in the game (which include a wide variety of wild animals, humans, fantasy creatures, monsters, etc.), or being hit by a competing car. Cars have the ability to jump over obstacles or enemy fire, avoiding damage.
+	.
+	Over the course of the races, cars accumulate points depending on their results. These points can be invested in purchasing a limited amount of destructive weaponry (missiles, bombs, "boxing glove" that hits enemies from the side, oil to drop behind the car, etc.) or protective measures.
+assets.boxfront: ./media/mixart/Dekoboko Densetsu - Hashiru Wagamanmaa (Japan) (pcenginecd).png
+assets.video: ./media/snap/Dekoboko Densetsu - Hashiru Wagamanmaa (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Dekoboko Densetsu - Hashiru Wagamanmaa (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Dekoboko Densetsu - Hashiru Wagamanmaa (Japan) (pcenginecd).png
+
+
+game: Doraemon: Nobita no Dorabian Night
+file: ./Doraemon - Nobita no Dorabian Night (Japan) (pcenginecd).chd
+sort-by: Doraemon - Nobita no Dorabian Night
+developer: Now Production Co., Ltd.
+publisher: Hudson
+genre: Platform
+release: 1992-05-29
+players: 1
+rating: 65%
+description:
+	Based on the popular Doraemon franchise, Nobita no Dorabian Night follows the adventures of the titular robotic cat, as he tries to rescue his friends from different time periods. How did this happen? Naturally, because of Nobita, Doraemon's best friend and geek extraordinaire. Something went wrong when Nobita was showing his friends a time machine, so they ended up stranded in hostile worlds, and now it's Doraemon's job to save them!
+	The game is a traditional platformer; Doraemon's main activities are jumping his way through the levels and eliminating enemies who try to stop him. Doraemon starts with an ordinary gun, but later is able to find other weapons, including a homing bowling ball launcher and a stun gun. He can also collect various power-ups, such as limited invincibility, high speed, an item that freezes all the enemies on the level for a short time, etc. It is possible to switch weapons and power-ups at any time.
+assets.boxfront: ./media/mixart/Doraemon - Nobita no Dorabian Night (Japan) (pcenginecd).png
+assets.video: ./media/snap/Doraemon - Nobita no Dorabian Night (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Doraemon - Nobita no Dorabian Night (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Doraemon - Nobita no Dorabian Night (Japan) (pcenginecd).png
+
+
+game: Double Dragon II: The Revenge
+file: ./Double Dragon II - The Revenge (Japan) (pcenginecd).chd
+sort-by: Double Dragon II - The Revenge
+developer: Virgin
+publisher: Tecmo
+genres:
+	Action
+	Beat 'em Up
+release: 1993-03-12
+players: 2
+rating: 80%
+description:
+	The arcade version of Double Dragon II: The Revenge begins with Marian, the damsel in distress from the original Double Dragon, being shot to death by the leader of the Black Warriors. Once again, the players assume the role of brothers Billy and Jimmy Lee, who are now tasked with the duty of avenging Marian's death. The arcade version of the game is essentially an improved version of the original title. The biggest change in the game's controls are in the replacement of the original's punch and kick buttons with two directional-based attack buttons (Left Attack and Right Attack) similar to Renegade. Pressing the attack button of the player's current direction will do a standard series of punches, while pressing the opposite attack button will perform a back kick. A few new moves are added as well, including a Hurricane Kick.
+assets.boxfront: ./media/mixart/Double Dragon II - The Revenge (Japan) (pcenginecd).png
+assets.video: ./media/snap/Double Dragon II - The Revenge (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Double Dragon II - The Revenge (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Double Dragon II - The Revenge (Japan) (pcenginecd).png
+
+
+game: Download 2
+file: ./Down Load 2 (Japan) (pcenginecd).chd
+sort-by: Down Load 2
+developer: AlfaSystem
+publisher: NEC
+genre: Shooter
+release: 1991-03-29
+players: 1
+description:
+	Download 2 is an horizontal shooter. Nec Avenue certainly acknowledged that the game's best asset was the unique and innovative ability to jack-in and dive into computerized cyber-space worlds. This sequel follows the same formula but also features probably one of most electrifying storyline ever written for a video game. The brain of Adolf Hitler has been digitized inside a computer mainframe by terrorists and Syd, an elite cyber-diver and protagonist of the game, embarks on a perilous journey to stop and destroy the incoming threat. On board his ship and helped by the cute Deva, Syd flies through nine enemy infested areas and dives into abstract and challenging cyber worlds. Four different weapons are available to him at the press of a button - multiway Vulcan-gun, wide laser-beams, spread homing-lasers and a short-range lightning gun. Each weapon can be powered-up a grand total of three times by collecting "P" pods that appear on the screen whereas "S" pods increase the overall speed of the ship. Other special items are available throughout the game such as smart-bombs and protective shields.
+assets.boxfront: ./media/mixart/Down Load 2 (Japan) (pcenginecd).png
+assets.video: ./media/snap/Down Load 2 (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Down Load 2 (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Down Load 2 (Japan) (pcenginecd).png
+
+
+game: Downtown Nekketsu Monogatari
+file: ./Downtown Nekketsu Monogatari (Japan) (pcenginecd).chd
+sort-by: Downtown Nekketsu Monogatari
+developer: Technos Japan Corp.
+publisher: Naxat Soft
+genres:
+	Adventure
+	Beat 'em Up
+release: 1993-12-24
+players: 2
+description:
+	Brothers Ryuichi and Ryuji arrive at the Reihou Academy, located near Nekketsu High. After a short amount of time, nearby schools have begun fallen under the control of Ryuichi and Ryuji, who rumor has it have dubbed themselves the Double Dragons.
+	Riki Samejima of Hanazono High has never seen eye to eye with Kunio, and in fact, they seem to always compete to be the best.
+	But one day, Mami Shimada, Riki's girlfriend, is kidnapped and held at Reihou Academy. The issue is challenged to Riki, come save your girlfriend!
+	Riki's heart is burning with fury, and he flies out of the gates and seeks out his rival Kunio to help take on all opposing gangs. But one man awaits them at Reihou Academy that will shock Kunio!
+assets.boxfront: ./media/mixart/Downtown Nekketsu Monogatari (Japan) (pcenginecd).png
+assets.video: ./media/snap/Downtown Nekketsu Monogatari (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Downtown Nekketsu Monogatari (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Downtown Nekketsu Monogatari (Japan) (pcenginecd).png
+
+
+game: Dragon Slayer: Eiyuu Densetsu 2
+file: ./Dragon Slayer - The Legend of Heroes II (Japan) (pcenginecd).chd
+sort-by: Dragon Slayer - The Legend of Heroes II
+developer: Nihon Falcom
+publisher: Hudson
+genre: Role-Playing
+release: 1992-12-23
+players: 1
+description:
+	Years have passed since prince Selios, the hero of the first game, defeated the demon god Agunija in the ultimate battle. Peace returned to the land of Iseruhasa. Selios married his sweetheart Dina, and they had a child, whom they gave the name Atlas. At the age of fifteen, Atlas was already a strong warrior, thanks to the lessons of his teacher Lowel. Everything seemed peaceful in the country, until two warriors spotted strange creatures near the capital city. Those were... men in space suits! Of course, the warriors could not have known this and believed them to be monsters. Do the mysterious strangers have peaceful intentions, or are they a new threat to the kingdom?
+	.
+	The second Dragon Slayer is very similar to the first game, graphically and gameplay-wise. The only major difference is the fact that the enemies are now completely visible on screen before battles, so that the player can avoid fighting them if he wants to. Otherwise, it is a traditional Japanese RPG with turn-based combat viewed from first-person perspective. The Genesis version has once again updated graphics.
+assets.boxfront: ./media/mixart/Dragon Slayer - The Legend of Heroes II (Japan) (pcenginecd).png
+assets.logo: ./media/wheel/Dragon Slayer - The Legend of Heroes II (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Dragon Slayer - The Legend of Heroes II (Japan) (pcenginecd).png
+
+
+game: Faceball : Taikenban
+file: ./Faceball (Japan) (pcenginecd).chd
+sort-by: Faceball
+developer: Xanth Software
+publisher: Riverhillsoft
+genre: Shooter
+release: 1993-11-26
+players: 4
+description:
+	Faceball 2000 is a first-person shooter. You control a H.A.P.P.Y.F.A.C.E., or Holographically Assisted Physical Pattern Yielded For Active Computerized Embarkation. The graphics consist of flat shaded corridors. Enemies are all simple geometric shapes with smiley faces on them. Although the graphics are simple, they allow for full freedom of movement, not unlike Wolfenstein 3-D.
+assets.boxfront: ./media/mixart/Faceball (Japan) (pcenginecd).png
+assets.video: ./media/snap/Faceball (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Faceball (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Faceball (Japan) (pcenginecd).png
+
+
+game: Faussete Amour
+file: ./Faussete Amour (Japan) (pcenginecd).chd
+sort-by: Faussete Amour
+developer: AIM
+publisher: Naxat Soft
+genre: Platform
+release: 1993-03-26
+players: 1
+description:
+	A young girl named Koruku lived in her home village, enjoying a peaceful life with her sister and her friends. But it all changed when an evil demon known as the Goatbone appeared. With his powers of mind control and shape-shifting, he possessed Koruku's friends, turning them into terrifying monsters, kidnapped her sister, and burnt down the village. A mysterious old man approaches the desperate Koruku and bestows her with a wonderful armor, weapon, and magic powers. The young girl is ready to venture into Goatbone's lair and liberate her sister... but will she be able to defeat her own friends who now obey the word of their dark master?
+assets.boxfront: ./media/mixart/Faussete Amour (Japan) (pcenginecd).png
+assets.video: ./media/snap/Faussete Amour (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Faussete Amour (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Faussete Amour (Japan) (pcenginecd).png
+
+
+game: Flash Hiders
+file: ./Flash Hiders (Japan) (pcenginecd).chd
+sort-by: Flash Hiders
+developer: Right Stuff Corp.
+publisher: Right Stuff Corp.
+genre: Beat 'em Up
+release: 1993-12-19
+players: 2
+description:
+	Flash Hiders is an anime-style 2D fighting game with a distinct RPG slant. The game has a heavy focus on story and presentation, featuring animated, voiced cutscenes throughout the game's scenario mode, as well as the ability to purchase and use equipment to increase your stats. The scenario mode follows the martial-artist Bang as he travels through a war-torn world with the sorceress Tiria and an all-but-adopted kid named Erue. The "Advance" mode lets you choose any character in the game and follow their specific story, building your character's abilities as you go. There is, of course, also a versus mode for two players.
+assets.boxfront: ./media/mixart/Flash Hiders (Japan) (pcenginecd).png
+assets.video: ./media/snap/Flash Hiders (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Flash Hiders (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Flash Hiders (Japan) (pcenginecd).png
+
+
+game: Gain Ground SX
+file: ./Gain Ground SX (Japan) (pcenginecd).chd
+sort-by: Gain Ground SX
+developer: NEC
+publisher: SEGA
+genre: Action
+release: 1992-12-25
+players: 2
+rating: 90%
+description:
+	Gain Ground is an arcade style action game with a bit of strategy thrown in. The goal is get all of the soldiers to the opposite side of the screen or to kill all of the enemies. Each soldier in the army has a unique specialization, from among 20 types. Each soldier can attack in two different ways, using either a normal weapon or a special weapon. The strategy comes from deciding which soldier would do best in which situation. Some weapons are better at dealing with certain enemies and obstacles than other weapons.
+	Players start with only three soldiers but can encounter other soldiers that can be rescued, by touching them. If the new soldier survives long enough to reach the exit, they can be added to the soldier inventory. The number of possible soldier in a player's army is over 30 soldiers. There are 50 stages total, divided into rounds of 10. At the end of each round, players encounter an enemy boss.
+assets.boxfront: ./media/mixart/Gain Ground SX (Japan) (pcenginecd).png
+assets.video: ./media/snap/Gain Ground SX (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Gain Ground SX (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Gain Ground SX (Japan) (pcenginecd).png
+
+
+game: Galaxy Keiji Gayvan
+file: ./Galaxy Deka Gayvan (Japan) (pcenginecd).chd
+sort-by: Galaxy Deka Gayvan
+developer: Fill in Café Co., Ltd.
+publisher: Intec Inc.
+genre: Action
+release: 1993-10-29
+players: 2
+description:
+	Earth is the most beautiful planet in the galaxy, and its peaceful existence is threatened by the criminal mastermind Ballas. The galaxy police sends two agents to deal with the threat: Hiro Aoyama and Michiko Akasaka, who can transform into the powerful super-fighters Gayvan and Mittchi, respectively, and are alone able to stop Ballas.
+	Galaxy Deka Gayvan is a brawler. Players can choose to control either of the two heroes, or both of them in a co-op mode. Like in other beat-em-up games, the player must defeat all the enemies on screen in hand-to-hand combat before being able to proceed. Both Hiro and Michiko can accumulate special energy (dropped by the enemies along with health power-ups and money) that allows them to transfer into the superheroes Gayvan and Mittchi and stay in that form until they run out of energy. The superhero forms are stronger and are able to execute special attacks.
+	In addition, a two-player versus fighting mode is included. Players can choose either the protagonists or three enemy characters to compete against each other in one-on-one fighting.
+assets.boxfront: ./media/mixart/Galaxy Deka Gayvan (Japan) (pcenginecd).png
+assets.video: ./media/snap/Galaxy Deka Gayvan (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Galaxy Deka Gayvan (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Galaxy Deka Gayvan (Japan) (pcenginecd).png
+
+
+game: Garou Densetsu 2: Aratanaru Tatakai
+file: ./Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FAET, FAFT) (pcenginecd).chd
+sort-by: Garou Densetsu 2 - Aratanaru Tatakai
+developer: SNK
+publisher: Hudson
+genre: Fighting
+release: 1994-03-12
+players: 2
+description:
+	Again, the Lone Wolves return!
+	Geese Howard may have been defeated, but that doesn't mean all is peaceful. A new opponent, Wolfgang Krauser, has come forth to begin a new Fatal Fury tournament. The Lone Wolves return, with new faces amongst them. Only one can be declared the winner though.
+assets.boxfront: ./media/mixart/Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FAET, FAFT) (pcenginecd).png
+assets.video: ./media/snap/Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FAET, FAFT) (pcenginecd).mp4
+assets.logo: ./media/wheel/Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FAET, FAFT) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FAET, FAFT) (pcenginecd).png
+
+
+game: Garou Densetsu: Special
+file: ./Garou Densetsu Special (Japan) (FABT) (pcenginecd).chd
+sort-by: Garou Densetsu Special
+developer: SNK
+publisher: Hudson
+genre: Fighting
+release: 1994-12-02
+players: 2
+description:
+	Fatal Fury Special is an improved version of SNK's 2D one-on-one fighter Fatal Fury 2. The objective is to win the tournament by defeating all other fighters including end boss Wolfgang Krauser. Fatal Fury Special features a fairly large selection of fighters that includes:
+	The eight regular fighters from Fatal Fury 2: Terry Bogard, Andy Bogard, Joe Higashi, Kim Kaphwan, Jubei Yamada, Cheng Sinzan, Mai Shiranui and Big Bear.
+	The four bosses from Fatal Fury 2: Billy Kane, Axel Hawk, Lawrence Blood and Wolfgang Krauser (this time they're all immediately playable).
+	Three characters returning from the first Fatal Fury: Duck King, Tung Fu Rue and Geese Howard (the end boss from Fatal Fury).
+assets.boxfront: ./media/mixart/Garou Densetsu Special (Japan) (FABT) (pcenginecd).png
+assets.video: ./media/snap/Garou Densetsu Special (Japan) (FABT) (pcenginecd).mp4
+assets.logo: ./media/wheel/Garou Densetsu Special (Japan) (FABT) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Garou Densetsu Special (Japan) (FABT) (pcenginecd).png
+
+
+game: Gate of Thunder
+file: ./Gate of Thunder (Japan) (FACT, FADT) (pcenginecd).chd
+sort-by: Gate of Thunder
+developer: Red Company
+publisher: Hudson
+genre: Shooter
+release: 1992-02-21
+players: 1
+description:
+	A side-scrolling shoot-'em-up, Gate of Thunder asks players to take control of the space-craft "Hunting Dog". You fly left-to-right mostly, with occasional vertically-scrolling sections, and use several different weapon styles to defeat your many foes. Along with Esty in her ship the "Wild Cat", you must defeat the forces of General Don Jingi, who has plans of taking energy from the star of Aries.
+	.
+	Playing as the pilot Hawk, players must avoid collisions and weapon-fire from the General's "Obellon" army. Consisting of many different types of enemy, the army has a massive, sprawling force of guns, turret, ships, battle-stations and mech-type units. Their fire-power is immense and you are the single opposing force!
+	.
+	Gate of Thunder allows players to choose in real-time from three weapon-fire types. A blue-coloured electrical fire, a green-coloured wave-fire, and a red-coloured quake-type fire. Along with this, players obtain homing-missiles and the assistance of the "Wild Cat" which orbits the ship separately. Gate of Thunder also features a critically acclaimed soundtrack that remains a talking-point to this day.
+assets.boxfront: ./media/mixart/Gate of Thunder (Japan) (FACT, FADT) (pcenginecd).png
+assets.video: ./media/snap/Gate of Thunder (Japan) (FACT, FADT) (pcenginecd).mp4
+assets.logo: ./media/wheel/Gate of Thunder (Japan) (FACT, FADT) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Gate of Thunder (Japan) (FACT, FADT) (pcenginecd).png
+
+
+game: Genocide
+file: ./Genocide (Japan) (pcenginecd).chd
+sort-by: Genocide
+developer: Zoom
+publisher: BrainGrey
+genre: Action
+release: 1992-06-26
+players: 1
+description:
+	Life became more and more complicated in the 22th century. Humans have constructed a super-computer known as MESIA, entrusting it with the task of monitoring everything that happens on the planet. However, the computer grew increasingly megalomaniac, and eventually decided to conquer the Earth with deadly machines of its own production. In the middle of the 23rd century, humanity engages in a decisive battle against MESIA. Their hopes lie with Ken Ryugasaki, who pilots the powerful mecha Tracer on his journey to the super-computer's lair.
+	Genocide is a side-scrolling action game. The player controls Tracer, who can fight with a sword-like melee weapon and jump. Later in the game Tracer acquires "Betty", a powerful weapon that can shoot in eight directions. The gameplay is fairly straightforward; there are no power-ups, and the bulk of the game consists of surviving continuous onslaughts of enemies.
+assets.boxfront: ./media/mixart/Genocide (Japan) (pcenginecd).png
+assets.video: ./media/snap/Genocide (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Genocide (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Genocide (Japan) (pcenginecd).png
+
+
+game: Gensou Tairiku Auleria
+file: ./Gensou Tairiku Auleria (Japan) (pcenginecd).chd
+sort-by: Gensou Tairiku Auleria
+developer: Winky Soft Co., Ltd.
+publisher: Taito
+genre: Role-Playing
+release: 1993-02-26
+players: 1
+description:
+	You start the game as a nameless warrior (you can name the hero as you like). He returns to his home village, only to find it burnt down, and his beloved woman dead. Kneeling at her grave, the warrior swears revenge, but this quest soon turns out to go far beyond it, as demonic forces are threatening the land!
+	Gens? Tairiku Aurelia is a side-scrolling action RPG. You control the warrior (and other characters whom you can control later in the game) by moving him through platform locations - towns, forests, dungeons, etc. In towns you can talk to people to advance the plot. In wilderness areas, you fight enemies by attacking physically or using magic spells in real time. You can also jump in this game. You get experience points for defeating enemies, gain levels and stronger magic.
+assets.boxfront: ./media/mixart/Gensou Tairiku Auleria (Japan) (pcenginecd).png
+assets.video: ./media/snap/Gensou Tairiku Auleria (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Gensou Tairiku Auleria (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Gensou Tairiku Auleria (Japan) (pcenginecd).png
+
+
+game: Ginga Fukei Densetsu: Sapphire
+file: ./Ginga Fukei Densetsu Sapphire (Japan) (Reprint) (pcenginecd).chd
+sort-by: Ginga Fukei Densetsu Sapphire
+developer: CAProduction co., ltd.
+publisher: Hudson
+genre: Shooter
+release: 1995-11-24
+players: 1
+description:
+	In the future, time travel became a regular commodity. Criminal organizations began using advanced science in order to escape into different time periods to avoid capture. To counter that, a special police unit called "Burning Rabbits" was formed, consisting of four young ladies who bravely pilot their fighter craft through time and space.
+	Ginga Fukei Densetsu: Sapphire is a vertically-scrolling shoot-em-up. The player can choose between four different female characters, each piloting a different ship: Sapphire has balanced strength is speed; Charlotte is the fastest, but also the weakest; Helen is the slowest and the strongest; Jasmine is the second-strongest and the second-slowest. The ships are also distinguished by their weapon properties. Each ship can collect red, green, or blue power-ups; collecting a power-up of the same color enhances the currently equipped weapon, while a differently-colored power-up changes weapon properties while retaining whatever enhancements the ship might have had with the previous weapon. The actual properties of each weapon is different for each ship, and include various combinations of lasers, beams, missiles, piercing and homing weapons.
+	Each ship also has two pods on the sides that fire simultaneously. If the player releases the fire button for five seconds, the pods will charge up and damage enemies with electricity during the next shot. In additions, the ships can also drop bombs that heavily damage all the enemies on the screen; up to two bombs can be carried at the same time. The stages include various themes such as medieval, feudal China, ancient Egypt, etc., all with a strong sci-fi angle. The player can continue up to nine times from the same spot if the protagonist runs out of lives, and additional continues are granted when the player gathers a sufficient amount of points.
+assets.boxfront: ./media/mixart/Ginga Fukei Densetsu Sapphire (Japan) (Reprint) (pcenginecd).png
+assets.video: ./media/snap/Ginga Fukei Densetsu Sapphire (Japan) (Reprint) (pcenginecd).mp4
+assets.logo: ./media/wheel/Ginga Fukei Densetsu Sapphire (Japan) (Reprint) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Ginga Fukei Densetsu Sapphire (Japan) (Reprint) (pcenginecd).png
+
+
+game: God Panic: Shijou Saikyou no Gundan
+file: ./God Panic - Shijou Saikyou no Gundan (Japan) (pcenginecd).chd
+sort-by: God Panic - Shijou Saikyou no Gundan
+developer: Teichiku
+publisher: Teichiku
+genre: Shooter
+release: 1992-11-27
+players: 1
+description:
+	God Panic is a vertically-scrolling shoot-em-up set in a cartoony, anachronistic version of feudal Japan with supernatural elements. There is no in-game background story or plot-advancing cutscenes, with the exception of a wise old man who would sometimes offer the cat-suit-clad hero some help. Creatures from Japanese mythology have gone wild, and it is up to the flying protagonist to defeat them, all the while defending himself against enraged villagers, mechanical cats, homoerotic wrestlers and other grotesque beings.
+assets.boxfront: ./media/mixart/God Panic - Shijou Saikyou no Gundan (Japan) (pcenginecd).png
+assets.video: ./media/snap/God Panic - Shijou Saikyou no Gundan (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/God Panic - Shijou Saikyou no Gundan (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/God Panic - Shijou Saikyou no Gundan (Japan) (pcenginecd).png
+
+
+game: Godzilla Bakutou Retsuden
+file: ./Godzilla Bakutou Retsuden (Japan) (pcenginecd).chd
+sort-by: Godzilla Bakutou Retsuden
+developer: Hudson
+publisher: Toho Company
+genre: Fighting
+release: 1994-02-26
+players: 2
+description:
+	This interpretation of the famous giant monster from the Japanese cinematic industry takes form of a fighting game, only instead of the usual brave martial artists the players control horrifying monsters from the traditional  Toho lineage: the titular beast itself, Rodan, Anguirus, Ghidorah, and others. The game has two modes: Normal and Vs. The latter is essentially a two-player mode, which allows the players to engage in giant monster battles in a variety of scenarios. Most of the monsters, however, are locked in the Vs. mode before the player has completed the Normal mode.
+	.
+	The Normal mode puts the player in control of Godzilla, who has to go through five stages before reaching the final boss. Each stage has two battles against two different creatures in two different locations, from which the player has to complete only one in order to proceed to the next stage. Depending on the player's performance, points are awarded; in order to be able to compete against different final bosses, the player has to accumulate more points. If the player only has the minimum required points, only one final boss will be available.
+	.
+	The combat system is similar to other fighting games, with various combinations of buttons executing different moves. Naturally, the normal "punch-kick" scheme is modified to suit the monsters' shapes and biological peculiarities. For example, monsters with tails can use tail spin attacks; fire-breathing monsters have a range fire attack, etc. Most of the monsters (including Godzilla) have a move when they hold the opponent and suck its blood.
+assets.boxfront: ./media/mixart/Godzilla Bakutou Retsuden (Japan) (pcenginecd).png
+assets.video: ./media/snap/Godzilla Bakutou Retsuden (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Godzilla Bakutou Retsuden (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Godzilla Bakutou Retsuden (Japan) (pcenginecd).png
+
+
+game: Goetzendiener
+file: ./Goetzendiener (Japan) (pcenginecd).chd
+sort-by: Goetzendiener
+developer: Gainax Co., Ltd., Studio Alex, Ltd.
+publisher: NEC
+genre: Adventure
+release: 1994-11-25
+players: 1
+description:
+	The Demon God has abducted the princess Misa, intending to sacrifice her in order to restore his power. The king has sent an army to rescue his daughter, led by a knight who was carrying the legendary Sword of the Valiant. All the soldiers were killed by the minions of the Demon God, and only the brave knight survived. But as he delivered the fatal blow to the Demon God, he was himself mortally wounded by him. The princess Misa has no other choice but to take the Sword of the Valiant and to find a way to escape from the Demon God's dungeon, full of deadly traps and enemies...
+assets.boxfront: ./media/mixart/Goetzendiener (Japan) (pcenginecd).png
+assets.video: ./media/snap/Goetzendiener (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Goetzendiener (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Goetzendiener (Japan) (pcenginecd).png
+
+
+game: Golden Axe
+file: ./Golden Axe (Japan) (pcenginecd).chd
+sort-by: Golden Axe
+developer: Team Shinobi
+publisher: Telenet
+genre: Fighting
+release: 1990-03-16
+players: 1
+description:
+	Golden Axe is an arcade beat-'em-up game that puts players in the shoes of one of three heroes, each with his own reason for trying to overthrow the evil rule of Death-Adder, who - along with his forces of darkness - kidnapped and imprisoned the King and his daughter and stole the legendary Golden Axe.
+	.
+	This is a horizontal fighting game, where you basically take one of the three characters (the barbarian Ax Battler, a dwarf named Gilius Thunderhead or the amazon Tyris Flare) and bash everything which stands between you and Death Adder himself. Each character has a special magical ability that can be charged by kicking small blue creatures that drop a potion. There is also a green variety off this creature that drops food that replenishes your health. Some enemies ride dragons and a scorpion like creature. The enemies can be knocked off and you can mount the creature yourself and attack the enemies with it.
+	.
+	The game allows to play up to two players on a same screen, however in the C64 version this option has not been implemented. C64 version was also stripped off in the other areas, such as: only one enemy can engage the player at a time or there are only two types of dragons instead of three.
+assets.boxfront: ./media/mixart/Golden Axe (Japan) (pcenginecd).png
+assets.video: ./media/snap/Golden Axe (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Golden Axe (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Golden Axe (Japan) (pcenginecd).png
+
+
+game: Gradius II: Gofer no Yabou
+file: ./Gradius II - Gofer no Yabou (Japan) (pcenginecd).chd
+sort-by: Gradius II - Gofer no Yabou
+developer: Konami
+publisher: Konami
+genre: Shooter
+release: 1992-12-18
+players: 1
+description:
+	Gradius II is a sequel to Gradius and Life Force, and is a horizontal space shooter composed of seven levels. Like in its predecessor, it is possible to collect power-ups from enemies and choose which type to use and when. This time, this system is enhanced with the option of choosing between four different power-up sequences, allowing the player to use different types of weapons against enemies. There is also the possibility to gain options, which are mysterious balls of fire that follows the player-controlled spaceship closely and mimic all its movements (including shots). While the player only could have two of them in the NES version of Gradius, it is now possible in all versions to have up to four.
+assets.boxfront: ./media/mixart/Gradius II - Gofer no Yabou (Japan) (pcenginecd).png
+assets.video: ./media/snap/Gradius II - Gofer no Yabou (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Gradius II - Gofer no Yabou (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Gradius II - Gofer no Yabou (Japan) (pcenginecd).png
+
+
+game: Gulclight TDF 2
+file: ./Gulclight TDF 2 (Japan) (pcenginecd).chd
+sort-by: Gulclight TDF 2
+developer: Data West
+publisher: Pack In Video
+genre: Strategy
+release: 1991-01-25
+players: 1
+description:
+	Gulclight TDF2 is a turn-based tactical game and a follow-up to T.D.F.. There is no background story information in the game besides the notion of TDF2, an organization consisting of aircraft and mechas, fighting an alien race known as Plea. The gameplay is quite simple: the player is presented with a fairly small isometric screen and must navigate a handful of fighters on it, attacking an alien when he is on the adjacent square. Player-controlled mechas and vehicles come in different types: some are strong but have limited manoeuvrability, others have a wide movement range but weak armor, etc. Battles are shown on a separate screen and proceed automatically, both sides exchanging an attack.
+assets.boxfront: ./media/mixart/Gulclight TDF 2 (Japan) (pcenginecd).png
+assets.video: ./media/snap/Gulclight TDF 2 (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Gulclight TDF 2 (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Gulclight TDF 2 (Japan) (pcenginecd).png
+
+
+game: Hawk F-123
+file: ./Hawk F-123 (Japan) (pcenginecd).chd
+sort-by: Hawk F-123
+developer: Make Software, Inc.
+publisher: Pack In Video
+genre: Shooter
+release: 1992-03-13
+players: 1
+description:
+	Hawk F-123 is a side-scrolling shoot-em-up. There is no background story in the game and no cutscenes; the player pilots a fighter plane, flying over various areas such as a desert, a sea, a city at night, etc. Most of the enemies are different types of aircraft, though a few stationary turrets appear as well.
+	The player-controlled fighter can pick up power-ups that change his primary weapon: red for a vulcan gun, yellow for energy bolts, and blue for laser. Each of these will increase in power (e.g. three lasers instead of one for the blue weapon) when the player repeatedly collects power-ups of the same color. Other power-ups add a secondary weapon or enhancement to any of the described above, such as homing missiles, fireballs, a wingman, etc. Secondary weapons are fired simultaneously with the main ones. In addition, special weapons can be collected and accumulated. These weapons are triggered by pressing a separate button, and include delayed bombs, exploding bullets, protective shields, and others.
+assets.boxfront: ./media/mixart/Hawk F-123 (Japan) (pcenginecd).png
+assets.video: ./media/snap/Hawk F-123 (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Hawk F-123 (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Hawk F-123 (Japan) (pcenginecd).png
+
+
+game: Hellfire S: The Another Story
+file: ./Hellfire S - The Another Story (Japan) (pcenginecd).chd
+sort-by: Hellfire S - The Another Story
+developer: Toaplan
+publisher: NEC
+genre: Shooter
+release: 1991-04-12
+players: 2
+description:
+	Hellfire S is a Shoot-'Em-Up game, developed by Bits Laboratory and published by NEC International, which was released in Japan in 1991.
+assets.boxfront: ./media/mixart/Hellfire S - The Another Story (Japan) (pcenginecd).png
+assets.video: ./media/snap/Hellfire S - The Another Story (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Hellfire S - The Another Story (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Hellfire S - The Another Story (Japan) (pcenginecd).png
+
+
+game: Chris's Adventure
+file: ./Hihou Densetsu - Chris no Bouken (Japan) (pcenginecd).chd
+sort-by: Hihou Densetsu - Chris no Bouken
+developer: Arc Co., Ltd.
+publisher: Pack In Video
+genres:
+	Action
+	Adventure
+release: 1991-12-13
+players: 1
+description:
+	A scientist named Arnold Steiner researches the ancient civilization of Indios in Central America. However, following a breakthrough discovery, Steiner mysteriously disappears. His daughter Chris travels to Central America in search of her father, and steps into an intimidating world of monsters and conspiracies.
+	Hih? Densetsu: Chris no B?ken is a platformer. Chris is armed with a dagger and cannot use any other weapons or gadgets to protect herself. However, the dagger can be upgraded by collecting colored orbs dropped by enemies. Depending on their combination, the dagger can be used as a long-ranged weapon, firing projectiles or acting as a boomerang. The protagonist's health is measured with hearts; a stage must be restarted if Chris runs out of all five of them. Enemies would sometimes leave hearts and coins behind; the latter add an extra life to Chris if she collects a sufficient amount.
+	A boss enemy awaits at the end of every second stage. Other features include moving and disappearing platforms, deadly traps such as spikes, mine cart-riding, and a strict time limit for each stage. The story is advanced through anime-style cutscenes between stages.
+assets.boxfront: ./media/mixart/Hihou Densetsu - Chris no Bouken (Japan) (pcenginecd).png
+assets.video: ./media/snap/Hihou Densetsu - Chris no Bouken (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Hihou Densetsu - Chris no Bouken (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Hihou Densetsu - Chris no Bouken (Japan) (pcenginecd).png
+
+
+game: Horror Story
+file: ./Horror Story (Japan) (pcenginecd).chd
+sort-by: Horror Story
+developer: Toaplan
+publisher: NEC
+genres:
+	Platform
+	Shooter
+release: 1993-02-26
+players: 2
+description:
+	Originating on the arcades (where it was known as Demon's World to the Western audience), Horror Story is an "old-style" side-scrolling platformer/shooter. The basic gameplay premise is very simple: shoot and jump your way through large amounts of monsters, defeat the boss, proceed to the next level. There is no narrative of any kind in the game, and no cut scenes; the hero is a tough-looking  Duke Nukem-look-alike equipped with guns.
+	The screen is scrolling at all times, even if the player character doesn't move. The levels are almost entirely linear, the only choice sometimes being to stay on the ground or jump to the higher platforms. Cooperative two-player mode is available.
+	Though shooting is decidedly the main gameplay element here, jumping (particularly double-jumping) must be used liberally to navigate the hero through platform-based stages, and avoid and kill enemies (since jumping on their heads eliminates them as well). Weapons can be switched by catching power-ups, which appear as floating, constantly changing letters. Depending on the letter the player decides to take, the hero will get different weapons. These weapons include: a steady energy beam of moderate power; flamethrower; bombs; a short-distance grenade launcher of sorts; and a gun that spits fireballs in three different directions.
+	As the name implies, the game has a horror theme. The game begins in what looks like old Japan, complete with traditional Japanese demons, but later switches to more "mainstream" horror, complete with haunted towns, ghosts, zombies, skeletons, etc.
+assets.boxfront: ./media/mixart/Horror Story (Japan) (pcenginecd).png
+assets.video: ./media/snap/Horror Story (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Horror Story (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Horror Story (Japan) (pcenginecd).png
+
+
+game: Human Sports Festival
+file: ./Human Sports Festival (Japan) (pcenginecd).chd
+sort-by: Human Sports Festival
+developer: Human
+publisher: Human
+genre: Sports
+release: 1992-02-28
+players: 4
+description:
+	Human Sports Festival is a compilation that contains three previously unreleased sports games:
+	Fine Shot Golf is a golf game for up to four players with an exhibition, tournament, and practice mode. It is possible to choose club types and (in the practice mode) golf course. The game is played from a first-person perspective, and requires the player to stop a moving bar at the correct moment to regulate the strength of the short.
+	Formation Soccer: Human Cup '92 is a top-down soccer (football) game that allows the player to choose an international team out of several available European and American ones. Formation and goaltender behavior can be customized; however, no detailed player management is present. The championship mode allows one or two players to compete against the computer.
+	Final Match Tennis Ladies is similar in style to Final Match Tennis, but with notable female tennis players (their names are slightly altered). It is possible to choose one of the three available tennis court types, as well as go through the Australian Open tournament controlling one competitor in a cup system.
+assets.boxfront: ./media/mixart/Human Sports Festival (Japan) (pcenginecd).png
+assets.video: ./media/snap/Human Sports Festival (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Human Sports Festival (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Human Sports Festival (Japan) (pcenginecd).png
+
+
+game: Hyper Dyne: Side Arms Special
+file: ./Hyper Dyne - SideArms Special (Japan) (pcenginecd).chd
+sort-by: Hyper Dyne - SideArms Special
+developer: Capcom
+publisher: NEC
+genres:
+	Action
+	Shooter
+release: 1989-12-15
+players: 1
+description:
+	Hyper Dyne Side Arms Special is an Action game, developed by Capcom and published by NEC Interchannel, which was released in Japan in 1989.
+assets.boxfront: ./media/mixart/Hyper Dyne - SideArms Special (Japan) (pcenginecd).png
+assets.video: ./media/snap/Hyper Dyne - SideArms Special (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Hyper Dyne - SideArms Special (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Hyper Dyne - SideArms Special (Japan) (pcenginecd).png
+
+
+game: Iga Ninden Gaiou
+file: ./Iga Ninden Gaiou (Japan) (pcenginecd).chd
+sort-by: Iga Ninden Gaiou
+developer: Nichibutsu
+publisher: Nichibutsu
+genre: Action
+release: 1993-12-10
+players: 1
+description:
+	Iga Ninden Gaiou is an action game by Nichibutsu where the player takes control of a Samurai/Ninja who must rescue his lovely girlfriend. The game takes place in Ancient Japan where sword fights meet mystical magic and demons... but not only as later stages even transport the player to futuristic worlds and cities. The main character uses his sword most of the time to defeat his enemies. But he can also charge up and throw knives. RUN can also launch a mystical attack. But use those wisely as they are only available in a limited quantities. As expected in this sort of game, a boss awaits for you at the end of each stage and unlocks new powers and weapons when defeated.
+assets.boxfront: ./media/mixart/Iga Ninden Gaiou (Japan) (pcenginecd).png
+assets.video: ./media/snap/Iga Ninden Gaiou (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Iga Ninden Gaiou (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Iga Ninden Gaiou (Japan) (pcenginecd).png
+
+
+game: Image Fight II: Operation Deepstriker
+file: ./ImageFight II - Operation Deepstriker (Japan) (pcenginecd).chd
+sort-by: ImageFight II - Operation Deepstriker
+developer: Irem
+publisher: Irem
+genre: Shooter
+release: 1992-12-18
+players: 1
+description:
+	Image Fight II: Operation Deepstriker is a sequel for the PC Engine Super CD-ROM exclusively to Japan. This game is a lost jewel of Irem, and they really put love in this game. It features a good storyline, new enemies, upgrades of past ones and a few new arsenal.
+	On July 18, 2048. Mariko, the mother computer on the moon base, gave a silent cry and went silent. Peace was then restored to the Earth and people tried hard on reconstruction on the devasted planet. Three years after, a Space probe placed between Saturn and Uranus detected the change in Deep Space for the first time. In the direction of Sagitarius, a cluster of objects emerged, warping the space around it and emiting light shifting to blue intro the spectrum.
+	The analysis of the spectrum revealed the most fearful data about the unidentified objects. Distance: 0.15 Years Light, Direction: Straight forward to the Earth, Conclusion: An Enemy Armada approaching. It now came home to the human race that the last space war had been nothing more than a preliminary skirmish.
+assets.boxfront: ./media/mixart/ImageFight II - Operation Deepstriker (Japan) (pcenginecd).png
+assets.video: ./media/snap/ImageFight II - Operation Deepstriker (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/ImageFight II - Operation Deepstriker (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/ImageFight II - Operation Deepstriker (Japan) (pcenginecd).png
+
+
+game: In Magical Adventure: Fray CD - Xak Gaiden
+file: ./In Magical Adventure - Fray CD - Xak Gaiden (Japan) (pcenginecd).chd
+sort-by: In Magical Adventure - Fray CD - Xak Gaiden
+developer: Micro Cabin Corp.
+publisher: Micro Cabin Corp.
+genre: Action
+release: 1994-03-30
+players: 1
+description:
+	This version of Fray in Magical Adventure differs from the  original MSX and subsequent computer releases in several ways. It retains the major events of the story and gameplay mechanics; even though it has more detailed graphics, it still looks too similarly to the original release to be qualified as a remake. The major difference is in the layout of locations and enemies. Some levels are entirely different, even when they are composed of the same elements. For example, the introductory level of the original version is skipped; the subsequent level has a different layout and new enemies. There are more treasure chests in this version's levels, more items, and more areas that require jumping.
+	.
+	This version also has different cut-scenes (for example, the introduction describes some of the events during Fray's study years, which were absent in the original version). The conversations with other characters are longer; certain events are triggered in a different way (such as the necessity to first talk to the guard to trigger the conversation with the mayor in the first town). There is voice acting during important cut-scenes.
+assets.boxfront: ./media/mixart/In Magical Adventure - Fray CD - Xak Gaiden (Japan) (pcenginecd).png
+assets.video: ./media/snap/In Magical Adventure - Fray CD - Xak Gaiden (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/In Magical Adventure - Fray CD - Xak Gaiden (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/In Magical Adventure - Fray CD - Xak Gaiden (Japan) (pcenginecd).png
+
+
+game: Jim Power in Mutant Planet
+file: ./Jim Power in Mutant Planet (Japan) (pcenginecd).chd
+sort-by: Jim Power in Mutant Planet
+developer: Digital Concept
+publisher: Micro World
+genres:
+	Action
+	Platform
+release: 1993-03-19
+players: 1
+description:
+	Jim Power was a hero who one day while travelling through the forest, encountered a dimensional rift into a strange new world. Luckily Jim always travels armed and now he'll need to fight his way past several monsters into a monster stronghold to find his way back home.
+	.
+	Jim Power is a side-scrolling platform game, a side-scrolling shooter and a top-view shooter game depending on the level. Jim Power for the most part can jump and has an upgradable gun weapon. He must find fight enemies, bosses and obtain various keys to progress through the levels. Jim also has a "Smart Bomb" power attack which can clear the screen of enemies. In shooter levels, Jim's spaceship only has the ability to shoot and move around the screen avoiding obstacles.
+assets.boxfront: ./media/mixart/Jim Power in Mutant Planet (Japan) (pcenginecd).png
+assets.video: ./media/snap/Jim Power in Mutant Planet (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Jim Power in Mutant Planet (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Jim Power in Mutant Planet (Japan) (pcenginecd).png
+
+
+game: Juuouki
+file: ./Juuouki (Japan) (Rev 5) (pcenginecd).chd
+sort-by: Juuouki
+developer: SEGA
+publisher: NEC
+genres:
+	Action
+	Platform
+release: 1989-09-22
+players: 1
+description:
+	Zeus has called upon you! Only a brave and fearless warrior can save his beloved daughter, Athena, from the cunning clutches of Nelf, evil Lord of the Underworld. Risen from the grave, you are presented with supernatural powers beyond this world. Collect the mystical spirit balls and transform into an awesome array of creatures - as Strongman, punch and kick harder than ever before, as WereWolf and WereTiger, rip the flesh of the demons of hell, and as Bear, knock out your enemies with one bad breath! You hear the distant cries of the beautiful Athena and as the terrors of the Underworld tighten their grasp, the beast within you rises to face the final battle!
+	This game was released only for the japanese NEC PC Engine.
+assets.boxfront: ./media/mixart/Juuouki (Japan) (Rev 5) (pcenginecd).png
+assets.video: ./media/snap/Juuouki (Japan) (Rev 5) (pcenginecd).mp4
+assets.logo: ./media/wheel/Juuouki (Japan) (Rev 5) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Juuouki (Japan) (Rev 5) (pcenginecd).png
+
+
+game: Kaizou Choujin Shubibinman 3: Ikai no Princess
+file: ./Kaizou Choujin Shubibinman 3 - Ikai no Princess (Japan) (pcenginecd).chd
+sort-by: Kaizou Choujin Shubibinman 3 - Ikai no Princess
+developer: Masaya Games
+publisher: NEC
+genre: Action
+release: 1992-02-28
+players: 2
+description:
+	Third game in the Shubibinman series of action platformers. Cyborgs Tasuke and Kyapiko have taken a vacation from all their robot-bashing when they receive a plea for help from the princess of an alien world, naturally our heroes accept and make the journey to outer space, where more robot-bashing adventures await.
+	The game plays like a standard action side-scroller in which you must clear each stage of all enemies using your attacks and make your way to the end-level boss, kick his metallic behind and advance to the next stage. You have at your disposal an energy blade and a small collection of ranged attacks to deal with your enemies, and between certain stages you get to play shooter sequences to spice things up.
+assets.boxfront: ./media/mixart/Kaizou Choujin Shubibinman 3 - Ikai no Princess (Japan) (pcenginecd).png
+assets.video: ./media/snap/Kaizou Choujin Shubibinman 3 - Ikai no Princess (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Kaizou Choujin Shubibinman 3 - Ikai no Princess (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Kaizou Choujin Shubibinman 3 - Ikai no Princess (Japan) (pcenginecd).png
+
+
+game: Kakutou Haou Densetsu Algunos
+file: ./Kakutou Haou Densetsu - Algunos (Japan) (pcenginecd).chd
+sort-by: Kakutou Haou Densetsu - Algunos
+developer: Fill in Café Co., Ltd.
+publisher: Intec Inc.
+genre: Fighting
+release: 1994-01-28
+players: 2
+description:
+	Kakut? Ha? Densetsu Algunos is a fighting game. It doesn't have a developed story; rather, it tells background stories of the ten fighters the player can control in the game: Jenius, Asasin, Arcer (sic to all three), Samohan, Greeze, Orga, Lobo, Blocken, Jyobei and Daibuster. The only time the background story is told is when the player selects a fighter in the story mode. Usually, the five "good" fighters have to face the five "evil" ones one after the other (each in different order) if selected in the story mode. Though the game's intro states that it is less about who is good and who is evil, and more about who is the better fighter...
+	.
+	The gameplay is for the most part traditional fighting game-style (with the obligatory two-player battle mode as an option to the linear story mode); an important difference is the fact that some of the characters use swords and other weapons, rather than fight with their bare hands. The traditional "kick" and "punch" buttons are called "short attack" and "long attack" here; their execution is unique to each fighter.
+assets.boxfront: ./media/mixart/Kakutou Haou Densetsu - Algunos (Japan) (pcenginecd).png
+assets.video: ./media/snap/Kakutou Haou Densetsu - Algunos (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Kakutou Haou Densetsu - Algunos (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Kakutou Haou Densetsu - Algunos (Japan) (pcenginecd).png
+
+
+game: Kaze Kiri: Ninja Action
+file: ./Kaze Kiri - Ninja Action (Japan) (pcenginecd).chd
+sort-by: Kaze Kiri - Ninja Action
+developer: Naxat Soft
+publisher: Naxat Soft
+genre: Action
+release: 1994-04-28
+players: 1
+description:
+	Princess Shizuhime has been kidnapped by a group of ninja under the command of Genbu, and brought to the castle of the malevolent Lord Hiei. The brave young ninja Kaze is summoned by Lord Yoshikage and sent on a dangerous mission: infiltrate Hiei's castle, defeat his minions, and rescue Shizuhime.
+	Kaze Kiri is essentially a beat-em-up with a few distinguishing characteristics. The game consists of traversing fully linear side-scrolling areas, defeating regular enemies and bosses on the way. Before being able to fight the stage boss, Kaze has to vanquish a pre-determined number of enemies, which is displayed as a shared enemy HP on top of the screen.
+	Kaze attacks with his sword when he is near the enemy, or throws shurikens at them from afar. Enemy projectiles can also be blocked by countering them with shurikens. Kaze can also disappear for a moment and re-appear at another location. He can jump, duck, perform somersaults, and grab and throw enemies. Kaze's health regenerates over time if he is not hit repeatedly. Completing the game unlocks another playable character, the female ninja Suzu.
+assets.boxfront: ./media/mixart/Kaze Kiri - Ninja Action (Japan) (pcenginecd).png
+assets.video: ./media/snap/Kaze Kiri - Ninja Action (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Kaze Kiri - Ninja Action (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Kaze Kiri - Ninja Action (Japan) (pcenginecd).png
+
+
+game: Kiaidan 00
+file: ./Kiaidan 00 (Japan) (pcenginecd).chd
+sort-by: Kiaidan 00
+developer: AlfaSystem
+publisher: Telenet
+genre: Shooter
+release: 1992-10-23
+players: 1
+description:
+	In 21st century, Tokyo was suddenly attacked by combined forces of robotic and organic alien races. A special giant mecha fighter craft was constructed in order to avert the threat. A young pilot is sent on the most dangerous mission of his life.
+	.
+	Kiaidan 00 is a horizontally scrolling sci-fi shoot-em-up. The basic gameplay is similar to other games of this genre; however, the weapon system differs from the traditional power-up and upgrade style. The player character has all the weapons at his disposal from the very beginning. The five weapons include spreading energy blasts, focused multiple shot, laser beams that travel in different directions, an energy ball that protects the ship from frontal assaults, and an extended arm that hits enemies melee-style. The player can cycle through and choose any of these weapons at any time.
+	.
+	Instead of the traditional secondary weapon system the game offers charged modes for all the weapons. When a weapon is charged it either becomes more powerful or gains new properties (for example, the extended arm becomes longer and is controlled from a distance). The player character's health is represented by shield units, which can also be picked up in the stages. Dialogue and cutscenes advance the story between and within missions.
+assets.boxfront: ./media/mixart/Kiaidan 00 (Japan) (pcenginecd).png
+assets.video: ./media/snap/Kiaidan 00 (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Kiaidan 00 (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Kiaidan 00 (Japan) (pcenginecd).png
+
+
+game: The Kick Boxing
+file: ./Kick Boxing, The (Japan) (pcenginecd).chd
+sort-by: Kick Boxing, The
+developer: Futura
+publisher: Micro World
+genres:
+	Fighting
+	Sports
+release: 1992-12-13
+players: 2
+description:
+	Endorsed by André Panza, this video game adaptation of Thai kick boxing features over 35 moves. Use the training gym to build up your character's abilities until you feel ready to take on an opponent. You also have the ability to customize your attacks. When you are ready, go to the ring to take on various opponents as you try to become the best kick boxer in the game.
+assets.boxfront: ./media/mixart/Kick Boxing, The (Japan) (pcenginecd).png
+assets.video: ./media/snap/Kick Boxing, The (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Kick Boxing, The (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Kick Boxing, The (Japan) (pcenginecd).png
+
+
+game: L-Dis
+file: ./L-Dis (Japan) (pcenginecd).chd
+sort-by: L-Dis
+developer: Dual Corporation
+publisher: Masaya Games
+genres:
+	Action
+	Shooter
+release: 1991-04-05
+players: 1
+description:
+	One day during a school break, a boy and a girl met in the yard and started drawing monsters and mechanical devices on the wall. Suddenly, a mysterious vessel appeared and swallowed the girl. All the creatures drawn by the children became alive - but so did a little fighter plane, which the boy immediately boards and goes up towards the skies, searching for the girl.
+	.
+	L-DIS is a horizontally scrolling shoot-em-up with cartoon-like visuals and humorous overtones. The player can choose between three different weapon setups in the beginning. Power-ups are obtained by shooting little winged yellow creatures encountered in the stages. These power-ups rapidly change properties and can either enhance the strength of the main weapon, add a secondary one, or grant the protagonist protective shields or bombs that can eliminate all the enemies on the screen. Bosses and mini-bosses are present in most of the levels.
+assets.boxfront: ./media/mixart/L-Dis (Japan) (pcenginecd).png
+assets.video: ./media/snap/L-Dis (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/L-Dis (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/L-Dis (Japan) (pcenginecd).png
+
+
+game: Legion
+file: ./Legion (Japan) (pcenginecd).chd
+sort-by: Legion
+developer: Renovation Products
+publisher: Telenet
+genre: Shooter
+release: 1990-09-21
+players: 2
+description:
+	Legion is a horizontally scrolling shoot-em-up. The player controls a fighter pilot who defends an unnamed futuristic Empire from an assault of mechanical creatures. In spite of the game's exclusively Japanese release, the protagonist delivers voiced monologues in English, musing over his mission, at the beginning of each stage.
+	The game has a traditional power-up system with a basic weapon power-up that changes its color rapidly when revealed (red for vulcan gun, green for lasers, blue for missiles), as well as assorted collectible letters that either enhance the strength of the gun with additional shots, add a secondary weapon (such as bombs), or provide the ship with a protective shield. In addition, a powerful all-screen attack can be executed by pressing the second action button. At several points during the game the player is able to choose the next stage among two available ones.
+assets.boxfront: ./media/mixart/Legion (Japan) (pcenginecd).png
+assets.video: ./media/snap/Legion (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Legion (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Legion (Japan) (pcenginecd).png
+
+
+game: Lemmings
+file: ./Lemmings (Japan) (pcenginecd).chd
+sort-by: Lemmings
+developer: DMA Design Limited
+publisher: Sunsoft
+genre: Puzzle
+release: 1992-11-27
+players: 2
+description:
+	Your task is to rescue the Lemmings across 120 levels of fast-paced puzzling. These creatures simply walk blindly through the world in the hope of reaching safety at the end of the level - unfortunately these levels include steep drops, gaps in the ground, barriers and rivers amongst other hazards.
+	.
+	You are in control not of any individual Lemming, but of a cross-hair, which can be moved over any of the Lemmings. Along the bottom are a selection of functions which can be assigned to a Lemming, including climbing, floating and bashing. You must click to select the appropriate function, then click on the Lemming to activate it. Each level has a different range of skills on offer, a different amount of Lemmings, and a different percentage target in order to progress.
+assets.boxfront: ./media/mixart/Lemmings (Japan) (pcenginecd).png
+assets.video: ./media/snap/Lemmings (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Lemmings (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Lemmings (Japan) (pcenginecd).png
+
+
+game: Mad Stalker: Full Metal Force
+file: ./Mad Stalker - Full Metal Force (Japan) (pcenginecd).chd
+sort-by: Mad Stalker - Full Metal Force
+developer: Fill in Café
+publisher: NEC
+genre: Action
+release: 1994-09-15
+players: 2
+description:
+	Mad Stalker: Full Metal Force is a Japanese beat 'em up video game originally produced by Fill-in-Cafe and published and distributed by FamilySoft for the Sharp X68000. The music was composed by Keishi Yonao.
+assets.boxfront: ./media/mixart/Mad Stalker - Full Metal Force (Japan) (pcenginecd).png
+assets.video: ./media/snap/Mad Stalker - Full Metal Force (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Mad Stalker - Full Metal Force (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Mad Stalker - Full Metal Force (Japan) (pcenginecd).png
+
+
+game: Madou Monogatari I
+file: ./Madou Monogatari I - Honoo no Sotsuenji (Japan) (Translated En) (pcenginecd).chd
+sort-by: Madou Monogatari I - Honoo no Sotsuenji
+developer: Compile
+publisher: NEC
+genre: Role-Playing
+release: 1996-12-13
+players: 1
+description:
+	In this game, you play a young apprentice sorceress named Arle. She studies at a magic school, and is about to take her most important examination: go to the Tower of Satan, defeat the enemies and overcome all the obstacles on the way using her magic power!
+	.
+	Mad? Monogatari I is a role-playing game. Featuring characters from the Puyo Puyo games, it is set in a 3D dungeon which you explore from first-person perspective. Combat takes place on a side-scrolling screen, and is a mixture of turn-based and real-time styles. Enemies attack you even if you wait, but you have time to perform your moves. You should hold down buttons and press direction arrows to execute various magic spells.
+assets.boxfront: ./media/mixart/Madou Monogatari I - Honoo no Sotsuenji (Japan) (Translated En) (pcenginecd).png
+assets.video: ./media/snap/Madou Monogatari I - Honoo no Sotsuenji (Japan) (Translated En) (pcenginecd).mp4
+assets.logo: ./media/wheel/Madou Monogatari I - Honoo no Sotsuenji (Japan) (Translated En) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Madou Monogatari I - Honoo no Sotsuenji (Japan) (Translated En) (pcenginecd).png
+
+
+game: The Manhole
+file: ./Manhole, The (Japan) (pcenginecd).chd
+sort-by: Manhole, The
+developer: Cyan, Inc.
+publisher: Activision
+genre: Adventure
+release: 1991-03-22
+players: 1
+description:
+	Like Alice in Wonderland, you are a child jumping into a magical world filled with fantastical places and peculiar characters. The world can be navigated screen by screen, by clicking the mouse where you want to go. Many objects on each screen can be clicked to find hidden animations and sounds. Exploring the completely open world, you can listen to and have educational conversations with Mr. Rabbit, Mr. Dragon, and others.
+	The Manhole is aimed at children, and focuses on exploration and experimentation. There is no progress to be made, no goal to be reached, and the player can not fail. The entire world is accessible from the start.
+	The original Macintosh version consists of six black-and-white stacks for the Macintosh's HyperCard software. Ports to other systems added color graphics.
+assets.boxfront: ./media/mixart/Manhole, The (Japan) (pcenginecd).png
+assets.video: ./media/snap/Manhole, The (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Manhole, The (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Manhole, The (Japan) (pcenginecd).png
+
+
+game: Metamor Jupiter
+file: ./Metamor Jupiter (Japan) (pcenginecd).chd
+sort-by: Metamor Jupiter
+developer: Flight-Plan Inc.
+publisher: NEC
+genres:
+	Action
+	Shooter
+release: 1993-01-22
+players: 1
+description:
+	The plot of Metamor Jupiter is simple: a biological mutation causes an alien race to spread all over the galaxy. Armed with advanced technology, the aliens sent their machines and robots to face humanity in a cosmic battle. To counter that, the humans draw from the newly discovered crystal energy to deploy a unit of powerful fighter crafts, which can change their shapes in an instant, adapting to every situation.
+	.
+	The player controls one of such crafts, and has to fly and shoot his way through side-scrolling levels populated by regular enemies, bosses, and various types of hazards. Other fighters will accompany the player-controlled machine from time to time, but they usually don't survive the robotic onslaught, and the player character is left to fend for himself.
+	.
+	As the premise implies, the defining feature of the game is the fighter craft's ability to change shapes. The three main variations have two weapons each, which are suited for different situations. For example, one of the forms has vertical fire, but lacks powerful explosives; another can drop bombs, but has a slow forward beam attack, etc. Each of the forms can gather power-ups, which will strengthen the conventional weapons.
+	.
+	Unlike most shooters of this kind, there are no "lives"; instead, the player-controlled  plane has a set amount of hit points, parts of which are depleted when it gets hit. Hit points can be restored by catching power-ups scattered across the levels.
+assets.boxfront: ./media/mixart/Metamor Jupiter (Japan) (pcenginecd).png
+assets.video: ./media/snap/Metamor Jupiter (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Metamor Jupiter (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Metamor Jupiter (Japan) (pcenginecd).png
+
+
+game: Minesweeper
+file: ./Minesweeper (Japan) (pcenginecd).chd
+sort-by: Minesweeper
+developer: Arc Co., Ltd.
+publisher: Pack In Video
+genre: Puzzle
+release: 1992-03-20
+players: 1
+description:
+	Minesweeper is a minesweeping game, just like the one included in every copy of Microsoft Windows since ancient times. On a grid, the player clicks in a cell and hopes that it is not occupied with a mine. If it isn't, that cell is filled with a number, which indicates how many mines there are in adjacent cells. Using logical thinking, looking at the relations between different number cells, the player can conclude which cells contain a mine and mark them as such. Once all cells are revealed, the player progresses to the next minefield.
+	Three main game modes are available, differentiated by the size of the minefield: 9x7, 12x12 and 18x14. Clearing a minefield takes the player to another one of the same size, but with more bombs to clear.
+	A second mode is a mission mode ("voyage mode" in the PC Engine version), where the player is presented with 10 minefields each in 7 locations around the world. The first ones are very small, only 4x4, growing larger and larger from then on. What is different about the mission mode is that a few cells in the minefield are revealed from the start, putting the player's ability of deduction at test. The editor mode allows players to construct a minefield of their own, by inputting parameters of size and amount of bombs.
+	The Game Boy version can also be played by two players via a link cable. The PC Engine (TurboGrafx CD) version contains an additional mode entitled "Cook's Quest", in which the player has to help a cook to escape from falling boulders in a cave, represented by mines on a familiar minesweeper field.
+assets.boxfront: ./media/mixart/Minesweeper (Japan) (pcenginecd).png
+assets.video: ./media/snap/Minesweeper (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Minesweeper (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Minesweeper (Japan) (pcenginecd).png
+
+
+game: Motoroader MC
+file: ./Motoroader MC (Japan) (pcenginecd).chd
+sort-by: Motoroader MC
+developer: NCS Corporation
+publisher: Masaya Games
+genre: Racing
+release: 1989-02-23
+players: 4
+description:
+	Motoroader MC is, like its predecessor, an overhead racing game with car combat. Gameplay mechanics, however, are different: players can only control regular-looking cars, which are presented as small sprites. Each car is equipped with two types of firearms, which can be used against opponents to win the race. Every course only occupies one screen, and the player has to complete laps faster than AI-controlled cars or race against time. Multiplayer (for two or four players) is also available.
+	.
+	Time attack mode allows the player to select any course from twenty-five available ones, thematically grouped in five categories: Circuit (resembling racing tracks), City (urban locations), Nature (field, beach, desert, etc.), Märchen (colorful fairy tale-like courses), and Special (unorthodox designs, e.g. a giant ape overlooking a road). Courses usually include various hazards that slow down or trap cars, as well as turbo fields that speed them up. Some courses also have entrances and exits, which teleport cars to another location on the screen.
+assets.boxfront: ./media/mixart/Motoroader MC (Japan) (pcenginecd).png
+assets.video: ./media/snap/Motoroader MC (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Motoroader MC (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Motoroader MC (Japan) (pcenginecd).png
+
+
+game: Motteke Tamago
+file: ./Motteke Tamago (Japan) (Translated En) (pcenginecd).chd
+sort-by: Motteke Tamago
+developer: Naxat Soft
+publisher: Tokuma Shoten
+genre: Puzzle
+release: 1997-04-16
+players: 2
+description:
+	Motteke Tamago was included in the second volume of the Super PC Engine Fan Deluxe magazine. It is an action game similar in concept to Bomberman. The game consists of three "worlds", each with ten screens; on every screen, four ducks are competing against each other in collecting eggs and delivering their babies home. The ducks can be controlled by human players or by computer AI. Eggs are being dropped into the maze-like stage; the goal is to collect as many of them as possible. Once collected, an egg follows the duck, and after a while a baby would hatch and return home safely.
+	.
+	Each duck tries to sabotage the work of other ducks by placing fried eggs on their paths. In addition, various hazards and enemies keep appearing, trying to impede the ducks' progress. Ducks can be knocked down, paralyzed, and robbed of their eggs.
+assets.boxfront: ./media/mixart/Motteke Tamago (Japan) (Translated En) (pcenginecd).png
+assets.video: ./media/snap/Motteke Tamago (Japan) (Translated En) (pcenginecd).mp4
+assets.logo: ./media/wheel/Motteke Tamago (Japan) (Translated En) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Motteke Tamago (Japan) (Translated En) (pcenginecd).png
+
+
+game: Mugen Senshi Valis: The Legend of A Fantasm Soldier
+file: ./Mugen Senshi Valis - The Legend of a Fantasm Soldier (Japan) (pcenginecd).chd
+sort-by: Mugen Senshi Valis - The Legend of a Fantasm Soldier
+developer: Riot
+publisher: Telenet
+genres:
+	Action
+	Platform
+release: 1992-03-19
+players: 1
+description:
+	Yuko Ahso is an ordinary Japanese teenager with an ordinary life - until one day she is attacked by a monster on the street. Out of nowhere, a sword appears in her hands. She fights the monsters who have suddenly invaded the city, and is summoned to the parallel world known as Vecanti, which is ruled by a cruel tyrant named Rogles, whose actions disrupt the balance of the the worlds. Wielding the legendary Valis sword, Yuko must defeat Rogles and restore the balance.
+	.
+	Valis has the same story and basic genre (platform action) as the  original first game in the  series; however, it is a different game with different locations, regular enemies and bosses, new cutscenes, etc.  Defeating the numerous enemies populating the game world requires precise usage of jumping and ducking abilities, and attack timing. Yuko can jump very high and attack while jumping. Various power-ups are scattered through the game, many of which enhance the performance of Yuko's sword. Acting as a melee weapon in the beginning, it can be customized with power-ups and turn into a medium-range weapon, firing shots at the enemies - with proper power-ups, also in different directions. Boss enemies typically have different attack patterns and require different strategies to defeat them.
+assets.boxfront: ./media/mixart/Mugen Senshi Valis - The Legend of a Fantasm Soldier (Japan) (pcenginecd).png
+assets.video: ./media/snap/Mugen Senshi Valis - The Legend of a Fantasm Soldier (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Mugen Senshi Valis - The Legend of a Fantasm Soldier (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Mugen Senshi Valis - The Legend of a Fantasm Soldier (Japan) (pcenginecd).png
+
+
+game: Mystic Formula
+file: ./Mystic Formula (Japan) (pcenginecd).chd
+sort-by: Mystic Formula
+developer: Micro Cabin Corp
+publisher: Micro Cabin Corp
+genre: Shooter
+release: 1993-07-23
+players: 2
+description:
+	In a world where advanced technology and magic co-exist, the Magic Empire controls the vast arid wastelands and the dwellings of mythical creatures. A group of four treasure hunters come across an announcement promising a reward of one million credits to whoever would recover a mysterious purple stone with the engraving of the Empire's crest on it. The four find the artifact relatively quickly, but it is stolen from them by another group with an agenda of their own. Now the heroes must bring the stone back while dealing with the dangerous foes on their way.
+	Mystic Formula is a top-down shooter. The player navigates the protagonist through hostile environments, shooting at regular enemies and bosses, and avoiding their attacks. The player can choose to control any of the four treasure hunters: a balanced lead character armed with a laser pistol; an elf who shoots fireballs from her staff; an agile female thief; and a sturdy, slow, yet powerful robot. All the characters use ranged attacks that can be upgraded with power-ups. In addition, another type of a power-up brings forth one of the characters from the group to aid the player in combat, controlled by the AI. Two-player mode is available as well.
+assets.boxfront: ./media/mixart/Mystic Formula (Japan) (pcenginecd).png
+assets.video: ./media/snap/Mystic Formula (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Mystic Formula (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Mystic Formula (Japan) (pcenginecd).png
+
+
+game: Nekketsu Koukou Dodgeball-bu CD: Soccer-hen
+file: ./Nekketsu Koukou Dodgeball-bu CD - Soccer-hen (Japan) (pcenginecd).chd
+sort-by: Nekketsu Koukou Dodgeball-bu CD - Soccer-hen
+developer: Naxat Soft
+publisher: Technos Japan Corp.
+genre: Sports
+release: 1991-12-20
+players: 4
+description:
+	While Kunio and Shinichi were practicing dodge ball, soccer manager Misako approached the two on the court. "Please! Instead of dodgeball, join me and play soccer in the national convention!"
+	Nekketsu High Soccer Club has come down with food poisoning, and Kunio must lead his dodgeball team into the soccer competition and go for the goal! Only through winning the championship can Kunio convince his whole team to join him.
+	Nekketsu Koukou Dodgeball Bu: CD Soccer Hen presents the classic soccer game with crystal clear sound and high resolution graphics like never before seen in the series!
+assets.boxfront: ./media/mixart/Nekketsu Koukou Dodgeball-bu CD - Soccer-hen (Japan) (pcenginecd).png
+assets.video: ./media/snap/Nekketsu Koukou Dodgeball-bu CD - Soccer-hen (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Nekketsu Koukou Dodgeball-bu CD - Soccer-hen (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Nekketsu Koukou Dodgeball-bu CD - Soccer-hen (Japan) (pcenginecd).png
+
+
+game: Nexzr
+file: ./NEXZR (Japan) (pcenginecd).chd
+sort-by: NEXZR
+developer: Inter State
+publisher: Naxat Soft
+genre: Shooter
+release: 1992-12-11
+players: 1
+description:
+	In the year 2012 an alien armada attacked the Earth. Two young pilots were in the midst of a battle, and one of them, a lovely young woman, was killed. Three years later, the surviving pilot finally got a chance to avenge her death. Navigating a powerful new fighter ship named "Slasher", the pilot ventured into space, ready to bring destruction to those who took so much away from him.
+	.
+	Nexzr is a vertically scrolling shoot-em-up similar to Super Star Soldier. The player-controlled spaceship starts with a simple vulcan gun that can only shoot straight. Various power-ups can either enhance the strength of this gun, replace it with a laser weapon, or add a secondary weapon (homing fire, thin spreading laser attacks, etc.), which is activated automatically. Mid- and end-level bosses are encountered on nearly every stage. Additional lives can be collected, but the player always restarts from the beginning of the stage when his fighter craft is destroyed.
+assets.boxfront: ./media/mixart/NEXZR (Japan) (pcenginecd).png
+assets.video: ./media/snap/NEXZR (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/NEXZR (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/NEXZR (Japan) (pcenginecd).png
+
+
+game: Pop 'n Magic
+file: ./Pop'n Magic (Japan) (pcenginecd).chd
+sort-by: Pop'n Magic
+developer: Riot
+publisher: Telenet
+genres:
+	Action
+	Platform
+release: 1992-07-24
+players: 2
+description:
+	A static screen action game in the style of Bubble Bobble or Don Doko Don, Pop 'n Magic allows you to trap enemies by firing your wand at them, then pick them up and throw them across the screen to destroy them. The bubbles they are trapped in are specific colours and care must be taken not to throw two of the same colour together as this will release the (now quite upset) creatures inside.
+assets.boxfront: ./media/mixart/Pop'n Magic (Japan) (pcenginecd).png
+assets.video: ./media/snap/Pop'n Magic (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Pop'n Magic (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Pop'n Magic (Japan) (pcenginecd).png
+
+
+game: Populous: The Promised Lands
+file: ./Populous - The Promised Lands (Japan) (pcenginecd).chd
+sort-by: Populous - The Promised Lands
+developer: Bullfrog
+publisher: Electronic Arts
+genre: Strategy
+release: 1991-10-25
+players: 1
+description:
+	This Data Disk for Populous adds five new landscape types: Wild West, Silly Land, Block Land, RÃ©volution FranÃ§aise and Bit Plains. The types can be used to create new maps in Paint Map mode and the disk also has 500 new maps for Conquest mode.
+assets.boxfront: ./media/mixart/Populous - The Promised Lands (Japan) (pcenginecd).png
+assets.video: ./media/snap/Populous - The Promised Lands (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Populous - The Promised Lands (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Populous - The Promised Lands (Japan) (pcenginecd).png
+
+
+game: Psychic Storm
+file: ./Psychic Storm (Japan) (pcenginecd).chd
+sort-by: Psychic Storm
+developer: AlfaSystem
+publisher: Shin-Nihon Laser Soft
+genre: Shooter
+release: 1992-03-19
+players: 2
+description:
+	Psychic Storm is a vertically scrolling shoot-em-up in which the player takes the role of four characters who must protect Neo Hong Kong City from an assault by vicious insectoid aliens. The player can select any of the four characters before each stage. The characters are distinguished by the unique attacks of their ships: Alex uses a vulcan gun, Charr has short-ranged "psychic" beam, Joe has a slow, yet powerful Hell Flame attack, and Nastasia uses ion laser. Each character can also acquire additional weapons by picking regular power-ups.
+	.
+	The game's stand-out feature, however, is its transformation mode. Each of the characters can transform to a larger and much more powerful biomechanical insect-like ship. The transformation can be performed at any time as long as the correspondent bar, which refills itself over the time, is not empty. The bar is reduced rapidly when the character is transformed; special power-ups can be collected from vanquished enemies to extend it temporarily, but once it is depleted the character transforms back to his or her normal form.
+assets.boxfront: ./media/mixart/Psychic Storm (Japan) (pcenginecd).png
+assets.video: ./media/snap/Psychic Storm (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Psychic Storm (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Psychic Storm (Japan) (pcenginecd).png
+
+
+game: Puyo Puyo CD
+file: ./Puyo Puyo CD (Japan) (pcenginecd).chd
+sort-by: Puyo Puyo CD
+developer: Compile
+publisher: NEC
+genre: Puzzle
+release: 1994-04-22
+players: 2
+description:
+	Classic Tetris-style puzzle game where you compete against opponents by grouping together coloured blobs that drop down from the top of the screen.
+assets.boxfront: ./media/mixart/Puyo Puyo CD (Japan) (pcenginecd).png
+assets.video: ./media/snap/Puyo Puyo CD (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Puyo Puyo CD (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Puyo Puyo CD (Japan) (pcenginecd).png
+
+
+game: Puyo Puyo CD Tsuu
+file: ./Puyo Puyo CD Tsuu (Japan) (pcenginecd).chd
+sort-by: Puyo Puyo CD Tsuu
+developer: Compile
+publisher: NEC
+genre: Puzzle
+release: 1996-03-29
+players: 2
+description:
+	The follow-up to Puyo Puyo is, like its predecessor, a falling block game in which the goal is to combine four or more blocks (Puyos) of the same color, which then disappear. The remaining Puyos will then fall down and can produce combos which can cause special blocks (Nuisance Puyos, that can only be destroyed by eliminating adjacent Puyos) to appear on the enemy's field.
+	.
+	This game includes a story mode, in which Arle (the main character) fights against computer enemies, a vs player mode, a four player mode (SNES only), and an endless mode (SNES only).
+assets.boxfront: ./media/mixart/Puyo Puyo CD Tsuu (Japan) (pcenginecd).png
+assets.video: ./media/snap/Puyo Puyo CD Tsuu (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Puyo Puyo CD Tsuu (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Puyo Puyo CD Tsuu (Japan) (pcenginecd).png
+
+
+game: R-Type Complete CD
+file: ./R-Type Complete CD (Japan) (pcenginecd).chd
+sort-by: R-Type Complete CD
+developer: Irem
+publisher: Irem
+genre: Shooter
+release: 1991-12-20
+players: 1
+description:
+	R-Type Complete CD combines part I and part II of the japanese PC Engine HuCard releases. It also adds remixed music, fully voiced cut scenes, an extra boss fight, and some other minor changes.
+	An alien race called the Bydo attacks humanity without mercy. The prototype space fighter R-9 must stop the Bydo and save the human race.
+assets.boxfront: ./media/mixart/R-Type Complete CD (Japan) (pcenginecd).png
+assets.video: ./media/snap/R-Type Complete CD (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/R-Type Complete CD (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/R-Type Complete CD (Japan) (pcenginecd).png
+
+
+game: Ranma 1-2
+file: ./Ranma 1-2 (Japan) (pcenginecd).chd
+sort-by: Ranma 1-2
+developer: NCS Corporation
+publisher: Masaya Games
+genre: Action
+release: 1990-12-07
+players: 1
+rating: 60%
+description:
+	Based on the popular manga/anime series of the same name, Ranma 1/2 follows the story of an aspiring martial artist who accidentally turns into a young woman by bathing in a cursed spring. He can revert to his natural form by touching hot water; however, contact with cold water will turn him into a girl again. Most of the original manga story is dedicated to semi-comical situations, based on the fact that Ranma is trying to conceal his predicament, which leads to misunderstandings, confusion, and romantic complications in his high school life.
+	.
+	This interpretation of the license follows a part of the initial manga story, starting with the curse and going through Ranma's first conflicts with schoolmates and rival martial artists. The game is mostly structured like a "beat-'em-up" side-scroller, though there are also several boss fights that are more reminiscent of a one-on-one fighting game. The Vs. mode allows the player to recreate these boss fights using different characters.
+	.
+	Ranma's curse becomes a gameplay feature in the game: cold and hot water turn Ranma into a girl and a boy, respectively. Female Ranma is quicker and can jump higher, but her attack and defense are lower. Anime-style cut scenes advance the story between the levels.
+assets.boxfront: ./media/mixart/Ranma 1-2 (Japan) (pcenginecd).png
+assets.video: ./media/snap/Ranma 1-2 (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Ranma 1-2 (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Ranma 1-2 (Japan) (pcenginecd).png
+
+
+game: Ranma 1-2: Datou, Ganso Musabetsu Kakutou-ryuu!
+file: ./Ranma 1-2 - Datou, Ganso Musabetsu Kakutou-ryuu! (Japan) (pcenginecd).chd
+sort-by: Ranma 1-2 - Datou, Ganso Musabetsu Kakutou-ryuu!
+developer: Klon
+publisher: Masaya Games
+genres:
+	Action
+	Fighting
+release: 1992-10-02
+players: 2
+rating: 90%
+description:
+	Like most games based on the  Ranma 1/2 manga and anime series, Dat?, Ganso Musabetsu Kakut?-Ry?! is a fighting game. Unlike the  earlier Ranma 1/2 iteration by the  same company, this game does not follow the main manga/anime story, and does not include any other gameplay elements beside one-on-one fighting. However, the game is still rich on story-telling; fully voiced anime-style cut scenes appear after each battle and serve to put Ranma in various situations and set the stage for battles against familiar character from the manga and anime, such the old pervert Happousai, Mousse, Ryuga, etc.
+	.
+	The Vs. mode allows two-player gameplay; the players can choose any combinations of the characters who appear in the game to test their skills. As Ranma, the player can revert to his female form (this time at will, simply by pressing a button); the female Ranma is more agile but less powerful. The combat system includes characteristic fighting game mechanics, with punches, kicks, jumps, combinations of buttons to execute specific moves, and powerful special attacks, which can be executed after charging the power.
+assets.boxfront: ./media/mixart/Ranma 1-2 - Datou, Ganso Musabetsu Kakutou-ryuu! (Japan) (pcenginecd).png
+assets.video: ./media/snap/Ranma 1-2 - Datou, Ganso Musabetsu Kakutou-ryuu! (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Ranma 1-2 - Datou, Ganso Musabetsu Kakutou-ryuu! (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Ranma 1-2 - Datou, Ganso Musabetsu Kakutou-ryuu! (Japan) (pcenginecd).png
+
+
+game: Rayxanber II
+file: ./Rayxanber II (Japan) (pcenginecd).chd
+sort-by: Rayxanber II
+developer: Datawest
+publisher: Datawest
+genres:
+	Action
+	Shooter
+release: 1991-06-07
+players: 1
+description:
+	The game resembles R-Type, particularly in art style and gameplay. The plot and setting uses the same trope as games like R-Type and Gradius; it concerns an ongoing war between mankind and a race of invading aliens belonging to the Zoul Empire, and the player's primary enemy consists of bioships and enormous organic fortresses.
+assets.boxfront: ./media/mixart/Rayxanber II (Japan) (pcenginecd).png
+assets.video: ./media/snap/Rayxanber II (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Rayxanber II (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Rayxanber II (Japan) (pcenginecd).png
+
+
+game: Rayxanber III
+file: ./Rayxanber III (Japan) (pcenginecd).chd
+sort-by: Rayxanber III
+developer: Datawest
+publisher: Datawest
+genres:
+	Action
+	Shooter
+release: 1992-06-26
+players: 1
+description:
+	Rayxanber II sequel. Absolutely everything has been reviewed for the better, while simultaneously staying true to the style of the previous two games. To start, someone finally fixed the mechanics of the board, so now it really works and is easily controlled. As before, there is a temperature bar, so if it turns red it must cool down before running again, but now it is much easier to regulate the duration of your run without resorting to a turbo button. The level structure and the attack patterns of the enemy are also much more balanced to take into account the use of the board: you are no longer forced to throw yourself headlong into a phalanx of enemies because something is chasing your tail. It has legitimately become a useful tool in your arsenal.
+assets.boxfront: ./media/mixart/Rayxanber III (Japan) (pcenginecd).png
+assets.video: ./media/snap/Rayxanber III (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Rayxanber III (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Rayxanber III (Japan) (pcenginecd).png
+
+
+game: Renny Blaster
+file: ./Renny Blaster (Japan) (pcenginecd).chd
+sort-by: Renny Blaster
+developer: J-Force
+publisher: NEC
+genre: Action
+release: 1995-06-23
+players: 1
+description:
+	Renny Blaster is a beat-em-up in which the player can choose to control either the paranormal private investigator Fujiro Yarai, or a man with a mysterious past and supernatural abilities named Seishiro. The two characters have the same goal: prevent a secret organization of monsters and undead, run by a maniacal vampire, from taking control over Europe. The two characters begin with different initial stages, but continue on the same path afterwards. Seishiro is physically weaker and has a default ranged energy attack; Fujiro fights with regular punches and kicks. Both characters have access to unique elemental attacks that are activated by holding down a button. Most of the stages are straightforward side-scrolling action with boss battles at the end of each; a few areas contain light platforming elements.
+assets.boxfront: ./media/mixart/Renny Blaster (Japan) (pcenginecd).png
+assets.video: ./media/snap/Renny Blaster (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Renny Blaster (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Renny Blaster (Japan) (pcenginecd).png
+
+
+game: Road Spirits
+file: ./Road Spirits (Japan) (pcenginecd).chd
+sort-by: Road Spirits
+developer: Arc Co., Ltd.
+publisher: Pack In Video
+genre: Racing
+release: 1991-03-22
+players: 1
+description:
+	Road Spirits is an arcade-style racing game, similar to  Rad Racer. The player controls a car from an "into the screen" 3rd person perspective, racing through the 17 pseudo-3D courses (named after various geographical locations, e.g. "West Coast" etc.). There are other cars on the road, which can slow down the player-controlled car by colliding with it, but the race is against time rather than against these cars. The player is given a time limit for each course, and an indicator shows how close the car is to the completion. Should the car run out of time, the race is lost, and the player has to replay it before tackling the next one.
+	.
+	The car can be controlled with two buttons only; collisions do not damage the car, but merely make it stop; though the player can change a car model and gear system, no realistic gear-based driving is used in the game. All this contribute to the overall arcade feeling of the races.
+assets.boxfront: ./media/mixart/Road Spirits (Japan) (pcenginecd).png
+assets.video: ./media/snap/Road Spirits (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Road Spirits (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Road Spirits (Japan) (pcenginecd).png
+
+
+game: Ryuuko no Ken
+file: ./Ryuuko no Ken (Japan) (En,Ja,Es) (FACT) (pcenginecd).chd
+sort-by: Ryuuko no Ken
+developer: Hudson
+publisher: Hudson
+genre: Fighting
+release: 1994-03-26
+players: 2
+description:
+	Yuri Sakazaki has been kidnapped! Her big brother Ryo Sakazaki and Robert Garcia, his best friend, go search for her on the streets of South Town. As they go deeper and deeper they will find clues as to who ordered the kidnapping, the Sakazaki family's relation to the mob, and a person from their past.
+	The gameplay differs from most fighting games. In this game, you have a Spirit meter. A Spirit meter is in the game and will decrease as you perform special moves. It can be recharged, but doing so leaves you open to attack. When your health is almost gone, you can perform a secret combination that will unleash a deadly attack on your opponent - provided you have a full Spirit meter.
+	The arcade version doesn't allow you to play as Mr. Big and the elusive Mr. Karate.
+assets.boxfront: ./media/mixart/Ryuuko no Ken (Japan) (En,Ja,Es) (FACT) (pcenginecd).png
+assets.video: ./media/snap/Ryuuko no Ken (Japan) (En,Ja,Es) (FACT) (pcenginecd).mp4
+assets.logo: ./media/wheel/Ryuuko no Ken (Japan) (En,Ja,Es) (FACT) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Ryuuko no Ken (Japan) (En,Ja,Es) (FACT) (pcenginecd).png
+
+
+game: Shadow of the Beast - Mashou no Okite
+file: ./Shadow of the Beast - Mashou no Okite (Japan) (pcenginecd).chd
+sort-by: Shadow of the Beast - Mashou no Okite
+developer: Reflections Interactive Limited
+publisher: Psygnosis
+genre: Action
+release: 1992-03-27
+players: 1
+description:
+	While very young, Aarbron was kidnapped and enslaved by the Priests of the Beast Lord. He grew up on drugs made to destroy his own will and turn him into the Beast Messenger, a powerful creature serving Maletoth, The Beast Lord himself. He did his job, until one day he noticed a man about to be sacrificed in a ritual, his face triggering ancient memories. As the sacrificial knife descended into the man's body, Aarbron recognizes his father's face. As his father dies in the altar, memories of his childhood and tormented past at the hands of the Beast Lord emerged, and as feelings of hate over his captors took over him, he swore revenge and fled the temple, knowing the road to avenge his father and redemption would be hard.
+	.
+	Shadow of the Beast is a side-scrolling platformer. The player has to navigate through several areas filled with enemies and traps, collecting keys and activating triggers than open new areas or give Aarbron the means to overcome a sub-boss. The number of moves the player has at disposal is limited: duck, jump and only two attacks: punch and a flying kick. While most enemies die with just one hit, the player must time each attack accurately. However, there are also traps of objects that cannot be destroyed, and these require the player to jump, duck or move according the sequence. The player has only one life with 12 hit points that can be replenished by collecting some objects hidden in the level (like an off-route location or a under a megalith), which also contributes to the difficulty level.
+assets.boxfront: ./media/mixart/Shadow of the Beast - Mashou no Okite (Japan) (pcenginecd).png
+assets.video: ./media/snap/Shadow of the Beast - Mashou no Okite (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Shadow of the Beast - Mashou no Okite (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Shadow of the Beast - Mashou no Okite (Japan) (pcenginecd).png
+
+
+game: Space Invaders: The Original Game
+file: ./Space Invaders - The Original Game (Japan) (pcenginecd).chd
+sort-by: Space Invaders - The Original Game
+developer: Nec Avenue
+publisher: Taito Corporation
+genre: Shooter
+release: 1995-07-28
+players: 2
+description:
+	This version of Space Invaders is based on the 1994 arcade game Space Invaders DX but lacks the parody mode of that game. What remains is the classic mode that allows the player to choose the type of arcade cabinet (upright, black & white, etc.) as background to the action as well as the versus mode for two players. The versus mode is split-screen, each player trying to survive and eliminate more invaders than the opponent.
+	The Game Boy version has both one- and two-player modes using the usual Game Boy tones (black and grey). However, plugging the cart into a Super Game Boy allows playing the game in all four cabinet types of the SNES version.
+	The PC Engine (TurboGrafx) CD version offers an additional "cosmic versus" mode, where the background is composed of anime-style pictures of girls. They also appear in the "omake mode", which is a single-player variant with the same backgrounds.
+	The WonderSwan version doesn't offer all four cabinet types (only black & white) but keeps the versus mode.
+assets.boxfront: ./media/mixart/Space Invaders - The Original Game (Japan) (pcenginecd).png
+assets.video: ./media/snap/Space Invaders - The Original Game (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Space Invaders - The Original Game (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Space Invaders - The Original Game (Japan) (pcenginecd).png
+
+
+game: Spriggan Mark 2: Re-Terraform Project
+file: ./Spriggan Mark 2 - Re Terraform Project (Japan) (pcenginecd).chd
+sort-by: Spriggan Mark 2 - Re Terraform Project
+developer: Compile
+publisher: Naxat Soft
+genres:
+	Action
+	Shooter
+release: 1992-05-01
+players: 1
+description:
+	Once again get to pilot a mecha in a war between two opposing armies, in Spriggan mark 2: Re-Terraform Project, this time to decide the fate of a distant colony in outer space. As in the first game, other AI-controlled mechas join in the fight and even talk to the protagonist with full voice-overs to advance the plot. The color-coding weapon system of the original is gone, replaced with a standard collectible power-up system. No options are available to watch the player character's back, but it is possible to change the direction the player-controlled mecha faces, allowing the player to deal with threats from behind.
+assets.boxfront: ./media/mixart/Spriggan Mark 2 - Re Terraform Project (Japan) (pcenginecd).png
+assets.video: ./media/snap/Spriggan Mark 2 - Re Terraform Project (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Spriggan Mark 2 - Re Terraform Project (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Spriggan Mark 2 - Re Terraform Project (Japan) (pcenginecd).png
+
+
+game: Star Mobile
+file: ./Star Mobile (Japan) (pcenginecd).chd
+sort-by: Star Mobile
+developer: M.N.M Software
+publisher: Naxat Soft
+genre: Puzzle
+release: 1992-10-02
+players: 2
+description:
+	Star Mobile is a real-time puzzle game. A large scale is displayed on the screen, and stars continuously fall on it from above. The goal is to move the stars horizontally as they are falling in such a way that the weight on the scale is balance. Each stage contains a set amount of stars required for the player to handle. Stars come in different colors that represent their weight. Both right and left side of the scale contain several spots where the stars can land. If there are too many stars on the same spot, they will fall down, greatly decreasing the weight on the side they were in.
+assets.boxfront: ./media/mixart/Star Mobile (Japan) (pcenginecd).png
+assets.video: ./media/snap/Star Mobile (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Star Mobile (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Star Mobile (Japan) (pcenginecd).png
+
+
+game: Startling Odyssey
+file: ./Startling Odyssey (Japan) (pcenginecd).chd
+sort-by: Startling Odyssey
+developer: RayForce Inc.
+publisher: RayForce Inc.
+genre: Role-Playing
+release: 1993-10-22
+players: 1
+description:
+	In Startling Odyssey, the player takes the role of a young boy named Leon. One day, his home villages is attacked by monsters. His best friend is killed, and the most powerful magician of the village is turned into stone and abducted by the monsters' leader. Leon receives the blessing of the village elder and begins his quest to avenge the death of his friend and to defeat the demonic forces that threaten the land.
+	.
+	The game is a rather traditional Japanese RPG, with all the familiar ingredients: Leon (and his companions who later join the party) roams the world map, entering towns and dungeons, buying equipment and items, and engaging randomly appearing enemies in turn-based combat. The battles are viewed from first-person perspective. Characters can use regular attacks as well as magical spells, and the battles can be also set on Auto.
+assets.boxfront: ./media/mixart/Startling Odyssey (Japan) (pcenginecd).png
+assets.video: ./media/snap/Startling Odyssey (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Startling Odyssey (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Startling Odyssey (Japan) (pcenginecd).png
+
+
+game: Startling Odyssey II: Maryuu Sensou
+file: ./Startling Odyssey II - Maryuu Sensou (Japan) (pcenginecd).chd
+sort-by: Startling Odyssey II - Maryuu Sensou
+developer: RayForce Inc.
+publisher: RayForce Inc.
+genre: Role-Playing
+release: 1994-10-21
+players: 1
+description:
+	A mad scientist named Dr. Killbait succeeded in resurrecting one of the eight ancient dragons, endangering the country of Hyneld. The captain of the king's knights, Robin Solford, witnesses the dragon's attack on the castle. His two comrades are killed, and the princess Patricia, Robin's adoptive sister, is nowhere to be seen. Robin is determined to find Patricia and stop Dr. Killbait, and begins to wander around the world, hoping to find friends who will help him on his perilous journey.
+	.
+	Startling Odyssey II: Mary? Sens? is not a sequel, but a prequel to the  first game, Robin Solford being the father of the previous game's hero. The game is set in a predominantly medieval fantasy-themed world with a touch of sci-fi, and plays like a traditional Japanese RPG. The player navigates a party of characters on a top-down overworld, visiting cities and dungeon-like areas. Enemies are encountered randomly. Battles are viewed from isometric perspective, with an "auto" option to speed up combat.
+	.
+	Characters join the party as dictated by the plot; the party will eventually contain four active combatants. Each character has his or her own sets of offensive, supporting, or healing spells, which are learned automatically when the character levels up. The game features full-screen anime-style cutscenes and voice acting during important events.
+assets.boxfront: ./media/mixart/Startling Odyssey II - Maryuu Sensou (Japan) (pcenginecd).png
+assets.video: ./media/snap/Startling Odyssey II - Maryuu Sensou (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Startling Odyssey II - Maryuu Sensou (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Startling Odyssey II - Maryuu Sensou (Japan) (pcenginecd).png
+
+
+game: Steam-Heart's
+file: ./Steam-Heart's (Japan) (pcenginecd).chd
+sort-by: Steam-Heart's
+developer: Technical Group Laboratory, Inc.
+publisher: Technical Group Laboratory, Inc.
+genre: Shooter
+release: 1996-03-22
+players: 1
+description:
+	Steam Heart's is a 2D sci-fi vertically scrolling shoot-em-up with erotic content. The game takes place in the far future, on an alien planet dominated by seven elf-like or catgirl princesses that have fallen under the spell of a unique virus that has driven them mad and threatens to destroy the planet if all the rulers declare all-out war.
+	.
+	Only Blondia Varady (nicknamed "Blow") and his sister Fallandia have been spared from the disease and must pilot their fighter ships in order to penetrate deep into the domain of each princess, destroy their war machines, and administer the antidote. Fortunately for Blow, the antidote has been synthesized into his reproductive organ, so that means there is only one way to inoculate the girls....
+	.
+	The player controls the fighter ship through vertically scrolling stages, trying to destroy every ship that crosses its path and reach the end boss. The ship has a primary weapon that can be constantly upgraded by collecting power-ups, and a secondary slot for all sorts of collectible weapons that can be picked up in mid-air. The game features 2P-cooperative gameplay and cutscenes made of still images that explain the plot and depict the protagonist's encounters with each princess.
+assets.boxfront: ./media/mixart/Steam-Heart's (Japan) (pcenginecd).png
+assets.video: ./media/snap/Steam-Heart's (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Steam-Heart's (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Steam-Heart's (Japan) (pcenginecd).png
+
+
+game: Strider Hiryuu
+file: ./Strider Hiryuu (Japan) (pcenginecd).chd
+sort-by: Strider Hiryuu
+developer: NEC
+publisher: Capcom
+genre: Action
+release: 1994-09-22
+players: 1
+rating: 90%
+description:
+	The year is 2048 AD. In Russia, the evil Grand Master Meio has begun his insane plot to take over the universe. A lone figure drops from a stealth glider into Meio's base. He is Hiryu, Super A-Class Strider. His mission is to defeat the Grand Master and put an end to his plotting once and for all.
+	.
+	Strider lets the protagonist run, jump, perform acrobatics and climb walls and overhangs. He wields a plasma sword, called a Cypher, through five levels fighting robots and guards, with mid- and end-level bosses.
+assets.boxfront: ./media/mixart/Strider Hiryuu (Japan) (pcenginecd).png
+assets.video: ./media/snap/Strider Hiryuu (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Strider Hiryuu (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Strider Hiryuu (Japan) (pcenginecd).png
+
+
+game: Summer Carnival '92: Alzadick
+file: ./Summer Carnival '92 - Alzadick (Japan) (pcenginecd).chd
+sort-by: Summer Carnival '92 - Alzadick
+developer: Naxat Soft
+publisher: Naxat Soft
+genres:
+	Action
+	Shooter
+release: 1992-07-17
+players: 1
+description:
+	Alzadick is a vertically-scrolling sci-fi shoot-em-up designed for Naxat Soft's Summer Carnival of 1992, a game competition similar to Hudson's Caravan Tournament. The game specifically focuses on beating high scores, and as such introduces Score Attack and Time Attack modes, both short segments of shoot-em-up gameplay that challenge players to reach a high score (in case of Time Attack, within a limited amount of time). There is also a story mode split into two episodes (both based on sci-fi-themed futuristic scenarios); however, there is no actual plot development in-game, and the episodes are very short compared to standard-length shooters.
+	Like in most games of the kind, the player controls a spaceship and tries to eliminate or avoid on-screen enemies. Power-ups take the shape of the letters A, B, C, and D; each corresponds to a weapon of specific color and properties (e.g. spreading fire, side fire, etc.), though they are fairly similar to each other in function. A powerful sub-weapon that hits all enemies on screen comes in four variants and can only be used once.
+assets.boxfront: ./media/mixart/Summer Carnival '92 - Alzadick (Japan) (pcenginecd).png
+assets.video: ./media/snap/Summer Carnival '92 - Alzadick (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Summer Carnival '92 - Alzadick (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Summer Carnival '92 - Alzadick (Japan) (pcenginecd).png
+
+
+game: Summer Carnival '93: Nexzr Special
+file: ./Summer Carnival '93 - NEXZR Special (Japan) (pcenginecd).chd
+sort-by: Summer Carnival '93 - NEXZR Special
+developer: Inter State
+publisher: Naxat Soft
+genre: Shooter
+release: 1993-07-23
+players: 1
+description:
+	Released specifically for Naxat Soft's Summer Carnival of 1993, Nexzr Special is a collection of short stages and modes that share their basic gameplay system and visuals with Nexzr. The regular mode introduces familiar regular enemies and a few new bosses. The "Carnival Mode" contains Score Attack and Time Attack modes, both requiring the player to focus on attaining the high score rather than just surviving. For that reason the difficulty in these modes is more forgiving; they allow more continues and have more generously placed power-ups. These modes also offer more destructible objects on the screen, as these specifically serve to increase the score.
+assets.boxfront: ./media/mixart/Summer Carnival '93 - NEXZR Special (Japan) (pcenginecd).png
+assets.video: ./media/snap/Summer Carnival '93 - NEXZR Special (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Summer Carnival '93 - NEXZR Special (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Summer Carnival '93 - NEXZR Special (Japan) (pcenginecd).png
+
+
+game: Super Daisenryaku
+file: ./Super Daisenryaku (Japan) (Translated En) (pcenginecd).chd
+sort-by: Super Daisenryaku
+developer: Systemsoft
+publisher: Micro Cabin Corp.
+genre: Strategy
+release: 1990-04-27
+players: 1
+description:
+	Super Daisenryaku is one of the many titles in SystemSoft's long-running war strategy series. The game mechanics are based on Daisenryaku II, but many of the included maps are unique to this release, including several based on Phantasy Star in Sega's console version. There is no campaign mode, and any of the included maps can be played. Some maps are for two players, some for four, and any map can be played with any combination of human and computer players. The computer versions also feature an editor.
+	.
+	The game is played on a large map made up of hexagonal spaces, each of which consists of one of the included  terrain types. Each player controls a number of units (bought with money), which each take up one space on the grid. The unit types are for the most part based on real-life military equipment from around the time the game was released, what is available to the player depends on the chosen faction. The choices range from single nations, such as China or the USA (the CD port by Microcabin in particular adds a lot of smaller ones, like Sweden and Libya),  to alliances and blocs, for example NATO, which uses a mixture of equipment of it's members.
+	.
+	Different units have different strengths and weaknesses, which affect their performance in combat and their general role on the battlefield. The cheap infantry units for example are not very strong and mobile, but may capture facilities and cities, unlike battle tanks. Terrain also affects the outcome of battles. The goal of each game is to capture the other players' capitals.
+assets.boxfront: ./media/mixart/Super Daisenryaku (Japan) (Translated En) (pcenginecd).png
+assets.video: ./media/snap/Super Daisenryaku (Japan) (Translated En) (pcenginecd).mp4
+assets.logo: ./media/wheel/Super Daisenryaku (Japan) (Translated En) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Super Daisenryaku (Japan) (Translated En) (pcenginecd).png
+
+
+game: Super Darius
+file: ./Super Darius (Japan) (pcenginecd).chd
+sort-by: Super Darius
+developer: Taito
+publisher: NEC
+genre: Shooter
+release: 1990-03-16
+players: 1
+description:
+	Super Darius is a port of Darius for the PC Engine CD-ROM, and the only attempt at an accurate port of the game for many years; it even uses recordings of music and sound effects straight from the arcade PCB! Its other claim to fame is the introduction of all 26 bosses from the original draft for Darius, some of which were earlier seen on promotional material.
+assets.boxfront: ./media/mixart/Super Darius (Japan) (pcenginecd).png
+assets.video: ./media/snap/Super Darius (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Super Darius (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Super Darius (Japan) (pcenginecd).png
+
+
+game: Super Darius II
+file: ./Super Darius II (Japan) (pcenginecd).chd
+sort-by: Super Darius II
+developer: Taito
+publisher: Taito
+genre: Shooter
+release: 1993-12-24
+players: 1
+description:
+	Super Darius II is a updated Darius II released for the TurboGrafx-CD featuring an entirely new set of bosses, major changes to levels, and a fully arranged soundtrack including new songs.
+assets.boxfront: ./media/mixart/Super Darius II (Japan) (pcenginecd).png
+assets.video: ./media/snap/Super Darius II (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Super Darius II (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Super Darius II (Japan) (pcenginecd).png
+
+
+game: Super Raiden
+file: ./Super Raiden (Japan) (pcenginecd).chd
+sort-by: Super Raiden
+developer: Seibu Kaihatsu
+publisher: Hudson
+genre: Shooter
+release: 1992-04-02
+players: 1
+description:
+	A conversion of the classic arcade shoot 'em up, Raiden follows the conventions of the genre with coloured power up pods that give different weapons when collected.
+	Raiden is one of the all-time greats in the annals of shoot 'em up history. Itâ€™s not just the excellent graphics and sounds, but the engaging gameplay that keeps you addicted for ages. Itâ€™s also capable of throwing up some hair-raising moments, and bullet dodging skills are pushed to the extreme
+assets.boxfront: ./media/mixart/Super Raiden (Japan) (pcenginecd).png
+assets.video: ./media/snap/Super Raiden (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Super Raiden (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Super Raiden (Japan) (pcenginecd).png
+
+
+game: Sylphia
+file: ./Sylphia (Japan) (pcenginecd).chd
+sort-by: Sylphia
+developer: Compile
+publisher: Tonkin House
+genre: Shooter
+release: 1993-10-22
+players: 1
+description:
+	Sylphia is set in an environment inspired by the Greek mythology. The heroine of the game was a fearless maiden who tried to protect her home town from the onslaught of monsters. But even her power was no enough, and she was slain... Touched by her sacrifice, the goddess Athena revived her as a flying demi-goddess. Restored to new life, Sylphia can now unleash her wrath upon the monsters and their supporters.
+	.
+	Despite its theme and setting, Sylphia plays like a vertically scrolling shooter. As in most games of this kind, the gameplay consists of shooting down waves of enemies, on the ground and in the skies. Sylphia can use four types of ranged attacks, which roughly correspond to other shooters' traditional weapons: fire blasts, laser, spreading fire, homing missiles. These weapons are displayed as colored orbs and must be collected. Power-ups can be collected for each type of attack. In addition, a devastating special attack can be stored (for one charge) and executed.
+assets.boxfront: ./media/mixart/Sylphia (Japan) (pcenginecd).png
+assets.video: ./media/snap/Sylphia (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Sylphia (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Sylphia (Japan) (pcenginecd).png
+
+
+game: Tenchi o Kurau
+file: ./Tenchi o Kurau (Japan) (pcenginecd).chd
+sort-by: Tenchi o Kurau
+developer: Capcom
+publisher: NEC
+genres:
+	Action
+	Fighting
+release: 1994-06-17
+players: 1
+description:
+	Originating in the arcades, Dynasty Wars is a beat-em-up set during the Three Kingdoms Era of the Chinese history, and is, more specifically, based on the Tenchi o Kurau manga adaptation of the story. The player adopts the identity of an ancient Chinese warrior, and riding on horseback has to eliminate all his opponents, mostly infantry and archers.
+	Four historical characters from the time period can be controlled: Zhang Fei (fights with a halberd), Liu Bei (broadsword), Guan Yu (a Chinese pole weapon known as guan dao), and Zhao Yun (pike); some of the character names are misspelled in translated versions. The characters are distinguished by their health and strength parameters.
+	The game uses a lateral scroll and the player can move in all four directions. A novelty is the attack system: when pressing fire the energy of the attack will load up as the warrior moves his weapon up and backwards, in order to gain momentum. The more the player can keep fire pressed, the more powerful the attack will be. In addition, so-called "tactics" can be used at specific moments; these are powerful area attacks that deplete the protagonist's HP in process and range from summoning an ambush partner and causing rocks slide down slopes.
+	Stages typically culminate in boss battles. Along the way, various power-ups can be collected. Besides treasure that increases the player's score, and food packs that heal the protagonist, there are also yellow and blue orbs, which represent the game's light RPG elements: yellow orbs count as experience points and increase the character's vitality after a stage is over, and blue orbs increase the power of his weapon.
+assets.boxfront: ./media/mixart/Tenchi o Kurau (Japan) (pcenginecd).png
+assets.video: ./media/snap/Tenchi o Kurau (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Tenchi o Kurau (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Tenchi o Kurau (Japan) (pcenginecd).png
+
+
+game: Tengai Makyou: Deden no Kabuki-den
+file: ./Tengai Makyou - Deden no Kabuki-den (Japan) (pcenginecd).chd
+sort-by: Tengai Makyou - Deden no Kabuki-den
+developer: Hudson
+publisher: Hudson
+genres:
+	Action
+	Puzzle
+release: 1993-07-10
+players: 1
+description:
+	Deden no Den is a promotional version of Bomberman '94 with limited distribution. The game was only available through Hudson's newsletter at their Caravan Tournament. It contains only one level of the full game (2 to 5-player modes only), but replaces the titular character with Kabuki Danj?r?, a popular character from Tengai Maky? games. Players control up to five Kabukis in differently-colored outfits.
+assets.boxfront: ./media/mixart/Tengai Makyou - Deden no Kabuki-den (Japan) (pcenginecd).png
+assets.video: ./media/snap/Tengai Makyou - Deden no Kabuki-den (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Tengai Makyou - Deden no Kabuki-den (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Tengai Makyou - Deden no Kabuki-den (Japan) (pcenginecd).png
+
+
+game: Todd's Adventures in Slime World
+file: ./Todd's Adventures in Slime World (Japan) (pcenginecd).chd
+sort-by: Todd's Adventures in Slime World
+developer: Epyx
+publisher: Micro World
+genres:
+	Platform
+	Puzzle
+release: 1992-10-09
+players: 1
+description:
+	While flying your spaceship, you crash land on a planet covered entirely in slime.  You and a friend explore the labyrinthine planet of slime, armed with a water pistol and all manner of gadgets you find along the way in an effort to find your way back out.  The game world is a giant maze with quirky hidden areas and plenty of original layout ideas.  Depending on the game mode, you are either cooperating or competing with your "friend" to find and get to an exit first.  Due to the massive sizes of the slime worlds (about 6 entries to choose from), games often take several hours to complete.
+	.
+	The basis of the game is exploration, with varying game modes further focusing on competition, puzzle solving, speed, exploration, or cooperation.
+assets.boxfront: ./media/mixart/Todd's Adventures in Slime World (Japan) (pcenginecd).png
+assets.video: ./media/snap/Todd's Adventures in Slime World (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Todd's Adventures in Slime World (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Todd's Adventures in Slime World (Japan) (pcenginecd).png
+
+
+game: Valis IV
+file: ./Valis IV (Japan) (pcenginecd).chd
+sort-by: Valis IV
+developer: Shin-Nihon Laser Soft
+publisher: Shin-Nihon Laser Soft
+genres:
+	Action
+	Platform
+release: 1991-08-23
+players: 1
+description:
+	King Asfal from the Dark World had a son named Galgear, who inherited a magic ring from him and grew insane as a result. The prince was imprisoned, but managed to break free, kidnap Valna, the queen of Vecanti, and install himself as the Dream Land's new ruler. Cham, the leader of the resistance against Galgear, hears the voice of Yuko, the former Valis soldier who has now become a goddess, telling her that one of the resistance members, a girl named Lena, is the heir to the Valis sword. Lena and her sister Amu decide to rescue Valna and find a way to stop Galgear.
+	Like its predecessors, Valis IV is an action platformer. It is similar to the previous game in allowing the player to control three different characters: Lena, Amu, and Asfal. Each of the characters wields a unique weapon (Valis sword for Lena, boomerang for Amu, and lance trident for Asfal) and has access to their own elemental spells (thunder for Lena, fire for Amu, ice for Asfal). Each one also has a special ability: Lena can slide through narrow passages, Amu can double-jump, and Asfal is immune to certain traps. Along with recovery and spell-enhancing (up to three levels) items, characters can also acquire special spheres that increase the overall count of their hit- and magic points.
+assets.boxfront: ./media/mixart/Valis IV (Japan) (pcenginecd).png
+assets.video: ./media/snap/Valis IV (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Valis IV (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Valis IV (Japan) (pcenginecd).png
+
+
+game: Vasteel 2
+file: ./Vasteel 2 (Japan) (pcenginecd).chd
+sort-by: Vasteel 2
+developer: HuneX Co., Ltd.
+publisher: Human
+genre: Strategy
+release: 1994-07-08
+players: 1
+description:
+	Vasteel 2 is formally a sequel to  Vasteel; it is also set in the eponymous fictional, futuristic solar system and deals primarily with strategic battles between robots. However, its story is not directly connected with that of the predecessor. The main hero is a young boy named Voice Knuckles, who enjoys a peaceful life with his mother and his girlfriend Diggy. But the cruel Emperor Agares attacks his planet and destroys Voice's home, killing his mother in the process. The boy swears revenge. Aided by his girlfriend and his friends, he assembles a rebel army from fighters who navigate giant robots, and is determined to defeat Agares at all costs.
+	.
+	The game is more story-heavy than its predecessor, and has more clearly pronounced anime/manga aesthetics. Animated cut scenes occur between the missions and advance the story. Even during the large strategic battles, characters would often engage in dialogue, and scripted events might occur.
+	.
+	The gameplay also underwent some changes. Vasteel 2 is, like its predecessor, a hex-based, turn-based strategy game with robotic combat; however, the action sequences are gone, and the battles now proceed automatically, as in most games of this genre. Robot production and financial management were also simplified or removed. However, the player can choose to use various types of weapons before engaging an enemy in combat. For example, robots can use melee attacks, bipedal tanks can use different laser beams, etc.
+assets.boxfront: ./media/mixart/Vasteel 2 (Japan) (pcenginecd).png
+assets.video: ./media/snap/Vasteel 2 (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Vasteel 2 (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Vasteel 2 (Japan) (pcenginecd).png
+
+
+game: Wizardry I, II
+file: ./Wizardry I, II (Japan) (pcenginecd).chd
+sort-by: Wizardry I, II
+developer: Sir-tech
+publisher: Naxat Soft
+genre: Role-Playing
+release: 1993-07-23
+players: 1
+description:
+	Wizardry I?II contains the first two installments of the Wizardry series:  Proving Grounds of the Mad Overlord and Knight of Diamond. Both games were ported to the PC Engine (TurboGrafx) CD console with various enhancements, unreleased separately. In fact, the two games are merged into one, as the player is able to play through both of them continuously directly from the main menu.
+	.
+	Though the game(s) are rather faithful in gameplay and graphical design to the original computer versions, the enhancements are significant enough to consider this release a remake. Similarly to the NES / Famicom version, the dungeons have simple graphics, unlike the computer originals with their vector lines. Enemy sprites are also more detailed and occupy a larger portion of the screen.
+	.
+	A pre-made party of six is available to the player right at the beginning, consisting of characters with generic names ("Fighter", "Samurai", etc.); creating own characters (unlike in the modified PC Engine CD version of  Might and Magic), however, remains possible. Dungeon navigation is accompanied by orchestrated CD audio music in this version. The battle music is in PSG format.
+assets.boxfront: ./media/mixart/Wizardry I, II (Japan) (pcenginecd).png
+assets.video: ./media/snap/Wizardry I, II (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Wizardry I, II (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Wizardry I, II (Japan) (pcenginecd).png
+
+
+game: Wizardry III, IV
+file: ./Wizardry III, IV (Japan) (pcenginecd).chd
+sort-by: Wizardry III, IV
+developer: Sir-tech
+publisher: Naxat Soft
+genre: Role-Playing
+release: 1994-03-04
+players: 1
+description:
+	Wizardry III?IV contains two role-playing games from the Wizardry series: Legacy of Llylgamyn and The Return of Werdna. Both games were ported to the PC Engine (TurboGrafx) CD console with various enhancements, unreleased separately. The player automatically starts playing Legacy of Llylgamyn; playing The Return of Werdna can be accessed via "Utility" option in the town menu. Though the game(s) are rather faithful in gameplay and graphical design to the original computer versions, the enhancements are significant enough to consider this a remake.
+	.
+	Unlike the computer originals with their vector lines, the dungeons have simple graphics now. Enemy sprites are also drawn in a more detailed fashion. A pre-made party of six is available to the player right at the beginning, consisting of characters with generic names ("Fighter", "Samurai", etc.); creating own characters (unlike in the modified PC Engine CD version of Might and Magic), however, remains possible. Naturally, in The Return of Werdna the player controls Werdna himself and his summoned monsters. Another notable change is the inclusion of orchestrated CD audio music for dungeon navigation and (optionally) for battle music.
+assets.boxfront: ./media/mixart/Wizardry III, IV (Japan) (pcenginecd).png
+assets.video: ./media/snap/Wizardry III, IV (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Wizardry III, IV (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Wizardry III, IV (Japan) (pcenginecd).png
+
+
+game: Wonder Boy III: Monster Lair
+file: ./Wonder Boy III - Monster Lair (Japan) (Rev 4) (pcenginecd).chd
+sort-by: Wonder Boy III - Monster Lair
+developer: Alfa System
+publisher: Hudson
+genre: Adventure
+release: 1990-01-01
+players: 2
+description:
+	Feeling more like the first Wonder Boy than the second, Monster Lair is a fast-paced auto scrolling platform game. The levels are split into two stages, the first being a platform stage, the second a shoot 'em up stage which ends in a boss. During the game your energy counts down, so you must keep picking up fruit to replenish yourself. There are a variety of weapons to collect - lasers, spread shots, spinning shields and so on, but these are also on a timer and do not last long, so weapon switching is frequent to avoid being left with your basic short range sword shot. The game is single or two player simultaneous.
+assets.boxfront: ./media/mixart/Wonder Boy III - Monster Lair (Japan) (Rev 4) (pcenginecd).png
+assets.video: ./media/snap/Wonder Boy III - Monster Lair (Japan) (Rev 4) (pcenginecd).mp4
+assets.logo: ./media/wheel/Wonder Boy III - Monster Lair (Japan) (Rev 4) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Wonder Boy III - Monster Lair (Japan) (Rev 4) (pcenginecd).png
+
+
+game: World Heroes 2
+file: ./World Heroes 2 (Japan) (pcenginecd).chd
+sort-by: World Heroes 2
+developer: ADK
+publisher: Hudson
+genre: Fighting
+release: 1994-06-04
+players: 2
+description:
+	The time-traveling tournament fighters are back! The original eight characters from the previous game return, along with six new characters hand-picked from several different eras and locations all through time. Who or what is behind this new tournament? In order to find that out, the strongest fighter must defeat all the opponents, win the title, and face the one who has all the answers.
+	.
+	The second World Heroes game features new stages and music, as well as improved animation and graphics. Fighters can now reflect projectile moves at their opponents, and reverse normal throws if the player's timing is right. The original game's Death Match mode is also back, but with a new feature - the life bar will increase or decrease as the fighter inflicts or receives damage. If the player manages to get his fighter's life bar to 100%, the enemy will lose.
+assets.boxfront: ./media/mixart/World Heroes 2 (Japan) (pcenginecd).png
+assets.video: ./media/snap/World Heroes 2 (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/World Heroes 2 (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/World Heroes 2 (Japan) (pcenginecd).png
+assets.background: ./media/background/World Heroes 2 (Japan) (pcenginecd).jpg
+
+
+game: Xak III: The Eternal Recurrence
+file: ./Xak III - The Eternal Recurrence (Japan) (Translated En) (pcenginecd).chd
+sort-by: Xak III - The Eternal Recurrence
+developer: Micro Cabin Corp.
+publisher: NEC
+genre: Role-Playing
+release: 1994-09-30
+players: 1
+description:
+	The great hero Latok, the descendant of the war god Duel, has returned to his hometown Fearless, where he lives peacefully with his mother. But one day, a messenger brings terrible news: the castle of Farland was attacked, the king, the princess, and countless soldiers brutally slain. Zomu Dizae, the third and the final demon commander of the dark world Zekisis (Latok has defeated the other two, Badu and Gospel), has arrived. He is aided by the treacherous Necromancer, who turned the soldiers of Farland into monsters. Will Latok be able to defeat the evil once again?
+	Xak III: The Eternal Recurrence is an action RPG, similar in gameplay style to its  predecessors, but also incorporating some elements first introduced in  Tower of Gazel, such as the ability to jump and having companions (although this feature is much more limited here). Jumping ability is crucial in many cases, as there are obstacles that can only be avoided by jumping over them. Latok starts at level 50, but still can gain experience points and become stronger. A new (and very useful) feature is hit points restoration, which occurs when Latok is standing still. To counter that, enemies can re-spawn, which means that there aren't many completely safe areas in the game.
+assets.boxfront: ./media/mixart/Xak III - The Eternal Recurrence (Japan) (Translated En) (pcenginecd).png
+assets.video: ./media/snap/Xak III - The Eternal Recurrence (Japan) (Translated En) (pcenginecd).mp4
+assets.logo: ./media/wheel/Xak III - The Eternal Recurrence (Japan) (Translated En) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Xak III - The Eternal Recurrence (Japan) (Translated En) (pcenginecd).png
+
+
+game: Ys IV: The Dawn of Ys
+file: ./Ys IV - The Dawn of Ys (Japan) (Translated En) (pcenginecd).chd
+sort-by: Ys IV - The Dawn of Ys
+developer: Hudson
+publisher: Hudson
+genres:
+	Action
+	Role-Playing
+release: 1993-12-22
+players: 1
+description:
+	The Dawn of Ys is one of two games released under the title of Ys IV, the other being Tonkin House's Ys IV: Mask of the Sun. The two games share the same basic story, but have many differences regarding concrete events, locations, gameplay details, etc. The events of the game take place a short while after those described in Ys II, and before the events of Ys III: Wanderers from Ys.
+	.
+	As the game begins, Adol and his friend return to the town of Minea, where the first game began. The evil Lord Darm has been defeated, and it's time to relax and spend some time with friends - but not for long. A new evil is rising, and Adol decides to set sail for the overseas land of Celceta to investigate these occurrences.
+	.
+	Ys IV returns to the style of play used in the first and second games. The gameplay area is viewed from a top-down perspective, and the player attacks enemies by running into them to cause damage. Combat is slightly more sophisticated than in the first two games, since Adol can now move in eight directions, and attacking enemies diagonally or from the sides is more efficient than bumping into them headstrong. Adol gains experience from defeating enemies, which serves to raise his attack and defense power, like in the previous games. He can equip various swords, armor, shields, and rings to enhance his attributes. The magic system introduced in Ys II is also brought back for this game.
+assets.boxfront: ./media/mixart/Ys IV - The Dawn of Ys (Japan) (Translated En) (pcenginecd).png
+assets.video: ./media/snap/Ys IV - The Dawn of Ys (Japan) (Translated En) (pcenginecd).mp4
+assets.logo: ./media/wheel/Ys IV - The Dawn of Ys (Japan) (Translated En) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Ys IV - The Dawn of Ys (Japan) (Translated En) (pcenginecd).png
+
+
+game: Yuu Yuu Hakusho: Yami Shoubu!! Ankoku Bujutsu-kai
+file: ./Yuu Yuu Hakusho - Yami Shoubu!! Ankoku Bujutsu-kai (Japan) (pcenginecd).chd
+sort-by: Yuu Yuu Hakusho - Yami Shoubu!! Ankoku Bujutsu-kai
+developer: Arc System Works Co., Ltd.
+publisher: Banpresto
+genre: Shooter
+release: 1993-09-30
+players: 1
+description:
+	Ankoku Bujutsukai is based on the manga Y? Y? Hakusho, which tells the story of a young delinquent named Yusuke Urameshi who dies and becomes reincarnated as a reward for a good deed he committed, further serving as an "underworld detective" and solving demon-related mysteries. This adaptation of the manga follows the "Dark Tournament" story arc, where members of Yusuke's team confront the powerful demon Toguro.
+	.
+	Despite its premise, which is reminiscent of a versus fighting game, Ankoku Bujutsukai is an arcade-style shooter. The player selects one of the five characters (Yusuke, Hiei, Kurama, Kuwabara or Genkai), and is then taken to a series of one-on-one shoot-outs in a pre-determined order. The enemy is viewed from a first-person perspective, and the player moves a cursor to aim and shoot. The gameplay system is fairly simple, allowing the player to execute three types of attacks: regular shots, charged shots, and special attacks of limited quantity. Points are received for winning fights and can be used to raise the characters' hit points, speed, or number of special moves.
+assets.boxfront: ./media/mixart/Yuu Yuu Hakusho - Yami Shoubu!! Ankoku Bujutsu-kai (Japan) (pcenginecd).png
+assets.video: ./media/snap/Yuu Yuu Hakusho - Yami Shoubu!! Ankoku Bujutsu-kai (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Yuu Yuu Hakusho - Yami Shoubu!! Ankoku Bujutsu-kai (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Yuu Yuu Hakusho - Yami Shoubu!! Ankoku Bujutsu-kai (Japan) (pcenginecd).png
+
+
+game: Zero 4 Champ II
+file: ./Zero 4 Champ II (Japan) (pcenginecd).chd
+sort-by: Zero 4 Champ II
+developer: Media Rings
+publisher: Media Rings
+genre: Racing
+release: 1993-03-05
+players: 1
+description:
+	Zero4 Champ II is a sequel to Zero4 Champ. This time, a young Japanese street racer has been defeated by an American who claims that Japan's level is not up to par. His feelings hurt, the youth ventures to the United States, trying to earn enough money and participate in races to defend his national pride.
+	.
+	The game is very similar to its predecessor in concept, but offers additional options in the story mode. Part-time jobs now include delivery assignments that play like overhead racing games, as well as tending to dogs of various breeds for money. The security guard assignment plays like a mini-RPG, complete with turn-based combat, experience points, and levels. In addition, it is possible to visit racing tracks and bet money on participants. The versus mode allows players to choose between three courses to compete in, racing against each other (in a top-down mode) or computer AI (first-person).
+assets.boxfront: ./media/mixart/Zero 4 Champ II (Japan) (pcenginecd).png
+assets.video: ./media/snap/Zero 4 Champ II (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Zero 4 Champ II (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Zero 4 Champ II (Japan) (pcenginecd).png
+
+
+game: Zero Wing
+file: ./Zero Wing (Japan) (pcenginecd).chd
+sort-by: Zero Wing
+developer: Naxat Soft
+publisher: Toaplan
+genre: Shooter
+release: 1992-09-18
+players: 1
+description:
+	Zero Wing is an horizontal shooter game where the player is in control of a ZIG, an escape pod released after its main ship was attacked and destroyed by the evil cyborg CATS, bent on taking over the world.
+	.
+	Like most games in the genre, there are three color-coded weapons: red (scatter), green (homing) and blue (lasers). Each weapon has three levels of power, and to obtain those, similar upgrades must be collected sequentially. However, what makes the game unique is the ability to use a traction beam to trap an enemy and then throw him against his peers, destroying them.
+	.
+	The game (more precisely, the European PAL version of it) is known for being the origin of the grammatically incorrect phrase in the English translation, All your base are belong to us, which has since become an internet phenomenon.
+assets.boxfront: ./media/mixart/Zero Wing (Japan) (pcenginecd).png
+assets.video: ./media/snap/Zero Wing (Japan) (pcenginecd).mp4
+assets.logo: ./media/wheel/Zero Wing (Japan) (pcenginecd).png
+assets.screenshot: ./media/screenshot/Zero Wing (Japan) (pcenginecd).png

@@ -1,0 +1,101 @@
+game: 1941: Counter Attack
+file: ./1941 - Counter Attack (Japan).zip
+sort-by: 1941 - Counter Attack
+developer: Capcom
+publisher: Capcom
+genre: Shoot'em Up
+release: 1991-08-23
+players: 2
+rating: 75%
+description:
+	The SuperGrafx port of Capcom's hit arcade game. The goal is to shoot down enemy airplanes and collect weapon power-ups (POW). The game uses a vitality system instead of life system in which if the player is hit, it loses one point of vitality and the player is destroyed if hit with 0 vitality then the player is given the option to continue. Lightning attacks can be used by pressing the B button which sacrifices a portion of life energy. Player 1 flies the P-38 Lightning and Player 2 the new Mosquito Mk IV. The game shifts from the original Pacific Front setting with that of the Western Front, in the north Atlantic Ocean.
+	The game consists of six levels and was the first in the series to introduce a +1 to the high score when Continues are used.
+assets.boxfront: ./media/mixart/1941 - Counter Attack (Japan).png
+assets.video: ./media/snap/1941 - Counter Attack (Japan).mp4
+assets.logo: ./media/wheel/1941 - Counter Attack (Japan).png
+assets.screenshot: ./media/screenshot/1941 - Counter Attack (Japan).png
+assets.background: ./media/background/1941 - Counter Attack (Japan).jpg
+
+
+game: Aldynes: The Misson Code for Rage Crisis
+file: ./Aldynes - The Misson Code for Rage Crisis (Japan).zip
+sort-by: Aldynes
+developer: Produce Co., Ltd.
+publisher: Hudson
+genre: Shoot'em Up
+release: 1991-02-22
+players: 2
+rating: 65%
+description:
+	Aldynes: The Mission Code for Rage Crisis, is a Japanese horizontal scrolling shoot 'em up game developed by Produce for the SuperGrafx. The game has a unique option-based combat and features levels with large scaling and parallax scrolling effects.
+	Nearing the year 2020, the societies of mankind fall into global depression just as an alien invasion suddenly descends on Earth. The aliens come from a large mechanical planetoid and attack Earth without reason or communication. With all defenses annihilated, the United Nations and NASA create a powerful space fighter known as The Ortega under project name Aldynes. When star space fighter pilot Fox-A was killed in battle; his bereaved girlfriend Hiroko soon discovers Project Aldynes and hijacks one of the ships to seek vengeance.
+assets.boxfront: ./media/mixart/Aldynes - The Misson Code for Rage Crisis (Japan).png
+assets.video: ./media/snap/Aldynes - The Misson Code for Rage Crisis (Japan).mp4
+assets.logo: ./media/wheel/Aldynes - The Misson Code for Rage Crisis (Japan).png
+assets.screenshot: ./media/screenshot/Aldynes - The Misson Code for Rage Crisis (Japan).png
+assets.background: ./media/background/Aldynes - The Misson Code for Rage Crisis (Japan).jpg
+
+
+game: Battle Ace
+file: ./Battle Ace (Japan).zip
+sort-by: Battle Ace
+developer: Hudson
+publisher: Hudson
+genre: Shoot'em Up
+release: 1989-11-30
+players: 1
+rating: 65%
+description:
+	Battle Ace is an action-oriented flight game in a first-person perspective. The player mans a space ship, including a radar which shows enemies, and the goal is to reach the end of each level where an end boss waits. As usually, the main occupation is to blast a lot of aliens which approach the player. The available weapons are bombs and a machine gun, both unlimited. Getting hit is a bad idea because it results in death. The player has three lives which can be raised by scoring 20000 points.
+assets.boxfront: ./media/mixart/Battle Ace (Japan).png
+assets.video: ./media/snap/Battle Ace (Japan).mp4
+assets.logo: ./media/wheel/Battle Ace (Japan).png
+assets.screenshot: ./media/screenshot/Battle Ace (Japan).png
+assets.background: ./media/background/Battle Ace (Japan).jpg
+
+
+game: Daimakaimura
+file: ./Daimakaimura (Japan).zip
+sort-by: Daimakaimura
+developer: Capcom
+publisher: NEC
+genres:
+	Action
+	Platform
+release: 1990-07-27
+players: 1
+rating: 70%
+description:
+	Three years have passed since Arthur defeated the Demon King Astaroth and rescued his beloved Princess Prin-Prin (see Ghosts 'N Goblins). A new villain, the Great Demon King Lucifer (Loki in some versions) has become the new leader of Ghoul Realm. While returning from a journey, Arthur sees the Princess' castle and her village under attack by Lucifer's forces. While rushing towards her beloved knight, the Princess is struck by one of Lucifer's laser beams.
+	.
+	Now, Arthur must venture back to the Lucifer's palace and destroy the demon in order to rescue the Princess' soul and bring her back to life! And it won't matter whether he fights in his shining armor or in his underwear alone...the bravest Knight in the land isn't going to be stopped by some monsters! Although the game starts with graveyard and marsh territory familiar from the first game, later levels are set in a tower, a mass of skeletons, and a castle.
+	.
+	Players progress from left to right (from bottom to top in level 3), and have to hack down the aforementioned monsters with a sword. The journey includes ledges, ladders, lava pits and slippery slopes. Different weapons can be collected, by finding suits of armor inside chests. Each of the five stages has its own setting and a final boss.
+assets.boxfront: ./media/mixart/Daimakaimura (Japan).png
+assets.video: ./media/snap/Daimakaimura (Japan).mp4
+assets.logo: ./media/wheel/Daimakaimura (Japan).png
+assets.screenshot: ./media/screenshot/Daimakaimura (Japan).png
+assets.background: ./media/background/Daimakaimura (Japan).jpg
+
+
+game: Madou King Granzort
+file: ./Madou King Granzort (Japan).zip
+sort-by: Madou King Granzort
+developer: Sunrise Software
+publisher: Hudson
+genres:
+	Action
+	Platform
+release: 1990-04-06
+players: 1
+rating: 85%
+description:
+	In 2050, after a great earthquake, the Moon got an atmosphere and conditions for normal human life. 50 years later, the Moon is inhabited by humans and a great tourist attraction. A boy called Daichi arrives on the Moon and hears the strange stories about people with rabbit ears. Soon he meets V-Mei, an old witch and her granddaughter Guri Guri, the members of the Long-Ears race which is in war with the evil Jadou Clan who wants to conquer the world. Sensing a power in the boy, V-Mei gives the magic gun to Daichi and reveals to him that he is the chosen Madou Warrior who will save the Long-Ears race and their land Rabiluna from the evil Jadou Clan. With the magic gun, Daichi can summon Granzort ? the Madou King of Earth ? a giant robot to fight against the monsters of the Jadou Clan.
+	Soon, Daichi, V-Mei and Guri Guri meet two other boys ? Gus and Rabi. Gus receives a magic bow that summons Winzart ? the Madou King of Wind, while Rabi receives a magic top that summons Aquabeat ? the Madou King of Water. Together, Daichi, Gus, Rabi, V-Mei and Guri Guri travel to the world of Rabiluna in order to free it from the Jadou Clan.
+assets.boxfront: ./media/mixart/Madou King Granzort (Japan).png
+assets.video: ./media/snap/Madou King Granzort (Japan).mp4
+assets.logo: ./media/wheel/Madou King Granzort (Japan).png
+assets.screenshot: ./media/screenshot/Madou King Granzort (Japan).png
+assets.background: ./media/background/Madou King Granzort (Japan).jpg
+
+

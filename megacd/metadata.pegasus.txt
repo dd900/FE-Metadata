@@ -1,0 +1,349 @@
+game: Annett Futatabi
+file: ./Annett Futatabi (Japan) (megacd).chd
+sort-by: Annett Futatabi
+developer: Wolf Team
+publisher: Wolf Team
+genres:
+	Action
+	Fighting
+release: 1993-03-30
+players: 1
+rating: 65%
+description:
+	The story takes place two years after 'El Viento'. After being rescued from certain sacrifice by Earnest Evans, Annet travels across Europe and encounters a group that wants a pendant in her possession. After being ambushed by them she escapes and begins a quest to protect the world from destruction.
+assets.boxfront: ./media/mixart/Annett Futatabi (Japan) (megacd).png
+assets.video: ./media/snap/Annett Futatabi (Japan) (megacd).mp4
+assets.logo: ./media/wheel/Annett Futatabi (Japan) (megacd).png
+assets.screenshot: ./media/screenshot/Annett Futatabi (Japan) (megacd).png
+assets.background: ./media/background/Annett Futatabi (Japan) (megacd).jpg
+
+
+game: Arcus I・II・III
+file: ./Arcus I, II, III (Japan) (megacd).chd
+sort-by: Arcus I, II, III
+developer: Wolf Team
+publisher: Wolf Team
+genre: Role-Playing
+release: 1993-07-23
+players: 1
+rating: 70%
+description:
+	Arcus I-II-III is a first-person dungeon RPG released exclusively for the Sega Mega-CD Japan. It combines the first three games in Wolf Team's Arcus series; Arcus, Arcus II: Silent Symphony and Arcus III, originally released for Japanese computers between 1988 and 1991.
+assets.boxfront: ./media/mixart/Arcus I, II, III (Japan) (megacd).png
+assets.video: ./media/snap/Arcus I, II, III (Japan) (megacd).mp4
+assets.logo: ./media/wheel/Arcus I, II, III (Japan) (megacd).png
+assets.screenshot: ./media/screenshot/Arcus I, II, III (Japan) (megacd).png
+assets.background: ./media/background/Arcus I, II, III (Japan) (megacd).jpg
+
+
+game: Cosmic Fantasy Stories
+file: ./Cosmic Fantasy Stories (Japan) (megacd).chd
+sort-by: Cosmic Fantasy Stories
+developer: Shin-Nihon Laser Soft
+publisher: Working Designs
+genre: Role-Playing
+release: 1992-03-27
+players: 1
+rating: 75%
+description:
+	This is a re-release of two Turbo CD games:  Cosmic Fantasy: Bouken Shounen Yuu and  Cosmic Fantasy II. The first game tells the story of a young man named Yuu, who is on a quest to become a Cosmic Knight. The second describes the adventures of another young man, Van, whose girlfriend was kidnapped by an evil wizard. Both games are set in a sci-fi universe with intergalactic traveling.
+	.
+	The Sega CD edition features improved graphics and music (the change is particularly noticeable in the first Cosmic Fantasy) (megacd). It also re-vamps the gameplay system of the first game, allowing previously passive characters to participate in battles, but also increasing the amount of enemies met in battles and modifying the difficulty level.
+assets.boxfront: ./media/mixart/Cosmic Fantasy Stories (Japan) (megacd).png
+assets.video: ./media/snap/Cosmic Fantasy Stories (Japan) (megacd).mp4
+assets.logo: ./media/wheel/Cosmic Fantasy Stories (Japan) (megacd).png
+assets.screenshot: ./media/screenshot/Cosmic Fantasy Stories (Japan) (megacd).png
+assets.background: ./media/background/Cosmic Fantasy Stories (Japan) (megacd).jpg
+
+
+game: Cyborg 009
+file: ./Cyborg 009 (Japan) (megacd).chd
+sort-by: Cyborg 009
+developer: Nihon Telenet
+publisher: Riot
+genre: Action
+release: 1993-07-30
+players: 1
+description:
+	Cyborg 009  is a Sega Mega-CD action game released exclusively in Japan.
+assets.boxfront: ./media/mixart/Cyborg 009 (Japan) (megacd).png
+assets.video: ./media/snap/Cyborg 009 (Japan) (megacd).mp4
+assets.logo: ./media/wheel/Cyborg 009 (Japan) (megacd).png
+assets.screenshot: ./media/screenshot/Cyborg 009 (Japan) (megacd).png
+assets.background: ./media/background/Cyborg 009 (Japan) (megacd).jpg
+
+
+game: Dennin-Aleste: Nobunaga and His Ninja Force
+file: ./Dennin Aleste - Nobunaga and His Ninja Force (Japan) (megacd).chd
+sort-by: Dennin Aleste - Nobunaga and His Ninja Force
+developer: Compile
+publisher: Sega
+genre: Shooter
+release: 1992-11-27
+players: 1
+rating: 70%
+description:
+	Overhead Shooter based in Japan. The bloodthirsty Chugoko Warlords of the west have ruled and ravaged the once-supreme Oda Clan. Time to get your revenge. This is an overhead shooter with large bosses and massive power-ups.
+assets.boxfront: ./media/mixart/Dennin Aleste - Nobunaga and His Ninja Force (Japan) (megacd).png
+assets.video: ./media/snap/Dennin Aleste - Nobunaga and His Ninja Force (Japan) (megacd).mp4
+assets.logo: ./media/wheel/Dennin Aleste - Nobunaga and His Ninja Force (Japan) (megacd).png
+assets.screenshot: ./media/screenshot/Dennin Aleste - Nobunaga and His Ninja Force (Japan) (megacd).png
+assets.background: ./media/background/Dennin Aleste - Nobunaga and His Ninja Force (Japan) (megacd).jpg
+
+
+game: Devastator
+file: ./Devastator (Japan) (megacd).chd
+sort-by: Devastator
+developer: Wolf Team
+publisher: Wolf Team
+genre: Shooter
+release: 1993-05-28
+players: 1
+rating: 70%
+description:
+	Ryo begins working for a company called Yaesu as a replacement for his friend Masato. During a test ride with a new machine, however, he is somehow thrown into another dimension. After being rescued there by a group of mecha pilots from vile creatures named Devastators, he learns that nefarious people are working on a connection between that and his own dimension, and sets out to stop them.
+assets.boxfront: ./media/mixart/Devastator (Japan) (megacd).png
+assets.video: ./media/snap/Devastator (Japan) (megacd).mp4
+assets.logo: ./media/wheel/Devastator (Japan) (megacd).png
+assets.screenshot: ./media/screenshot/Devastator (Japan) (megacd).png
+assets.background: ./media/background/Devastator (Japan) (megacd).jpg
+
+
+game: Earnest Evans
+file: ./Earnest Evans (Japan) (megacd).chd
+sort-by: Earnest Evans
+developer: Renovation Products
+publisher: Wolf Team
+genres:
+	Action
+	Platform
+release: 1991-01-01
+players: 1
+rating: 55%
+description:
+	The story of the game is connected to that of  El Viento. Earnest Evans is a brave treasure hunter. His grandfather was a famous archaeologist who searched for three legendary idols in the 1930s. It was said that those idols could bring disaster upon the Earth if fallen into the wrong hands. But despite his efforts, he could never find even one of the idols. Now it's up to the grandson to continue his work, fifty years later. But the evil syndicate leader Brady Tressider has his own plans, and will do anything to stop Earnest...
+	.
+	This is an action platform game in which you control Earnest Evans, armed with his trusty whip. The hero can jump, climb ropes, crouch, and crawl. There are plenty of obstacles on the levels (bottomless pits, spikes, crushing bridges, lava, etc.), as well as gangsters and monsters to dispose of.
+assets.boxfront: ./media/mixart/Earnest Evans (Japan) (megacd).png
+assets.video: ./media/snap/Earnest Evans (Japan) (megacd).mp4
+assets.logo: ./media/wheel/Earnest Evans (Japan) (megacd).png
+assets.screenshot: ./media/screenshot/Earnest Evans (Japan) (megacd).png
+assets.background: ./media/background/Earnest Evans (Japan) (megacd).jpg
+
+
+game: Garou Densetsu: Special
+file: ./Garou Densetsu Special (Japan) (megacd).chd
+sort-by: Garou Densetsu Special
+developer: JVC
+publisher: JVC
+genre: Fighting
+release: 1995-01-01
+players: 2
+rating: 90%
+description:
+	Fatal Fury Special is an improved version of SNK's 2D one-on-one fighter Fatal Fury 2. It's a conversion of the 1993 arcade game of the same name. The objective is still to win the tournament by defeating all other fighters including end boss Wolfgang Krauser. Fatal Fury Special features a fairly large selection of fighters that includes:
+	.
+	1. The eight regular fighters from Fatal Fury 2: Terry Bogard, Andy Bogard, Joe Higashi, Kim Kaphwan, Jubei Yamada, Cheng Sinzan, Mai Shiranui and Big Bear.The four bosses from Fatal Fury 2: Billy Kane, Axel Hawk, Lawrence Blood and Wolfgang Krauser (this time they're all immediately playable) (megacd).Three characters returning from the first Fatal Fury: Duck King, Tung Fu Rue and Geese Howard (the end boss from Fatal Fury) (megacd).
+	Other improvements include:
+	.
+	1. A new Count Down mode (defeat as many opponents as possible in 3 minutes) (megacd).Extra color schemes for every character.New & improved background graphics.Dolby Surround Sound support.
+	Fatal Fury Special still features the series' trademark pseudo-3D movement along two planes.
+assets.boxfront: ./media/mixart/Garou Densetsu Special (Japan) (megacd).png
+assets.video: ./media/snap/Garou Densetsu Special (Japan) (megacd).mp4
+assets.logo: ./media/wheel/Garou Densetsu Special (Japan) (megacd).png
+assets.screenshot: ./media/screenshot/Garou Densetsu Special (Japan) (megacd).png
+assets.background: ./media/background/Garou Densetsu Special (Japan) (megacd).jpg
+
+
+game: Heavy Nova
+file: ./Heavy Nova (Japan) (megacd).chd
+sort-by: Heavy Nova
+developer: Holocronet
+publisher: Micronet
+genre: Action
+release: 1991-12-12
+players: 1
+rating: 80%
+description:
+	In an era of frequent alien attacks, the Earth has a unified Government, which relies on a line of cyborgs known as the Heavy Dolls for defense. The greatest of these are known as the Heavy Nova, a title earned by passing a rigorous training regime.
+	.
+	You are taking on the simulated proving grounds, which are split into two styles of alternating action. In the first you must progress (initially purely horizontally, though later with vertical flick-scrolling as well) through a hostile environment of enemies, bombs and traps, gaining points for doing it quickly and with lots of energy left. Initially you can fly and kick as needed.
+	.
+	Once this section is complete, you move on to one-on-one combat of the Street Fighter 2 style. The early foes have far less energy than you begin with. As you progress through the game, you are awarded extra attacking moves, in a manner similar to Brutal: Paws of Fury
+assets.boxfront: ./media/mixart/Heavy Nova (Japan) (megacd).png
+assets.video: ./media/snap/Heavy Nova (Japan) (megacd).mp4
+assets.logo: ./media/wheel/Heavy Nova (Japan) (megacd).png
+assets.screenshot: ./media/screenshot/Heavy Nova (Japan) (megacd).png
+assets.background: ./media/background/Heavy Nova (Japan) (megacd).jpg
+
+
+game: Keiou Yuugekitai
+file: ./Keiou Yuugekitai (Japan) (megacd).chd
+sort-by: Keiou Yuugekitai
+developer: JVC
+publisher: JVC
+genres:
+	Action
+	Shooter
+release: 1993-01-01
+players: 1
+rating: 70%
+description:
+	Keio Flying Squadron chronicles the adventures of Rami, the little bunny-suited member of the flying squadron tasked with the protection of the "Special Holy Object". Unfortunately as the game starts the object in question gets stolen by the evil Dr. Pon, and so Rami jumps atop her trusty dragon in pursuit of Dr. Pon.
+	.
+	The game plays as a classic 2D shooter with upgradable weapons and option characters, with a distinct cartoonish and family-friendly design.
+	.
+	Features 7 levels and 3 difficulty settings.
+assets.boxfront: ./media/mixart/Keiou Yuugekitai (Japan) (megacd).png
+assets.video: ./media/snap/Keiou Yuugekitai (Japan) (megacd).mp4
+assets.logo: ./media/wheel/Keiou Yuugekitai (Japan) (megacd).png
+assets.screenshot: ./media/screenshot/Keiou Yuugekitai (Japan) (megacd).png
+assets.background: ./media/background/Keiou Yuugekitai (Japan) (megacd).jpg
+
+
+game: Night Striker
+file: ./Night Striker (Japan, Korea) (megacd).chd
+sort-by: Night Striker
+developer: Aisystem Tokyo
+publisher: Taito
+genre: Shooter
+release: 1993-05-28
+players: 1
+description:
+	Night Striker is a third-person shooter reminiscent of Space Harrier, converted from the 1989 Taito coin-op. Laser opticts expert Dr. Lindvery Maska and his daughter have been kidnapped by a terrorist group, and Dick Dagras, head of the Special Service Agency, is mobilizing a group of elite soldiers experienced in the use of special armored flying cars, in order to rescue Dr. Maska and destoy this terrorist group.
+	.
+	The player flies through each stage, controlling their armored car and shooting down waves of enemies. A boss appears at the end of each stage, and after this the player must choose what path to take in the next stage, as in Darius. Instead of lives, the player has a shield that takes damage from each hit, but is recharged at the end of each stage.
+	.
+	The Sega CD version of the game features remixed CD-audio, and the Saturn version features a set of exclusive bonus levels.
+assets.boxfront: ./media/mixart/Night Striker (Japan, Korea) (megacd).png
+assets.video: ./media/snap/Night Striker (Japan, Korea) (megacd).mp4
+assets.logo: ./media/wheel/Night Striker (Japan, Korea) (megacd).png
+assets.screenshot: ./media/screenshot/Night Striker (Japan, Korea) (megacd).png
+assets.background: ./media/background/Night Striker (Japan, Korea) (megacd).jpg
+
+
+game: The Ninja Warriors
+file: ./Ninja Warriors, The (Japan) (megacd).chd
+sort-by: Ninja Warriors, The
+developer: Aisystem Tokyo
+publisher: Taito
+genres:
+	Action
+	Beat 'em Up
+release: 1993-03-12
+players: 1
+rating: 60%
+description:
+	Two player side scrolling beat-em-up converted from the Taito coin-op that featured three monitor screens side by side. The Amiga version was developed in letterbox format in order to show as much of the wide screen background graphics as possible.
+	.
+	The player(s) controlled robot Ninjas, which battled their way through the levels using Shuriken and knives. As the Ninja's took damage their classic Ninja garb was torn away to reveal robotic limbs, torso or head. When the damage reached critical the Ninja Robot would explode, scattering mechanical body parts.
+	.
+	As with The Sales Curve's later title SWIV, The Ninja Warriors used the company's Dynamic Loading System to load sprites, sound and background graphics from disk on the fly.
+assets.boxfront: ./media/mixart/Ninja Warriors, The (Japan) (megacd).png
+assets.video: ./media/snap/Ninja Warriors, The (Japan) (megacd).mp4
+assets.logo: ./media/wheel/Ninja Warriors, The (Japan) (megacd).png
+assets.screenshot: ./media/screenshot/Ninja Warriors, The (Japan) (megacd).png
+assets.background: ./media/background/Ninja Warriors, The (Japan) (megacd).jpg
+
+
+game: Seirei Shinseiki Fhey Area
+file: ./Seirei Shinseiki - Fhey Area (Japan) (megacd).chd
+sort-by: Seirei Shinseiki - Fhey Area
+developer: Wolf Team
+publisher: Wolf Team
+genre: Role-Playing
+release: 1992-02-18
+players: 1
+description:
+	Un RPG intéressant utilisant un look final fantasy pour l'environnement, mais l'écran de combat aurait pu être un peu plus intéressant. C'est le même écran encore et encore. Pas de changement de fond, seulement les monstres.
+assets.boxfront: ./media/mixart/Seirei Shinseiki - Fhey Area (Japan) (megacd).png
+assets.logo: ./media/wheel/Seirei Shinseiki - Fhey Area (Japan) (megacd).png
+assets.screenshot: ./media/screenshot/Seirei Shinseiki - Fhey Area (Japan) (megacd).png
+assets.background: ./media/background/Seirei Shinseiki - Fhey Area (Japan) (megacd).jpg
+
+
+game: Sengoku Denshou
+file: ./Sengoku Denshou (Japan) (megacd).chd
+sort-by: Sengoku Denshou
+developer: SNK
+publisher: Sammy
+genre: Action
+release: 1993-12-28
+players: 1
+rating: 65%
+description:
+	It's the final battle. A warlord in the past planned to conquer the world by brutal attack. Now, 400 years later, this "Demon Castle" suddenly appeared in the sky above Washington D.C. The prophecy came true! Only two samurai warriors with the special weapon can stop the revival of this ghost!
+assets.boxfront: ./media/mixart/Sengoku Denshou (Japan) (megacd).png
+assets.video: ./media/snap/Sengoku Denshou (Japan) (megacd).mp4
+assets.logo: ./media/wheel/Sengoku Denshou (Japan) (megacd).png
+assets.screenshot: ./media/screenshot/Sengoku Denshou (Japan) (megacd).png
+
+
+game: Switch
+file: ./Switch (Japan) (megacd).chd
+sort-by: Switch
+developer: Sega
+publisher: Data East
+genre: Puzzle
+release: 1993-04-23
+description:
+	A virus has infected the world's computer network, which effects all electronical devices on the earth. However, a special program called "Panic!" is designed to counter the effects of the virus and restore the network back to working order. You play Slap the Boy and his sidekick, Stick the Dog(they're not actions, it's their names) who set out to restore the network back to working order.
+assets.boxfront: ./media/mixart/Switch (Japan) (megacd).png
+assets.video: ./media/snap/Switch (Japan) (megacd).mp4
+assets.logo: ./media/wheel/Switch (Japan) (megacd).png
+assets.screenshot: ./media/screenshot/Switch (Japan) (megacd).png
+assets.background: ./media/background/Switch (Japan) (megacd).jpg
+
+
+game: Thunder Storm FX
+file: ./Thunder Storm FX (Japan) (megacd).chd
+sort-by: Thunder Storm FX
+developer: Sega
+publisher: Sega
+genre: Action
+release: 1992-08-28
+players: 1
+rating: 15%
+description:
+	Cobra Command is an arcade conversion of a helicopter shooting game from Data East.  It is an "on rails" style shooter with the player controlling only the aiming of the shooting but not the direction of the helicopter.
+	.
+	Your job is to shoot down the enemies as you are flown through footage of New York streets, the Statue of Liberty, the Atlantic Ocean, Italy, the Grand Canyon and finally, the treacherous corners and return fire of the enemy's stronghold on Easter Island.
+	.
+	There is no background music to go along with the sound effects.  The levels are fairly short with a total game run through possible in about 20 minutes.
+assets.boxfront: ./media/mixart/Thunder Storm FX (Japan) (megacd).png
+assets.video: ./media/snap/Thunder Storm FX (Japan) (megacd).mp4
+assets.logo: ./media/wheel/Thunder Storm FX (Japan) (megacd).png
+assets.screenshot: ./media/screenshot/Thunder Storm FX (Japan) (megacd).png
+assets.background: ./media/background/Thunder Storm FX (Japan) (megacd).jpg
+
+
+game: Urusei Yatsura: Dear My Friends
+file: ./Urusei Yatsura - Dear My Friends (Japan) (megacd).chd
+sort-by: Urusei Yatsura - Dear My Friends
+developer: Game Arts
+publisher: Game Arts
+genre: Adventure
+release: 1993-01-01
+players: 1
+description:
+	This adventure game was released only in Japan and is based on Rumiko Takashi's Urusei Yatsura series.
+assets.boxfront: ./media/mixart/Urusei Yatsura - Dear My Friends (Japan) (megacd).png
+assets.logo: ./media/wheel/Urusei Yatsura - Dear My Friends (Japan) (megacd).png
+assets.screenshot: ./media/screenshot/Urusei Yatsura - Dear My Friends (Japan) (megacd).png
+assets.background: ./media/background/Urusei Yatsura - Dear My Friends (Japan) (megacd).jpg
+
+
+game: Yumimi Mix
+file: ./Yumimi Mix (Japan) (megacd).chd
+sort-by: Yumimi Mix
+developer: Game Arts
+publisher: Game Arts
+genre: Adventure
+release: 1993-01-29
+players: 1
+rating: 75%
+description:
+	Yumimi Mix is a Digital Comics on Mega CD, in other words an interactive cartoon where each decision made by the player influences the course of the story. The player follows the adventures of a young schoolgirl in Japan named Yumimi, inside a fantastic manga created by Izumi Takemoto.
+assets.boxfront: ./media/mixart/Yumimi Mix (Japan) (megacd).png
+assets.logo: ./media/wheel/Yumimi Mix (Japan) (megacd).png
+assets.screenshot: ./media/screenshot/Yumimi Mix (Japan) (megacd).png

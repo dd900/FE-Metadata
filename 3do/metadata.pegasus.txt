@@ -1,0 +1,2843 @@
+game: Alone in the Dark
+file: ./Alone in the Dark (USA).chd
+sort-by: Alone in the Dark
+developer: Interplay
+publisher: I*Motion
+genres:
+	Action
+	Adventure
+release: 1994-01-01
+players: 1
+rating: 70%
+description:
+	Jeremy Hartwood has committed suicide in his Louisiana mansion, Derceto. You take the role of either Edward Carnby, a private investigator, or Emily Hartwood, Jeremy's niece, and investigate the suspicious death. The three-floor mansion is reputed to be haunted by its eccentric past owner. Very quickly, you realise that it is. Warped rats, zombies and giant worms are among the foes who are after you, and you must somehow escape.
+	.
+	Alone in the Dark is an action-adventure survival horror game. The action is displayed from a number of fixed viewpoints. The backgrounds are 2D painted images, while the player character, all items and monsters are rendered as 3D models.
+	.
+	To escape the mansion, you'll have to solve a number of puzzles. They usually involve finding an item and using it in a proper place. Apart from items necessary for the puzzles, you can also find books and documents that can be read, healing items which can be consumed to restore hit points, and weapons.
+	.
+	Weapons come in handy, since Derceto is full of various monsters. Some monsters can be killed with weapons, but others are either impossible to kill or require a bit of thinking to take down. Note also that you have limited amounts of ammunition, so you have to use firearms carefully.
+assets.boxfront: ./media/mixart/Alone in the Dark (USA).png
+assets.video: ./media/snap/Alone in the Dark (USA).mp4
+assets.logo: ./media/wheel/Alone in the Dark (USA).png
+assets.screenshot: ./media/screenshot/Alone in the Dark (USA).png
+assets.background: ./media/background/Alone in the Dark (USA).jpg
+
+
+game: Alone in the Dark 2
+file: ./Alone in the Dark 2 (USA).chd
+sort-by: Alone in the Dark 2
+developer: Interplay
+publisher: Krisalis Software
+genres:
+	Action
+	Adventure
+release: 1995-09-08
+players: 1
+rating: 60%
+description:
+	In Alone in the Dark 2, you take the role of detective Edward Carnby, one of the two main characters in the original Alone in the Dark. Carnby is now called upon to investigate a bootlegger named One Eyed Jack after an old detective college name Stryker attributes Jack to the kidnapping of young Grace Saunders. Stryker attempts to infiltrate Jack's dilapidated mansion of Hell's Kitchen and rescue the girl, only to disappear himself. That's where Carnby comes in.
+	.
+	Carnby soon learns that Jack and his gangsters are really 15th century pirates who gained immortality after Jack joined forces with Elizabeth Jarret, a Voodoo witch. However the dark magic which keeps them immortal also requires Jack and his crew to regularly make human sacrifices (which explains Grace's kidnapping).
+	.
+	Now Carnby must battle his way through Hell's Kitchen and Jack's army of tommy-gun wielding gangsters, searching for a way to break the spell and make them stay dead.
+	.
+	Alone in the Dark 2 is an action-adventure game, similar to the original Alone in the Dark. Like its predecessor, the game uses hybrid 2D-3D graphics. Completing the game requires you to solve a lot of puzzles while fighting zombie pirates along the way. Some enemies can be killed with the numerous weapons at your disposal, while others need to be defeated via trickery.
+	.
+	Apart from Edward Carnby, the game also includes a short section (two sections in the CD-ROM version) where you play as the little Grace Saunders. Grace obviously cannot fight, and thus the sections featuring her are all about fast reflexes and wits to evade and outsmart the enemies.
+assets.boxfront: ./media/mixart/Alone in the Dark 2 (USA).png
+assets.video: ./media/snap/Alone in the Dark 2 (USA).mp4
+assets.logo: ./media/wheel/Alone in the Dark 2 (USA).png
+assets.screenshot: ./media/screenshot/Alone in the Dark 2 (USA).png
+assets.background: ./media/background/Alone in the Dark 2 (USA).jpg
+
+
+game: Ballz: The Director's Cut
+file: ./Ballz - The Director's Cut (Japan, USA) (En,Ja).chd
+sort-by: Ballz - The Director's Cut
+developer: PF Magic
+publisher: Panasonic
+genres:
+	Action
+	Fighting
+release: 1995-01-01
+players: 2
+rating: 60%
+description:
+	Ballz: The Director's Cut is an improved version of the Genesis and SNES game Ballz 3D: Fighting at its Ballziest. Like the original, it's a 3D fighting game where all the characters are made out of balls. Each character has its own moves animations and combos. In the single player mode you first have to fight against all the playable characters after which there are a variety of final bosses such as a tyrannosaurus, kangaroo, scorpion, ostrich and bull. Each boss has a unique fighting style and weak spot. In multiplayer you can fight against friends.
+assets.boxfront: ./media/mixart/Ballz - The Director's Cut (Japan, USA) (En,Ja).png
+assets.video: ./media/snap/Ballz - The Director's Cut (Japan, USA) (En,Ja).mp4
+assets.logo: ./media/wheel/Ballz - The Director's Cut (Japan, USA) (En,Ja).png
+assets.screenshot: ./media/screenshot/Ballz - The Director's Cut (Japan, USA) (En,Ja).png
+
+
+game: Battle Pinball
+file: ./Battle Pinball (Japan).chd
+sort-by: Battle Pinball
+developer: Japan DataWorks
+publisher: Matsushita
+genre: Puzzle
+release: 1994-11-25
+players: 2
+rating: 80%
+description:
+	Battle Pinball is a Japanese-only release where players play competitive pinball against the computer or another player. Players pick between one of four characters, each with their own dedicated pinball table. The game then moves to a split-screen view, where both players play their respective table and try to get a higher score than their opponent.
+	Other options include a 1-player "story" mode where the player selects a character and battles the other three. Winning here gives a character-specific CG victory movie. Players can also play against multiple opponents in a tournament mode (complete with brackets), though a maximum of two players will be playing at once. As with Real Pinball, the view angle is fixed and cannot be changed.
+assets.boxfront: ./media/mixart/Battle Pinball (Japan).png
+assets.video: ./media/snap/Battle Pinball (Japan).mp4
+assets.logo: ./media/wheel/Battle Pinball (Japan).png
+assets.screenshot: ./media/screenshot/Battle Pinball (Japan).png
+
+
+game: Battlesport
+file: ./BattleSport (USA).chd
+sort-by: BattleSport
+developer: Cyclone Studios
+publisher: Panasonic
+genres:
+	Action
+	Sports
+release: 1996-01-01
+players: 1
+rating: 95%
+description:
+	Battlesport simulates the sport of the future. Choose your vehicle and enter the arena to face your computer opponents to see who scores the most goals before the clock runs out.
+	Scoring isn't easy. The ball constantly bounces over the arena, retrieved by a player constantly bombarded by opponents. A variety of weapons are available to shoot your competitor, and anyone that takes a hit while carrying the ball loses possession, sending the ball bouncing across the arena. Taking too many shots results in a temporary inability to take part in the action while your opponent happily scores goals.
+	Winning matches increases standing in the rankings and the acquisition of cash to purchase a better vehicle and enhanced offensive or defensive items.
+assets.boxfront: ./media/mixart/BattleSport (USA).png
+assets.video: ./media/snap/BattleSport (USA).mp4
+assets.logo: ./media/wheel/BattleSport (USA).png
+assets.screenshot: ./media/screenshot/BattleSport (USA).png
+
+
+game: BC Racers
+file: ./BC Racers (USA).chd
+sort-by: BC Racers
+developer: LG
+publisher: Core Design
+genre: Racing
+release: 1995-01-01
+players: 2
+rating: 90%
+description:
+	BC Racers is a kart racing game starring characters from the Core Design's Chuck Rock series of games.
+	Each of the racers in this game rides a prehistoric motorcycle with a side car. On each two-character team, one person drives the motorcycle, and the other fights off opponents using clubs, punches, kicks, etc.
+	Graphics in BC Racers consist of a flat landscape decorated with scaled sprites to compose the track and scenery.
+assets.boxfront: ./media/mixart/BC Racers (USA).png
+assets.video: ./media/snap/BC Racers (USA).mp4
+assets.logo: ./media/wheel/BC Racers (USA).png
+assets.screenshot: ./media/screenshot/BC Racers (USA).png
+
+
+game: Belzerion
+file: ./Belzerion (Japan).chd
+sort-by: Belzerion
+developer: Human
+publisher: Human
+genre: Adventure
+release: 1994-12-16
+players: 1
+rating: 50%
+description:
+	Belzerion is a sci-fi first-person point-and-click adventure game developed and published by Human for the Mac exclusively in Japan in 1993.nnnnThe game was later ported to the 3DO, released exclusively in Japan on December 16, 1994. This version revamps the first-person exploration and combat segments by having players navigate environments in real-time and battle in a locked perspective (similar to the 1990 arcade game The Super Spy).
+assets.boxfront: ./media/mixart/Belzerion (Japan).png
+assets.video: ./media/snap/Belzerion (Japan).mp4
+assets.logo: ./media/wheel/Belzerion (Japan).png
+assets.screenshot: ./media/screenshot/Belzerion (Japan).png
+
+
+game: Blade Force
+file: ./Blade Force (USA).chd
+sort-by: Blade Force
+developer: Panasonic
+publisher: Panasonic
+genres:
+	Action
+	Shooter
+release: 1995-01-01
+players: 1
+rating: 55%
+description:
+	In the year 2110, in the city of Meggagrid, once known as Los Angeles, you meet Dr. Grubert, a very prominent inventor who has been crippled by an explosion perpetrated by a crime family known as The Pitt Family.  He gives a suit known as the Helipak Flight Suit to fight back and take down the criminals in the city and apprehend The Pitt Family and bring peace back to the city.  With an arsenal of nine different weapons and twenty power-ups, the player flies around seven levels of the city with six degrees of freedom.
+assets.boxfront: ./media/mixart/Blade Force (USA).png
+assets.video: ./media/snap/Blade Force (USA).mp4
+assets.logo: ./media/wheel/Blade Force (USA).png
+assets.screenshot: ./media/screenshot/Blade Force (USA).png
+
+
+game: Blonde Justice
+file: ./Blonde Justice (USA).chd
+sort-by: Blonde Justice
+developer: Vivid Interactive
+publisher: Vivid Interactive
+genre: Adult
+release: 1994-01-01
+players: 1
+rating: 50%
+description:
+	Behind the scenes of a strip club, one dancer faces death threats. Is it a rival? An obsessed fan? An exciting blend of sex, intrigue and obsession.
+assets.boxfront: ./media/mixart/Blonde Justice (USA).png
+assets.video: ./media/snap/Blonde Justice (USA).mp4
+assets.logo: ./media/wheel/Blonde Justice (USA).png
+assets.screenshot: ./media/screenshot/Blonde Justice (USA).png
+
+
+game: Brain Dead 13
+files:
+	./BrainDead 13 (USA) (Disc 1).chd
+	./BrainDead 13 (USA) (Disc 2).chd
+sort-by: BrainDead 13
+developer: ReadySoft
+publisher: ReadySoft
+genre: Action
+release: 1996-01-01
+players: 1
+rating: 60%
+description:
+	In Braindead 13, the player takes on the role of a young computer expert who one day is called to fix a computer at some scary castle and in no time flat, finds himself in trouble.
+	It is up to the player to use the complex moves of an interactive movie to escape from the castle. This animated adventure is basically based on the player's judgment on which direction you think the character might go, and if the player guesses wrong, death.
+assets.boxfront: ./media/mixart/BrainDead 13 (USA) (Disc 1).png
+assets.video: ./media/snap/BrainDead 13 (USA) (Disc 1).mp4
+assets.logo: ./media/wheel/BrainDead 13 (USA) (Disc 1).png
+assets.screenshot: ./media/screenshot/BrainDead 13 (USA) (Disc 1).png
+
+
+game: Burning Soldier
+file: ./Burning Soldier (USA).chd
+sort-by: Burning Soldier
+developer: Panasonic
+publisher: Genki
+genres:
+	Action
+	Shooter
+release: 1994-01-01
+players: 1
+rating: 20%
+description:
+	A first-person space shooter, similar to Shock Wave and Total Eclipse, that has the player take control of a state of the art Strike fighter in missions ranging from the asteroid belt to the final fight on the Earth's surface. This is all done in an attempt to stop the Kaisertian (which resemble the Aliens from the Alien movies) race from destroying mankind.
+	The gameplay is very simplistic. The player uses the D-pad to move around a cursor on the screen, to aim wherever the player wants the weapons to fire, and the main buttons to fire the two main weapons of choice, a Laser Vulcan Cannon and a Blast Smash that is guided automatically at incoming enemies. However, unlike other first-person space shooters for the 3DO, there is no way of controlling the actual ship as its' movement is on a predetermined course and can't be manually deviated. The story is told through CGI cinemas.
+assets.boxfront: ./media/mixart/Burning Soldier (USA).png
+assets.video: ./media/snap/Burning Soldier (USA).mp4
+assets.logo: ./media/wheel/Burning Soldier (USA).png
+assets.screenshot: ./media/screenshot/Burning Soldier (USA).png
+
+
+game: Cannon Fodder
+file: ./Cannon Fodder (USA).chd
+sort-by: Cannon Fodder
+developer: Sensible Software
+publisher: Virgin
+genres:
+	Action
+	Strategy
+release: 1994-01-01
+players: 1
+rating: 65%
+description:
+	Guide a team of up to four soldiers through 72 levels of combat in this top-down action/strategy hybrid, best thought of as Lemmings crossed with Commando crossed with Dune 2. The characters are controlled indirectly using the mouse, as you activate each soldier or group of them by highlighting them, click the left button to move them to a particular spot, and the right button for them to fire guns at an enemy. You can also pick up grenades, which can be used to destroy groups of enemies or buildings (by pressing both buttons at once).
+assets.boxfront: ./media/mixart/Cannon Fodder (USA).png
+assets.video: ./media/snap/Cannon Fodder (USA).mp4
+assets.logo: ./media/wheel/Cannon Fodder (USA).png
+assets.screenshot: ./media/screenshot/Cannon Fodder (USA).png
+
+
+game: Captain Quazar
+file: ./Captain Quazar (USA).chd
+sort-by: Captain Quazar
+developer: Cyclone Studios
+publisher: Panasonic
+genre: Action
+release: 1995-01-01
+players: 1
+rating: 100%
+description:
+	The idea behind Captain Quazar is simple, from a 3/4 overhead view control the Captain, kill the bad guys and save the day. Everything in this huge galaxy can be blown away, but be careful where you lay waste, because you have to manage your resources to survive.
+assets.boxfront: ./media/mixart/Captain Quazar (USA).png
+assets.video: ./media/snap/Captain Quazar (USA).mp4
+assets.logo: ./media/wheel/Captain Quazar (USA).png
+assets.screenshot: ./media/screenshot/Captain Quazar (USA).png
+
+
+game: Carrier: Fortress at Sea
+file: ./Carrier - Fortress at Sea (USA).chd
+sort-by: Carrier - Fortress at Sea
+developer: RMG Dentsu USA Inc.
+publisher: Panasonic
+genre: Flight Simulator
+release: 1995-01-01
+players: 1
+rating: 75%
+description:
+	Enjoy a great Adventure with one of the greatest and most famous Nuclear-powered Aircrafts. The mount of information you get will be huge and also you will have fun big time.
+assets.boxfront: ./media/mixart/Carrier - Fortress at Sea (USA).png
+assets.video: ./media/snap/Carrier - Fortress at Sea (USA).mp4
+assets.logo: ./media/wheel/Carrier - Fortress at Sea (USA).png
+assets.screenshot: ./media/screenshot/Carrier - Fortress at Sea (USA).png
+
+
+game: Casper
+file: ./Casper (USA).chd
+sort-by: Casper
+developer: Funcom
+publisher: Interplay
+genre: Adventure
+release: 1996-01-01
+players: 1
+rating: 60%
+description:
+	Based on the Casper film, the game pits you in the role of the friendly ghost trying to make a friend and a second chance at life instead of scaring everyone away.
+	The plot centers around the "spoiled, grasping inheritor of Whipstaff Manor" - Carrigan Crittenden. She's after the treasure she thinks is hidden in the walls. Casper will need the help of Dr James Harvey - therapist to the dead - if he has any hope of succeeding in his adventures.
+	Casper will also have to deal with his uncles - Stretch, Stinkie and Fatso, who just love to scare "Fleshies" and thwart Casper's efforts. The gameplay is 3d - and is mostly puzzle solving, with Casper able to take a variety of forms and manipulating objects.
+assets.boxfront: ./media/mixart/Casper (USA).png
+assets.video: ./media/snap/Casper (USA).mp4
+assets.logo: ./media/wheel/Casper (USA).png
+assets.screenshot: ./media/screenshot/Casper (USA).png
+
+
+game: Club 3DO: Station Invasion
+file: ./Club 3DO - Station Invasion (USA).chd
+sort-by: Club 3DO - Station Invasion
+developer: 3DO
+publisher: 3DO
+genre: Education
+release: 1994-01-01
+players: 1
+rating: 70%
+description:
+	Club 3DO: Station Invasion is an educational game, presented as a game show and designed for children ages 7 to 14. Your job is to be the best producer at an all-kid television station. Choose from five hit shows: a sitcom, game show, talk show, soap opera and a mystery adventure. Solve the puzzles and challenges of each show to get higher ratings. The game provides a mix of computer graphics and live character video.
+assets.boxfront: ./media/mixart/Club 3DO - Station Invasion (USA).png
+assets.video: ./media/snap/Club 3DO - Station Invasion (USA).mp4
+assets.logo: ./media/wheel/Club 3DO - Station Invasion (USA).png
+assets.screenshot: ./media/screenshot/Club 3DO - Station Invasion (USA).png
+
+
+game: Corpse Killer
+file: ./Corpse Killer (USA).chd
+sort-by: Corpse Killer
+developer: Digital Pictures
+publisher: Digital Pictures
+genre: Shooter
+release: 1995-01-01
+players: 1
+rating: 75%
+description:
+	Corpse Killer is a full-motion video shoot-'em up. You play as an elite special forces soldier, who parachutes onto a remote tropical island. It seems the evil genius Dr. Hellman has found a way to raise the dead, and created an island of zombies. It's up to you to shoot your way through the undead hordes and stop Dr. Hellman.
+	The game is played from a first-person perspective. Various zombies pop up in front of a video background, and you shoot them down by moving a cursor on screen or by using a light gun. The Saturn version has a few different features including extra power-ups as well as added footage of enemies.
+assets.boxfront: ./media/mixart/Corpse Killer (USA).png
+assets.video: ./media/snap/Corpse Killer (USA).mp4
+assets.logo: ./media/wheel/Corpse Killer (USA).png
+assets.screenshot: ./media/screenshot/Corpse Killer (USA).png
+
+
+game: The Coven
+file: ./Coven, The (USA).chd
+sort-by: Coven, The
+developer: Vivid Interactive
+publisher: Vivid Interactive
+genre: Adult
+release: 1994-01-01
+players: 1
+rating: 60%
+description:
+	It's about a spirit who's been blessed by the moon and the lovers who deserve her. It's about Janine...
+assets.boxfront: ./media/mixart/Coven, The (USA).png
+assets.video: ./media/snap/Coven, The (USA).mp4
+assets.logo: ./media/wheel/Coven, The (USA).png
+assets.screenshot: ./media/screenshot/Coven, The (USA).png
+
+
+game: Cowboy Casino: Interactive Poker
+file: ./Cowboy Casino (USA).chd
+sort-by: Cowboy Casino
+developer: Intellimedia Sports
+publisher: IntelliPlay
+genre: Strategy
+release: 1994-01-01
+players: 1
+rating: 70%
+description:
+	The player enters a saloon ready to play some cards. The game contains 4 different types of card games to gamble at which are 5 Card Draw, 7 Card Stud, 5 Card Stud, and Texas Hold'em. The player has the option during hands to either call, raise, or fold. If one of the four computer opponents wins a hand, a short FMV clip is played. The games original packaging includes a small paperback "The Basics of Winning Poker" by J. Edward Allen.
+assets.boxfront: ./media/mixart/Cowboy Casino (USA).png
+assets.video: ./media/snap/Cowboy Casino (USA).mp4
+assets.logo: ./media/wheel/Cowboy Casino (USA).png
+assets.screenshot: ./media/screenshot/Cowboy Casino (USA).png
+
+
+game: Crash 'n Burn
+file: ./Crash 'n Burn (USA) (Not for Resale).chd
+sort-by: Crash 'n Burn
+developer: Crystal Dynamics
+publisher: Crystal Dynamics
+genres:
+	Action
+	Racing
+release: 1993-01-01
+players: 1
+rating: 80%
+description:
+	Crash â€˜n Burn is a racing game with vehicle-mounted guns and rockets. There is both a Rally mode and a Tournament mode to compete in. In the Rally Mode you race your way through up to 30 tracks with the goal of staying alive and destroying the other contenders while you try and finish in the top three. If you succeed then you advance to the next track.
+assets.boxfront: ./media/mixart/Crash 'n Burn (USA) (Not for Resale).png
+assets.video: ./media/snap/Crash 'n Burn (USA) (Not for Resale).mp4
+assets.logo: ./media/wheel/Crash 'n Burn (USA) (Not for Resale).png
+assets.screenshot: ./media/screenshot/Crash 'n Burn (USA) (Not for Resale).png
+
+
+game: Creature Shock
+files:
+	./Creature Shock (USA) (Disc 1).chd
+	./Creature Shock (USA) (Disc 2).chd
+sort-by: Creature Shock
+developer: Virgin
+publisher: Argonaut Software
+genres:
+	Action
+	Horror
+release: 1996-01-01
+players: 1
+rating: 100%
+description:
+	The earth is overpopulated and mankind must find a second home. The spaceship Amazon is sent to investigate Saturn and Jupiter for possible colonization. Near the end of its mission, all contact is lost with the ship except for a distress beacon. The player is part of the crew sent to the Amazon's last known location to find out what happened.
+	Creature Shock is a first-person shooter with Full Motion Video and arcade-like elements. Aliens of all sizes and types will try to destroy the team, but each one has a weak point that can be exploited. The fighting takes place on the surface of asteroids and within mazes of passageways underground.
+	There are also two 3D sections where the player gets to pilot the ship.
+assets.boxfront: ./media/mixart/Creature Shock (USA) (Disc 1).png
+assets.video: ./media/snap/Creature Shock (USA) (Disc 1).mp4
+assets.logo: ./media/wheel/Creature Shock (USA) (Disc 1).png
+assets.screenshot: ./media/screenshot/Creature Shock (USA) (Disc 1).png
+
+
+game: Crime Patrol
+file: ./Crime Patrol (USA).chd
+sort-by: Crime Patrol
+developer: American Laser Games
+publisher: American Laser Games
+genres:
+	Action
+	Shooter
+release: 1994-01-01
+players: 2
+rating: 70%
+description:
+	Crime Patrol puts the player in the shoes of a police officer, who starts as a Rookie and has to work his way up to become a member of SWAT and eventually the Delta Force team. To do that, he has to complete missions, which involve taking down criminals in a variety of locations. Beginning with smaller-scale criminals (such as shoplifters), the hero will later have to face gangsters, drug lords, and eventually terrorists. For each set of missions, the player characters is being teamed up with another police officer. The gameplay is quite similar to any other of the large live-action laser-gun games found in the arcades - all the player has to do is take the gun (or the mouse in the computer version) and show those criminals who's the boss!
+assets.boxfront: ./media/mixart/Crime Patrol (USA).png
+assets.video: ./media/snap/Crime Patrol (USA).mp4
+assets.logo: ./media/wheel/Crime Patrol (USA).png
+assets.screenshot: ./media/screenshot/Crime Patrol (USA).png
+
+
+game: Cyberdillo
+file: ./CyberDillo (USA).chd
+sort-by: CyberDillo
+developer: Pixel Technologies
+publisher: Panasonic
+genres:
+	Action
+	Shooter
+release: 1996-01-01
+players: 1
+rating: 50%
+description:
+	After being run over by a car, our hero Armadillo is brought back to life by an evil cyber-genetic company. He sets out to stop their evil plans in psychedelic 70's era levels when disco was king. Gather items such as bell bottoms, platform shoes, 8-track players, and lava lamps to keep your shield and funk levels up.
+assets.boxfront: ./media/mixart/CyberDillo (USA).png
+assets.video: ./media/snap/CyberDillo (USA).mp4
+assets.logo: ./media/wheel/CyberDillo (USA).png
+assets.screenshot: ./media/screenshot/CyberDillo (USA).png
+
+
+game: Cyberia
+file: ./Cyberia (USA).chd
+sort-by: Cyberia
+developer: Xatrix
+publisher: Interplay
+genres:
+	Action
+	Shooter
+release: 1996-01-02
+players: 1
+rating: 100%
+description:
+	In the year 2027 the world is controlled by two rival super-powers, the western-bloc Free World Alliance and the east-bloc Cartel. Transmissions from an FWA spy reveal the location of a secret multi-national laboratory deep within Siberia, the "Cyberia Complex", where a mysterious weapon is being developed. FWA leader Devlin frees a cyber-hacker named Zak from prison and sends him to infiltrate the complex and discover the true nature of the Cyberia weapon.
+assets.boxfront: ./media/mixart/Cyberia (USA).png
+assets.video: ./media/snap/Cyberia (USA).mp4
+assets.logo: ./media/wheel/Cyberia (USA).png
+assets.screenshot: ./media/screenshot/Cyberia (USA).png
+
+
+game: D
+files:
+	./D (USA, Europe) (Disc 1).chd
+	./D (USA, Europe) (Disc 2).chd
+sort-by: D
+developer: Panasonic
+publisher: WARP
+genre: Adventure
+release: 1995-01-01
+players: 1
+rating: 80%
+description:
+	D is basically an adventure game in which the player controlled main character Laura Harris, who must find out why her father has gone on a murderous rampage and is holding hostages in a hospital. The game uses pre-generated computer graphics and full motion video to tell its story. The player has two hours to solve the mystery of why Laura's father went on his bloody maasacre. The player manipulates the Laura character from both a first person and third person perspectives.
+	The game has several endings, a time's up ending, a good and bad ending, and a 100% completion ending. The ending a player witnessed was based on their actions throughout the game. The 100% complete ending includes the good ending and the addition of the sounds of a newborn baby crying. Some players inexplicably concluded that this sound of a baby crying meant that the visibly not pregnant Laura gave birth at the end of the game, a storyline development that some misguidedly believed would lead directly into the sequel, D2.
+assets.boxfront: ./media/mixart/D (USA, Europe) (Disc 1).png
+assets.video: ./media/snap/D (USA, Europe) (Disc 1).mp4
+assets.logo: ./media/wheel/D (USA, Europe) (Disc 1).png
+assets.screenshot: ./media/screenshot/D (USA, Europe) (Disc 1).png
+assets.background: ./media/background/D (USA, Europe) (Disc 1).jpg
+
+
+game: D's Diner - The Director's Cut
+files:
+	./D's Diner - The Director's Cut (Japan) (Disc A).chd
+	./D's Diner - The Director's Cut (Japan) (Disc B).chd
+	./D's Diner - The Director's Cut (Japan) (Disc C).chd
+sort-by: D's Diner - The Director's Cut
+developer: Panasonic
+publisher: WARP
+genre: Adventure
+release: 1995-01-01
+players: 1
+rating: 80%
+description:
+	D is basically an adventure game in which the player controlled main character Laura Harris, who must find out why her father has gone on a murderous rampage and is holding hostages in a hospital. The game uses pre-generated computer graphics and full motion video to tell its story. The player has two hours to solve the mystery of why Laura's father went on his bloody maasacre. The player manipulates the Laura character from both a first person and third person perspectives.
+	The game has several endings, a time's up ending, a good and bad ending, and a 100% completion ending. The ending a player witnessed was based on their actions throughout the game. The 100% complete ending includes the good ending and the addition of the sounds of a newborn baby crying. Some players inexplicably concluded that this sound of a baby crying meant that the visibly not pregnant Laura gave birth at the end of the game, a storyline development that some misguidedly believed would lead directly into the sequel, D2.
+assets.boxfront: ./media/mixart/D's Diner - The Director's Cut (Japan) (Disc A).png
+assets.video: ./media/snap/D's Diner - The Director's Cut (Japan) (Disc A).mp4
+assets.logo: ./media/wheel/D's Diner - The Director's Cut (Japan) (Disc A).png
+assets.screenshot: ./media/screenshot/D's Diner - The Director's Cut (Japan) (Disc A).png
+assets.background: ./media/background/D's Diner - The Director's Cut (Japan) (Disc A).jpg
+
+
+game: The Daedalus Encounter
+files:
+	./Daedalus Encounter, The (USA) (Disc 1).chd
+	./Daedalus Encounter, The (USA) (Disc 2).chd
+	./Daedalus Encounter, The (USA) (Disc 3).chd
+	./Daedalus Encounter, The (USA) (Disc 4).chd
+sort-by: Daedalus Encounter, The
+developer: Mechadeus
+publisher: Matsushita
+genre: Adventure
+release: 1995-01-01
+players: 1
+rating: 80%
+description:
+	The interstellar war is over, leaving you, a casualty, as a disembodied brain inside a life support system. Your buddies rescue you from the lab so that you can go exploring - scavenging the galaxy for wreckage and artifacts left over from the war. In due course you stumble literally into an alien craft. With your own craft disabled, and the alien ship on a collision course, you must explore it to find out what has gone wrong and to make a course correction.
+	Gameplay consists of conversations with your colleagues (displayed as live action video), animated exploration sequences, as well as puzzle-solving that mostly involves figuring out how to operate alien mechanisms. There is also a maze sequence and sporadic action-based tasks. There is no inventory to speak of, because, being a brain in a box. you have no pockets.
+	All the action takes place in an in-game window that is your view of the world. It takes up only a small part of the screen and the rest of the screen is taken up with a kind of fleshy 'inside of your head' background that is there to remind you that you are inside a machine. Three difficulty settings, in-game instruction and assistance, as well as a few extras (such as high-resolution pictures) are included.
+assets.boxfront: ./media/mixart/Daedalus Encounter, The (USA) (Disc 1).png
+assets.video: ./media/snap/Daedalus Encounter, The (USA) (Disc 1).mp4
+assets.logo: ./media/wheel/Daedalus Encounter, The (USA) (Disc 1).png
+assets.screenshot: ./media/screenshot/Daedalus Encounter, The (USA) (Disc 1).png
+
+
+game: DeathKeep
+file: ./DeathKeep (USA).chd
+sort-by: DeathKeep
+developer: Lion Entertainment
+publisher: Strategic Simulations
+genres:
+	Action
+	Role-Playing
+release: 1995-11-01
+players: 1
+rating: 60%
+description:
+	Deathkeep is a 1st person perspective single-player "shooter" game with a touch of medieval AD&D gameplay in a full 3D environment.
+	Gameplay consists mostly of adventuring and flattening every living and non-living creature in your way. Destroying monsters allows the character to level-up and become more powerful as well as gain new spells. The dungeons are filled with traps, streams, caverns, ledges, and every possible obstacle to cause the player to lose their way in this maze of mazes.
+assets.boxfront: ./media/mixart/DeathKeep (USA).png
+assets.video: ./media/snap/DeathKeep (USA).mp4
+assets.logo: ./media/wheel/DeathKeep (USA).png
+assets.screenshot: ./media/screenshot/DeathKeep (USA).png
+
+
+game: Decathlon
+file: ./Decathlon (USA) (Unl).chd
+sort-by: Decathlon
+developer: 3DO
+publisher: 3DO
+genre: Sports
+players: 1
+rating: 30%
+description:
+	Just how agile are your fingers? Find out, as you vie for the lofty title of World's Greatest Athlete. As indicated by the game's title, there are 10 events in which to compete: 100-Meter Dash, 400-Meter Dash, Long Jump, Shot Put, 11-meter hurdles, Pole Vault, Discus, Javelin, High Jump, and 1,500-Meter Run. Create your own characters to take into action, distributing points in agility, speed, stamina, and power. There'll be a full crowd on hand to watch all of the events, so don't screw up!
+assets.boxfront: ./media/mixart/Decathlon (USA) (Unl).png
+assets.video: ./media/snap/Decathlon (USA) (Unl).mp4
+assets.logo: ./media/wheel/Decathlon (USA) (Unl).png
+assets.screenshot: ./media/screenshot/Decathlon (USA) (Unl).png
+
+
+game: Defcon 5
+file: ./Defcon 5 (Japan).chd
+sort-by: Defcon 5
+developer: Millennium Interactive
+publisher: Panasonic
+genres:
+	Action
+	Shooter
+release: 1995-01-01
+players: 1
+rating: 60%
+description:
+	As a "cyberneer" working for the fictional Tyron Corporation, the player is tasked with installing an automated defense software at the deep space mining installation named MRP-6F, a large compound located around the top of a crater in which mining operations take place. Its purpose is to defend the mining installation from hostile attack. For this purpose the installation houses six powerful defense turrets installed around the crater, as well as a myriad of support systems for power generation and munitions stores for those armaments.
+	The game is reminiscent of the System Shock series in terms of gameplay. The player must explore the base in order to find items which is needed to establish a line of defense and ultimately escape the installation. This involves fighting off the invading enemies by deploying the defense turrets effectively and using the installation's computer terminals (called "VOS terminals") in order to hinder the intruder's advance.
+	The computer terminals in the game offer an unusual wide range of interaction. Players can use them to remotely control the defense turrets, load ammunition and inspect the turrets for damage and deploy combat droids within the installation's perimeters. Doors can be controlled from the VOS terminals in order to control access to the installation's different areas. The player can use this capability to lock in enemy forces in parts of the installation.
+	A view of the VOS terminal GUI.
+	The game also allows the player to fight the invaders by shooting them, but this is discouraged by the fact that new enemies arrive with each passing wave of attacking ships. Also, any fighting in the installation greatly degrades the air quality in the immediate area once an enemy is destroyed. The computer might even seal doors to polluted areas, sometimes trapping the player. The player can dissolve the pollution by opening doors to adjacent areas, and the pollution levels can be monitored in the VOS terminal's environmental module.'
+	Defensive software being modified for improved performance.
+	The installation consists of two major towers with seven floors each (the administrative and domestic blocks), three hangars, a service level, six turrets and a control room. All these are linked by a subway-train like transportation system named "LIMO". Several elevator systems also connect the different levels. This complex layout enables players to avoid enemies by choosing an alternate route to their destination.
+assets.boxfront: ./media/mixart/Defcon 5 (Japan).png
+assets.video: ./media/snap/Defcon 5 (Japan).mp4
+assets.logo: ./media/wheel/Defcon 5 (Japan).png
+assets.screenshot: ./media/screenshot/Defcon 5 (Japan).png
+
+
+game: Demolition Man
+file: ./Demolition Man (USA).chd
+sort-by: Demolition Man
+developer: Virgin Interactive
+publisher: Virgin
+genre: Action
+release: 1994-10-01
+players: 1
+rating: 85%
+description:
+	There are three difficulty levels: easy, normal, and hard. The game is broken up into levels, which divides up the gameplay style as not all the levels are played the same. Levels are mostly first person rail shooter segments, although some levels are not on rails and are similar to Doom. The 3DO Gamegun is supported for the rail shooter segments. One-on-one fighting levels are similar to Mortal Kombat, in that they feature digitized sprites viewed from a side perspective. There is also a driving segment near the end of the game. Due to the advanced 3DO sound engine, the soundtrack is ripped directly from the movie, and full motion video both from the movie and exclusive to the game are also included.
+assets.boxfront: ./media/mixart/Demolition Man (USA).png
+assets.video: ./media/snap/Demolition Man (USA).mp4
+assets.logo: ./media/wheel/Demolition Man (USA).png
+assets.screenshot: ./media/screenshot/Demolition Man (USA).png
+
+
+game: DinoPark Tycoon
+file: ./DinoPark Tycoon (USA).chd
+sort-by: DinoPark Tycoon
+developer: Manley & Associates, Inc.
+publisher: MECC
+genres:
+	Construction and Management Simulation
+	Education
+release: 1994-01-01
+players: 1
+rating: 70%
+description:
+	One of the more original "business" games made, DinoPark Tycoon is both a strategy and educational game. Build a theme park showing off various types of dinosaurs.
+	You are in charge, and have to do many things, including:borrowing money
+	buying and selling dinosaurs
+	buying fences to keep them in, including electric fences for extra security
+	hiring staff, such as maintenance, cooks, tour guides, vets
+	building and expanding your park to include things such as washrooms, concession stands, and parking lots
+	setting admission fees
+	advertising your parkTo aid you in making decisions, the game includes these plus more features:dinosaur fact guide
+	daily records
+	quarterly financial reports
+	calenderThere are many more features, such as the ability to buy seeds so you can grow your own plant life for the herbivores. If you want to take a break from the business part, you can watch your park and see people walking through the park and other things.
+assets.boxfront: ./media/mixart/DinoPark Tycoon (USA).png
+assets.video: ./media/snap/DinoPark Tycoon (USA).mp4
+assets.logo: ./media/wheel/DinoPark Tycoon (USA).png
+assets.screenshot: ./media/screenshot/DinoPark Tycoon (USA).png
+
+
+game: Doctor Hauzer
+file: ./Doctor Hauzer (Japan) (Translated En).chd
+sort-by: Doctor Hauzer
+developer: Panasonic
+publisher: River Hill Software
+genre: Horror
+release: 1994-04-29
+players: 1
+rating: 80%
+description:
+	In 1952, An investigator searching for the archeologist Dr. Hauzer has disappeared. He built his house over an archeologist site and became obsessed with the deity Kellbim to whom he sacrifices his interns. You will die numerous times in the house's deadly traps but you have unlimited save games so you can viewing the death animations is part of the fun. You can switch the view between first-person, third-person or overhead. Choosing a different view will help you overcome some traps.
+assets.boxfront: ./media/mixart/Doctor Hauzer (Japan) (Translated En).png
+assets.video: ./media/snap/Doctor Hauzer (Japan) (Translated En).mp4
+assets.logo: ./media/wheel/Doctor Hauzer (Japan) (Translated En).png
+assets.screenshot: ./media/screenshot/Doctor Hauzer (Japan) (Translated En).png
+
+
+game: Doom
+file: ./Doom (USA).chd
+sort-by: Doom
+developer: Art Data Interactive
+publisher: id Software
+genre: Shooter
+release: 1996-04-26
+players: 1
+rating: 50%
+description:
+	The Union Aerospace Corporation has been experimenting with teleportation technology on Mars' moons Phobos and Deimos. After early successes, something goes wrong. It seems the scientists have opened a gateway straight to Hell. Phobos base is overrun with demonic creatures, and the whole of Deimos simply vanishes. A squad of marines is sent to Phobos, but all except one are quickly slaughtered. It falls to the surviving marine to grab some guns and strike back at the demons.
+assets.boxfront: ./media/mixart/Doom (USA).png
+assets.video: ./media/snap/Doom (USA).mp4
+assets.logo: ./media/wheel/Doom (USA).png
+assets.screenshot: ./media/screenshot/Doom (USA).png
+assets.background: ./media/background/Doom (USA).jpg
+
+
+game: Dragon Lore: The Legend Begins
+files:
+	./Dragon Lore - The Legend Begins (USA) (Disc 1).chd
+	./Dragon Lore - The Legend Begins (USA) (Disc 2).chd
+	./Dragon Lore - The Legend Begins (USA) (Disc 3).chd
+sort-by: Dragon Lore - The Legend Begins
+developer: Mindscape
+publisher: Cryo Interactive
+genres:
+	Action
+	Role-Playing
+release: 1994-01-01
+players: 1
+rating: 70%
+description:
+	You are Werner Von Wallenrod, an orphan living in a realm lost in time. You leave to travel across these lands and meet fantastically surreal characters who help you in your quest for truth. Your father was assassinated by the Devil's Horseman, Haagen Von Kiakonov, has vowed to destroy everything you know and love. Just before your father died, he was able to entrust you with a farmer in the kingdom, but now the hour has arrived for you to take up arms and defend your country.
+	Inexperienced in the art of combat, you must prove yourself all throughout the voyage that awaits you.
+assets.boxfront: ./media/mixart/Dragon Lore - The Legend Begins (USA) (Disc 1).png
+assets.video: ./media/snap/Dragon Lore - The Legend Begins (USA) (Disc 1).mp4
+assets.logo: ./media/wheel/Dragon Lore - The Legend Begins (USA) (Disc 1).png
+assets.screenshot: ./media/screenshot/Dragon Lore - The Legend Begins (USA) (Disc 1).png
+
+
+game: Dragon's Lair
+file: ./Dragon's Lair (USA) (RE1).chd
+sort-by: Dragon's Lair
+developer: ReadySoft
+publisher: ReadySoft
+genre: Action
+release: 1994-01-01
+players: 1
+rating: 40%
+description:
+	Dragon's Lair features the hero, Dirk the Daring, attempting to rescue Princess Daphne from the evil dragon Singe, who has locked Princess Daphne in the foul wizard Mordroc's castle. The screen shows animated cutscenes, and the player executes an action by selecting a direction or pressing the sword button with correct timing, requiring the player to memorize each scenario in order to clear each quick time event. The comedy aspects of the game stemmed not only from the bizarre looking creatures and humorous death scenes, but also the fact that while Dirk was a skilled knight, he was somewhat clumsy in his efforts, as well as being a reluctant hero, prone to shrieking and reacting in horror to the various dangers he encounters.
+assets.boxfront: ./media/mixart/Dragon's Lair (USA) (RE1).png
+assets.video: ./media/snap/Dragon's Lair (USA) (RE1).mp4
+assets.logo: ./media/wheel/Dragon's Lair (USA) (RE1).png
+assets.screenshot: ./media/screenshot/Dragon's Lair (USA) (RE1).png
+assets.background: ./media/background/Dragon's Lair (USA) (RE1).jpg
+
+
+game: Drug Wars
+file: ./Drug Wars (USA).chd
+sort-by: Drug Wars
+developer: American Laser Games
+publisher: American Laser Games
+genre: Shooter
+release: 1994-01-01
+players: 2
+rating: 50%
+description:
+	Targeting the entire illegal drug distribution chain is truly an international war. Drug Wars will take you through it all from small town traffickers to big city organized cartels. You will be involved with the border patrol tracking international drug runners. If your shooting skills are good enough, you'll be assigned to South America to destroy the source and capture the drug king.
+assets.boxfront: ./media/mixart/Drug Wars (USA).png
+assets.video: ./media/snap/Drug Wars (USA).mp4
+assets.logo: ./media/wheel/Drug Wars (USA).png
+assets.screenshot: ./media/screenshot/Drug Wars (USA).png
+
+
+game: Endlessly
+file: ./Endlessly (USA).chd
+sort-by: Endlessly
+developer: Vivid Interactive
+publisher: Vivid Interactive
+genre: Adult
+release: 1995-01-01
+players: 1
+rating: 10%
+description:
+	Endlessly is actually less of a game, but more of a short pornographic flick with three chapters you can choose from on a DVD style menu. It also includes trailers for other Vivid Interactive games on 3DO.
+assets.boxfront: ./media/mixart/Endlessly (USA).png
+assets.logo: ./media/wheel/Endlessly (USA).png
+assets.screenshot: ./media/screenshot/Endlessly (USA).png
+
+
+game: Escape from Monster Manor
+file: ./Escape from Monster Manor (USA).chd
+sort-by: Escape from Monster Manor
+developer: Panasonic
+publisher: Electronic Arts
+genre: Shooter
+release: 1993-01-01
+players: 1
+rating: 90%
+description:
+	The undead have been unleashed upon the world. Only a holy talisman can destroy them, but it has been broken into pieces and hidden in Monster Manor. Now you must venture into the cursed mansion and find the pieces so that humanity may be saved.
+	The game is a first-person-shooter where you have to destroy enemies like ghosts, skeletons and zombies using your only gun. Items scattered around the house include health packs, gun energy, treasure and keys that are used to open doors that block your way to the next talisman piece. The game has twelve levels.
+assets.boxfront: ./media/mixart/Escape from Monster Manor (USA).png
+assets.video: ./media/snap/Escape from Monster Manor (USA).mp4
+assets.logo: ./media/wheel/Escape from Monster Manor (USA).png
+assets.screenshot: ./media/screenshot/Escape from Monster Manor (USA).png
+
+
+game: Fatty Bear's Birthday Surprise
+file: ./Fatty Bear's Birthday Surprise (USA).chd
+sort-by: Fatty Bear's Birthday Surprise
+developer: Humongous Entertainment
+publisher: Humongous Entertainment
+genres:
+	Adventure
+	Education
+release: 1993-01-01
+players: 10
+rating: 60%
+description:
+	Fatty Bear's Birthday Surprise is the second video game made by Humongous Entertainment (the first being Putt-Putt Joins the Parade) and the first and only of the Fatty Bear point and click adventure games, though the character was also used in the mini-game compilation Fatty Bear's Fun Pack and the crossover spinoff Putt-Putt & Fatty Bear's Activity Pack, which was a combination of the previous game as well as a similar game featuring HE's character Putt-Putt. It was released in 1993 on both floppy disks and CD-ROM for DOS and Macintosh as well as the 3DO Interactive Multiplayer.
+assets.boxfront: ./media/mixart/Fatty Bear's Birthday Surprise (USA).png
+assets.video: ./media/snap/Fatty Bear's Birthday Surprise (USA).mp4
+assets.logo: ./media/wheel/Fatty Bear's Birthday Surprise (USA).png
+assets.screenshot: ./media/screenshot/Fatty Bear's Birthday Surprise (USA).png
+
+
+game: Fatty Bear's Funpack
+file: ./Fatty Bear's Funpack (USA).chd
+sort-by: Fatty Bear's Funpack
+developer: Humongous Entertainment
+publisher: Humongous Entertainment
+genres:
+	Adventure
+	Education
+release: 1993-10-01
+players: 1
+rating: 80%
+description:
+	Fatty Bear's Fun Pack was Fatty Bear's final appearance as a solo character, but he still did made a cameo in Putt-Putt Saves The Zoo and was referenced in many games afterward. Activities/games included Reversi, Go Fish, Lines and Boxes, Tangrams, and Coloring, all five of which reappeared in Putt-Putt & Fatty Bear's Activity Pack.
+assets.boxfront: ./media/mixart/Fatty Bear's Funpack (USA).png
+assets.video: ./media/snap/Fatty Bear's Funpack (USA).mp4
+assets.logo: ./media/wheel/Fatty Bear's Funpack (USA).png
+assets.screenshot: ./media/screenshot/Fatty Bear's Funpack (USA).png
+
+
+game: Flashback: The Quest for Identity
+file: ./Flashback - The Quest for Identity (USA) (En,Fr).chd
+sort-by: Flashback - The Quest for Identity
+developer: U.S. Gold
+publisher: Delphine Software International
+genres:
+	Adventure
+	Platform
+release: 1994-01-01
+players: 1
+rating: 85%
+description:
+	Flashback is a platform action adventure. You navigate Conrad over the platforms, performing various moves. You can simply jump or do a longer run-and-jump, run, climb, hang off ledges, and pick up objects lying on the ground. To defend yourself, you shoot enemies with your gun and also use various objects (such as stones) to harm or to distract them.
+assets.boxfront: ./media/mixart/Flashback - The Quest for Identity (USA) (En,Fr).png
+assets.video: ./media/snap/Flashback - The Quest for Identity (USA) (En,Fr).mp4
+assets.logo: ./media/wheel/Flashback - The Quest for Identity (USA) (En,Fr).png
+assets.screenshot: ./media/screenshot/Flashback - The Quest for Identity (USA) (En,Fr).png
+assets.background: ./media/background/Flashback - The Quest for Identity (USA) (En,Fr).jpg
+
+
+game: Flopon World
+file: ./Flopon World (Japan).chd
+sort-by: Flopon World
+developer: WARP
+publisher: WARP
+genre: Puzzle
+release: 1995-09-14
+players: 2
+rating: 75%
+description:
+	A Minigame collection for the 3DO, developed and published by WARP, which was released in Japan in 1995.
+assets.boxfront: ./media/mixart/Flopon World (Japan).png
+assets.video: ./media/snap/Flopon World (Japan).mp4
+assets.logo: ./media/wheel/Flopon World (Japan).png
+assets.screenshot: ./media/screenshot/Flopon World (Japan).png
+
+
+game: Flying Nightmares
+file: ./Flying Nightmares (USA).chd
+sort-by: Flying Nightmares
+developer: Lifelike Productions
+publisher: Domark
+genre: Flight Simulator
+release: 1995-01-01
+players: 1
+rating: 60%
+description:
+	Flying Nightmares is a 3-D flight-sim game that has the player take to the controls of the Harrier jet, flying in a series of missions with realistic controls and weapon systems against a horde of enemy planes and ground units.
+	The player can also fly alongside three computer wingmen that will help them out during missions, completing certain objectives such as destroying certain enemy units or protecting friendly units. There is a multitude of views to choose from (1st, 3rd and even a missiles POV) and features FMV sequences between missions that tell the story of the game.
+assets.boxfront: ./media/mixart/Flying Nightmares (USA).png
+assets.video: ./media/snap/Flying Nightmares (USA).mp4
+assets.logo: ./media/wheel/Flying Nightmares (USA).png
+assets.screenshot: ./media/screenshot/Flying Nightmares (USA).png
+
+
+game: Foes of Ali
+file: ./Foes of Ali (USA).chd
+sort-by: Foes of Ali
+developer: Grey Matter
+publisher: EA Sports
+genre: Sports
+release: 1995-01-01
+players: 2
+rating: 75%
+description:
+	Foes of Ali is a 3-D boxing game with ten different boxers to choose from: George Chuvalo, Henry Cooper, Jimmy Ellis, Bob Foster, Joe Frazier, Sonny Liston, Ken Norton, Leon Spinks, Chuck Wepner and of course the games namesake Muhammad Ali.
+	There are three modes to choose from: Exhibition where the player can choose any boxer to fight another, or the player can choose any of Ali's historic fights to play, Tournament where a player fights a series of boxers in an 8 man tournament tree to become champion and Career Mode, where the player can only play as Muhammed Ali and fight the other boxers in order as he did in real life.
+	Players fight opponents with the basic punch moves, jabs, uppercuts and hooks along with defensive moves like blocking and grabbing. Fatigue is not simulated, but players can slow down their opponents after a series of large successful hits along with bruises, blooded and black eyes.
+	There are 21 different camera views to choose from, including first-person that will react to their fighters being hit (ex. if a player keeps getting hit in the eyes, the screen will start to blacken, simulating a swollen eye and if they take a hard enough punch they will actually see the game through double vision). Championship photos of each boxer is also show before a fight and commentary is provided by Tim Gammon.
+assets.boxfront: ./media/mixart/Foes of Ali (USA).png
+assets.video: ./media/snap/Foes of Ali (USA).mp4
+assets.logo: ./media/wheel/Foes of Ali (USA).png
+assets.screenshot: ./media/screenshot/Foes of Ali (USA).png
+assets.background: ./media/background/Foes of Ali (USA).jpg
+
+
+game: Fun 'n Games: Soft no Omochabako
+file: ./Fun 'n Games - Soft no Omochabako (Japan) (En,Ja).chd
+sort-by: Fun 'n Games - Soft no Omochabako
+developer: Williams
+publisher: Panasonic
+genres:
+	Action
+	Education
+release: 1994-01-01
+players: 1
+rating: 80%
+description:
+	This version of Fun 'N Games is a bit different from this version of the game. The paint, music, and style portion of this game are basically the same as the other version of the game, so the main difference is that there are a few more and different games in this version.
+	The games included are:
+	"Max & Maxine" is a Pac-Man  type game in which the player controls a mouse trying to collect all the cheese in the maze while avoiding getting hit by enemies. If the mouse eats a power up, it doubles in size and can now eat the enemies for a limited amount of time before it returns to normal size.
+	"Space Cadet" has the player shooting enemies from the cockpit of a spaceship.
+	"Aquashark" is a typical horizontal shoot-em up with the setting of the oceans of the future.
+	"Whereabouts" is the typical memory match game where the player flips over cards trying to match them to other flipped over cards.
+	"Sliding Puzzle" lets the player choose a picture to get scrambled and it's up to the player to slide the tiles into the correct positions to get the picture complete again.
+assets.boxfront: ./media/mixart/Fun 'n Games - Soft no Omochabako (Japan) (En,Ja).png
+assets.video: ./media/snap/Fun 'n Games - Soft no Omochabako (Japan) (En,Ja).mp4
+assets.logo: ./media/wheel/Fun 'n Games - Soft no Omochabako (Japan) (En,Ja).png
+assets.screenshot: ./media/screenshot/Fun 'n Games - Soft no Omochabako (Japan) (En,Ja).png
+
+
+game: Gex
+file: ./Gex (USA, Europe).chd
+sort-by: Gex
+developer: Crystal Dynamics
+publisher: Crystal Dynamics
+genres:
+	Action
+	Platform
+release: 1995-01-01
+players: 1
+rating: 75%
+description:
+	Enter your television to defeat the evil Rez by collecting remotes to  open worlds inside your tv.
+	You are a gecko with all the usual platform hero skills such as jump, fire and close range attack, but also suction cups to help you scale walls, a tongue to pick up those tricky to get power-ups
+	and plenty of wise-cracks to keep you amused. Use them all to make your way through TV land searching for the remotes, collecting pickups, power-ups and killing TVs.
+assets.boxfront: ./media/mixart/Gex (USA, Europe).png
+assets.video: ./media/snap/Gex (USA, Europe).mp4
+assets.logo: ./media/wheel/Gex (USA, Europe).png
+assets.screenshot: ./media/screenshot/Gex (USA, Europe).png
+assets.background: ./media/background/Gex (USA, Europe).jpg
+
+
+game: Gridders
+file: ./Gridders (USA).chd
+sort-by: Gridders
+developer: Tetragon
+publisher: Panasonic
+genre: Puzzle
+release: 1994-01-01
+players: 1
+rating: 65%
+description:
+	In this Klax-like puzzle game, the player is cast as a boy named Zack, who's only goal is to reach the basement of an evil corporation in order to destroy it, but first he has to get through 36 levels of death in order to reach it.
+	.
+	His main obstacle is to avoid giant Gridder blocks, which can crush poor Zack within an instant. To get out of the level, the player has to solve a puzzle for each level and collect green pyramid keys throughout the level. Along with the dangerous Gridder's, Zack must also avoid trap doors, elevator squares and diversion squares to name a few.
+assets.boxfront: ./media/mixart/Gridders (USA).png
+assets.video: ./media/snap/Gridders (USA).mp4
+assets.logo: ./media/wheel/Gridders (USA).png
+assets.screenshot: ./media/screenshot/Gridders (USA).png
+
+
+game: Guardian War
+file: ./Guardian War (USA).chd
+sort-by: Guardian War
+developer: Panasonic
+publisher: Panasonic
+genre: Role-Playing
+release: 1994-01-01
+players: 1
+rating: 70%
+description:
+	In a classic Japanese RPG style, Guardian War pits you as guardian golem against the dark forces of Azrael, the Evil Lord.  Your world is infested with monsters and your job is to destroy them.  Along the way you meet other golems that you need to revive so that they can join your quest.  Your ultimate goal is to defeat Azrael.
+	.
+	RPG elements are fairly standard with hit points, magic points, speed, mobility, skills, etc.  Each golem type has specific abilities, for example Priest is strong in Light Magic whereas Archer is strong in arrow attacks.  General movement is done on the World map which is divided into Fields and player is able to see which Fields are occupied by the enemy.  Shops are only accessible on the World map.  Selecting a Field takes the group of golems into a Field map which is presented in pseudo-3D.
+	.
+	Player can freely travel the Field map, finding treasures and other items, periodically bumping into enemy groups.  Battles are fought in turns on the same map, there is no separate battle screen.  Movement is into main compass directions only and the player controls the whole group when travelling.  Only during battle are each group member individually controllable.
+assets.boxfront: ./media/mixart/Guardian War (USA).png
+assets.video: ./media/snap/Guardian War (USA).mp4
+assets.logo: ./media/wheel/Guardian War (USA).png
+assets.screenshot: ./media/screenshot/Guardian War (USA).png
+
+
+game: Hell: A Cyberpunk Thriller
+file: ./Hell - A Cyberpunk Thriller (USA).chd
+sort-by: Hell - A Cyberpunk Thriller
+developer: Take 2 Interactive
+publisher: GameTek
+genre: Adventure
+release: 1994-01-01
+players: 1
+rating: 40%
+description:
+	In the near future, human beings have discovered that hell actually exists. The governing organization on the Earth, known as the Hand of God, controls the ways to hell. Demons can travel to our dimensions, while criminals are sent to hell instead of being locked in jails.
+	You take the roles of Gideon Eshanti and Rachel Braque, a couple who is working for the government. One night government agents arrive at their house and try to assassinate them. After a narrow escape, the two find themselves in hell. Now they have to figure out how to return to our world, and to find out why their employers wanted to kill them...
+	Hell: A Cyberpunk Thriller is an adventure game with simple point-and-click interface. You advance in the game by talking to people and manipulating objects to solve puzzles. The game utilizes pre-rendered backgrounds and FMV sequences as cut-scenes.
+assets.boxfront: ./media/mixart/Hell - A Cyberpunk Thriller (USA).png
+assets.video: ./media/snap/Hell - A Cyberpunk Thriller (USA).mp4
+assets.logo: ./media/wheel/Hell - A Cyberpunk Thriller (USA).png
+assets.screenshot: ./media/screenshot/Hell - A Cyberpunk Thriller (USA).png
+
+
+game: The Horde
+file: ./Horde, The (USA).chd
+sort-by: Horde, The
+developer: Toys For Bob
+publisher: Crystal Dynamics
+genres:
+	Action
+	Strategy
+release: 1984-01-01
+players: 1
+rating: 65%
+description:
+	You are Chauncey, a serving lad who saves his monarch from choking on his meal. The King rewards you with his magical sword, Grimthwacker, and a village, and the mission to go forth and prosper by felling waves of Hordlings, who are bent on eating everything in the province. The better you get at defending villagers, crops, and cows from Hordlings, the better equipped you become. Success wins you further favor from the King, along with bigger challenges and more enmity from the evil High Chancellor. There are several types of Hordlings, each with their peculiar style of picking through the edibles under your care. Success is measured by how many villagers and crops survive each season's gluttonous attacks.
+assets.boxfront: ./media/mixart/Horde, The (USA).png
+assets.video: ./media/snap/Horde, The (USA).mp4
+assets.logo: ./media/wheel/Horde, The (USA).png
+assets.screenshot: ./media/screenshot/Horde, The (USA).png
+
+
+game: Icebreaker
+file: ./Icebreaker (USA).chd
+sort-by: Icebreaker
+developer: Magnet
+publisher: Panasonic
+genres:
+	Puzzle
+	Shooter
+release: 1995-01-01
+players: 1
+rating: 80%
+description:
+	Icebreaker is a puzzle/shooter that has the player take control of a flying pyramid who has to navigate through 150 levels blasting other stationary pyramids.  The stationary pyramids are either green, blue or red and can turn into each others colors throughout a level. The red pyramids can be destroyed by being shot, the blue pyramids are destroyed by being touched, and the green pyramids are destroyed by luring enemy pyramids into them.
+	Speaking of enemy pyramids, each enemy pyramid has their own abilities:Orange pyramids have the ability to morph
+	Purple pyramids can dig pits that can trap the player
+	Green pyramids are very smart and can outwit the player
+	Yellow pyramids are very fast and maneuverable
+	There are also many different environments to play in such as ice fields, swamps, lava pits and bottomless pits, four different difficulty settings to choose from that range from easy to insane and eighteen different music tracks that can be changed during the game.
+assets.boxfront: ./media/mixart/Icebreaker (USA).png
+assets.video: ./media/snap/Icebreaker (USA).mp4
+assets.logo: ./media/wheel/Icebreaker (USA).png
+assets.screenshot: ./media/screenshot/Icebreaker (USA).png
+
+
+game: Icebreaker II
+file: ./Icebreaker II (USA) (Bonus Disk) (Unl).chd
+sort-by: Icebreaker II
+developer: Magnet Interactive Studios
+publisher: OlderGames
+genres:
+	Puzzle
+	Strategy
+release: 2007-08-03
+players: 1
+description:
+	(2011 Update) Icebreaker 2 was created but never released and, until recently, the only existing copy was in a custom built arcade style machine at creator Andrew Looney's house. Andrew Looney's Icebreaker 2 was made available for the 3DO by Older Games on August 3, 2007. By December 2007, Older Games had been purchased and is no longer selling the game. The game has a "peppy" soundtrack of simple electronic music.
+assets.boxfront: ./media/mixart/Icebreaker II (USA) (Bonus Disk) (Unl).png
+assets.video: ./media/snap/Icebreaker II (USA) (Bonus Disk) (Unl).mp4
+assets.logo: ./media/wheel/Icebreaker II (USA) (Bonus Disk) (Unl).png
+assets.screenshot: ./media/screenshot/Icebreaker II (USA) (Bonus Disk) (Unl).png
+
+
+game: Immercenary
+file: ./Immercenary - Combat in a Digital World (USA).chd
+sort-by: Immercenary - Combat in a Digital World
+developer: Five Miles Out
+publisher: EA Games
+genre: Shooter
+release: 1995-01-01
+players: 1
+rating: 75%
+description:
+	In the future, mankind has been enslaved in a virtual reality simulation known as Perfect. This simulation is controlled by an entity known as Perfect1 and it has to be destroyed in order to shut down the system. You are Immercenary Number Five, and it's your job to do it.
+	From a secret lab you log into the simulation which sends you to a place in Perfect known as the Garden. Every entity in the game has a certain rank that determines its offensive and defensive capabilities. You start at 255, the lowest rank, and must rise in ranks to defeat Perfect1, who holds rank number 1. To do so, you destroy higher-ranked Rithms, as the other entities in the game are called. To pass beyond certain ranks, unique Rithms high in the Perfect hierarchy have to be destroyed.
+	Different weapons and power-ups can be collected and spent offensive and defensive energy can be recharged at energy spires. In the center of the Garden is a place called DOAsys, which functions as a neutral zone and healing center. There you can talk to other Rithms and ask for hints about combating special Rithms and where to find special items. These dialogue sequences take the form of live action clips of actors in elaborate costumes playing the Rithms.
+	When the player logs out of the simulation or is violently forced out, he returns to the lab where one may load and save a game and access detailed statistics on the trips to Perfect.
+assets.boxfront: ./media/mixart/Immercenary - Combat in a Digital World (USA).png
+assets.video: ./media/snap/Immercenary - Combat in a Digital World (USA).mp4
+assets.logo: ./media/wheel/Immercenary - Combat in a Digital World (USA).png
+assets.screenshot: ./media/screenshot/Immercenary - Combat in a Digital World (USA).png
+
+
+game: Immortal Desire
+file: ./Immortal Desire (USA).chd
+sort-by: Immortal Desire
+developer: Vivid Interactive
+publisher: Vivid Interactive
+genre: Adult
+release: 1994-10-19
+players: 1
+rating: 75%
+description:
+	Sarah Jane Hamilton, Anna of Gables, is haunted by dark, erotic visions of unspeakable acts, which she struggles to understand. The one constant is a perversely beautiful voodoo ritual that appears in her dreams, and seems to hold the key to her past..
+assets.boxfront: ./media/mixart/Immortal Desire (USA).png
+assets.video: ./media/snap/Immortal Desire (USA).mp4
+assets.screenshot: ./media/screenshot/Immortal Desire (USA).png
+
+
+game: The Incredible Machine
+file: ./Incredible Machine, The (USA).chd
+sort-by: Incredible Machine, The
+developer: Dynamix
+publisher: Dynamix
+genre: Puzzle
+release: 1994-01-01
+players: 1
+rating: 80%
+description:
+	The Incredible Machine is a puzzle game where the player has to assemble a Rube Goldberg-type contraption to solve a simple puzzle.
+	.
+	The game consists of a series of puzzles, each having a simple objective, such as "put the baseball into the basket" or "turn on the fan". To achieve this, the player is given a number of parts such as: balls, girders, rope, balloons, seesaws, cats or monkeys, and his job is to arrange and connect them on the playfield, so that, upon clicking the "start puzzle" button, the whole contraption activates and achieves the objective.
+	.
+	For added difficulty, some puzzles have different gravity or air pressure from that of Earth.
+	.
+	There is also a freeform mode where the player is given an unlimited number of parts to construct a machine of his own invention. The machines created this way can be saved to disk.
+assets.boxfront: ./media/mixart/Incredible Machine, The (USA).png
+assets.video: ./media/snap/Incredible Machine, The (USA).mp4
+assets.logo: ./media/wheel/Incredible Machine, The (USA).png
+assets.screenshot: ./media/screenshot/Incredible Machine, The (USA).png
+
+
+game: Insect War
+file: ./Insector War (Japan).chd
+sort-by: Insector War
+developer: Riverhillsoft
+publisher: Riverhillsoft
+genre: Action
+release: 1994-12-16
+rating: 65%
+description:
+	Insector War is an Action game, published by Riverhillsoft, which was released in Japan in 1994.
+assets.boxfront: ./media/mixart/Insector War (Japan).png
+assets.video: ./media/snap/Insector War (Japan).mp4
+assets.logo: ./media/wheel/Insector War (Japan).png
+assets.screenshot: ./media/screenshot/Insector War (Japan).png
+
+
+game: Iron Angel of the Apocalypse: Tetsujin
+file: ./Iron Angel of the Apocalypse - Tetsujin (USA).chd
+sort-by: Iron Angel of the Apocalypse - Tetsujin
+developer: Synergy
+publisher: Synergy
+genre: Shooter
+release: 1994-01-01
+players: 1
+rating: 50%
+description:
+	You play a character known as Tetsujin. You are a cyborg/robot creation of an evil scientist. The scientist intended to use you to wipe out the human race, but instead you decided to turn against your maker and escape. The story unfolds as you fight your way to the top of a skyscraper to confront the mad scientist.
+assets.boxfront: ./media/mixart/Iron Angel of the Apocalypse - Tetsujin (USA).png
+assets.video: ./media/snap/Iron Angel of the Apocalypse - Tetsujin (USA).mp4
+assets.logo: ./media/wheel/Iron Angel of the Apocalypse - Tetsujin (USA).png
+assets.screenshot: ./media/screenshot/Iron Angel of the Apocalypse - Tetsujin (USA).png
+
+
+game: Iron Angel of the Apocalypse: The Return
+file: ./Iron Angel of the Apocalypse - The Return (USA).chd
+sort-by: Iron Angel of the Apocalypse - The Return
+developer: Synergy
+publisher: Synergy
+genre: Action
+release: 1995-01-01
+players: 1
+rating: 40%
+description:
+	Tetsujin returns in this sequel to Iron Angel of the Apocalypse. The story picks up shortly after the events of the previous game. After his showdown with the Scientist and the Android, Tetsujin finds himself disembodied. A mysterious corporation known as SCR gives you a new body, but their plans for your are mysterious.
+	The format of this game is mostly similar to the first. This is a first person shooter that relies heavily on video cutscenes to tell a story. The graphics engine has been improved greatly, giving this game a much faster pace than it's predecessor. Whereas the original used a combination of live actors and CG, this one uses CG to depict the humans as well.
+assets.boxfront: ./media/mixart/Iron Angel of the Apocalypse - The Return (USA).png
+assets.video: ./media/snap/Iron Angel of the Apocalypse - The Return (USA).mp4
+assets.logo: ./media/wheel/Iron Angel of the Apocalypse - The Return (USA).png
+assets.screenshot: ./media/screenshot/Iron Angel of the Apocalypse - The Return (USA).png
+
+
+game: Johnny Bazookatone
+file: ./Johnny Bazookatone (USA).chd
+sort-by: Johnny Bazookatone
+developer: Arc Developments
+publisher: U.S. Gold
+genre: Platform
+release: 1995-01-01
+players: 2
+rating: 75%
+description:
+	The original guitar hero with the Elvis attitude and purple hair pompadour, Johnny Bazookatone, has been imprisoned in the year 2050 in Sin Sin Prison by El Diablo, the Lord of the Underworld, who is jealous of his talent and kidnaps other musical legends as well in this 3D side-scrolling platformer.  Johnny's guitar Anita has been taken from him and he sets out to escape and vanquish foes on his way to be reunited with Anita.
+	.
+	He can perform moves such as 360-degree spin jumps, and hover jumps among others, while using his bazooka guitar as a weapon.  When powered up, it can emit a special sonic blast that fries anything within hearing range. As you make your way through the demonic levels such as Hotel Demonique, Hell's Kitchen, and Mr. Diablo's fiery Penthouse, you can  acquire more weapons, power-ups and find secret passages that lead to bonus levels. The game's soundtrack includes the title track contributed by Bon Jovi guitarist Richie Sambora and Tico Torres.
+assets.boxfront: ./media/mixart/Johnny Bazookatone (USA).png
+assets.video: ./media/snap/Johnny Bazookatone (USA).mp4
+assets.logo: ./media/wheel/Johnny Bazookatone (USA).png
+assets.screenshot: ./media/screenshot/Johnny Bazookatone (USA).png
+
+
+game: Jurassic Park Interactive
+file: ./Jurassic Park Interactive (USA).chd
+sort-by: Jurassic Park Interactive
+developer: 3DO
+publisher: Universal
+genres:
+	Action
+	Racing
+release: 1994-01-01
+players: 1
+rating: 55%
+description:
+	Based on its namesake film, Jurassic Park Interactive places you as a park security guard and tasks you with guiding five to eleven visitors (based on the skill level you chose) to the safety of the helipad. You select each visitor from an overhead map, and must play one of three randomly-selected minigames to determine if they successfully make it to the next safe house:
+	.
+	- "Spitter Shoot" is a shooting gallery with Dilophosaurs as the targets. You use a stun gun which must be charged up to have maximum effect. Docile dinos also mix with the hostile ones, but turn hostile if shot unnecessarily.
+	.
+	- "T-Rex Chase" is a basic driving game where you must outrun a Tyranosaurus (visible in your rear-view mirror) while simultaneously staying on the road and dodging hazards.
+	.
+	- "Raptor Maze" is a 3D, first-person game where you must escape a darkened building while being stalked by Velociraptors of increasing numbers. You have no weapons, and must instead use gates to block the dinos and alternate pathways to slip by.
+	.
+	You must also hack computer locks to allow you access to the communications systems. Each lock is yet another minigame; these based off of arcade classics (Space Invaders, Asteroids) with dinosaurs and Jurassic Park characters.
+	.
+	Your final rating is given based on your success in both areas.
+assets.boxfront: ./media/mixart/Jurassic Park Interactive (USA).png
+assets.video: ./media/snap/Jurassic Park Interactive (USA).mp4
+assets.logo: ./media/wheel/Jurassic Park Interactive (USA).png
+assets.screenshot: ./media/screenshot/Jurassic Park Interactive (USA).png
+assets.background: ./media/background/Jurassic Park Interactive (USA).jpg
+
+
+game: Killing Time
+file: ./Killing Time (USA) (RE1).chd
+sort-by: Killing Time
+developer: Panasonic
+publisher: Panasonic
+genres:
+	Action
+	Shooter
+release: 1995-01-01
+players: 1
+rating: 95%
+description:
+	In the early 1930's, Tess Conway, obsessed with ancient Egypt, and her guests vanished without trace... right in the middle of a wild party on the Conway island estate. Sixty years after this events it's your mission to investigate the strange events that took place in those days.
+	.
+	Though Killing Time is graphically a typical Doom clone, there are some differences: the game has one huge level instead of many smaller ones which allows you to return to old places at any time, i.e. to pick up health packs or ammunition. Also the spirits of Tess and her guests appear occasionally and bring the story of that evening to light helping you to find keys, to unlock doorways, to locate secret passages and to solve puzzles.
+	.
+	Killing Time was originally developed for the 3DO, and was later converted to the PC.
+assets.boxfront: ./media/mixart/Killing Time (USA) (RE1).png
+assets.video: ./media/snap/Killing Time (USA) (RE1).mp4
+assets.logo: ./media/wheel/Killing Time (USA) (RE1).png
+assets.screenshot: ./media/screenshot/Killing Time (USA) (RE1).png
+
+
+game: Kingdom: The Far Reaches
+file: ./Kingdom - The Far Reaches (USA, Europe).chd
+sort-by: Kingdom - The Far Reaches
+developer: Interplay
+publisher: Interplay
+genre: Adventure
+release: 1995-01-01
+players: 1
+rating: 60%
+description:
+	In this adventure game, step into the shoes of Lathan Kandor, a young boy, to defeat the evil Black Wizard. Lathan will find help from his mentor, the mighty magician Daelon. Explore the fantasy lands of the Far Reaches and retrieve three of the five pieces of the ancient relic called The Hand of Mobus. Talk to a variety of characters, collect objects and solve adventure type problems and puzzles.
+	Kingdom: The Far Reaches features mouse control, video animations, cartoon-like graphics, an in-game travel map and original music which can be turned off if desired.
+assets.boxfront: ./media/mixart/Kingdom - The Far Reaches (USA, Europe).png
+assets.video: ./media/snap/Kingdom - The Far Reaches (USA, Europe).mp4
+assets.logo: ./media/wheel/Kingdom - The Far Reaches (USA, Europe).png
+assets.screenshot: ./media/screenshot/Kingdom - The Far Reaches (USA, Europe).png
+
+
+game: The Last Bounty Hunter
+file: ./Last Bounty Hunter, The (USA).chd
+sort-by: Last Bounty Hunter, The
+developer: American Laser Games
+publisher: American Laser Games
+genre: Shooter
+release: 1995-11-01
+players: 1
+rating: 65%
+description:
+	The Last Bounty Hunter is a simple shooter in the tradition of American Laser Games's Mad Dog McCree. Fairly simple in design, it features a video background with which you interact - you use your mouse or a light gun to literally shoot your foes and protect the innocent.
+	The story is this: you're a bounty hunter, one of the last, who come to a crime-infested Wild Western town to aid its Sheriff in getting rid of the criminals.
+assets.boxfront: ./media/mixart/Last Bounty Hunter, The (USA).png
+assets.video: ./media/snap/Last Bounty Hunter, The (USA).mp4
+assets.logo: ./media/wheel/Last Bounty Hunter, The (USA).png
+assets.screenshot: ./media/screenshot/Last Bounty Hunter, The (USA).png
+
+
+game: Lemmings
+file: ./Lemmings (USA).chd
+sort-by: Lemmings
+developer: Psygnosis
+publisher: Psygnosis
+genre: Puzzle
+release: 1994-01-01
+players: 1
+rating: 60%
+description:
+	More lemming action this time with new skills and obstacles for them to overcome. Three islands to adventure on each featuring a different tribe of Lemmings to save. They are as follows, Classic Lemmings, Egyptian Lemmings, or the Shadow Lemmings.
+	Sadly this game was cancelled for the 3DO. Although versions survive for the Amiga, and M-S Dos systems.
+assets.boxfront: ./media/mixart/Lemmings (USA).png
+assets.video: ./media/snap/Lemmings (USA).mp4
+assets.logo: ./media/wheel/Lemmings (USA).png
+assets.screenshot: ./media/screenshot/Lemmings (USA).png
+
+
+game: The Life Stage: Virtual House
+file: ./Life Stage, The - Virtual House (USA).chd
+sort-by: Life Stage, The - Virtual House
+developer: Micro Cabin
+publisher: Panasonic
+genre: Life Simulation
+release: 1993-01-01
+players: 1
+rating: 60%
+description:
+	The Life Stage is a house-building program allowing players to construct fantasy houses from a simplified modeling interface.  Players build the basic structure of connected rooms and placement of doors, then drop in decorations and select textures for floors and wallpapers.  Players can then roam around their virtual homes and interact with some of the objects within.
+	The game comes preset with some demo floorplans, ranging from a house in the snowy mountains, to an office building downtown.  Only one room is held in the system's limited memory at a time, so players must "use" doors to move to a new room. After a lengthy load time, the player will be standing in the new room.  There are limits on the size and complexity of individual rooms as well.
+assets.boxfront: ./media/mixart/Life Stage, The - Virtual House (USA).png
+assets.video: ./media/snap/Life Stage, The - Virtual House (USA).mp4
+assets.logo: ./media/wheel/Life Stage, The - Virtual House (USA).png
+assets.screenshot: ./media/screenshot/Life Stage, The - Virtual House (USA).png
+
+
+game: Lost Eden
+file: ./Lost Eden (USA).chd
+sort-by: Lost Eden
+developer: Cryo Interactive
+publisher: Virgin
+genre: Adventure
+release: 1995-01-01
+players: 1
+rating: 80%
+description:
+	Lost Eden is an adventure game set on an eerie planet populated with dinosaurs.
+	Your civilisation is menaced. Armies of Tyranns, led by Moorkus Rex, are gathering around your kingdom. Soon they will swarm in, destroy everything and kill your people. However, there is a single hope. There are legends telling that several hundreds of years ago, men and dinosaurs cooperated to build 5 mighty Citadels that were almost invulnerable to the Tyranns. Today, all the Citadels but one have been destroyed.
+	You play as Adam of Mo, you must rediscover the secret of uniting men and dinosaurs, rebuild the Citadels, and finally defeat Morkus Rex and his armies.
+	Lost Eden is a first-person adventure that utilizes  Myst-style navigation through pre-rendered backgrounds that represent locations. However, the gameplay is less heavy on environment-manipulating puzzle-solving than Myst, having more in common with traditional adventure games with their inventory-based puzzles.
+assets.boxfront: ./media/mixart/Lost Eden (USA).png
+assets.video: ./media/snap/Lost Eden (USA).mp4
+assets.logo: ./media/wheel/Lost Eden (USA).png
+assets.screenshot: ./media/screenshot/Lost Eden (USA).png
+
+
+game: The Lost Files of Sherlock Holmes
+file: ./Lost Files of Sherlock Holmes, The (USA).chd
+sort-by: Lost Files of Sherlock Holmes, The
+developer: Mythos Software
+publisher: Electronic Arts
+genre: Adventure
+release: 1994-01-01
+players: 1
+rating: 80%
+description:
+	The Lost Files of Sherlock Holmes: The Case of the Serrated Scalpel is a verb-based point-and-click graphic adventure game.
+	London, 1888. Sherlock Holmes, the world’s most famous private investigator, and his faithful companion Dr. Watson, are called to the scene of a gruesome crime: a young actress has been murdered in an alley behind her theatre. Not surprisingly, Scotland Yard’s Inspector Lestrade is clueless. Was it the work of the Ripper? Sherlock Holmes is not so sure -- the circumstantial evidence indicates a much more intricate crime. The shrewd detective begins the hunt.
+	The Lost Files of Sherlock Holmes is a classical crime story with two protagonists. In the role of Sherlock Holmes, you travel through London in the search for clues. Interesting locations are gradually added to a city map. Your most important source of information are dialogues with suspects, witnesses and other people – and with Dr. Watson, who will readily comment on the situation. When talking to persons, you may chose one of several lines that seems most appropriate. Watson notes down all conversations in his journal, where you can access them if needed. True to the novels, Holmes will solve many puzzles through sharp observations and thorough searches of every location (thus discovering clues and deducing connections) as well as clever interrogations.
+	Readers of the Sherlock Holmes stories will recognize many acquaintances, from Lestrade to Miss Hudson, from Inspector Gregson to Toby the hound. The game's introduction, cutscenes and ending feature digitized speech.
+assets.boxfront: ./media/mixart/Lost Files of Sherlock Holmes, The (USA).png
+assets.video: ./media/snap/Lost Files of Sherlock Holmes, The (USA).mp4
+assets.logo: ./media/wheel/Lost Files of Sherlock Holmes, The (USA).png
+assets.screenshot: ./media/screenshot/Lost Files of Sherlock Holmes, The (USA).png
+
+
+game: Love Bites
+file: ./Love Bites (USA).chd
+sort-by: Love Bites
+developer: Vivid Interactive
+publisher: Vivid Interactive
+genre: Adult
+release: 1995-04-19
+players: 1
+rating: 30%
+description:
+	Twelve dropdead gorgeous creatures that are hungry driven by animal instinct with only one desire, to quench their thrist.
+assets.boxfront: ./media/mixart/Love Bites (USA).png
+assets.video: ./media/snap/Love Bites (USA).mp4
+assets.logo: ./media/wheel/Love Bites (USA).png
+assets.screenshot: ./media/screenshot/Love Bites (USA).png
+
+
+game: Lucienne's Quest
+file: ./Lucienne's Quest (USA).chd
+sort-by: Lucienne's Quest
+developer: Panasonic
+publisher: Micro Cabin
+genre: Role-Playing
+release: 1995-01-01
+players: 1
+rating: 80%
+description:
+	Follow the story of an absent-minded young sorceress Lucienne and her gang of misfit monsters, as they try to stop the evil mage Death Shadow from destroying the world.
+	.
+	Lucienne’s Quest is a game in classic roleplaying genre, but presented in full 3D graphics (and sprite characters) uncommon for the time. The battles are fought in traditional turn-based manner, but allow for more strategy than most classic RPGs. The game places ambient obstacles on the battlefield to block some attack paths, but allows the player to strategically reposition his fighters along the bottom two rows of the map before every turn to take advantage of the terrain.
+	The game also features a dynamic day/night system which serves little purpose other than changing one of your party members from human into a werewolf and back.
+assets.boxfront: ./media/mixart/Lucienne's Quest (USA).png
+assets.video: ./media/snap/Lucienne's Quest (USA).mp4
+assets.logo: ./media/wheel/Lucienne's Quest (USA).png
+assets.screenshot: ./media/screenshot/Lucienne's Quest (USA).png
+
+
+game: Mad Dog II: The Lost Gold
+file: ./Mad Dog II - The Lost Gold (USA).chd
+sort-by: Mad Dog II - The Lost Gold
+developer: American Laser Games
+publisher: American Laser Games
+genre: Shooter
+release: 1994-01-01
+players: 2
+rating: 95%
+description:
+	The sequel to American Laser Game's original Mad Dog McCree, with pretty much the same gameplay and motion capture graphics. This PC conversion seems to have been tweaked a bit to be more stable than the original Mad Dog. There's also somewhat limited replay value as you can choose from 3 different guides for 3 different routes through the game.
+assets.boxfront: ./media/mixart/Mad Dog II - The Lost Gold (USA).png
+assets.video: ./media/snap/Mad Dog II - The Lost Gold (USA).mp4
+assets.logo: ./media/wheel/Mad Dog II - The Lost Gold (USA).png
+assets.screenshot: ./media/screenshot/Mad Dog II - The Lost Gold (USA).png
+
+
+game: Mad Dog McCree
+file: ./Mad Dog McCree (USA).chd
+sort-by: Mad Dog McCree
+developer: American Laser Games
+publisher: American Laser Games
+genre: Shooter
+release: 1994-01-01
+players: 2
+rating: 75%
+description:
+	Mag Dog McCree and his gang have kidnapped the Mayor and his daughter, and its up to you to rescue them. You must blast through bars and bank robberies to take the gang out and save everything you regard as good and true. Where the game differed from other Operation Wolf-influenced shoot 'em ups was in the use of live video, with real people appearing on the screen before you shoot them down. You have unlimited continues with which to reach the end, so the actors will have their screen deaths seen by as many people as they would had they starred in a film.
+assets.boxfront: ./media/mixart/Mad Dog McCree (USA).png
+assets.video: ./media/snap/Mad Dog McCree (USA).mp4
+assets.logo: ./media/wheel/Mad Dog McCree (USA).png
+assets.screenshot: ./media/screenshot/Mad Dog McCree (USA).png
+
+
+game: Mazer
+file: ./Mazer (USA).chd
+sort-by: Mazer
+developer: American Laser Games
+publisher: American Laser Games
+genre: Action
+release: 1995-07-31
+players: 2
+rating: 60%
+description:
+	In Mazer, the player can choose from one of four soldiers tasked with freeing Earth from the oppressive rule of an alien race known as the Semag-Resal, who have a network of bases located all over Earth.  To make matters worse, they have developed cyborgs that can perfectly mimic human beings that can infiltrate their rebel hideouts and exterminate them.
+	The gameplay is similar to Project Overkill in some respects with the view being isometric and the main goal of the game is to wipe out any alien life form within the bases and free human captives to receive bonuses.  As the player progresses, the enemies will become more numerous and harder to kill with the final boss of the game being a giant alien robot.
+assets.boxfront: ./media/mixart/Mazer (USA).png
+assets.video: ./media/snap/Mazer (USA).mp4
+assets.logo: ./media/wheel/Mazer (USA).png
+assets.screenshot: ./media/screenshot/Mazer (USA).png
+
+
+game: MegaRace
+file: ./MegaRace (USA) (En,Fr,De,Es,It).chd
+sort-by: MegaRace
+developer: Cryo Interactive
+publisher: Cryo Interactive
+genre: Racing
+release: 1994-09-30
+players: 2
+rating: 70%
+description:
+	Virtual Television has given us a chance to do the things that we can't make real in everyday life: Race through 14 great tracks in 5 different environments in a totally virtual place where you can kill each other quite easily with sidekicks or guns. In every track you will see some symbols that can make your car speed up, slow up or even blow up, like your mega-host Lance Boyle says, "Who knows; who cares!" Everything you see in MegaRace is virtual and no one really dies there. So have fun!
+assets.boxfront: ./media/mixart/MegaRace (USA) (En,Fr,De,Es,It).png
+assets.video: ./media/snap/MegaRace (USA) (En,Fr,De,Es,It).mp4
+assets.logo: ./media/wheel/MegaRace (USA) (En,Fr,De,Es,It).png
+assets.screenshot: ./media/screenshot/MegaRace (USA) (En,Fr,De,Es,It).png
+
+
+game: Microcosm
+file: ./Microcosm (USA).chd
+sort-by: Microcosm
+developer: Psygnosis
+publisher: Psygnosis
+genres:
+	Action
+	Shooter
+release: 1994-01-01
+players: 2
+rating: 70%
+description:
+	In the year 2051, two mega corporations battle it out for supremacy over an overcrowded, overpolluted planet.  CyberTech Industries, the dominant company on the planet, is being challenged by Axiom, who blames the former for their president's death.  To gain revenge, they secretly inject CyberTech's president, Anton Korsby, with a virus that threatens to take over his body, and ultimately destroy himself and CyberTech. Your mission is to enter Korsby's body, destroy the virus, and defeat the organism that controls his brain.
+	.
+	Microcosm is a 3D action shooter, similar to Descent, that takes place entirely within the human body. The concept was inspired by the 1966 movie Fantastic Voyage. The player pilots his way through various parts of the anatomy, blasting virii and enemy ships, while gaining power-ups and faster, stronger craft. The goal of the game is to eventually reach the brain to stop Grey M, the entity that controls Korsby's body.
+	.
+	Microcosm makes heavy use of full-motion video and features high-resolution fractal graphics (to simulate the walls of veins and arteries), digital music and sound effects.
+assets.boxfront: ./media/mixart/Microcosm (USA).png
+assets.video: ./media/snap/Microcosm (USA).mp4
+assets.logo: ./media/wheel/Microcosm (USA).png
+assets.screenshot: ./media/screenshot/Microcosm (USA).png
+
+
+game: Murphy Dayo Zenin Shuugou!!: Murphy's TV CD-ROM
+file: ./Murphy da yo Zen'in Shuugou!! (Japan) (En,Ja).chd
+sort-by: Murphy da yo Zen'in Shuugou!!
+publisher: Bantan International
+genre: Adventure
+release: 1994-10-21
+players: 1
+rating: 70%
+description:
+	Murphy Dayo Zenin Shuugou!! is a quite unusual Japanese only game. It is dedicated to the laws of Murphy, the so-called laws of meanness. Which means, if there is the slightest chance that something goes wrong, then it certainly will go wrong. Even more unusual are the graphics in the game which are drawn in the style of MS Paint pictures.
+assets.boxfront: ./media/mixart/Murphy da yo Zen'in Shuugou!! (Japan) (En,Ja).png
+assets.video: ./media/snap/Murphy da yo Zen'in Shuugou!! (Japan) (En,Ja).mp4
+assets.logo: ./media/wheel/Murphy da yo Zen'in Shuugou!! (Japan) (En,Ja).png
+assets.screenshot: ./media/screenshot/Murphy da yo Zen'in Shuugou!! (Japan) (En,Ja).png
+
+
+game: Myst
+file: ./Myst (USA).chd
+sort-by: Myst
+developer: Panasonic
+publisher: Micro Cabin
+genre: Adventure
+release: 1995-01-01
+players: 1
+rating: 75%
+description:
+	You have just stumbled upon a most intriguing book, a book titled Myst. You have no idea where it came from, who wrote it, or how old it is. Reading through its pages provides you with only a superbly crafted description of an island world. But it's just a book, isn't it? As you reach the end of the book, you lay your hand on a page. Suddenly your own world dissolves into blackness, replaced with the island world the pages described. Now you're here, wherever here is, with no option but to explore.
+	.
+	Myst is a first-person point-and-click adventure where the player controls a character known as The Stranger. Magically transported into the world described in the book, he needs to explore Myst Island and solve its mysteries. The game is presented as a series of static scenes where the player acts with the environment by clicking and manipulating objects. There are no enemies and it is not possible to die. Through Myst Island, the game is further divided into mini-worlds set in different ages accessed through different books.
+	.
+	The PSP version adds new adventure scenarios and includes widescreen support.
+	.
+	The DS version includes a completely new age, the Rime Age, and, next to a code rewrite, includes new and re-mastered sound effects and video clips.
+assets.boxfront: ./media/mixart/Myst (USA).png
+assets.video: ./media/snap/Myst (USA).mp4
+assets.logo: ./media/wheel/Myst (USA).png
+assets.screenshot: ./media/screenshot/Myst (USA).png
+assets.background: ./media/background/Myst (USA).jpg
+
+
+game: NeuroDancer: Journey Into The Neuronet!
+file: ./NeuroDancer - Journey into the Neuronet! (USA).chd
+sort-by: NeuroDancer - Journey into the Neuronet!
+developer: Electric Dreams
+publisher: PIXIS Interactive
+genre: Adventure
+release: 1994-01-01
+players: 1
+rating: 40%
+description:
+	Navigate the NeuroNET by hacking into the forbidden world of dark mystery, danger, and sensuality. Use your VidFone and OrbCAM to obtain enough credits to interact with the sensual NEURODANCERS who roam the computer networks in search of willing participants. An interactive journey into a realm where your desires are fulfilled.
+assets.boxfront: ./media/mixart/NeuroDancer - Journey into the Neuronet! (USA).png
+assets.video: ./media/snap/NeuroDancer - Journey into the Neuronet! (USA).mp4
+assets.logo: ./media/wheel/NeuroDancer - Journey into the Neuronet! (USA).png
+assets.screenshot: ./media/screenshot/NeuroDancer - Journey into the Neuronet! (USA).png
+
+
+game: Night Trap
+files:
+	./Night Trap (USA) (Disc 1).chd
+	./Night Trap (USA) (Disc 2).chd
+sort-by: Night Trap
+developer: Digital Pictures
+publisher: Digital Pictures
+genre: Strategy
+release: 1993-01-01
+players: 1
+rating: 60%
+description:
+	Five girls go to a party to a nice house on a lakeside. Five girls disappear without a trace... Now another five girls go there, in order to spend the vacation with the Martins, the owners of the house, in particular with the lovely Ms. Martin. This time, you should not let them die a gruesome death! Because "nice people" can sometimes turn out to be... yes, that's right - vampires. The whole house is full of traps, that are intended to catch the poor innocent girls, so that the vampires can suck their blood... ugh. Luckily, the brave adventurer is there in order to cease to be hunted and to become a hunter instead! Set the traps so that they will capture the villains themselves, using precise timing and good organization.
+	.
+	Night Trap was the very first game that used the FMV (full-motion video) technology with live actors. Although it didn't contain nudity or particularly gory scenes, it was considered one of the first games to have a mature content.
+assets.boxfront: ./media/mixart/Night Trap (USA) (Disc 1).png
+assets.video: ./media/snap/Night Trap (USA) (Disc 1).mp4
+assets.logo: ./media/wheel/Night Trap (USA) (Disc 1).png
+assets.screenshot: ./media/screenshot/Night Trap (USA) (Disc 1).png
+assets.background: ./media/background/Night Trap (USA) (Disc 1).jpg
+
+
+game: Novastorm
+file: ./Novastorm (USA).chd
+sort-by: Novastorm
+developer: Psygnosis
+publisher: Psygnosis
+genres:
+	Action
+	Shooter
+release: 1994-01-01
+players: 1
+rating: 50%
+description:
+	A behind-the-view perspective of a shooter's dream:  Blast enemies against a cinematic backdrop.  Kill the computer-controlled fighters before they take over the world!
+	.
+	Unlike first-generation interactive movies with action, Novastorm has hooks into the environment; if you move into the path of a pre-rendered obstacle and it "hits" you, you take damage, etc.
+assets.boxfront: ./media/mixart/Novastorm (USA).png
+assets.video: ./media/snap/Novastorm (USA).mp4
+assets.logo: ./media/wheel/Novastorm (USA).png
+assets.screenshot: ./media/screenshot/Novastorm (USA).png
+
+
+game: Oceans Below
+file: ./Oceans Below (USA).chd
+sort-by: Oceans Below
+developer: The Software Toolworks
+publisher: Multisoft
+genres:
+	Adventure
+	Education
+release: 1995-01-01
+players: 1
+rating: 80%
+description:
+	Multimedia diving experience - 17 dive sights in all with original video footage and narration plus color photos, music, graphics, and text Explore the Caribbean, California Coast, Red Sea, Hawaii, South Pacific, Australia, Sea of Cortez and the Galapagos Over 200 video segments, over 125 photographs covering underwater animal and plant life, plane wrecks, ship wrecks and more Learn about spectacular relics from the past by discovering some of the 68 sunken treasures hidden throughout the program.
+assets.boxfront: ./media/mixart/Oceans Below (USA).png
+assets.video: ./media/snap/Oceans Below (USA).mp4
+assets.logo: ./media/wheel/Oceans Below (USA).png
+assets.screenshot: ./media/screenshot/Oceans Below (USA).png
+assets.background: ./media/background/Oceans Below (USA).jpg
+
+
+game: Off-World Interceptor
+file: ./Off-World Interceptor (USA, Europe).chd
+sort-by: Off-World Interceptor
+developer: Crystal Dynamics
+publisher: Crystal Dynamics
+genre: Racing
+release: 1994-11-22
+players: 2
+rating: 70%
+description:
+	You play a Trashman, a bounty hunter paid to capture criminal scum hiding on harsh alien worlds.
+	Your job is to race the enemy crime boss to the finish, blasting his goons along the way. Get blown up or drive too slowly and the boss gets away. But if you make it to the check point in time, you block the boss' escape and trap him on the planet.
+	You can upgrade your vehicle with the cash from your bounties. You can also go up against a buddy in the vertical split-screen deathmatch mode.
+	Off-World Interceptor's most unique feature is the storyline, told in full-motion video. Standard for the time. But OWIE's FMV is mocked by a couple of guys sitting in chairs, a la Mystery Science Theater 3000.
+assets.boxfront: ./media/mixart/Off-World Interceptor (USA, Europe).png
+assets.video: ./media/snap/Off-World Interceptor (USA, Europe).mp4
+assets.logo: ./media/wheel/Off-World Interceptor (USA, Europe).png
+assets.screenshot: ./media/screenshot/Off-World Interceptor (USA, Europe).png
+
+
+game: Out of This World
+file: ./Out of this World (USA) (3DO Maniac Pack) (RE).chd
+sort-by: Out of this World
+developer: Delphine Software International
+publisher: Interplay
+genres:
+	Platform
+	Puzzle
+release: 1993-01-01
+players: 1
+rating: 80%
+description:
+	Another World (Out of This World in the US) combines shooting, platforming, and puzzle-solving elements. The game is divided into stages; some of them are straightforward and can only be accessed one time, while others are connected to each other, constituting a larger environment. Exploration and problem-solving are emphasized. Many levels include challenges not seen in the previous ones. Tasks may involve environmental puzzles, timed sequences, precise jumping, and combat.
+	Typically, enemies are defeated by using an energy gun found in an early stage. The gun's regular function is shooting energy projectiles. By pressing down and holding the fire button the player can activate an energy shield which protects Lester from regular attacks, allowing him to fire from relative safety until it evaporates. Finally, by holding the fire button even longer the player creates powerful bombs which can disrupt shields. Most enemies are equipped with similar guns and are able to perform the same actions as Lester. Fighting enemies therefore requires tactical usage of regular attacks, shields, and bombs, as well as learning enemy patterns.
+assets.boxfront: ./media/mixart/Out of this World (USA) (3DO Maniac Pack) (RE).png
+assets.video: ./media/snap/Out of this World (USA) (3DO Maniac Pack) (RE).mp4
+assets.logo: ./media/wheel/Out of this World (USA) (3DO Maniac Pack) (RE).png
+assets.screenshot: ./media/screenshot/Out of this World (USA) (3DO Maniac Pack) (RE).png
+
+
+game: PaTaank
+file: ./PaTaank (USA, Europe).chd
+sort-by: PaTaank
+developer: PF Magic
+publisher: PF Magic
+genre: Action
+release: 1994-01-01
+rating: 70%
+description:
+	If you've ever thought of what it feels like to be the ball in a pinball machine, playing PaTaank might give you some idea.  Instead of flapping the flippers, the player controls the ball, or in PaTaank, a UFO-shaped puck around the three different tables.  The tables are named Surf Room, Luv Room, and Disaster Room and they are connected to each other via Nexus.  Player can choose to play one room or in the MetaGame mode, all of them in sequence.  Each room has an objective and in the MetaGame mode, player must reach that objective to advance into the next room via the Nexus.
+	Like any pinball, there are targets, tunnels, blocks, and all sorts of flashing things that increase the score, light up letters, or grant bonus items.  In addition to inertial control of the puck, player can apply thrust, which is limited, and activate magnetos, which are scattered around the room.
+assets.boxfront: ./media/mixart/PaTaank (USA, Europe).png
+assets.video: ./media/snap/PaTaank (USA, Europe).mp4
+assets.logo: ./media/wheel/PaTaank (USA, Europe).png
+assets.screenshot: ./media/screenshot/PaTaank (USA, Europe).png
+
+
+game: The Perfect General
+file: ./Perfect General, The (USA).chd
+sort-by: Perfect General, The
+developer: Game Guild
+publisher: Kirin Entertainment
+genre: Strategy
+release: 1996-01-01
+players: 1
+rating: 70%
+description:
+	This military strategy game involves the Blue Army fighting the Red Army. The game contains both a Campaign mode and a Tournament mode. In the Campaign mode, the player fights through various maps completing missions. The player is giving a certain amount of funds to be spent on purchasing troops and vehicles. Once the units are placed on the map, the player is given a turn where they can move their units and fire on any opposing forces. Movement is done on a hex based grid.
+	The Tournament mode is the equivalent of an exhibition mode. The player can choose to play against the computer, another player, or even just watch the computer play itself. In this mode, the player is also given the option to set certain parameters and choose what map to fight on.
+	There is also a bonus game which is like an 8-player version of Bomberman with tanks.
+assets.boxfront: ./media/mixart/Perfect General, The (USA).png
+assets.video: ./media/snap/Perfect General, The (USA).mp4
+assets.logo: ./media/wheel/Perfect General, The (USA).png
+assets.screenshot: ./media/screenshot/Perfect General, The (USA).png
+
+
+game: Phoenix 3
+file: ./Phoenix 3 (USA).chd
+sort-by: Phoenix 3
+developer: Gray Matter
+publisher: Panasonic
+genre: Action
+release: 1995-01-01
+players: 1
+rating: 70%
+description:
+	Phoenix 3 is a sci-fi adventure with two completely different game play styles.  Half the game is a slow paced side-scrolling shooter, the other half is 3D space combat, similar to Wing Commander.
+	.
+	Phoenix 3 features live-action video cutscenes that unfold the story.  Most of the game takes place on the planet Galearth.  Galearth has been at peace for centuries, but is now threatened by alien invaders known as the Gral.  It is up to you, Derek Freeman, to uncover an ancient weapon known as the Talon that can defeat the Gral.
+assets.boxfront: ./media/mixart/Phoenix 3 (USA).png
+assets.video: ./media/snap/Phoenix 3 (USA).mp4
+assets.logo: ./media/wheel/Phoenix 3 (USA).png
+assets.screenshot: ./media/screenshot/Phoenix 3 (USA).png
+
+
+game: Plumbers Don't Wear Ties
+file: ./Plumbers Don't Wear Ties (USA).chd
+sort-by: Plumbers Don't Wear Ties
+developer: United Pixtures
+publisher: United Pixtures
+genre: Adventure
+release: 1994-09-30
+players: 1
+rating: 30%
+description:
+	John is a plumber who is looking for love. He's looking in the house of the blonde Jane who has daddy issues. He's always been pretty successful before. And this situation looks to be one where John will be able to lay some pipe and unclog some stuffed passages. Plumbers Don't Wear Ties is an "interactive story" dating simulation. After a video introduction, Players are treated to photographs of various people and places while characters voice act the situation. At times, John will be able to make a choice of his next action, from a list of choices at key locations in the plot. If John is successful, he'll move into an amorous relationship with Jane. If not, the two will be pulled apart.
+assets.boxfront: ./media/mixart/Plumbers Don't Wear Ties (USA).png
+assets.video: ./media/snap/Plumbers Don't Wear Ties (USA).mp4
+assets.logo: ./media/wheel/Plumbers Don't Wear Ties (USA).png
+assets.screenshot: ./media/screenshot/Plumbers Don't Wear Ties (USA).png
+
+
+game: PO'ed
+file: ./PO'ed (USA, Europe).chd
+sort-by: PO'ed
+developer: Any Channel
+publisher: Accolade
+genre: Shooter
+release: 1995-01-01
+players: 1
+rating: 75%
+description:
+	PO'ed is an action game similar to Doom.
+	You are a cook who has to escape an alien world. With such weapons as frying pan and a drill, you must bash your way through levels full of monsters, one of them being a walking arse (yes, not kidding).
+	One of the most useful items in game is a jetpack which you must use frequently to explore levels and get to places where no spacecook has gone before.
+assets.boxfront: ./media/mixart/PO'ed (USA, Europe).png
+assets.video: ./media/snap/PO'ed (USA, Europe).mp4
+assets.logo: ./media/wheel/PO'ed (USA, Europe).png
+assets.screenshot: ./media/screenshot/PO'ed (USA, Europe).png
+
+
+game: Powers Kingdom
+file: ./Powers Kingdom (Europe).chd
+sort-by: Powers Kingdom
+developer: Panasonic
+publisher: Panasonic
+genre: Role-Playing
+release: 1994-01-01
+players: 1
+rating: 70%
+description:
+	In a classic Japanese RPG style, Guardian War pits you as guardian golem against the dark forces of Azrael, the Evil Lord.  Your world is infested with monsters and your job is to destroy them.  Along the way you meet other golems that you need to revive so that they can join your quest.  Your ultimate goal is to defeat Azrael.
+	.
+	RPG elements are fairly standard with hit points, magic points, speed, mobility, skills, etc.  Each golem type has specific abilities, for example Priest is strong in Light Magic whereas Archer is strong in arrow attacks.  General movement is done on the World map which is divided into Fields and player is able to see which Fields are occupied by the enemy.  Shops are only accessible on the World map.  Selecting a Field takes the group of golems into a Field map which is presented in pseudo-3D.
+	.
+	Player can freely travel the Field map, finding treasures and other items, periodically bumping into enemy groups.  Battles are fought in turns on the same map, there is no separate battle screen.  Movement is into main compass directions only and the player controls the whole group when travelling.  Only during battle are each group member individually controllable.
+assets.boxfront: ./media/mixart/Powers Kingdom (Europe).png
+assets.video: ./media/snap/Powers Kingdom (Europe).mp4
+assets.logo: ./media/wheel/Powers Kingdom (Europe).png
+assets.screenshot: ./media/screenshot/Powers Kingdom (Europe).png
+
+
+game: Powerslide
+file: ./Powerslide (USA) (Unl).chd
+sort-by: Powerslide
+developer: Elite Systems
+publisher: Older Games
+genre: Racing
+players: 2
+rating: 55%
+description:
+	Powerslide is a previously unreleased game for the 3DO system featuring cutting edge physics and drifting effects not seen in its time on any console during the 3DO era. Although this game is not entirely complete, it will keep fans entertained for hours and offers a variety of drivers and tracks for you to choose from. See how fast you can go without losing control, or keep her steady and navigate through the many obstacles and challenges waiting for you on each of the various tracks. The game itself is similar in style to the classic "Off Road" racing games and features numerous themed courses that any racing fan will play through with excitement and frustration. Powerslide isn't just a name, folks. It's an idea, a way of the wheel, a style of drifting and it has never been done before now!
+assets.boxfront: ./media/mixart/Powerslide (USA) (Unl).png
+assets.screenshot: ./media/screenshot/Powerslide (USA) (Unl).png
+assets.background: ./media/background/Powerslide (USA) (Unl).jpg
+
+
+game: Pretty Soldier Sailor Moon S
+file: ./Pretty Soldier SailorMoon S (Japan).chd
+sort-by: Pretty Soldier SailorMoon S
+developer: TOSE
+publisher: Bandai Namco
+genre: Fighting
+release: 1995-03-17
+players: 2
+rating: 80%
+description:
+	Pretty Soldier Sailor Moon S is a 2D fighting game for the 3DO Interactive Multiplayer, featuring nine Sailor senshi (Sailor Saturn is not present) and based on Sailor Moon S season. Each Senshi has a set of special attacks. Virtual camera is zooming during battle, approaching the fighters and retreating from them. Opening intro combines sprite and 3D animation.
+assets.boxfront: ./media/mixart/Pretty Soldier SailorMoon S (Japan).png
+assets.video: ./media/snap/Pretty Soldier SailorMoon S (Japan).mp4
+assets.logo: ./media/wheel/Pretty Soldier SailorMoon S (Japan).png
+assets.screenshot: ./media/screenshot/Pretty Soldier SailorMoon S (Japan).png
+
+
+game: Primal Rage
+file: ./Primal Rage (USA, Europe).chd
+sort-by: Primal Rage
+developer: Time Warner Interactive
+publisher: Atari
+genre: Fighting
+release: 1995-01-01
+players: 2
+rating: 100%
+description:
+	A meteor struck the Earth, and caused great chaos. Seven gods from ancient times awoke, and are now attempting to take control of the post-apocalyptic world.
+	.
+	Primal Rage is a one-on-one fighting game featuring dinosaurs and giant apes as the fighters. The graphics are done with digitized stop-motion animation. Gameplay is similar to Mortal Kombat in that it is viewed from a side perspective, and features deadly finishing moves at the end of the match.
+assets.boxfront: ./media/mixart/Primal Rage (USA, Europe).png
+assets.video: ./media/snap/Primal Rage (USA, Europe).mp4
+assets.logo: ./media/wheel/Primal Rage (USA, Europe).png
+assets.screenshot: ./media/screenshot/Primal Rage (USA, Europe).png
+
+
+game: Psychic Detective
+files:
+	./Psychic Detective (USA) (Disc 1).chd
+	./Psychic Detective (USA) (Disc 2).chd
+	./Psychic Detective (USA) (Disc 3).chd
+sort-by: Psychic Detective
+developer: Colossal Pictures
+publisher: Electronic Arts
+genre: Adventure
+release: 1996-01-01
+players: 2
+rating: 60%
+description:
+	This game is an innovative slant on the interactive movie. You're Eric Fox, a psychic detective who can transmit his psychic self to others, to see through their eyes and hear through their ears. That way you can find out things about the case you couldn't otherwise. The game has many different conclusions. It's a dark story though, and most people might not want to play through again.
+assets.boxfront: ./media/mixart/Psychic Detective (USA) (Disc 1).png
+assets.video: ./media/snap/Psychic Detective (USA) (Disc 1).mp4
+assets.logo: ./media/wheel/Psychic Detective (USA) (Disc 1).png
+assets.screenshot: ./media/screenshot/Psychic Detective (USA) (Disc 1).png
+
+
+game: Putt-Putt Joins the Parade
+file: ./Putt-Putt Joins the Parade (USA).chd
+sort-by: Putt-Putt Joins the Parade
+developer: Humongous Entertainment
+publisher: Humongous Entertainment
+genres:
+	Adventure
+	Education
+release: 1993-06-22
+players: 1
+rating: 70%
+description:
+	Putt-Putt, an adorable purple car, wants to join the Cartown Parade.  But, first he must earn money for a carwash, find a balloon, and get a pet (Pep, the puppy).  Children ages 3 to 8 have a great time delivering groceries and mowing lawns and learn good lessons like waiting for the green light before crossing the road.  Each screen has a multitude of fun things to click on, as well.
+assets.boxfront: ./media/mixart/Putt-Putt Joins the Parade (USA).png
+assets.video: ./media/snap/Putt-Putt Joins the Parade (USA).mp4
+assets.logo: ./media/wheel/Putt-Putt Joins the Parade (USA).png
+assets.screenshot: ./media/screenshot/Putt-Putt Joins the Parade (USA).png
+
+
+game: Putt-Putt's Fun Pack
+file: ./Putt-Putt's Fun Pack (USA).chd
+sort-by: Putt-Putt's Fun Pack
+developer: Humongous Entertainment
+publisher: Humongous Entertainment
+genre: Action
+release: 1994-01-01
+players: 1
+rating: 60%
+description:
+	A collection of thinking games inspired from the existing Putt-Putt games, including checkers, pinball, and tic-tac-toe.  Intended as non-violent rainy-day fun for youngsters.
+assets.boxfront: ./media/mixart/Putt-Putt's Fun Pack (USA).png
+assets.video: ./media/snap/Putt-Putt's Fun Pack (USA).mp4
+assets.logo: ./media/wheel/Putt-Putt's Fun Pack (USA).png
+assets.screenshot: ./media/screenshot/Putt-Putt's Fun Pack (USA).png
+
+
+game: Pyramid Intruder
+file: ./Pyramid Intruder (Japan).chd
+sort-by: Pyramid Intruder
+developer: High Tech Laboratory
+publisher: Taito
+genre: Shooter
+release: 1995-08-11
+players: 1
+rating: 60%
+description:
+	In the year 2035, humanity discovers a giant pyramid on the planet Mars. It turns out to have been created by the ancient people of Mu, whose advanced civilization had been forgotten by Earth, and who counterattack following humanity's intrusion. The player takes control of a ship leading the resistance by flying directly into the pyramid.
+	Pyramid Patrol is a very traditional FMV-based rail shooter. The player's ship and small enemies are sprites, while the stages are presented using full-screen FMV stored as laserdisc video. Pyramid Intruder, the 3DO port, improves on the original game by switching from a first-person perspective to a behind-the-ship view in order to make it possible to dodge enemies; it also adds new realtime 3D levels in between the original levels.
+assets.boxfront: ./media/mixart/Pyramid Intruder (Japan).png
+assets.video: ./media/snap/Pyramid Intruder (Japan).mp4
+assets.logo: ./media/wheel/Pyramid Intruder (Japan).png
+assets.screenshot: ./media/screenshot/Pyramid Intruder (Japan).png
+
+
+game: Quarantine
+file: ./Quarantine (Japan, USA) (En,Ja,Fr,De,Es) (RE3).chd
+sort-by: Quarantine
+developer: Imagexcel
+publisher: GameTek
+genres:
+	Action
+	Racing
+release: 1994-01-01
+players: 1
+rating: 40%
+description:
+	In Quarantine, you play the part of a taxi driver, desperate to escape from the violent prison city of Kemo. Deliver passengers to their destinations,
+	so you can earn money to upgrade your cab, and take on undercover missions in the hope that somehow you can find a way out. An impressive array of cab-mounted weaponry will help you to survive.
+assets.boxfront: ./media/mixart/Quarantine (Japan, USA) (En,Ja,Fr,De,Es) (RE3).png
+assets.video: ./media/snap/Quarantine (Japan, USA) (En,Ja,Fr,De,Es) (RE3).mp4
+assets.logo: ./media/wheel/Quarantine (Japan, USA) (En,Ja,Fr,De,Es) (RE3).png
+assets.screenshot: ./media/screenshot/Quarantine (Japan, USA) (En,Ja,Fr,De,Es) (RE3).png
+
+
+game: Real Pinball
+file: ./Real Pinball (USA).chd
+sort-by: Real Pinball
+developer: Nippon Data Works
+publisher: Panasonic
+genres:
+	Simulation
+	Pinball
+release: 1994-01-01
+players: 1
+rating: 60%
+description:
+	Real Pinball is the standard video game conversion of the actual machines with five different tables to choose from with the main goal being to gain as many points as possible by using the game controller to control the flippers of the machine. The game features realistic graphics made to resemble an actual machine.
+assets.boxfront: ./media/mixart/Real Pinball (USA).png
+assets.video: ./media/snap/Real Pinball (USA).mp4
+assets.logo: ./media/wheel/Real Pinball (USA).png
+assets.screenshot: ./media/screenshot/Real Pinball (USA).png
+
+
+game: Return Fire
+file: ./Return Fire (USA).chd
+sort-by: Return Fire
+developer: Silent Software
+publisher: Time Warner Interactive
+genre: Action
+release: 1994-01-01
+players: 2
+rating: 60%
+description:
+	Return Fire is the spiritual successor to Fire Power and it fits in both the strategy and action genres. You can take control of one of 4 vehicles, a jeep, helicopter, tank and a missile launching vehicle (but actually called The Armoured Support Vehicle (ASV).
+	.
+	There are are two ways to win, the easier one would be to capture the enemy's flag by bringing it to your bunker with the frail Jeep. This is the main objective. The other way to win is to destroy your enemy, a secondary objective.
+assets.boxfront: ./media/mixart/Return Fire (USA).png
+assets.video: ./media/snap/Return Fire (USA).mp4
+assets.logo: ./media/wheel/Return Fire (USA).png
+assets.screenshot: ./media/screenshot/Return Fire (USA).png
+
+
+game: Return Fire: Maps o' Death
+file: ./Return Fire - Maps o' Death (USA).chd
+sort-by: Return Fire - Maps o' Death
+developer: Silent Software
+publisher: Prolific Publishing
+genre: Shooter
+release: 1996-01-01
+players: 2
+rating: 80%
+description:
+	Return Fire: Maps O' Death is an add-on for the original Return Fire with over 100 new levels to choose from with a variety of environments including massive sandy beaches, water warfare and heavily populated areas. It still supports two players for head-to-head war and a password system to access levels.
+assets.boxfront: ./media/mixart/Return Fire - Maps o' Death (USA).png
+assets.video: ./media/snap/Return Fire - Maps o' Death (USA).mp4
+assets.logo: ./media/wheel/Return Fire - Maps o' Death (USA).png
+assets.screenshot: ./media/screenshot/Return Fire - Maps o' Death (USA).png
+
+
+game: Rise of the Robots
+file: ./Rise of the Robots (USA).chd
+sort-by: Rise of the Robots
+developer: Mirage
+publisher: Absolute Entertainment
+genre: Fighting
+release: 1995-01-01
+players: 2
+rating: 10%
+description:
+	You are a cyborg handyman in the far away future sent to a huge megacorporation where an evil AI has taken control of the companies robots. You are charged with facing these robots in combat and eliminating them one by one to reach the core and deactivate the AI.
+	.
+	Gameplay wise this is a standard beat-em-up with gorgeous graphics. It has some annoying limitations like not being able to jump over your enemy and only one fire button.
+assets.boxfront: ./media/mixart/Rise of the Robots (USA).png
+assets.video: ./media/snap/Rise of the Robots (USA).mp4
+assets.logo: ./media/wheel/Rise of the Robots (USA).png
+assets.screenshot: ./media/screenshot/Rise of the Robots (USA).png
+
+
+game: Road & Track Presents: The Need for Speed
+file: ./Road & Track Presents - The Need for Speed (USA, Europe).chd
+sort-by: Road & Track Presents - The Need for Speed
+developer: Electronic Arts
+publisher: Electronic Arts
+genre: Racing
+release: 1994-01-01
+players: 1
+rating: 85%
+description:
+	Drive some of your favourite sports cars through wild and fast tracks, including the Dodge Viper, Lamborghini, Ferrari, Porsche, Corvette, Mazda RX7, Toyota Supra Turbo, and Acura NSX. Some of the tracks are open road, meaning you simply fly down a huge highway, with cops following in hot pursuit. One of the options in the game allows you to pick which time of the day to race in.
+assets.boxfront: ./media/mixart/Road & Track Presents - The Need for Speed (USA, Europe).png
+assets.video: ./media/snap/Road & Track Presents - The Need for Speed (USA, Europe).mp4
+assets.logo: ./media/wheel/Road & Track Presents - The Need for Speed (USA, Europe).png
+assets.screenshot: ./media/screenshot/Road & Track Presents - The Need for Speed (USA, Europe).png
+
+
+game: Road Rash
+file: ./Road Rash (USA).chd
+sort-by: Road Rash
+developer: Monkey Do Productions
+publisher: Electronic Arts
+genres:
+	Action
+	Racing
+release: 1994-01-01
+players: 1
+rating: 90%
+description:
+	This is a remake of the original Road Rash from the early nineties. For those who have not played the original, you are competing against thirteen other "Road Rashers" who will stop at nothing to win 1st, 2nd, or 3rd place. During the race, you have two options available to you: you can either do your best to cross the finish line, or use your weapon to bring the Rashers to the ground if they are giving you trouble. If you do the latter, your opponents will do the same to you during the next race that takes place.
+	.
+	There are five circuits to race: The City, The Peninsula, Pacific Highway, Sierra Nevada, and Napa Valley. Some of these circuits are dangerous. As well as the obstacles and traffic that you encounter along the way, there are also cops driving on bikes who will arrest you if you happen to crash or stop your bike near them, and you have to pay a fine in order to get in any more races. Your bike will be wrecked if you crash too many times, and you have to pay for damages, but the amount you have to pay depends on the bike that you are riding. Once you have completed the first five circuits, you have to race them again another four times - but at a much more difficult level. Manage to win all five circuits on all levels, and you win the Road Rash cup.
+	.
+	There are about five bikes to choose from, which are divided into three groups. Rat, Sport, and Super. You start the first level with a Rat bike, but as you proceed through the levels, it is important to pick bikes from a different bike class.
+	.
+	If you have no plans to win the Road Rash cup, you can choose the game's Thrash mode. The difference between this and the other mode is that there is no money involved (ie: you are not allowed to buy bikes), and you are competing against fourteen opponents. And if you wreck your bike or you get busted, you have to start all over again. Regardless of the mode you pick, you will always start in the last place.
+	.
+	The remake also contains FMV movies that usually depict the outcome of the races, as well as limited songs performed by various recording artists, including Soundgarden, Therapy?, Monster Magnet, and Swervedriver. These songs can be changed on-the-fly via the game's options menu.
+assets.boxfront: ./media/mixart/Road Rash (USA).png
+assets.video: ./media/snap/Road Rash (USA).mp4
+assets.logo: ./media/wheel/Road Rash (USA).png
+assets.screenshot: ./media/screenshot/Road Rash (USA).png
+
+
+game: Robinson's Requiem
+file: ./Robinson's Requiem (USA).chd
+sort-by: Robinson's Requiem
+developer: ReadySoft
+publisher: Silmarils
+genres:
+	Adventure
+	Role-Playing
+release: 1996-01-01
+players: 1
+rating: 80%
+description:
+	In the far future humanity has achieved faster-than-light space travel, but the galaxy is still a big unknown place. To chart the stars and planets explorers named "Robinsons" are sent on scouting tours of duty. Most of the time the Robinsons sent away are individuals deemed dangerous to society and whose ships are sabotaged.
+	.
+	You play one of these Robinsons who gets stranded on a mysterious alien planet on which a telepathic woman is also stranded. As it turns out she knows a way to get off the planet, but she needs your help to escape.
+	.
+	Gameplay consists of first person roleplaying with the emphasis placed on character modeling and survival. Take a dip when it's cold and you'll sure catch the flu, don't treat an infected injury and amputation is on the way, etc. You must fashion your own tools from whatever you can find on the planet and the game uses pre-rendered sprites over voxel technology terrain for graphics.
+assets.boxfront: ./media/mixart/Robinson's Requiem (USA).png
+assets.video: ./media/snap/Robinson's Requiem (USA).mp4
+assets.logo: ./media/wheel/Robinson's Requiem (USA).png
+assets.screenshot: ./media/screenshot/Robinson's Requiem (USA).png
+
+
+game: Royal Pro Wrestling: Jikkyou Live!!
+file: ./Royal Pro Wrestling - Jikkyou Live!! (Japan).chd
+sort-by: Royal Pro Wrestling - Jikkyou Live!!
+developer: Natsume
+publisher: Natsume
+genres:
+	Fighting
+	Sports
+release: 1996-02-23
+players: 2
+rating: 80%
+description:
+	With over 30 pro wrestlers available to choose, Natsume brings the most action packed wrestling experience ever to the 3DO with Royal Pro Wrestling!
+assets.boxfront: ./media/mixart/Royal Pro Wrestling - Jikkyou Live!! (Japan).png
+assets.video: ./media/snap/Royal Pro Wrestling - Jikkyou Live!! (Japan).mp4
+assets.logo: ./media/wheel/Royal Pro Wrestling - Jikkyou Live!! (Japan).png
+assets.screenshot: ./media/screenshot/Royal Pro Wrestling - Jikkyou Live!! (Japan).png
+
+
+game: Samurai Shodown
+file: ./Samurai Shodown (USA, Europe).chd
+sort-by: Samurai Shodown
+developer: SNK
+publisher: Crystal Dynamics
+genres:
+	Action
+	Fighting
+release: 1995-01-01
+players: 2
+rating: 75%
+description:
+	In early Japan, a man named Shiro Tokisada Amakusa preaches a heretic religion. Little does anyone know that Amakusa is really a servant of the evil Ambrosia, who took over Amakusa's body. Ambrosia wishes to shroud the world in darkness.
+	Now, choose between 12 warriors (and 3 bonus characters) to fight for the honor of destroying Amakusa, and fulfilling a mission.
+assets.boxfront: ./media/mixart/Samurai Shodown (USA, Europe).png
+assets.video: ./media/snap/Samurai Shodown (USA, Europe).mp4
+assets.logo: ./media/wheel/Samurai Shodown (USA, Europe).png
+assets.screenshot: ./media/screenshot/Samurai Shodown (USA, Europe).png
+
+
+game: Scramble Cobra
+file: ./Scramble Cobra (USA).chd
+sort-by: Scramble Cobra
+developer: Genki
+publisher: Panasonic
+genres:
+	Action
+	Shooter
+release: 1995-01-01
+players: 1
+rating: 65%
+description:
+	Scramble Cobra is a 3-D helicopter action game, where the player takes command of a Cobra helicopter gunship, flying through various battlefields, using their Vulcan machine guns and hydra rockets to destroy enemy tanks, helicopters and other assorted units.
+	.
+	There are ten missions in all to play through. The player has to complete each mission in an allotted amount of time. The missions mainly consist of search and destroy objectives.  It also has live-action videos to tell the story and is played from the view of the helicopters cockpit.
+assets.boxfront: ./media/mixart/Scramble Cobra (USA).png
+assets.video: ./media/snap/Scramble Cobra (USA).mp4
+assets.logo: ./media/wheel/Scramble Cobra (USA).png
+assets.screenshot: ./media/screenshot/Scramble Cobra (USA).png
+
+
+game: Seal of the Pharaoh
+file: ./Seal of the Pharaoh (USA).chd
+sort-by: Seal of the Pharaoh
+developer: Panasonic
+publisher: ASK Kodansha
+genre: Role-Playing
+release: 1994-01-01
+players: 1
+rating: 50%
+description:
+	Seal of the Pharaoh is a mix of RPG, puzzle-solving and first-person adventuring.  The player takes control of the son of a prominent archaeologist, who has recently discovered the long lost tomb of Rassius III, and has gone missing. It is now up to the player to find him by exploring the tomb, but at the same time avoid the various traps and enemies laid out before them.
+	.
+	The perspective is from a first-person view as they progress through the maze-like pyramid equipped with a club, a shield and a diary.  As they progress they must avoid traps, but also use their club and shield to take out enemies such as giant wasps, scorpions and even haunted urns.  More powerful weapons and items can be obtained through further exploration as well as clues to decipher the diary and various puzzles that need to be solved in order to advance.
+assets.boxfront: ./media/mixart/Seal of the Pharaoh (USA).png
+assets.video: ./media/snap/Seal of the Pharaoh (USA).mp4
+assets.logo: ./media/wheel/Seal of the Pharaoh (USA).png
+assets.screenshot: ./media/screenshot/Seal of the Pharaoh (USA).png
+
+
+game: Sewer Shark
+file: ./Sewer Shark (USA).chd
+sort-by: Sewer Shark
+developer: Sony Electronic Publishing
+publisher: Digital Pictures
+genre: Shooter
+release: 1994-01-01
+players: 1
+rating: 85%
+description:
+	Sewer Shark is an FMV-based shooter, and one of the first games released for the Sega CD. You move a crosshair around the screen and shoot targets. Occasionally, you can also choose to change directions at fixed points.
+	Of course the real attraction in a game like this is the story. In the future, maybe in the year 2000, people will be forced to move underground and live in tunnels. Unfortunately, these tunnels are infested with mutated rat / alligator creatures known as "ratigators." You are pilot of a Sewer Shark, a craft designed to navigate the Sewers and rid them of ratigators. It's a dangerous job, but if you clear out enough vermin you can win a one-way trip to Solar City and sunny beaches.
+assets.boxfront: ./media/mixart/Sewer Shark (USA).png
+assets.video: ./media/snap/Sewer Shark (USA).mp4
+assets.logo: ./media/wheel/Sewer Shark (USA).png
+assets.screenshot: ./media/screenshot/Sewer Shark (USA).png
+
+
+game: Sex
+file: ./Sex (USA).chd
+sort-by: Sex
+developer: Vivid Interactive
+publisher: Vivid Interactive
+genre: Adult
+release: 1995-01-01
+players: 1
+rating: 80%
+description:
+	How do office politics and sex mix? Let Nikki Dial, P.J. Sparxx, and Crystal Wilder show you how they got ahead in a man's world.
+assets.boxfront: ./media/mixart/Sex (USA).png
+assets.video: ./media/snap/Sex (USA).mp4
+assets.logo: ./media/wheel/Sex (USA).png
+assets.screenshot: ./media/screenshot/Sex (USA).png
+
+
+game: Shadow: War of Succession
+file: ./SHADOW - War of Succession (USA).chd
+sort-by: SHADOW - War of Succession
+developer: Tribeca Interactive
+publisher: 3DO
+genre: Fighting
+release: 1995-01-01
+players: 2
+rating: 70%
+description:
+	The leader of S.H.A.D.O.W., the world's largest criminal organization, has just been brutally murdered. From around his vast criminal empire they have come to do battle, seven of the Shadow King's best lieutenants. To the winner will go the ultimate prize: the right to be named the next Shadow King. To the losers, there is only death. SHADOW: War of Succession is a fast-paced fighting game that features live, full-sized, digitized actors. The characters possess their own distinct special moves and weapons. This game uses photo-realistic 3D rendered backgrounds. Full cinematic scenes and hundreds of digitized sound effects and real voices intensify the furious fighting action!
+assets.boxfront: ./media/mixart/SHADOW - War of Succession (USA).png
+assets.video: ./media/snap/SHADOW - War of Succession (USA).mp4
+assets.logo: ./media/wheel/SHADOW - War of Succession (USA).png
+assets.screenshot: ./media/screenshot/SHADOW - War of Succession (USA).png
+
+
+game: Shock Wave
+file: ./Shock Wave (USA) (RE2).chd
+sort-by: Shock Wave
+developer: Electronic Arts
+publisher: Electronic Arts
+genre: Action
+release: 1994-01-01
+players: 1
+rating: 85%
+description:
+	The year is 2019 and the alien invasion is here. In a surprise attack, the aliens decimate Earth's military forces. Mankind's only hope is the surviving orbital space carrier Omaha and its squadron of F-177 pilots. As the young and unexperienced member of the squadron, it is your job to drive the aliens from the planet.
+	.
+	From the cockpit of your F-177 fighter, you can destroy the aliens who attack in vehicles like large walkers or quick and small aircraft. Use your lasers or missiles, but watch your ammunition and fuel and refill them from a supply depot if needed. The ten missions take you all over the globe, from Cairo to Los Angeles to the Congo. Between missions, live-action cutscenes continue the story.
+assets.boxfront: ./media/mixart/Shock Wave (USA) (RE2).png
+assets.video: ./media/snap/Shock Wave (USA) (RE2).mp4
+assets.logo: ./media/wheel/Shock Wave (USA) (RE2).png
+assets.screenshot: ./media/screenshot/Shock Wave (USA) (RE2).png
+
+
+game: Shock Wave: Operation JumpGate
+file: ./Shock Wave - Operation JumpGate (USA, Europe).chd
+sort-by: Shock Wave - Operation JumpGate
+developer: Electronic Arts
+publisher: Electronic Arts
+genre: Shooter
+release: 1994-01-01
+players: 1
+rating: 80%
+description:
+	It has been 7 years since the alien attack on Earth has been repelled. Now, signs of the aliens have been detected within the solar system. It's again up to you to lead the assault before the aliens launch their second wave. This add-on to Shock Wave takes you to places in the solar system like Mars, the moons of Jupiter and Saturn and the asteroid belt in 5 new missions that feature new enemies. The story is again told through live-action cutscenes.
+assets.boxfront: ./media/mixart/Shock Wave - Operation JumpGate (USA, Europe).png
+assets.video: ./media/snap/Shock Wave - Operation JumpGate (USA, Europe).mp4
+assets.logo: ./media/wheel/Shock Wave - Operation JumpGate (USA, Europe).png
+assets.screenshot: ./media/screenshot/Shock Wave - Operation JumpGate (USA, Europe).png
+
+
+game: Shock Wave 2: Beyond the Gate
+files:
+	./Shockwave 2 - Beyond the Gate (USA) (Disc 01).chd
+	./Shockwave 2 - Beyond the Gate (USA) (Disc 02).chd
+sort-by: Shockwave 2 - Beyond the Gate
+developer: Electronic Arts
+publisher: Electronic Arts
+genres:
+	Action
+	Shooter
+release: 1995-01-01
+players: 1
+rating: 80%
+description:
+	It has been twenty years since the invading aliens have been driven back through the jumpgate. On a planet close to the dormant gate, an alien artifact is found. When unknown aliens steal the artifact, privateer Captain Flint of the spaceship Cortez and his crew follow their ship through the jumpgate, which leaves them stranded in an unknown star system. To find their way back, they have to find the artifact and the aliens. You take control of Flint. Aboard the Cortez, you can receive messages from your crew members, scan the planets in the system for possible mission sites and select suitable weapons and equipment for the next mission. Three different craft are available for the missions: a fighter, a hovercraft and a stationary turret used to give cover to your crew mates when they are on a mission. After completed missions, the wreckage from destroyed aliens is analyzed and used to produce better weapons and equipment. The storyline will take you through six different systems, each with a variety of missions to complete. Live-action cut-scenes continue the story.
+assets.boxfront: ./media/mixart/Shockwave 2 - Beyond the Gate (USA) (Disc 01).png
+assets.video: ./media/snap/Shockwave 2 - Beyond the Gate (USA) (Disc 01).mp4
+assets.logo: ./media/wheel/Shockwave 2 - Beyond the Gate (USA) (Disc 01).png
+assets.screenshot: ./media/screenshot/Shockwave 2 - Beyond the Gate (USA) (Disc 01).png
+
+
+game: Short Warp: Warp's Short Game Collection
+file: ./Short Warp - Warp's Short Game Collection (Japan).chd
+sort-by: Short Warp - Warp's Short Game Collection
+developer: Wasp
+publisher: Wasp
+release: 1996-01-15
+players: 1
+rating: 65%
+description:
+	WARP's final game for the 3DO was a collection of nine minigames. Only 10,000 copies were printed, each numbered and stamped by Kenji Eno himself.
+assets.boxfront: ./media/mixart/Short Warp - Warp's Short Game Collection (Japan).png
+assets.video: ./media/snap/Short Warp - Warp's Short Game Collection (Japan).mp4
+assets.logo: ./media/wheel/Short Warp - Warp's Short Game Collection (Japan).png
+assets.screenshot: ./media/screenshot/Short Warp - Warp's Short Game Collection (Japan).png
+
+
+game: Slayer
+file: ./Slayer (USA).chd
+sort-by: Slayer
+developer: Lion Entertainment, Inc.
+publisher: Strategic Simulations
+genres:
+	Action
+	Role-Playing
+release: 1995-01-01
+players: 1
+rating: 100%
+description:
+	Slayer is a first-person action RPG using the AD&D 2nd Edition license and rules. Choose from the usual assortment of AD&D character races and classes and venture into randomly-generated dungeons, fighting monsters and finding items. Dungeon parameters and difficulty are customizable.
+assets.boxfront: ./media/mixart/Slayer (USA).png
+assets.video: ./media/snap/Slayer (USA).mp4
+assets.logo: ./media/wheel/Slayer (USA).png
+assets.screenshot: ./media/screenshot/Slayer (USA).png
+
+
+game: Snow Job
+files:
+	./SnowJob (Europe) (Disc 1).chd
+	./SnowJob (Europe) (Disc 2).chd
+sort-by: SnowJob
+developer: 3DO
+publisher: 3DO
+genre: Adventure
+release: 1995-01-01
+players: 1
+rating: 40%
+description:
+	Murder. Drugs. Sex. Gangs. Guns. Welcome to the Big Apple. Your name is Jock LaMonte, a retired New York Cop. You are living peacefully in New Mexico when you find out your ex girlfriend, Lara Calabreze, assistant DA of the city, is on the hit list on a notorious mob boss who goes only by the name Snow Man. It is up to you to use your wits, guts, and charm to save Lara and put away the evil of New York City.
+	Snow Job is a point-and-click adventure and is played in the first-person, with the ability to see 360 degrees in a photorealistic world with FMV video. You must solve puzzles, converse with many characters, and fight your way through mini games. Gameplay consists of three screens, one to explore the environment in different directions from a fixed position, an inventory and also a map where new locations appear.
+assets.boxfront: ./media/mixart/SnowJob (Europe) (Disc 1).png
+assets.video: ./media/snap/SnowJob (Europe) (Disc 1).mp4
+assets.logo: ./media/wheel/SnowJob (Europe) (Disc 1).png
+assets.screenshot: ./media/screenshot/SnowJob (Europe) (Disc 1).png
+
+
+game: Space Ace
+file: ./Space Ace (USA).chd
+sort-by: Space Ace
+developer: ReadySoft
+publisher: ReadySoft
+genre: Adventure
+release: 1989-01-01
+players: 1
+rating: 80%
+description:
+	Following the successful gameplay of Dragon's Lair, Don Bluth released this second conversion of his Laserdisc games series.
+	.
+	You're playing Dexter, a guy fighting the evil madman Borf who has kidnapped your girlfriend Kimberly and is now threatening the world with his dreaded weapon, the "Infanto Ray" which turns adults into small children.
+	.
+	The game plays like a comic strip - visuals are similar to many cartoon movies. In each scene you only have to decide which direction of the keyboard has to be hit in order to avoid one of the countless death screens and to advance to the next screen...
+assets.boxfront: ./media/mixart/Space Ace (USA).png
+assets.video: ./media/snap/Space Ace (USA).mp4
+assets.logo: ./media/wheel/Space Ace (USA).png
+assets.screenshot: ./media/screenshot/Space Ace (USA).png
+
+
+game: Space Hulk: Vengeance of the Blood Angels
+file: ./Space Hulk - Vengeance of the Blood Angels (USA).chd
+sort-by: Space Hulk - Vengeance of the Blood Angels
+developer: Key Game
+publisher: Electronic Arts
+genres:
+	Action
+	Strategy
+release: 1996-01-01
+players: 1
+rating: 60%
+description:
+	Space Hulk: Vengeance of the Blood Angels is a mix of a First-Person-Shooter and a tactical fighting game. It is placed in the Warhammer 40k background of the Games Workshop table top games. It is the successor of the PC game Space Hulk from 1993 and it tells of the fight between the imperial Terminator Chapters and the Tyranid Gene Stealers. You control up to ten Terminators. You give them orders in a tactical screen and/or take over one of them and then move in a 3D environment and fight the Gene Stealers just as in a First- Person-Shooter. So the game includes tactical planning and fighting in a good balance.
+assets.boxfront: ./media/mixart/Space Hulk - Vengeance of the Blood Angels (USA).png
+assets.video: ./media/snap/Space Hulk - Vengeance of the Blood Angels (USA).mp4
+assets.logo: ./media/wheel/Space Hulk - Vengeance of the Blood Angels (USA).png
+assets.screenshot: ./media/screenshot/Space Hulk - Vengeance of the Blood Angels (USA).png
+
+
+game: Space Pirates
+file: ./Space Pirates (USA).chd
+sort-by: Space Pirates
+developer: American Laser Games
+publisher: American Laser Games
+genre: Action
+release: 1994-01-01
+players: 2
+rating: 70%
+description:
+	Another in the series of slugfest games by American Laser Games is Space Pirates. While it resembles The Last Bounty Hunter and Drug Wars, it is science-fiction oriented and presents a space theme.
+assets.boxfront: ./media/mixart/Space Pirates (USA).png
+assets.video: ./media/snap/Space Pirates (USA).mp4
+assets.logo: ./media/wheel/Space Pirates (USA).png
+assets.screenshot: ./media/screenshot/Space Pirates (USA).png
+
+
+game: Star Control II
+file: ./Star Control II (USA).chd
+sort-by: Star Control II
+developer: Accolade
+publisher: Crystal Dynamics
+genres:
+	Adventure
+	Shooter
+release: 1994-01-01
+players: 2
+rating: 70%
+description:
+	Following the on-going war of the first Star Control game, the Alliance has lost. The Ur-Quan armada systematically hunts down the alliance races and imprisons them onto their homeworlds, including Earth. However unknown to the Ur-Quan, during the war, a small research vessel had been lost while sent to a distant star system looking for evidence of the ancient Precursor race. The survivors of this research team had come across the controls to a Starship factory and used it to build a Precursor supply vessel: one of the largest vessels in the galaxy. It's time for these Terrans to return to Earth...
+	.
+	Star Control II is a game based on exploration, space combat, diplomacy and resource gathering. Your main starship is the Precursor vessel and it can be used to travel between star systems. This uses fuel which must be processed in exchange for raw materials. In addition to providing fuel, raw materials can also be used to make purchases. You can use them to improve your starship, buy ships for your fleet, and hire crewmembers (who represent your ships' "health").
+	.
+	Raw materials are found on surfaces of planets throughout the galaxy; you have to send a landing module to the planet and then guide it around the surface as it picks up the materials you found earlier with your scanner. Each planet is unique in the type of minerals and metals it is formed of. Some planets are plagued by natural dangers such as lightning storms, earthquakes or lava which can damage or destroy your landing modules. Non-sentient lifeforms can also be found and stunned to obtain biological samples. Special installations, objects and ruins can also be found on certain planets.
+	.
+	While in "deep space", your starship can approach any star you come across, and then you can guide your ship around its system and land on its planets and their moons. Space is treated as two-dimensional and presented in a top-down view. There is also a starmap available which shows the entire galaxy and allows you to set your ship on auto-pilot to any star.
+	.
+	Throughout space are different alien civilizations. These are represented on the starmap by a sphere of influence. Within the sphere, the aliens have a controlling presence and their ships will venture freely. Outside the sphere, encounters are rarer. Aliens can be dealt with diplomatically, through a series of dialog options, or in combat.
+	.
+	Combat utilizes the same engine as the first Star Control game, where action is controlled from a top view and influenced by the gravity of nearby planets. Each alien vessel is controlled uniquely and has unique abilities. Combat can also be played as a standalone game ("melee mode"), separate from the main storyline.
+assets.boxfront: ./media/mixart/Star Control II (USA).png
+assets.video: ./media/snap/Star Control II (USA).mp4
+assets.logo: ./media/wheel/Star Control II (USA).png
+assets.screenshot: ./media/screenshot/Star Control II (USA).png
+
+
+game: Star Fighter
+file: ./Star Fighter (USA, Europe).chd
+sort-by: Star Fighter
+developer: The World Federation Entertainments Network
+publisher: 3DO
+genres:
+	Action
+	Flight Simulator
+release: 1996-01-01
+players: 1
+rating: 80%
+description:
+	3037. FedNet is now in control of the federation, and at an attempt to gain trust of the population following decades of corruption and warfare, the FedNet Space Corps were sent to the outermost planets to crush the small-time warlords still running the show there. After being "convinced" to join them in a tour of duty, he is assigned to an elite flight group with the only purpose of testing the most cutting edge technology.
+	A remake of the original game of the same title released a few years before for the Acorn Archimedes platform, Starfighter 3000 features more detailed graphics (now all surfaces are texture-mapped and a fogging filter reduces clipping). Featuring 15 levels in 4 worlds, the player controls the Predator Mark-IV, a fighter ship capable of space and atmospheric flight. However, other than the handy boost button, the player has no control over the throttle, (unless he uses a flight stick with thrust controls such as 3DO's CH Pro stick) and must keep moving at all times.
+assets.boxfront: ./media/mixart/Star Fighter (USA, Europe).png
+assets.video: ./media/snap/Star Fighter (USA, Europe).mp4
+assets.logo: ./media/wheel/Star Fighter (USA, Europe).png
+assets.screenshot: ./media/screenshot/Star Fighter (USA, Europe).png
+
+
+game: Star Wars: Rebel Assault
+file: ./Star Wars - Rebel Assault (USA, Europe).chd
+sort-by: Star Wars - Rebel Assault
+developer: LucasArts
+publisher: LucasArts
+genre: Action
+release: 1995-01-01
+players: 1
+rating: 75%
+description:
+	You play a Rebel space cadet and have various missions to complete: Flying starships, destroying Walkers, infiltrating an enemy base etc. All viewpoints and gameplay is through the use of motion video backdrops.
+assets.boxfront: ./media/mixart/Star Wars - Rebel Assault (USA, Europe).png
+assets.video: ./media/snap/Star Wars - Rebel Assault (USA, Europe).mp4
+assets.logo: ./media/wheel/Star Wars - Rebel Assault (USA, Europe).png
+assets.screenshot: ./media/screenshot/Star Wars - Rebel Assault (USA, Europe).png
+assets.background: ./media/background/Star Wars - Rebel Assault (USA, Europe).jpg
+
+
+game: StarBlade
+file: ./Starblade (Europe).chd
+sort-by: Starblade
+developer: Panasonic
+publisher: Namco
+genres:
+	Action
+	Shooter
+release: 1994-01-01
+players: 1
+rating: 95%
+description:
+	Sitting in the gunner position of a "GeoSword" fightercraft, you must shoot your way through the enemy armada and bring the fight to their base planet, Redeye. Altogether you'll have around 10 missions to get through before the galaxy is safe and your wingmen will help you along the way. And during those missions, you'll be expected to shoot out the sides of huge enemy battlecruisers, travel inside of enemy carriers and travel through the canyons of Redeye to deliver your payload.
+assets.boxfront: ./media/mixart/Starblade (Europe).png
+assets.video: ./media/snap/Starblade (Europe).mp4
+assets.logo: ./media/wheel/Starblade (Europe).png
+assets.screenshot: ./media/screenshot/Starblade (Europe).png
+
+
+game: Stellar 7: Draxon's Revenge
+file: ./Stellar 7 - Draxon's Revenge (USA).chd
+sort-by: Stellar 7 - Draxon's Revenge
+developer: Dynamix
+publisher: Dynamix
+genre: Action
+release: 1993-01-01
+players: 1
+rating: 80%
+description:
+	A sequel/remake to Stellar 7, the classic sci-fi first person tank simulator.
+	Earth faces an alien invasion in the form of the evil Gir Draxon and his forces, and only you and your specially modified tank can stop them.
+	The game puts you in the tank's cockpit as you traverse different alien landscapes shooting your weapons against all enemy forces you find in each level. Enemy tanks and turrets have the same firepower as you, so you must make use of the terrain and strafing tactics if you hope to survive.
+	The game features enhanced, texture-mapped polygonal graphics as well as 2D sprites for specific objects, and also makes use of full CD sound and music, including fully narrated cutscenes.
+assets.boxfront: ./media/mixart/Stellar 7 - Draxon's Revenge (USA).png
+assets.video: ./media/snap/Stellar 7 - Draxon's Revenge (USA).mp4
+assets.logo: ./media/wheel/Stellar 7 - Draxon's Revenge (USA).png
+assets.screenshot: ./media/screenshot/Stellar 7 - Draxon's Revenge (USA).png
+
+
+game: Strahl
+file: ./Strahl (USA).chd
+sort-by: Strahl
+developer: Media Entertainment
+publisher: Panasonic
+genre: Action
+release: 1995-01-01
+players: 1
+rating: 60%
+description:
+	In Strahl, the story takes place in a world where magic and monsters roam the land, terrorizing innocent villagers.  The player takes control of a young warrior who sets out to root out the source of evil and bring peace and tranquility back to the land.
+	The gameplay is the same as Space Ace, Dragon's Lair and Time Gal where the player presses buttons at a certain time to either avoid obstacles or fight enemies in order to advance to the next screen.  As the game progresses, the changes in the world are shown throughout the game depending on the actions of the player.
+	There are no difficulty settings to choose from. Players can choose from a couple of different scenes to begin at, with other scenes being unlocked as the previous ones are finished.
+assets.boxfront: ./media/mixart/Strahl (USA).png
+assets.video: ./media/snap/Strahl (USA).mp4
+assets.logo: ./media/wheel/Strahl (USA).png
+assets.screenshot: ./media/screenshot/Strahl (USA).png
+
+
+game: Super Street Fighter II Turbo
+file: ./Super Street Fighter II Turbo (USA) (RE2).chd
+sort-by: Super Street Fighter II Turbo
+developer: Capcom
+publisher: Capcom
+genre: Fighting
+release: 1994-01-01
+players: 2
+rating: 85%
+description:
+	Fighting game ported from the classic and wildly popular "Street Fighter 2" franchise.  Choose from a variety of characters and use their fighting skills to beat opponents and become the world champion fighter.
+	.
+	Advantages over the original Street Fighter 2 include faster fighting speed, 4 new characters, new locations, and more balanced/streamlined moves for the original characters.
+assets.boxfront: ./media/mixart/Super Street Fighter II Turbo (USA) (RE2).png
+assets.video: ./media/snap/Super Street Fighter II Turbo (USA) (RE2).mp4
+assets.logo: ./media/wheel/Super Street Fighter II Turbo (USA) (RE2).png
+assets.screenshot: ./media/screenshot/Super Street Fighter II Turbo (USA) (RE2).png
+
+
+game: Super Street Fighter II X: Grand Master Challenge
+file: ./Super Street Fighter II X - Grand Master Challenge (Japan).chd
+sort-by: Super Street Fighter II X - Grand Master Challenge
+developer: Capcom
+publisher: Capcom
+genre: Fighting
+release: 1994-01-01
+players: 2
+rating: 85%
+description:
+	Fighting game ported from the classic and wildly popular "Street Fighter 2" franchise.  Choose from a variety of characters and use their fighting skills to beat opponents and become the world champion fighter.
+	.
+	Advantages over the original Street Fighter 2 include faster fighting speed, 4 new characters, new locations, and more balanced/streamlined moves for the original characters.
+assets.boxfront: ./media/mixart/Super Street Fighter II X - Grand Master Challenge (Japan).png
+assets.video: ./media/snap/Super Street Fighter II X - Grand Master Challenge (Japan).mp4
+assets.logo: ./media/wheel/Super Street Fighter II X - Grand Master Challenge (Japan).png
+assets.screenshot: ./media/screenshot/Super Street Fighter II X - Grand Master Challenge (Japan).png
+
+
+game: Super Wing Commander
+file: ./Super Wing Commander (USA).chd
+sort-by: Super Wing Commander
+developer: Origin Systems
+publisher: Electronic Arts
+genre: Flight Simulator
+release: 1994-01-01
+players: 1
+rating: 75%
+description:
+	A remake of the first Wing Commander with all-new graphics and sound.
+	.
+	As in the original game, the player takes control of a young pilot on the carrier TCS Tiger's Claw to fly missions in the war against the Kilrathi.
+	.
+	Super Wing Commander includes the Vega campaign from the original game and the first Secret Missions add-on campaign. Exclusive to this version is a new campaign set between Secret Missions 1 and 2 where the Tiger's Claw must find and destroy the base where the Sivar dreadnought from Secret Missions 1 was developed.
+	.
+	The look of the original game has been completely redesigned, with ships and people looking completely different from the original. All dialogue is now heard through digitized speech.
+assets.boxfront: ./media/mixart/Super Wing Commander (USA).png
+assets.video: ./media/snap/Super Wing Commander (USA).mp4
+assets.logo: ./media/wheel/Super Wing Commander (USA).png
+assets.screenshot: ./media/screenshot/Super Wing Commander (USA).png
+
+
+game: Syndicate
+file: ./Syndicate (Europe).chd
+sort-by: Syndicate
+developer: Bullfrog
+publisher: Electronic Arts
+genre: Action
+release: 1994-01-01
+players: 1
+rating: 60%
+description:
+	In the future, the world is controlled by a handful of global corporations (syndicates).  You are the Marketing director (hit man) for one of these companies.  It is your job to take control away from the competitors.  The job is not one of diplomacy, but one of brute force and physical control.  Advance your way to the top of the corporation by successfully completing your missions and managing the money you make from your territories.
+	.
+	The gameplay is visually reminiscent of X-Com, with an angled top-down perspective, but it is real time rather than turn based. You have missions ranging from infiltrate and capture, to seek and destroy. In each of these you direct a team of four agents as they move through the world shooting at anything that gets in their way.
+	.
+	You can upgrade and modify your agents, as well as equip them with tools you have researched or liberated from opposing syndicates.  As you complete missions, you gain more funds to use for purchasing agents or researching upgrades and equipment.
+assets.boxfront: ./media/mixart/Syndicate (Europe).png
+assets.video: ./media/snap/Syndicate (Europe).mp4
+assets.logo: ./media/wheel/Syndicate (Europe).png
+assets.screenshot: ./media/screenshot/Syndicate (Europe).png
+assets.background: ./media/background/Syndicate (Europe).jpg
+
+
+game: Taiketsu Rumiizu!
+file: ./Taiketsu Rumiizu! (Japan).chd
+sort-by: Taiketsu Rumiizu!
+publisher: Sanyei Shobou
+genre: Action
+release: 1995-08-07
+players: 4
+rating: 40%
+assets.boxfront: ./media/mixart/Taiketsu Rumiizu! (Japan).png
+assets.video: ./media/snap/Taiketsu Rumiizu! (Japan).mp4
+assets.logo: ./media/wheel/Taiketsu Rumiizu! (Japan).png
+assets.screenshot: ./media/screenshot/Taiketsu Rumiizu! (Japan).png
+
+
+game: Theme Park
+file: ./Theme Park (Europe) (En,Fr).chd
+sort-by: Theme Park
+developer: Bullfrog
+publisher: Electronic Arts
+genre: Strategy
+release: 1994-01-01
+players: 1
+rating: 65%
+description:
+	Dominating the exciting world of Theme Park ownership is your goal in this strategy game from Bullfrog. The first task is to set up your rides within the available land, structuring convenient paths and queues and ideally leaving some space for bigger rides once they become available, and include some lakes and trees to increase the park's allure. Rides range from Teacups and Haunted Houses to the biggest most elaborate roller-coaster you can design, and water rides that loop around other rides.
+	.
+	Shops must also be included, so that the visitors can buy food, drinks and souvenirs - the cunning player will combine salt, sugar and caffeine settings to maximize consumer interest. Staff must be hired to keep everything running smoothly, and they will only work for what they consider a fair rate of pay.
+	.
+	You are competing against other Theme Parks, so don't let them get an advantage over you - monitor your success in attracting customers and financial viability closely using the supplied statistics pages. More important, ensure that research is adequately funded to produce new rides.
+	.
+	It can be played in three modes - Sandbox level lets you concentrate on the park design elements, while Sim and Full add more strategic features.
+assets.boxfront: ./media/mixart/Theme Park (Europe) (En,Fr).png
+assets.video: ./media/snap/Theme Park (Europe) (En,Fr).mp4
+assets.logo: ./media/wheel/Theme Park (Europe) (En,Fr).png
+assets.screenshot: ./media/screenshot/Theme Park (Europe) (En,Fr).png
+
+
+game: Total Eclipse
+file: ./Total Eclipse (USA).chd
+sort-by: Total Eclipse
+developer: Crystal Dynamics
+publisher: Crystal Dynamics
+genres:
+	Action
+	Shooter
+release: 1994-01-01
+players: 1
+rating: 85%
+description:
+	Total Eclipse is a futuristic 3D shooter set in 2099 where an alien race by the name of the Drak-Sai are out to destroy humanity by destroying Earth and the Sun. The player controls an aircraft called a FireWing through 20 missions with a perspective behind the craft where the player can manuever the ship up and down, left and right and the gameplay angled towards an on-rail shooter.  Additionally, there are three different levels of power for each weapon that their craft can wield
+	.
+	The game is in the style of 3D textured mapping with the story is told through pre-rendered cut-scenes.  The PlayStation version is essentially the same except for sped up gameplay and a password feature that allows the player to pick up and play at their choosing.
+assets.boxfront: ./media/mixart/Total Eclipse (USA).png
+assets.video: ./media/snap/Total Eclipse (USA).mp4
+assets.logo: ./media/wheel/Total Eclipse (USA).png
+assets.screenshot: ./media/screenshot/Total Eclipse (USA).png
+
+
+game: Trip'd
+file: ./Trip'd (USA, Europe).chd
+sort-by: Trip'd
+developer: WARP
+publisher: Panasonic
+genre: Puzzle
+release: 1995-01-01
+players: 2
+rating: 70%
+description:
+	Trip'd is a falling block puzzle game similar to Puyo Puyo.  Instead of blocks, alien eggs of multiple colors fall down and the player must arrange them in a line of four of the same color in order to dispose of them.  However, if eggs of the same color are arranged into a square, they will hatch and form a giant alien that can instantly end the game for the player.  Players must complete the stage within a certain time limit or prevent the eggs to reach the top of the screen or else their game will end.  They also have the option to either play solo, against the computer or against a friend.
+assets.boxfront: ./media/mixart/Trip'd (USA, Europe).png
+assets.video: ./media/snap/Trip'd (USA, Europe).mp4
+assets.logo: ./media/wheel/Trip'd (USA, Europe).png
+assets.screenshot: ./media/screenshot/Trip'd (USA, Europe).png
+
+
+game: Twisted: The Game Show
+file: ./Twisted - The Game Show (USA).chd
+sort-by: Twisted - The Game Show
+developer: 3DO
+publisher: EA Games
+genre: Puzzle
+release: 1993-01-01
+players: 4
+rating: 80%
+description:
+	Similar to the You Don't Know Jack series of games, Twisted: The Game Show is a trivia challenge game for up to 4 players. The game offers a humorous mix of live character video and computer graphics.
+	After an introduction by the host Twink Fizzdale, you can select your personality by viewing video clips of the various characters egging you on to select them. You advance or retreat through the game board based on your responses to various puzzles, mini-games and trivia questions.
+assets.boxfront: ./media/mixart/Twisted - The Game Show (USA).png
+assets.video: ./media/snap/Twisted - The Game Show (USA).mp4
+assets.logo: ./media/wheel/Twisted - The Game Show (USA).png
+assets.screenshot: ./media/screenshot/Twisted - The Game Show (USA).png
+
+
+game: Ultraman Powered
+file: ./Ultraman Powered (Japan).chd
+sort-by: Ultraman Powered
+developer: TOSE
+publisher: Bandai Namco
+genre: Fighting
+release: 1994-03-20
+players: 2
+rating: 65%
+description:
+	Ultraman Powered is an Action game, developed by TOSE and published by Bandai,  which was released in Japan in 1994.
+assets.boxfront: ./media/mixart/Ultraman Powered (Japan).png
+assets.video: ./media/snap/Ultraman Powered (Japan).mp4
+assets.logo: ./media/wheel/Ultraman Powered (Japan).png
+assets.screenshot: ./media/screenshot/Ultraman Powered (Japan).png
+
+
+game: Virtual Vivid
+file: ./Virtual Vivid (USA) (RE-1).chd
+sort-by: Virtual Vivid
+assets.boxfront: ./media/mixart/Virtual Vivid (USA) (RE-1).png
+
+
+game: Virtuoso
+file: ./Virtuoso (Europe) (En,Fr,De).chd
+sort-by: Virtuoso
+developer: Movietime
+publisher: Data East
+genre: Shooter
+release: 1995-09-01
+players: 1
+rating: 60%
+description:
+	Music and Virtual Reality are your only escapes in a world gone mad. Transform into a rock superstar on a 3D virtual quest where the Angry Red Planet, Mars, awaits your invasion. Or enter an eerie Haunted House with a few spectres of its own. Submerge yourself in our underwater biosphere, but beware, the reefs ahead hold many dangers. Music Video Clips and a hard rock soundtrack set the stage in this head-banging cyberfantasy adventure!
+assets.boxfront: ./media/mixart/Virtuoso (Europe) (En,Fr,De).png
+assets.video: ./media/snap/Virtuoso (Europe) (En,Fr,De).mp4
+assets.logo: ./media/wheel/Virtuoso (Europe) (En,Fr,De).png
+assets.screenshot: ./media/screenshot/Virtuoso (Europe) (En,Fr,De).png
+
+
+game: VR Stalker
+file: ./VR Stalker (USA).chd
+sort-by: VR Stalker
+developer: Morpheus
+publisher: American Laser Games
+genre: Flight Simulator
+release: 1994-01-01
+players: 1
+rating: 40%
+description:
+	Sometime in the near future, the United States has come under attack by a mysterious threat.  After New York and Los Angeles are destroyed, many Americans have formed an underground resistance to fight off the attackers using a VR Simulator to control their planes to keep their fighters alive.  The player has been recruited and is codenamed "Stalker" to defend the U.S. and bring back peace and order.
+	There are 15 missions in all, where the player has to complete certain objectives, such as destroy a certain amount of enemies or defend certain targets.  The planes are mostly modern age such as the A-10 Warthog. The player can choose to use either the plane's machine guns or missiles to bring down enemy targets.
+assets.boxfront: ./media/mixart/VR Stalker (USA).png
+assets.video: ./media/snap/VR Stalker (USA).mp4
+assets.logo: ./media/wheel/VR Stalker (USA).png
+assets.screenshot: ./media/screenshot/VR Stalker (USA).png
+
+
+game: Waialae Country Club
+file: ./Waialae Country Club (USA, Canada).chd
+sort-by: Waialae Country Club
+developer: Panasonic
+publisher: T&E Soft
+genre: Sports
+release: 1994-01-01
+players: 4
+rating: 80%
+description:
+	Grab your clubs and head for the first tee. This golf sim recreates the world famous Hawaiian Waialae Golf Course, noted for lots of bunkers and very fast greens. You can choose your golfer, assign him a caddy, pick your set of clubs and adjust the power, putting, technical, recovery and wind game stats to suit your personal preference. The game offers a practice training mode, a tournament mode and the ability to challenge your friends in a stroke match. Oddly, this game was not sanctioned by the PGA and assumes that the golfer is always male.
+assets.boxfront: ./media/mixart/Waialae Country Club (USA, Canada).png
+assets.video: ./media/snap/Waialae Country Club (USA, Canada).mp4
+assets.logo: ./media/wheel/Waialae Country Club (USA, Canada).png
+assets.screenshot: ./media/screenshot/Waialae Country Club (USA, Canada).png
+
+
+game: Way of the Warrior
+file: ./Way of the Warrior (USA).chd
+sort-by: Way of the Warrior
+developer: Naughty Dog
+publisher: Universal
+genre: Fighting
+release: 1994-01-01
+players: 2
+rating: 65%
+description:
+	Way of the Warrior is a 2d fighting game that features digitized graphics of real fighters, 3d rendered backgrounds and zoom effects. Players have to defeat 9 of the world's greatest warriors, plus a 'shadow' match, and a dragon to finally wins the opportunity to dethrone the champion.
+assets.boxfront: ./media/mixart/Way of the Warrior (USA).png
+assets.video: ./media/snap/Way of the Warrior (USA).mp4
+assets.logo: ./media/wheel/Way of the Warrior (USA).png
+assets.screenshot: ./media/screenshot/Way of the Warrior (USA).png
+
+
+game: Wicked 18
+file: ./Wicked 18 (USA).chd
+sort-by: Wicked 18
+developer: T&E Soft
+publisher: T&E Soft
+genre: Sports
+release: 1995-01-01
+players: 4
+rating: 65%
+description:
+	Wicked 18 is a golf game with a twist. The player takes control of a golfer on the most extreme 18 holes of golf with tall mountains, canyons and various objects and obstacles ready to stop the player at any time.
+	There are four different game modes to choose from: Stroke, Match, Skin and Tournament with the ability to play against three other friends in a heated match. There is also a battery back-up that saves the players progress after each hole is completed.
+assets.boxfront: ./media/mixart/Wicked 18 (USA).png
+assets.video: ./media/snap/Wicked 18 (USA).mp4
+assets.logo: ./media/wheel/Wicked 18 (USA).png
+assets.screenshot: ./media/screenshot/Wicked 18 (USA).png
+
+
+game: Wing Commander III: Heart of the Tiger
+files:
+	./Wing Commander III - Heart of the Tiger (USA) (Disc 1).chd
+	./Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 2).chd
+	./Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 3).chd
+	./Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 4).chd
+sort-by: Wing Commander III - Heart of the Tiger
+developer: Origin Systems
+publisher: Electronic Arts
+genres:
+	Action
+	Flight Simulator
+release: 1995-01-01
+players: 1
+rating: 85%
+description:
+	The war against the Kilrathi is going badly for the Confederation. Its flagship, the Concordia, has been destroyed, battles are lost on all fronts. War hero Colonel Christopher Blair is transferred to the old carrier Victory. Take the role of Blair and ensure the success of the Confederation's last-ditch attempt for victory: the destruction of the Kilrathi homeworld.
+	Wing Commander III has the usual mix of space battles and cinematic storytelling. Changes from the first two games include SVGA graphics, the use of texture-mapped polygons instead of bitmaps for spaceflight sequences and real Hollywood actors appearing in the cinematic scenes.
+assets.boxfront: ./media/mixart/Wing Commander III - Heart of the Tiger (USA) (Disc 1).png
+assets.video: ./media/snap/Wing Commander III - Heart of the Tiger (USA) (Disc 1).mp4
+assets.logo: ./media/wheel/Wing Commander III - Heart of the Tiger (USA) (Disc 1).png
+assets.screenshot: ./media/screenshot/Wing Commander III - Heart of the Tiger (USA) (Disc 1).png
+
+
+game: Wolfenstein 3D
+file: ./Wolfenstein 3D (USA).chd
+sort-by: Wolfenstein 3D
+developer: Interplay
+publisher: id Software
+genre: Shooter
+release: 1995-10-19
+players: 1
+rating: 90%
+description:
+	Inspired by the top-down infiltration game Castle Wolfenstein, this episodic first-person shooter (FPS) puts the player in the boots of  B.J. Blazkowicz, an allied spy. There are six episodes (the first distributed complete as shareware), the second, and the third available after registration and the three final missions (which happen before the events of the first episode) available in the "Nocturnal Missions" pack. However, they do not need to be played in sequence to be enjoyed!
+	.
+	In the first episode (Escape from Wolfenstein), B.J. was captured, but overpowered a guard with the help of a concealed knife and managed to get out of his cell. Throughout the next nine levels the player guides B.J. searching for an escape from Wolfenstein, guarded by Hans Grosse. After returning to Allied territory, B.J. is given the instructions to Operation: Eisenfaust, where he has to stop Dr. Schabbs and his army of mutant prototypes before they are released into the battlefields. The final mission (Die, Führer, Die!) has a simple goal: infiltrate the bunker under the Reichstag, and terminate Hitler (in a robotic suit) himself. The Nocturnal Missions are focused on the Nazi plans for chemical warfare, and start with Dark Secret, where B.J. hunts for lead researcher Dr. Otto Giftmacher. It's followed by Trail of the Madman, where the goal is capturing the war plans guarded by Gretel Grosse, and the final episode Confrontation, where B.J. meets General Fettgesicht, the planner for the chemical assault.
+	.
+	Each episode has nine levels (eight regular and a final boss level), plus a secret level activated by an hidden switch somewhere in the eight first levels. Regular levels often feature a maze-like appearance or large areas with many enemies (the number of them on each area depends on the difficulty level), where the player must reach the exit elevator. To do so, he must kill the enemies (while it's possible to move behind the guards' backs and even there's a slight bonus in attacking them from behind, most enemies have to be dealt with by fire power), and depending on the level, activate "push walls" and/or get silver and golden keys to open certain doors.
+	.
+	Many objects can be found in a level, from medikits, chicken meals, and even dog food (to restore health), ammo and treasures, which solely exist for points. There are four weapons (knife, pistol, machine gun and Gatling), all of them using the same bullets except the knife. The knife and the pistol are given at the start of the level, while the machine gun is either found (usually in secret areas) or picked up from SS troopers and the Gatling is always dropped somewhere in the level. There are five kinds of enemies (excluding bosses) - Dogs (fast, but more a nuisance than life-threatening), Army Soldiers (dressed in regular brown outfit, not very powerful but usually found in large groups), Officers (dressed in white, armed with a very accurate pistol and tough to kill), SS Troopers (blue attire, armed with a machine gun and tough to kill), and Mutants (the rarest and toughest of regular enemies, pale-skinned troopers with green clothes and a machine gun stuck in their chest).
+	.
+	Unlike modern FPS games, the player has a number of lives and once the player loses the last life, the game ends. To win extra lives, the player has to either find the 1-up item in the level or get 20,000 points (by killing enemies and capturing treasures or completing a level below the 'par' time while killing all enemies, finding all secrets by pushing walls, and collecting all treasure points).
+assets.boxfront: ./media/mixart/Wolfenstein 3D (USA).png
+assets.video: ./media/snap/Wolfenstein 3D (USA).mp4
+assets.logo: ./media/wheel/Wolfenstein 3D (USA).png
+assets.screenshot: ./media/screenshot/Wolfenstein 3D (USA).png
+assets.background: ./media/background/Wolfenstein 3D (USA).jpg
+
+
+game: Woody Woodpecker and Friends
+files:
+	./Woody Woodpecker and Friends - Volume One (USA) (RE-1).chd
+	./Woody Woodpecker and Friends - Volume Two (USA).chd
+	./Woody Woodpecker and Friends - Volume Three (USA).chd
+sort-by: Woody Woodpecker and Friends
+developer: Universal
+publisher: Universal
+genre: Various
+release: 1994-01-01
+players: 1
+rating: 70%
+description:
+	Old Woody Woodpecker Episodes
+assets.boxfront: ./media/mixart/Woody Woodpecker and Friends - Volume One (USA) (RE-1).png
+assets.logo: ./media/wheel/Woody Woodpecker and Friends - Volume One (USA) (RE-1).png
+assets.screenshot: ./media/screenshot/Woody Woodpecker and Friends - Volume One (USA) (RE-1).png
+
+
+game: Yu Yu Hakusho
+file: ./Yu Yu Hakusho (Japan).chd
+sort-by: Yu Yu Hakusho
+developer: Hudson
+publisher: Tomy
+genre: Fighting
+release: 1994-12-23
+players: 2
+rating: 40%
+description:
+	Yū Yū Hakusho is a fighting game based on the Yu Yu Hakusho anime. The player has a choice of 15 characters, each of which has their own special and hyper moves. The animation for the characters was drawn by the animation studio responsible for the TV animation.
+assets.boxfront: ./media/mixart/Yu Yu Hakusho (Japan).png
+assets.video: ./media/snap/Yu Yu Hakusho (Japan).mp4
+assets.logo: ./media/wheel/Yu Yu Hakusho (Japan).png
+assets.screenshot: ./media/screenshot/Yu Yu Hakusho (Japan).png
+
+
+game: Zhadnost: The People's Party
+file: ./Zhadnost - The People's Party (USA).chd
+sort-by: Zhadnost - The People's Party
+developer: 3DO
+publisher: 3DO
+genres:
+	Action
+	Puzzle
+	Strategy
+	Education
+release: 1995-03-02
+players: 4
+rating: 50%
+description:
+	Welcome to Zhadnost, the "most popular game on Bizzarnian state run television"! Bizzarnia, a small communist nation has kidnapped contestants for this its favourite game show and is playing them against each other to compete for their freedom.
+	In this party game for two to four people you will be in near constant action. You will play mini-games with such names as Propaganda, and Eye Spy. Try to force your opponents into harder games and uncover secrets about their characters. All characters are live action including the host.
+assets.boxfront: ./media/mixart/Zhadnost - The People's Party (USA).png
+assets.video: ./media/snap/Zhadnost - The People's Party (USA).mp4
+assets.logo: ./media/wheel/Zhadnost - The People's Party (USA).png
+assets.screenshot: ./media/screenshot/Zhadnost - The People's Party (USA).png
