@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gameList>
+  <provider>
+    <System>Amstrad GX-4000</System>
+    <software>Skraper</software>
+    <database>ScreenScraper.fr</database>
+    <web>http://www.screenscraper.fr</web>
+  </provider>
+  <game id="58528" source="ScreenScraper.fr">
+    <path>./Barbarian 2 (Europe).zip</path>
+    <name>Barbarian II: The Dungeon of Drax (Europe)</name>
+    <desc>Barbarian II features only a single-player mode, in which the player assumes the role of either sword-wielding Princess Mariana or the titular savage, who is armed with a battleaxe. Their common quest is to pursue the evil wizard Drax, who has fled to his dungeon hideout after his defeat in the first game. The player characters battle their way through an inhospitable wasteland, a system of caves, and a dungeon before facing Drax in his inner sanctum for a showdown.</desc>
+    <rating>0.7</rating>
+    <releasedate>19900101T000000</releasedate>
+    <developer>Palace</developer>
+    <publisher>Ocean</publisher>
+    <genre>Fight</genre>
+    <players>1</players>
+    <favorite>true</favorite>
+  </game>
+  <game id="54058" source="ScreenScraper.fr">
+    <path>./Batman the Movie (Europe).zip</path>
+    <name>Batman the Movie (Europe)</name>
+    <desc>The game consists of five stages based on events from the movie. Each stage has a time limit and a health gauge (represented by Batman's face turning into the Joker's), with Batman losing a life if he runs out of either. The levels have varying gameplay:    The first stage sees players controlling Batman as he navigates the Axis Chemical Plant to confront Jack Napier, leading to the incident in which he becomes The Joker. In this level, the game features side-scrolling gameplay, in which Batman can use his Batarangs to defeat enemies or and his grapple gun to reach higher platforms and swing across gaps.  In the second level, Batman rides in his Batmobile where he must dodge traffic and use a grapple to swing around corners to avoid running into the police.  The third level is a puzzle section in which Batman must identify various components for Smilex, the deadly chemical Joker has put into the market.  The fourth level takes place during Joker's parade, in which Batman must use the Batwing to cut away balloons filled with poisonous gas without hitting the balloons themselves.  Finally, the fifth level, which reprises the gameplay of the first level, sees Batman make his way to the top of Gotham Cathedral to finally confront Joker.</desc>
+    <rating>0</rating>
+    <releasedate>19900101T000000</releasedate>
+    <developer>Ocean</developer>
+    <publisher>Ocean</publisher>
+    <genre>Platform</genre>
+    <players>1</players>
+  </game>
+  <game id="54059" source="ScreenScraper.fr">
+    <path>./Burnin' Rubber (Europe).zip</path>
+    <name>Burnin' Rubber (Europe)</name>
+    <desc>Burnin' Rubber is the game that was included with every Plus and GX4000 on a cartridge, in a bid to showcase the Plus machine's new hardware abilities. Therefore it was quite popular, although it did not really show off the Plus capabilities, being an early title and all. Despite that, it wasn't a bad game on its own and is considered one of the good racing games on the Amstrad.</desc>
+    <rating>0.75</rating>
+    <releasedate>19900101T000000</releasedate>
+    <developer>Ocean</developer>
+    <publisher>Ocean</publisher>
+    <genre>Race, Driving</genre>
+    <players>1</players>
+    <favorite>true</favorite>
+  </game>
+  <game id="54060" source="ScreenScraper.fr">
+    <path>./Copter 271 (Europe).zip</path>
+    <name>Copter 271 (Europe)</name>
+    <desc>An army of Martians is attacking Earth and humanity is threatened with complete extinction. The player has been summoned by the army general and is given the task to fight the enemy in the latest helicopter, Copter 271. Copter 271 is a vertically scrollin</desc>
+    <rating>0</rating>
+    <releasedate>19910101T000000</releasedate>
+    <developer>Loriciels</developer>
+    <publisher>Loriciels</publisher>
+    <genre>Shoot'em Up</genre>
+    <players>1-2</players>
+  </game>
+  <game id="54061" source="ScreenScraper.fr">
+    <path>./Crazy Cars 2 (Europe).zip</path>
+    <name>Crazy Cars 2 (Europe)</name>
+    <desc>Racing game through four states of the USA driving a Ferrari F40. You have a given amount of time to reach a distant city. Using the added map you have to find the best way by yourself through the junctions. While there are no other private cars the police tries to stop you using patrol cars and road blocks.</desc>
+    <rating>0</rating>
+    <releasedate>19900101T000000</releasedate>
+    <developer>Titus</developer>
+    <publisher>Titus</publisher>
+    <genre>Race, Driving</genre>
+    <players>1</players>
+    <favorite>true</favorite>
+  </game>
+  <game id="54062" source="ScreenScraper.fr">
+    <path>./Dick Tracy (Europe).zip</path>
+    <name>Dick Tracy (Europe)</name>
+    <desc>Dick Tracy is a tie in to the 1990 movie adaptation of the classic comic strip, staring Warren Beatty and Madonna.  This is a side scrolling action game, where you control Dick Tracy as he moves through five stages, shooting gangsters with an assortment o</desc>
+    <rating>0</rating>
+    <releasedate>19910101T000000</releasedate>
+    <developer>Titus</developer>
+    <publisher>Titus</publisher>
+    <genre>Beat'em Up</genre>
+    <players>1</players>
+    <favorite>true</favorite>
+  </game>
+  <game id="54064" source="ScreenScraper.fr">
+    <path>./Fire and Forget 2 (Europe).zip</path>
+    <name>Fire and Forget 2 (Europe)</name>
+    <desc>Fire &amp; Forget II is a 1990 futuristic racing-shooting video game developed by Titus Arcade and published by Sega for the Master System, and by Amstrad for the GX4000. It is the sequel to Fire and Forget, which was developed by Titus France SA for a number of platforms including the ZX Spectrum. Fire &amp; Forget II is one of a number of similar games which emerged in the late 1980s and early 1990s in the wake of Sega's popular arcade driving game Out Run (1986). It is notable for the variety of its enemy sprites, and for its use of parallax scrolling. It is also notable for being one of the first video games to be launched simultaneously on two consoles.</desc>
+    <rating>0</rating>
+    <releasedate>19900101T000000</releasedate>
+    <developer>Titus</developer>
+    <publisher>Titus</publisher>
+    <genre>Race, Driving</genre>
+    <players>1</players>
+  </game>
+  <game id="54065" source="ScreenScraper.fr">
+    <path>./Klax (Europe).zip</path>
+    <name>Klax (Europe)</name>
+    <desc>An action/puzzle game, the object is to catch assorted color falling tiles and create rows, columns, or diagonals of a single color. Each level requires a different pattern to be made, and the tiles fall faster, more at a time, and in an increasing number</desc>
+    <rating>0</rating>
+    <releasedate>19910101T000000</releasedate>
+    <developer>Atari</developer>
+    <publisher>Domark</publisher>
+    <genre>Puzzle-Game</genre>
+    <players>1-2</players>
+  </game>
+  <game id="54066" source="ScreenScraper.fr">
+    <path>./Mystical (Europe).zip</path>
+    <name>Mystical (Europe)</name>
+    <desc>Acquiring the title of Supreme Magician, you should travel from the Marsh of Eternal Stench to the Garden of Eden, facing danger and humour, and trying to survive the deluge of monsters, thoroughly determined to stop you!  In this vertical scrolling actio</desc>
+    <rating>0</rating>
+    <releasedate>19910101T000000</releasedate>
+    <developer>Infogrames</developer>
+    <publisher>Infogrames</publisher>
+    <genre>Shoot'em Up</genre>
+    <players>1</players>
+  </game>
+  <game id="54067" source="ScreenScraper.fr">
+    <path>./Navy Seals (Europe).zip</path>
+    <name>Navy Seals (Europe)</name>
+    <desc>Like many of Ocean's games this was licensed from a film, in this case one by Orion, the company best known for Robocop.  You control a succession of the USA's elite fighters with the aim of destroying missiles held by terrorists. You must destroy the mis</desc>
+    <rating>0</rating>
+    <releasedate>19910101T000000</releasedate>
+    <developer>Ocean</developer>
+    <publisher>Ocean</publisher>
+    <genre>Platform</genre>
+    <players>1</players>
+  </game>
+  <game id="54068" source="ScreenScraper.fr">
+    <path>./No Exit (Europe).zip</path>
+    <name>No Exit (Europe)</name>
+    <desc>No Exit is a side-view martial arts beat 'em up, similar in style to IK+. Each fight must be won within a time limit. You can specify your character's ability quite precisely, trading off Vivacity against Efficiency and Resistance against Strength. Your c</desc>
+    <rating>0</rating>
+    <releasedate>19900101T000000</releasedate>
+    <developer>Coktel Vision</developer>
+    <publisher>Tomahawk</publisher>
+    <genre>Beat'em Up-Fight</genre>
+    <players>1-2</players>
+  </game>
+  <game id="54069" source="ScreenScraper.fr">
+    <path>./Operation Thunderbolt (Europe).zip</path>
+    <name>Operation Thunderbolt (Europe)</name>
+    <desc>Operation Thunderbolt is the exciting sequel to Operation Wolf.  An airliner is hijacked by terrorists en-route from Paris to Boston, who threaten to kill all hostages on board if their mates aren't released from jail. Instead of reaching its destination,</desc>
+    <rating>0</rating>
+    <releasedate>19900101T000000</releasedate>
+    <developer>Taito</developer>
+    <publisher>Ocean</publisher>
+    <genre>Shooter</genre>
+    <players>1-2</players>
+  </game>
+  <game id="54070" source="ScreenScraper.fr">
+    <path>./Pang (Europe).zip</path>
+    <name>Pang (Europe)</name>
+    <desc>Pang is a platform game which consists of 50 levels in total. It can be played with one or two players on the same screen, and the other player can join anytime within the game. Your goal is to destroy the balloons which bounce around the playfield. To ac</desc>
+    <rating>0</rating>
+    <releasedate>19900101T000000</releasedate>
+    <developer>Mitchell Corporation</developer>
+    <publisher>Ocean</publisher>
+    <genre>Action</genre>
+    <players>1-2</players>
+  </game>
+  <game id="54071" source="ScreenScraper.fr">
+    <path>./Panza Kick Boxing (Europe).zip</path>
+    <name>Panza Kick Boxing (Europe)</name>
+    <desc>Endorsed by AndrÃ© Panza, this video game adaptation of Thai kick boxing features over 35 moves. Use the training gym to build up your character's abilities until you feel ready to take on an opponent. You also have the ability to customize your attacks. </desc>
+    <rating>0</rating>
+    <releasedate>19910101T000000</releasedate>
+    <developer>Futura</developer>
+    <publisher>Titus</publisher>
+    <genre>Sports / Boxing-Sports</genre>
+    <players>1-2</players>
+  </game>
+  <game id="54072" source="ScreenScraper.fr">
+    <path>./Plotting (Europe).zip</path>
+    <name>Plotting (Europe)</name>
+    <desc>Plotting involves several different types of blocks, bearing symbols such as squares, circles and crosses. Using a small yellow object to direct a block across onto a particular section of a shaped wall. It will then rebound onto a set of blocks at a part</desc>
+    <rating>0</rating>
+    <releasedate>19900101T000000</releasedate>
+    <developer>Taito</developer>
+    <publisher>Ocean</publisher>
+    <genre>Puzzle-Game</genre>
+    <players>1-2</players>
+  </game>
+  <game id="54073" source="ScreenScraper.fr">
+    <path>./Pro Tennis Tour (Europe).zip</path>
+    <name>Pro Tennis Tour (Europe)</name>
+    <desc>Okay Tennis Ace, now's your chance to compete with the best. Step into center court, tighten your grip and prepare to serve up your best shot. Pro Tennis Tour is about to begin.</desc>
+    <rating>0</rating>
+    <releasedate>19900101T000000</releasedate>
+    <developer>Blue Byte</developer>
+    <publisher>Ubisoft</publisher>
+    <genre>Sports / Tennis-Sports</genre>
+    <players>1-2</players>
+  </game>
+  <game id="54074" source="ScreenScraper.fr">
+    <path>./Robocop 2 (Europe).zip</path>
+    <name>Robocop 2 (Europe)</name>
+    <desc>RoboCop 2 is a mission-based platform game. Missions have various objectives, such as destroying nukes or killing all the enemies. If you didn't destroy/kill enough, you'll be transported to a training mission, which is a first-person perspective shoot 'e</desc>
+    <rating>0</rating>
+    <releasedate>19910101T000000</releasedate>
+    <developer>Ocean</developer>
+    <publisher>Ocean</publisher>
+    <genre>Platform-Beat'em Up</genre>
+    <players>1</players>
+  </game>
+  <game id="54075" source="ScreenScraper.fr">
+    <path>./Skeet Shoot (Europe).zip</path>
+    <name>Skeet Shoot (Europe)</name>
+    <desc>Using the Amstrad GX4000â€™s lightgun â€“ and yes, there was one actually available for the princely sum of Â£30 â€“ you could play Skeet Shoot (and pick up Enforcer later, had you some spare cash knocking around).  Predictably, Skeet Shoot was a bloodles</desc>
+    <rating>0</rating>
+    <releasedate>19900101T000000</releasedate>
+    <developer>Trojan</developer>
+    <publisher>Trojan</publisher>
+    <genre>Lightgun Shooter</genre>
+    <players>1</players>
+  </game>
+  <game id="54076" source="ScreenScraper.fr">
+    <path>./Super Pinball Magic (Europe).zip</path>
+    <name>Super Pinball Magic (Europe)</name>
+    <desc>This super pinball simulation will really make you "tilt" with pleasure! With its 12 levels, some of which are break outs, with plenty of bonuses and extra balls.</desc>
+    <rating>0</rating>
+    <releasedate>19910101T000000</releasedate>
+    <developer>Loriciels</developer>
+    <publisher>Loriciels</publisher>
+    <genre>Pinball</genre>
+    <players>1</players>
+  </game>
+  <game id="54077" source="ScreenScraper.fr">
+    <path>./Switchblade (Europe).zip</path>
+    <name>Switchblade (Europe)</name>
+    <desc>The Fireblade, sacred symbol of the ancient Switchblade clan, has been smashed into 16 pieces by the evil Havoc - but they say that a Hiro can save it, and as Hiro, you must retrieve the 16 pieces and restore your people's pride.  The gameplay is platform</desc>
+    <rating>0.9</rating>
+    <releasedate>19900101T000000</releasedate>
+    <developer>Core Design</developer>
+    <publisher>Gremlin Interactive</publisher>
+    <genre>Platform</genre>
+    <players>1</players>
+    <favorite>true</favorite>
+  </game>
+  <game id="54078" source="ScreenScraper.fr">
+    <path>./Tennis Cup 2 (Europe).zip</path>
+    <name>Tennis Cup 2 (Europe)</name>
+    <desc>This tennis simulation recreates all the rules of the sport, from tie-breaks to break points. The action is viewed from behind one of the players, also featuring a split-screen option. You can play singles and doubles matches over 1,3 or 5 sets. There are</desc>
+    <rating>0</rating>
+    <releasedate>19900101T000000</releasedate>
+    <developer>Loriciels</developer>
+    <publisher>Loriciels</publisher>
+    <genre>Sports / Tennis-Sports</genre>
+    <players>1-2</players>
+    <favorite>true</favorite>
+  </game>
+  <game id="54063" source="ScreenScraper.fr">
+    <path>./Enforcer (Europe).zip</path>
+    <name>The Enforcer (Europe)</name>
+    <desc>Your job is to gun down dozens of bad guys as they pop up from beind trash cans (that's American dustbins), peer out of windows. The game is played Operation Wolf style, though the screen won't move - you have to kill a pre-determined number of goons before you can progress any further down the street. There are also nice little bonus levels in between locations, involving loads of bottles of booze and some blokeys trying frantically to pack it. Your job here is to shoot the whiskey before it gets packed.</desc>
+    <rating>0</rating>
+    <releasedate>19900101T000000</releasedate>
+    <developer>Trojan</developer>
+    <publisher>Trojan</publisher>
+    <genre>Lightgun Shooter</genre>
+    <players>1</players>
+  </game>
+  <game id="54079" source="ScreenScraper.fr">
+    <path>./Tin Tin on the Moon (Europe).zip</path>
+    <name>Tintin on The Moon (Europe)</name>
+    <desc>Tintin on the Moon is a video game loosely based on the Destination Moon and Explorers on the Moon comic books from The Adventures of Tintin, the series by Belgian cartoonist Hergé. It is a first person shoot 'em up/side scroller and the first Tintin video game.</desc>
+    <rating>0.6</rating>
+    <releasedate>19900101T000000</releasedate>
+    <developer>Infogrames</developer>
+    <publisher>Infogrames</publisher>
+    <genre>Platform</genre>
+    <players>1</players>
+  </game>
+  <game id="54080" source="ScreenScraper.fr">
+    <path>./Wild Streets (Europe).zip</path>
+    <name>Wild Streets (Europe)</name>
+    <desc>Wild Streets is a side-scrolling arcade game, in which you fight enemies using punches, kicks, your gun and sometimes your panther will help you.</desc>
+    <rating>0</rating>
+    <releasedate>19900101T000000</releasedate>
+    <developer>Titus</developer>
+    <publisher>Titus</publisher>
+    <genre>Beat'em Up</genre>
+    <players>1</players>
+  </game>
+  <game id="54081" source="ScreenScraper.fr">
+    <path>./World Of Sports (Europe).zip</path>
+    <name>World of Sports (Europe)</name>
+    <desc>World of Sports, is, as its name suggests, a sports game. These events were already present on computer versions of World Games, but if the game was renamed World of Sports on GX 4000 is simply that, we find here only 4 of the many events present on the original version. So let's go over the 4 parts of the game. First of all the bike cross event, entitled BMX. The cap well pressed on the skull, gloved hands gripping the handlebars, you're ready to go. You have a minute to complete the course of moguls, descents, haystacks. Points will be awarded if you browse all this in style (but if metal tubes and wheels that can have style). There is mess in the air. In the slalom race, we stay on a track, but it is white and cold because it is snow. Your skier goes with the joystick, skid, acceleration, all responding perfectly to the player's orders. You have 45 seconds to hit the track, and points will score two points per pass. Fun and difficult to make a faultless course in record time. The third test is surfing titled Surfing very cleverly. With tanned skin, blond hair in the wind, and the board underfoot, you will have to ride a huge wave and do tricks in the air to score a maximum of points. As in other events, everything happens in a limited time. The character is animated, and the wave is composed of a gradient of pretty blue. Accapulco its beaches, its sun, its rocks, and at the top of the rocks, its crackers who plunge dizzying heights shouting "Yaaaaawaaaayaaaaa" and crashing in a few meters of water that goes and comes. You may not know it, but you are part of this race of the unconscious. Admit to the best dive possible by avoiding to smash you on the rock face, or to smash your skull at the bottom of the water. After each jump, a bird passes by with a beak, a banner indicating the note that you obtained for your modest performance. If you blow your mouth, a pelican covers his eyes with his wings. Funny. The animation and the neat graphics, make this event too, a success.</desc>
+    <rating>0</rating>
+    <releasedate>19900101T000000</releasedate>
+    <developer>U.S. Gold</developer>
+    <publisher>Epyx</publisher>
+    <genre>Sports</genre>
+    <players>1-4</players>
+  </game>
+</gameList>

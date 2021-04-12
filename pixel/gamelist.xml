@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Raspbian Desktop.sh</path>
+		<name>Pixel | Raspian Desktop</name>
+		<desc>Raspbian with PIXEL (which stands for 'Pi Improved Xwindow Environment, Lightweight') is a huge software update to the desktop environment.</desc>
+		<image>./mixart/pixel.png</image>
+		<video>./snap/pixel.mp4</video>
+		<marquee>./wheel/pixel.png</marquee>
+		<rating>0.8</rating>
+		<playcount>1</playcount>
+		<lastplayed>20201027T022704</lastplayed>
+	</game>
+</gameList>

@@ -1,0 +1,1149 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gameList>
+  <provider>
+    <System>Sega SG-1000</System>
+    <software>Skraper</software>
+    <database>ScreenScraper.fr</database>
+    <web>http://www.screenscraper.fr</web>
+  </provider>
+  <game id="65728" source="ScreenScraper.fr">
+    <path>./007 James Bond (Japan) (Othello Multivision).zip</path>
+    <name>007 James Bond  </name>
+    <desc>007 James Bond is a shoot-'em-up game developed and published by Tsukuda Original for the SG-1000. It was ported from Parker Brothers's 1983 game of the same name, which was published for various American computers/consoles.
+
+007 James Bond was the last SG-1000 game to be produced by the company.</desc>
+    <releasedate>19830630T000000</releasedate>
+    <developer>Tsukuda Original</developer>
+    <publisher>Tsukuda Original</publisher>
+    <genre>Shoot'em Up-Shooter</genre>
+    <players>1</players>
+    <image>./mixart/007 James Bond (Japan) (Othello Multivision).png</image>
+    <marquee>./wheel/007 James Bond (Japan) (Othello Multivision).png</marquee>
+    <video>./snap/007 James Bond (Japan) (Othello Multivision).mp4</video>
+    <genreid>260</genreid>
+  </game>
+  <game id="65692" source="ScreenScraper.fr">
+    <path>./Bank Panic (Japan).zip</path>
+    <name>Bank Panic </name>
+    <desc>Bank Panic is an arcade shooting game developed by Sanritsu and manufactured by Sega in 1984. It was later ported by Sega to the SG-1000 and Sega Master System. An unlicensed clone called West Bank was released for several home computer systems. The same hardware would also be used for the later Sega/Sanritsu game Combat Hawk. 
+ 
+The player takes on the role of a sheriff in 19th century USA, protecting a bank from armed robbers. There are twelve doors arranged in a circle, with the player in the centre, which can be viewed three at a time. Robbers who appear from the doors are to be shot (after they draw their weapons, for a higher score) and customers are to be ignored while they make a deposit. Once deposits have been made from all twelve doors, the level is complete.</desc>
+    <rating>0.9</rating>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Sanritsu Denki Co., Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./mixart/Bank Panic (Japan).png</image>
+    <marquee>./wheel/Bank Panic (Japan).png</marquee>
+    <video>./snap/Bank Panic (Japan).mp4</video>
+    <favorite>true</favorite>
+    <genreid>256</genreid>
+  </game>
+  <game id="65693" source="ScreenScraper.fr">
+    <path>./Black Onyx, The (Japan) (Translated En).zip</path>
+    <name>Black Onyx, The  </name>
+    <desc>The Black Onyx is a role-playing game developed by Bullet Proof Software. It was released, among other consoles and computers, for the SG-1000 in 1987. It was the last SG-1000 game to be released in card form, and the last to be published by Sega, but it is currently unknown as to whether it was the last SG-1000 game. PC-8801 and MSX versions had been released in 1984 and 1985, respectively, meaning this version is unusually late. The game was followed by The Black Onyx II: Search For The Fire Crystal, which saw its original MSX release in 1984.</desc>
+    <releasedate>19870101T000000</releasedate>
+    <developer>Bullet Proof Software</developer>
+    <publisher>Sega</publisher>
+    <genre>Role playing games</genre>
+    <players>1</players>
+    <image>./mixart/Black Onyx, The (Japan) (Translated En).png</image>
+    <marquee>./wheel/Black Onyx, The (Japan) (Translated En).png</marquee>
+    <video>./snap/Black Onyx, The (Japan) (Translated En).mp4</video>
+    <genreid>768</genreid>
+  </game>
+  <game id="65694" source="ScreenScraper.fr">
+    <path>./Bomb Jack (Japan, Australia).zip</path>
+    <name>Bomb Jack </name>
+    <desc>Bomb Jack is an arcade game developed by Tehkan which was later ported to the SG-1000 by Sega in 1985. The aim of the game is to collect all the bombs in the playfield while avoiding monsters. Extra points are awarded for collecting the bombs in a specific order.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Tehkan Ltd.</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>2</players>
+    <image>./mixart/Bomb Jack (Japan, Australia).png</image>
+    <marquee>./wheel/Bomb Jack (Japan, Australia).png</marquee>
+    <video>./snap/Bomb Jack (Japan, Australia).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="102098" source="ScreenScraper.fr">
+    <path>./Bomberman Special (Taiwan) (English Logo) (Unl).zip</path>
+    <name>Bomberman Special   </name>
+    <desc>Bomberman Special is an MSX release in the Bomberman series of games. It was brought without a license to the SG-1000 in Taiwan.</desc>
+    <releasedate />
+    <developer>Hudson</developer>
+    <publisher>DahJee</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./mixart/Bomberman Special (Taiwan) (English Logo) (Unl).png</image>
+    <marquee>./wheel/Bomberman Special (Taiwan) (English Logo) (Unl).png</marquee>
+    <video>./snap/Bomberman Special (Taiwan) (English Logo) (Unl).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="65695" source="ScreenScraper.fr">
+    <path>./Borderline (Japan, Europe, Australia, New Zealand).zip</path>
+    <name>Borderline </name>
+    <desc>Borderline is a VIC Dual arcade game developed in 1980 by Sega. It is a shoot-'em-up in which the player controls a red jeep who must destroy the enemy refineries.
+
+Borderline was ported to the SG-1000 in 1983, and has also been released as part of the Sega Ages 2500 series in Japan. The second gameplay section was also recycled for the Atari 2600 release of Thunderground, though instead of driving a jeep the player controls a tank.</desc>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Compile</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./mixart/Borderline (Japan, Europe, Australia, New Zealand).png</image>
+    <marquee>./wheel/Borderline (Japan, Europe, Australia, New Zealand).png</marquee>
+    <video>./snap/Borderline (Japan, Europe, Australia, New Zealand).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="65710" source="ScreenScraper.fr">
+    <path>./C_So! (Japan).zip</path>
+    <name>C_So! </name>
+    <desc>C_So! (C-SO!) is a 1985 SG-1000 game developed by Compile and published by Sega. It is a port of an MSX game from the same year, which was published by Pony Canyon. 
+ 
+ 
+ 
+The game has the player collect various items and defeat monsters by using see-saws. In order to progress, all items must be collected and all monsters must be destroyed. There is also an edit mode, allowing the player to create their own levels. 
+ 
+ 
+ 
+The game was only released in Japan.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Compile</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./mixart/C_So! (Japan).png</image>
+    <marquee>./wheel/C_So! (Japan).png</marquee>
+    <video>./snap/C_So! (Japan).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="190910" source="ScreenScraper.fr">
+    <path>./Cabbage Patch Kids (Taiwan).zip</path>
+    <name>Cabbage Patch Kids </name>
+    <desc>It's exercise time! Anna Lee, one of the Cabbage Patch Kids, is warming up for a day of athletic adventures in the park--and she's taking you along! So stretch your muscles and get ready for a workout. This adventure is no picnic! As you stroll through the park, you'll encounter obstacles they never told you about in the Cabbage Patch. You'll leap onto floating lily pads, jump over cabbages and bouncing balls, and hop over puddles so deep they could float a ship. And that's the easy part! By the time you get back to the Park entrance, you'll know just what kind of physical shape you're really in. Are you ready for the workout?</desc>
+    <releasedate />
+    <genre>Action</genre>
+    <players>1-2</players>
+    <image>./mixart/Cabbage Patch Kids (Taiwan).png</image>
+    <marquee>./wheel/Cabbage Patch Kids (Taiwan).png</marquee>
+    <genreid>256</genreid>
+  </game>
+  <game id="65764" source="ScreenScraper.fr">
+    <path>./Castle, The (Taiwan) (Unl) (Pirate).zip</path>
+    <name>Castle, The   </name>
+    <desc>The Castle is video game developed by ASCII and released for the SG-1000 in 1986. It is a port of an MSX game of the same name, and is largely identical due to the similar hardware between the two machines. Due to the decline of the SG-1000 and emergence of the Sega Master System, the game was not released in Europe or Australia like many other SG-1000 games. The game has a fairly standard plot of rescuing a princess from a castle, though the game itself was considered very large for the time. It also contains a map system similar to that of later Metroid and Castlevania games.</desc>
+    <releasedate>19860101T000000</releasedate>
+    <developer>ASCII Corporation</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./mixart/Castle, The (Taiwan) (Unl) (Pirate).png</image>
+    <marquee>./wheel/Castle, The (Taiwan) (Unl) (Pirate).png</marquee>
+    <video>./snap/Castle, The (Taiwan) (Unl) (Pirate).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="65764" source="ScreenScraper.fr">
+    <path>./Castle, The (Japan).zip</path>
+    <name>Castle, The </name>
+    <desc>The Castle is video game developed by ASCII and released for the SG-1000 in 1986. It is a port of an MSX game of the same name, and is largely identical due to the similar hardware between the two machines. Due to the decline of the SG-1000 and emergence of the Sega Master System, the game was not released in Europe or Australia like many other SG-1000 games. The game has a fairly standard plot of rescuing a princess from a castle, though the game itself was considered very large for the time. It also contains a map system similar to that of later Metroid and Castlevania games.</desc>
+    <releasedate>19860101T000000</releasedate>
+    <developer>ASCII Corporation</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./mixart/Castle, The (Japan).png</image>
+    <marquee>./wheel/Castle, The (Japan).png</marquee>
+    <video>./snap/Castle, The (Japan).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="65697" source="ScreenScraper.fr">
+    <path>./Chack'n Pop (Japan) (Translated En).zip</path>
+    <name>Chack'n Pop  </name>
+    <desc>Chack'n Pop is an arcade game developed by Taito which was subsequently ported to the SG-1000 in 1985. It follows a yellow creature named Chack'n who must traverse across several mazes blowing up monsters. 
+ 
+The SG-1000 version of the game includes extra cutscenes and a training level not seen in the arcade version. 
+ 
+Though Chack'n Pop was not a particularly successful game for Taito, it would go on to inspire the success of Bubble Bobble, which shares many of the same characters and devotes a stage to Chack'n Pop. Chack'n has also cameoed in numerous Taito games since, including Bubble Bobble, Fairyland Story, Parasol Stars, Puzzle Bobble (and sequels), Bubble Symphony, Bubble Memories and Arkanoid DS. 
+ 
+Curiously this SG-1000 version uses the katakana script for writing Chack'n Pop as opposed to the hiragana script used in almost every other version.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Taito</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>2</players>
+    <image>./mixart/Chack'n Pop (Japan) (Translated En).png</image>
+    <marquee>./wheel/Chack'n Pop (Japan) (Translated En).png</marquee>
+    <video>./snap/Chack'n Pop (Japan) (Translated En).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="65700" source="ScreenScraper.fr">
+    <path>./Champion Boxing (Japan) (Rev 1).zip</path>
+    <name>Champion Boxing  </name>
+    <desc>Champion Boxing is a simplistic boxing game built for the SG-1000. It was later re-released in arcades for SG-1000-based arcade hardware. An MSX version was released in 1985, published by Pony Canyon. 
+ 
+There are five difficulty levels, and the aim is to knock out the opponent. 1 attacks, 2 selects an attack. Interestingly, if a player wins Pengo will make a cameo. 
+ 
+Champion Boxing is also noteworthy for being the first game coded by Yu Suzuki in his first year at Sega.</desc>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Sports / Boxing-Sports</genre>
+    <players>2</players>
+    <image>./mixart/Champion Boxing (Japan) (Rev 1).png</image>
+    <marquee>./wheel/Champion Boxing (Japan) (Rev 1).png</marquee>
+    <video>./snap/Champion Boxing (Japan) (Rev 1).mp4</video>
+    <genreid>1540</genreid>
+  </game>
+  <game id="65703" source="ScreenScraper.fr">
+    <path>./Champion Kendou (Japan).zip</path>
+    <name>Champion Kendou </name>
+    <desc>Champion Kendou is a simplistic kendou game built for the SG-1000 and MSX. It was only released in Japan.</desc>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Sports</genre>
+    <players>2</players>
+    <image>./mixart/Champion Kendou (Japan).png</image>
+    <marquee>./wheel/Champion Kendou (Japan).png</marquee>
+    <video>./snap/Champion Kendou (Japan).mp4</video>
+    <genreid>1536</genreid>
+  </game>
+  <game id="65704" source="ScreenScraper.fr">
+    <path>./Champion Pro Wrestling (Japan).zip</path>
+    <name>Champion Pro Wrestling </name>
+    <desc>To play for a rank you 'll have to fight three matches. Winning two out of three matches promotes you t</desc>
+    <releasedate>19850201T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Sports / Wrestling-Sports</genre>
+    <players>2</players>
+    <image>./mixart/Champion Pro Wrestling (Japan).png</image>
+    <marquee>./wheel/Champion Pro Wrestling (Japan).png</marquee>
+    <video>./snap/Champion Pro Wrestling (Japan).mp4</video>
+    <genreid>1536</genreid>
+  </game>
+  <game id="65707" source="ScreenScraper.fr">
+    <path>./Championship Lode Runner (Japan, Australia).zip</path>
+    <name>Championship Lode Runner </name>
+    <desc>This package contained 50 of the most challenging levels ever designed, and was intended for expert players only. It did not include the level editor, you had to play through the levels in</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Compile</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./mixart/Championship Lode Runner (Japan, Australia).png</image>
+    <marquee>./wheel/Championship Lode Runner (Japan, Australia).png</marquee>
+    <video>./snap/Championship Lode Runner (Japan, Australia).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="65708" source="ScreenScraper.fr">
+    <path>./Choplifter (Japan, Australia).zip</path>
+    <name>Choplifter </name>
+    <desc>Choplifter is a 1982 Apple II game developed by Dan Gorlin and published by Broderbund. In the game you pilot a helicopter and must rescue people from prisoner of war camps. Sega were responsible for an arcade remake on both the Sega System 1 and Sega System 2 hardware in 1985. This version was ported to a variety of platforms, including the SG-1000 in 1985 and the Sega Master System in 1986.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Compile</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./mixart/Choplifter (Japan, Australia).png</image>
+    <marquee>./wheel/Choplifter (Japan, Australia).png</marquee>
+    <video>./snap/Choplifter (Japan, Australia).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="190912" source="ScreenScraper.fr">
+    <path>./Circus Charlie (Taiwan).zip</path>
+    <name>Circus Charlie </name>
+    <desc>Circus Charlie é originalmente um jogo de arcade. O port de MSX foi trazido sem licença para o SG-1000 em Taiwan e na Coreia do Sul.</desc>
+    <releasedate />
+    <image>./mixart/Circus Charlie (Taiwan).png</image>
+    <marquee>./wheel/Circus Charlie (Taiwan).png</marquee>
+  </game>
+  <game id="65709" source="ScreenScraper.fr">
+    <path>./Congo Bongo (Japan, Europe, Australia, New Zealand) (Rev 1).zip</path>
+    <name>Congo Bongo  </name>
+    <desc>Congo Bongo , originally known as Tip Top, is a 1983 arcade platformer game developed by Sega. It is often considered an isometric equivalent to Nintendo's Donkey Kong, as it stars a protagonist chasing after a large ape (in this game, called "Bongo"). However, unlike Donkey Kong, the game is set in a jungle, the graphics are more detailed and there are more enemies and traps.</desc>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./mixart/Congo Bongo (Japan, Europe, Australia, New Zealand) (Rev 1).png</image>
+    <marquee>./wheel/Congo Bongo (Japan, Europe, Australia, New Zealand) (Rev 1).png</marquee>
+    <video>./snap/Congo Bongo (Japan, Europe, Australia, New Zealand) (Rev 1).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="65711" source="ScreenScraper.fr">
+    <path>./Doki Doki Penguin Land (Japan).zip</path>
+    <name>Doki Doki Penguin Land </name>
+    <desc>Doki Doki Penguin Land is a 1985 game initially developed by Sega for the SG-1000. It is a platform-based puzzle game, where a penguin must guide an egg down the screen making sure not to break it. 
+ 
+The basic aim of Doki Doki Penguin Land is to guide an egg from the top of the screen to the bottom. To do so means digging downwards, making sure it does not smash in the process. As a puzzle-platformer, everything is affected by gravity, and if the egg falls from a great height, it will smash. Success is achieved by making your way down the playfield carefully.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Puzzle-Game</genre>
+    <players>1-2</players>
+    <image>./mixart/Doki Doki Penguin Land (Japan).png</image>
+    <marquee>./wheel/Doki Doki Penguin Land (Japan).png</marquee>
+    <video>./snap/Doki Doki Penguin Land (Japan).mp4</video>
+    <genreid>2816</genreid>
+  </game>
+  <game id="65712" source="ScreenScraper.fr">
+    <path>./Dragon Wang (Japan) (Rev 1).zip</path>
+    <name>Dragon Wang  </name>
+    <desc>The protagonist is Wang (inspired by Jackie Chan and/or his character Thomas), hence the unfortunate title Dragon Wang. Wang is Chinese for King.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>2</players>
+    <image>./mixart/Dragon Wang (Japan) (Rev 1).png</image>
+    <marquee>./wheel/Dragon Wang (Japan) (Rev 1).png</marquee>
+    <video>./snap/Dragon Wang (Japan) (Rev 1).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="65713" source="ScreenScraper.fr">
+    <path>./Drol (Japan, Australia).zip</path>
+    <name>Drol </name>
+    <desc>Drol is an SG-1000 game released in 1985. Originally developed by Broderbund for various home computers in the west, it was brought to the SG-1000 by Sega and released exclusively in Japan. You play as a robot who must rescue his children.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./mixart/Drol (Japan, Australia).png</image>
+    <marquee>./wheel/Drol (Japan, Australia).png</marquee>
+    <video>./snap/Drol (Japan, Australia).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="65714" source="ScreenScraper.fr">
+    <path>./Elevator Action (Japan).zip</path>
+    <name>Elevator Action </name>
+    <desc>The player assumes the role of a spy infiltrating a 30-story building filled with elevators. The player is pursued by enemy agents who appear from behind closed doors. These agents must be dealt with via force or evasion. Successful completion of a level involves collecting all the secret documents and traversing the building from top to bottom. In the lower floors of the building, the elevator systems can be complex enough that puzzle-solving skills are needed. The controls consist of a 4-way joystick and two buttons, one to shoot and the other for jumping and kicking.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Taito</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./mixart/Elevator Action (Japan).png</image>
+    <marquee>./wheel/Elevator Action (Japan).png</marquee>
+    <video>./snap/Elevator Action (Japan).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="65715" source="ScreenScraper.fr">
+    <path>./Exerion (Japan, Europe, Australia, New Zealand).zip</path>
+    <name>Exerion </name>
+    <desc>The FIGHTER EX rushed in and out attacking the monstrous enemy groups in the 6 mysterious, diferent DIMENSIONAL worlds. 
+The enemy is constantly in pursuit of the FIGTHER EX. 
+The figther's missile attacking the enemy come down like showers of hail. Be on the alert !! 
+The "Dual Beam" allows you to shoot downn the enemy, and the "Single Beam", to speedily and continuously attack it. 
+See how successful you are in battling the enemy through the 6 dangerous worlds !</desc>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Jaleco</developer>
+    <publisher>Sega</publisher>
+    <genre>Shoot'em Up-Shooter</genre>
+    <players>2</players>
+    <image>./mixart/Exerion (Japan, Europe, Australia, New Zealand).png</image>
+    <marquee>./wheel/Exerion (Japan, Europe, Australia, New Zealand).png</marquee>
+    <video>./snap/Exerion (Japan, Europe, Australia, New Zealand).mp4</video>
+    <genreid>260</genreid>
+  </game>
+  <game id="65716" source="ScreenScraper.fr">
+    <path>./Flicky (Japan) (Rev 1).zip</path>
+    <name>Flicky  </name>
+    <desc>Little baby birds, PIOPIOes, are seen basking on the bright sunny terrace. It's now time for the little PIOPIOes to take their midafternoon snack. FLICKY, your mother, is coming to take all of you back home. Let's return skipping merrily hand in hand with mama FLICKY. Oh, oh, we've got a big problem!! The ill-natured stray cat (NYANNYAN) is coming. Escape by jumping over him and throwing hammers and mugs in an effort to hit and destroy the big bad cat. FLICKY, you'll feel really relieved when you have successfully taken all of your baby PIOPIOes back home, won't you?</desc>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./mixart/Flicky (Japan) (Rev 1).png</image>
+    <marquee>./wheel/Flicky (Japan) (Rev 1).png</marquee>
+    <video>./snap/Flicky (Japan) (Rev 1).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="65718" source="ScreenScraper.fr">
+    <path>./Girl's Garden (Japan, Australia).zip</path>
+    <name>Girl's Garden </name>
+    <desc>In order to prevent her boyfriend Minto from going to another little girl named Cocco, Papri must collect ten different flowers and return them to her boyfriend's house. Flowers must be caught in full bloom so that the number of flowers in her possession will increase; catching flowers too early will consider the flowers to be wasted and flowers caught too late will be wilted. Wilted flowers will ruin the bouquet, causing the player to lose half of the flowers. 
+ 
+Bears have a taste for honey and cause the player to lose one of two hearts if one of them attacks the player. However, the honey can be dropped in order to render the bear temporarily harmless to the player. Bees appear as the player's ally, giving her bonus items occasionally and extra honey if the player catches it on a flower.</desc>
+    <releasedate>19841201T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./mixart/Girl's Garden (Japan, Australia).png</image>
+    <marquee>./wheel/Girl's Garden (Japan, Australia).png</marquee>
+    <video>./snap/Girl's Garden (Japan, Australia).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="65719" source="ScreenScraper.fr">
+    <path>./Golgo 13 (Japan).zip</path>
+    <name>Golgo 13 </name>
+    <desc>Golgo 13 is a shoot-'em-up game for the SG-1000 based on the Japanese manga of the same name. 
+ 
+The game has you shoot at windows of a passing train. Hitting objects that get in the way will make the bullet rebound and potentially kill you.</desc>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./mixart/Golgo 13 (Japan).png</image>
+    <marquee>./wheel/Golgo 13 (Japan).png</marquee>
+    <video>./snap/Golgo 13 (Japan).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="65720" source="ScreenScraper.fr">
+    <path>./GP World (Japan) (Rev 1).zip</path>
+    <name>GP World  </name>
+    <desc>GP World for the SG-1000 and MSX, is a loose conversion of the 1984 LaserDisc-based arcade game, GP World. It was released in 1985 exclusively in Japan. 
+ 
+Gameplay in this "8-bit" version of GP World is similar in concept to the arcade GP World but given the wildly differing hardware, different in execution. Most notably all graphics in the game are generated in real-time by the SG-1000 rather than streamed from a LaserDisc, which in turn leads to more predictable car physics. The concept of racing in four different types of GP is scrapped, replaced instead with a GP that spans the world and three selectable difficulties.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Race, Driving</genre>
+    <players>1</players>
+    <image>./mixart/GP World (Japan) (Rev 1).png</image>
+    <marquee>./wheel/GP World (Japan) (Rev 1).png</marquee>
+    <video>./snap/GP World (Japan) (Rev 1).mp4</video>
+    <genreid>1537</genreid>
+  </game>
+  <game id="65721" source="ScreenScraper.fr">
+    <path>./Gulkave (Japan) (Translated En).zip</path>
+    <name>Gulkave  </name>
+    <desc>Gulkave  is an SG-1000 shoot 'em up game developed by Compile and published by Sega in 1986. It is a horizontal shooter, in which the player controls a spaceship that must destroy the 8 fortresses of the Gulbas Empire and several various enemies. Despite the limitations of the console, there are 30 "acts", and each "act" has a different background and there are numerous powerups available, setting it apart from most other SG-1000 shooters at the time.</desc>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Compile</developer>
+    <publisher>Sega</publisher>
+    <genre>Shoot'em Up-Shooter</genre>
+    <players>2</players>
+    <image>./mixart/Gulkave (Japan) (Translated En).png</image>
+    <marquee>./wheel/Gulkave (Japan) (Translated En).png</marquee>
+    <video>./snap/Gulkave (Japan) (Translated En).mp4</video>
+    <genreid>260</genreid>
+  </game>
+  <game id="65722" source="ScreenScraper.fr">
+    <path>./Guzzler (Japan) (Othello Multivision).zip</path>
+    <name>Guzzler  </name>
+    <desc>Guzzler is an arcade game developed by Tehkan. It was ported to the SG-1000 by Tsukuda Original and given Othello Multivision branding. To this day the SG-1000 version stands as the only home port of Guzzler. 
+ 
+You play as a character who needs to absorb water to put out fires dotted around a maze. The fires also spawn fire-based enemies which can be defeated in a similar fashion. You can only store up to three shots at one time. 
+ 
+Compared to other SG-1000 games, Guzzler shows some very poor production values. It thrusts you into gameplay without warning (which can result in cheap deaths) and it has a broken pause feature, which although appears to work, will unpause the game after a few seconds. There are only three maps and far fewer enemies than in the arcade version and it is also a much louder game, as the SG-1000 omits a high pitched squeak every time you make a step.</desc>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Tsukuda Original</developer>
+    <publisher>Tsukuda Original</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./mixart/Guzzler (Japan) (Othello Multivision).png</image>
+    <marquee>./wheel/Guzzler (Japan) (Othello Multivision).png</marquee>
+    <video>./snap/Guzzler (Japan) (Othello Multivision).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="65723" source="ScreenScraper.fr">
+    <path>./H.E.R.O. (Japan).zip</path>
+    <name>H.E.R.O. </name>
+    <desc>H.E.R.O. is an action game originally developed and published by Activision. Sega brought it to the SG-1000 in Japan. 
+ 
+The objective of the game is to rescue trapped miners in a volcano. 1 drops a stick of dynamite to blow up barriers and kill enemies. 2 shoots a laser-like thing, which you can use to kill enemies. At the bottom of the screen, there is a Power meter showing you how much energy you have left; energy goes down as time goes on. Simply touch a miner to rescue him and move on to the next level.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>1-2</players>
+    <image>./mixart/H.E.R.O. (Japan).png</image>
+    <marquee>./wheel/H.E.R.O. (Japan).png</marquee>
+    <video>./snap/H.E.R.O. (Japan).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="65724" source="ScreenScraper.fr">
+    <path>./Hang-On II (Japan, Australia).zip</path>
+    <name>Hang-On II </name>
+    <desc>Hang-On II is an SG-1000 sequel to the critically acclaimed Hang-On. 
+ 
+Despite the name, the game is meant as a direct sequel to the Mark III version of Hang-On, and is virtually identical to that game. The only difference is downgraded graphics and the addition of music from the arcade version. Meanwhile, Super Hang-On is the direct sequel to the arcade game. 
+ 
+It is compatible with the BH-400 bike handle controller, and would be the only SG-1000 game designed for it (though the peripheral is compatible with the Sega Master System and Sega Mega Drive).</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Race, Driving</genre>
+    <players>1</players>
+    <image>./mixart/Hang-On II (Japan, Australia).png</image>
+    <marquee>./wheel/Hang-On II (Japan, Australia).png</marquee>
+    <video>./snap/Hang-On II (Japan, Australia).mp4</video>
+    <genreid>1537</genreid>
+  </game>
+  <game id="65726" source="ScreenScraper.fr">
+    <path>./Hustle Chumy (Japan).zip</path>
+    <name>Hustle Chumy </name>
+    <desc>Hustle Chumy is an SG-1000 and MSX game developed by Compile and released in 1984. 
+ 
+In Hustle Chumy players control a mouse named Chumy who needs to collect apples (and other food) in a sewer, avoiding other critters as he goes. As Chumy eats more food, his speed decreases, but his fireballs are given a longer range. Levels have varying layouts. 
+ 
+There are several types of enemies in the game, most of which can be defeated with fireballs.</desc>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Compile</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./mixart/Hustle Chumy (Japan).png</image>
+    <marquee>./wheel/Hustle Chumy (Japan).png</marquee>
+    <video>./snap/Hustle Chumy (Japan).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="190978" source="ScreenScraper.fr">
+    <path>./Kamikaze (France) (SF-7000).zip</path>
+    <name>Kamikaze  </name>
+    <desc>Kamikaze é um jogo de shoot-'em-up para o SC-3000 e foi lançado exclusivamente na França.</desc>
+    <releasedate>19840401T000000</releasedate>
+    <developer>Loriciels</developer>
+    <publisher>Loriciels</publisher>
+    <genre>Shoot'em Up</genre>
+    <players>1</players>
+    <image>./mixart/Kamikaze (France) (SF-7000).png</image>
+    <genreid>260</genreid>
+  </game>
+  <game id="102099" source="ScreenScraper.fr">
+    <path>./King's Valley (Taiwan).zip</path>
+    <name>King's Valley </name>
+    <desc>King's Valley for the SG-1000 released in Taiwan by Aaronix. This game requires a special adapter released by DahJee that extend the SG-1000 memory to 8 KB (read more about the DahJee adapter for SG-1000). Else it would work on a normal Asian Master System. King's Valley is pretty much in the vein of pre-scrolling item collecting arcade game, Think Lode Runner meet Pac-Man in Egyptian tomb adventure theme. A very game by Konami.</desc>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Aaronix</developer>
+    <publisher>DahJee</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./mixart/King's Valley (Taiwan).png</image>
+    <marquee>./wheel/King's Valley (Taiwan).png</marquee>
+    <genreid>256</genreid>
+  </game>
+  <game id="102100" source="ScreenScraper.fr">
+    <path>./Knightmare (Taiwan).zip</path>
+    <name>Knightmare </name>
+    <desc>Knightmare is an MSX vertical shoot-'em-up by Konami. It was brought without a license to the SG-1000 in Taiwan. In Knightmare, the player takes control of a brave knight named Popolon, who has to rescue his sweetheart Aphrodite from the clutches of the evil Hudnos. The game is essentially a top-down shooter. Popolon can shoot arrows at his enemies, and at the end of level face bosses, such as witches, etc. Shooting monsters, avoiding obstacles, passing the bridges and collecting upgrades for his weapon leads him to glory. Digitized music and sound add more to the arcade-like gameplay. This game may also be about two brave knights - you and your friend, who does the same for the victory on one screen.</desc>
+    <releasedate>19870101T000000</releasedate>
+    <developer>Konami</developer>
+    <publisher>Jumbo Team</publisher>
+    <genre>Shoot'em Up-Shooter</genre>
+    <players>1</players>
+    <image>./mixart/Knightmare (Taiwan).png</image>
+    <marquee>./wheel/Knightmare (Taiwan).png</marquee>
+    <genreid>260</genreid>
+  </game>
+  <game id="102101" source="ScreenScraper.fr">
+    <path>./Legend of Kage, The (Taiwan).zip</path>
+    <name>Legend of Kage, The </name>
+    <desc>The player takes the role of a young Iga ninja named Kage ("Shadow"), on a mission to rescue Princess Kiri (hime) - the Shogun's daughter - from the villainous warlord Yoshi (ro Kuyigusa) and fellow evil samurai Yuki (nosuke Riko). Kage must fight his way through a forest, along a secret passageway, up a fortress wall, and through a castle... rescuing her twice (three times in the FC/NES version) in order to win the game. Each time the princess is rescued, the seasons change from summer to fall to winter and back to summer.</desc>
+    <rating>0.45</rating>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Taito</developer>
+    <publisher>DahJee</publisher>
+    <genre>Action-Shoot'em Up</genre>
+    <players>1-2</players>
+    <image>./mixart/Legend of Kage, The (Taiwan).png</image>
+    <marquee>./wheel/Legend of Kage, The (Taiwan).png</marquee>
+    <video>./snap/Legend of Kage, The (Taiwan).mp4</video>
+    <genreid>260</genreid>
+  </game>
+  <game id="65729" source="ScreenScraper.fr">
+    <path>./Lode Runner (Japan, Europe, Australia).zip</path>
+    <name>Lode Runner </name>
+    <desc>In this game, the player is required to repeatedly "think" and "take action" to go through and clear the maze scenes by solving their mysterious riddles while averting the enemy's guards who are relentlessly in pursuit of him. After collecting all of the gold chests, you must come up with fresh new ideas in order to successfully challenge the next level scene. Although your experience gained from the previous play action will help you overcome some of the future maze scenes, you still have to constantly be on the alert. You can also enjoy creating your own games by using the keyboard. This is an intriguing game which requires intellectual depth to skillfully maneuver the unknown maze structures that consecutively develop one after another.</desc>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Compile</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./mixart/Lode Runner (Japan, Europe, Australia).png</image>
+    <marquee>./wheel/Lode Runner (Japan, Europe, Australia).png</marquee>
+    <video>./snap/Lode Runner (Japan, Europe, Australia).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="102102" source="ScreenScraper.fr">
+    <path>./Magical Kid Wiz (Taiwan).zip</path>
+    <name>Magical Kid Wiz </name>
+    <desc>Magical Kid Wiz for the SG-1000 released in Taiwan on a beautiful green cartridge. Developed in 1986 by Sony for the MSX, this is among the MSX games that Aaronix ported to the SG-1000 for the Taiwanese market.</desc>
+    <rating>0.6</rating>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Sony Computer Entertainment</developer>
+    <publisher>Aaronix</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./mixart/Magical Kid Wiz (Taiwan).png</image>
+    <marquee>./wheel/Magical Kid Wiz (Taiwan).png</marquee>
+    <video>./snap/Magical Kid Wiz (Taiwan).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="190911" source="ScreenScraper.fr">
+    <path>./Magical Tree (Taiwan).zip</path>
+    <name>Magical Tree </name>
+    <desc>Magical Tree is a vertically scrolling platform game developed by Konami for the MSX home computer, and published in 1984. The player character is an 'Indian brave' stereotype who wears a tanned vest and trousers, and a headband with a feather. The player ascends a magical tree by hopping from branch to branch and climbing vines and ladders—while also dodging larvae, owls, and lightning bolts. The player can jump and dangle from branches. He earns points by gathering apples, arrows, daggers, and coronets.</desc>
+    <rating>0.55</rating>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Konami</developer>
+    <publisher>Aaronix</publisher>
+    <genre>Platform-Action</genre>
+    <players>1-2</players>
+    <image>./mixart/Magical Tree (Taiwan).png</image>
+    <marquee>./wheel/Magical Tree (Taiwan).png</marquee>
+    <genreid>257</genreid>
+  </game>
+  <game id="65732" source="ScreenScraper.fr">
+    <path>./Monaco GP (Japan, Europe) (Rev 2).zip</path>
+    <name>Monaco GP  </name>
+    <desc>A red formula car travelling at high speed through the streets, speeding up, jumping, maneuvering to the right and left to avoid the cars obstructing the way and reckless cars coming close to your machine, ........ Be on the lookout for an ambulance suddenly passing by ......... And keep an eye out for the signposts!! Thrill-packed challenges such as the slip zones, dangerous construction sites as well as sharp curves and narrow bay bridges also appear. When in the tunnel, the headlights of your car are the only thing you can rely upon. After improving your skill by going through the beginner's level 1, you can move on to the more difficult high levels 2 and 3.</desc>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Race, Driving</genre>
+    <players>1</players>
+    <image>./mixart/Monaco GP (Japan, Europe) (Rev 2).png</image>
+    <marquee>./wheel/Monaco GP (Japan, Europe) (Rev 2).png</marquee>
+    <video>./snap/Monaco GP (Japan, Europe) (Rev 2).mp4</video>
+    <genreid>1537</genreid>
+  </game>
+  <game id="65734" source="ScreenScraper.fr">
+    <path>./Ninja Princess (Japan, Australia) (Translated En).zip</path>
+    <name>Ninja Princess  </name>
+    <desc>Ninja Princess known as Sega Ninja in the west, is a Sega System 1 arcade game by Sega. It is a top-down shooter/action game, in which you play as a princess disguised as a ninja who is attempting to stop the evil tyrant Gyokuro.
+
+The game was ported to the SG-1000 in 1986 exclusively for Japan, with an MSX port following shortly afterwards. It was also brought to the Sega Master System as The Ninja, however The Ninja makes several adjustments to the story and characters, as well as updating the gameplay.</desc>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./mixart/Ninja Princess (Japan, Australia) (Translated En).png</image>
+    <marquee>./wheel/Ninja Princess (Japan, Australia) (Translated En).png</marquee>
+    <video>./snap/Ninja Princess (Japan, Australia) (Translated En).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="65735" source="ScreenScraper.fr">
+    <path>./N-Sub (Japan, Europe, Australia, New Zealand, Taiwan).zip</path>
+    <name>N-Sub </name>
+    <desc>A big battle develops on a cobalt blue sea. Fire a torpedo when you find the enemy's ships. Avoid the destroyer's attack by using your missiles, torpedoes and depth bombs. Counterattack and sink the enemy's ships. The enemy attack becomes more intense with each new round!</desc>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Compile</developer>
+    <publisher>Sega</publisher>
+    <genre>Shooter</genre>
+    <players>1-2</players>
+    <image>./mixart/N-Sub (Japan, Europe, Australia, New Zealand, Taiwan).png</image>
+    <marquee>./wheel/N-Sub (Japan, Europe, Australia, New Zealand, Taiwan).png</marquee>
+    <video>./snap/N-Sub (Japan, Europe, Australia, New Zealand, Taiwan).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="65737" source="ScreenScraper.fr">
+    <path>./Orguss (Japan, Europe, Australia, New Zealand, Taiwan).zip</path>
+    <name>Orguss </name>
+    <desc>Orguss is a shoot-'em-up game developed and published by Sega for the SG-1000. In the game, the player takes control of a robot which can transform into a starship. It is based on the science fiction anime series Super Dimension Century Orguss. 
+ 
+The player can swap between robot and starship modes freely, though both come with their own set advantages and disadvantages. In robot mode, you are able to destroy ground targets and have greater freedom across the screen at the expense of being a bigger target for enemies. You can shoot rapidfire, but move slower. In starship mode you cannot destroy ground targets, but are less likely to be destroyed thanks to the smaller surface area of the ship.</desc>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Shoot'em Up-Shooter</genre>
+    <players>1</players>
+    <image>./mixart/Orguss (Japan, Europe, Australia, New Zealand, Taiwan).png</image>
+    <marquee>./wheel/Orguss (Japan, Europe, Australia, New Zealand, Taiwan).png</marquee>
+    <video>./snap/Orguss (Japan, Europe, Australia, New Zealand, Taiwan).mp4</video>
+    <genreid>260</genreid>
+  </game>
+  <game id="65739" source="ScreenScraper.fr">
+    <path>./Pacar (Japan, Europe, Australia, New Zealand).zip</path>
+    <name>Pacar </name>
+    <desc>PACAR, a mischievous car, runs through the 3D routes freely advancing and reversing at fast and slow speeds. Try to delete all the dots on the screen while avoiding the 2 kinds of enemy cars. When you pass through the special dots, PACAR becomes more and more invincible as it increases its power and will be free from damage even when it crashes into the enemy car. Keep up the torrid pace and destroy as many of the enemy cars as possible!</desc>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./mixart/Pacar (Japan, Europe, Australia, New Zealand).png</image>
+    <marquee>./wheel/Pacar (Japan, Europe, Australia, New Zealand).png</marquee>
+    <video>./snap/Pacar (Japan, Europe, Australia, New Zealand).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="0" source="ScreenScraper.fr">
+    <path>./Ping Pong (Taiwan).zip</path>
+    <name>Ping Pong (Taiwan)</name>
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game id="140812" source="ScreenScraper.fr">
+    <path>./Pippols (Taiwan).zip</path>
+    <name>Pippols </name>
+    <desc>Pippols is an action game by Konami. The MSX version of the game was brought to the SG-1000 in Taiwan. It requires the 8kB RAM Adapter to run.</desc>
+    <releasedate />
+    <developer>Konami</developer>
+    <publisher>Jumbo Team</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./mixart/Pippols (Taiwan).png</image>
+    <marquee>./wheel/Pippols (Taiwan).png</marquee>
+    <video>./snap/Pippols (Taiwan).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="65742" source="ScreenScraper.fr">
+    <path>./Pitfall II - The Lost Caverns (Japan) (Rev 1).zip</path>
+    <name>Pitfall II - The Lost Caverns  </name>
+    <desc>Pitfall II: The Lost Caverns is the sequel to Pitfall and was released for a variety of systems during the mid-1980s including the SG-1000 in 1985. Gameplay is similar to the original game, but the levels are more maze-like. 
+ 
+Sega's version of Pitfall II was tweaked significantly from its western counterparts released for the Atari 2600, ColecoVision etc. The gameplay is largely the same, but there are many additions. These include a Lives system, mine-carts, balloons, and a final Demon boss. The SG-1000 version is directly inspired by the arcade game, and though cannot match the same level of graphical quality, it is arguably the nicest looking home port of the game.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Activision</developer>
+    <publisher>Sega</publisher>
+    <genre>Platform</genre>
+    <players>1-2</players>
+    <image>./mixart/Pitfall II - The Lost Caverns (Japan) (Rev 1).png</image>
+    <marquee>./wheel/Pitfall II - The Lost Caverns (Japan) (Rev 1).png</marquee>
+    <video>./snap/Pitfall II - The Lost Caverns (Japan) (Rev 1).mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="65743" source="ScreenScraper.fr">
+    <path>./Pop Flamer (Japan, Europe, Australia, New Zealand).zip</path>
+    <name>Pop Flamer </name>
+    <desc>"POP FLAMER" is a mouse which operates a flamethrower.nnYou as a player attempt to break balloons and supply fuel for the flamethrower while eliminating the 3 kinds of MONSTERS and the obstacle FROG which is obstructing the routes. However, be carefuk of the tranquizing beam from the "HARADON". When you are exposed to this beam, you will not be able to move temporality! When the POP  FLAMER takes a "power-up drink", it ohanges into a "SUPER MOUSE" and you can score high points by swallowing the nearby MONSTERS in one gulp!!</desc>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Jaleco</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>2</players>
+    <image>./mixart/Pop Flamer (Japan, Europe, Australia, New Zealand).png</image>
+    <marquee>./wheel/Pop Flamer (Japan, Europe, Australia, New Zealand).png</marquee>
+    <video>./snap/Pop Flamer (Japan, Europe, Australia, New Zealand).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="982" source="ScreenScraper.fr">
+    <path>./Poseidon Wars + Space Panic + Rambo (France) (SF-7000).zip</path>
+    <name>Poseidon Wars + Space Panic + Rambo  </name>
+    <desc>In Poseidon Wars 3-D, you have just entered the navy as a cadet and you must make your way up to Admiral. To do this, you must go out at sea with a submarine and destroy several enemy targets. Once you have defeated each enemy target, the mission is completed, and, upon completing some of them, your rank increases. Before defeating each target, however, you also need to destroy enemy jets, choppers, and submarines who will launch missiles or rockets at you. If you are hit by any of these, damage is inflicted to the submarine, but you can shoot down any of the missiles or rockets. You will need to keep an eye on the built-in radar and sonar to find out where enemies will hit next. Your fuel is limited, and can be increased by destroying certain enemies. The game ends when your submarine is destroyed or you run out of fuel.</desc>
+    <rating>0.45</rating>
+    <releasedate>19890401T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Simulation-Various</genre>
+    <players>1</players>
+    <image>./mixart/Poseidon Wars + Space Panic + Rambo (France) (SF-7000).png</image>
+    <marquee>./wheel/Poseidon Wars + Space Panic + Rambo (France) (SF-7000).png</marquee>
+    <video>./snap/Poseidon Wars + Space Panic + Rambo (France) (SF-7000).mp4</video>
+    <genreid>1024</genreid>
+  </game>
+  <game id="65744" source="ScreenScraper.fr">
+    <path>./Q-bert (Japan) (Othello Multivision).zip</path>
+    <name>Q-bert  </name>
+    <desc>Q*bert is an arcade game by Gottlieb. It was ported to the SG-1000 by Tsukuda Original, who marketed it for their Othello Multivision console. 
+ 
+The objective of the game is to turn all the cubes on screen to a desired colour by moving Q*bert on top of them. Q*bert can only move in diagonals, and the player needs to be careful not to either send Q*bert off the edge or have him collide with enemies/obstacles. Occasionally cylindrical platforms appear on the edge of the screen, which when jumped on, will take Q*bert to the top.</desc>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Tsukuda Original</developer>
+    <publisher>Tsukuda Original</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./mixart/Q-bert (Japan) (Othello Multivision).png</image>
+    <marquee>./wheel/Q-bert (Japan) (Othello Multivision).png</marquee>
+    <video>./snap/Q-bert (Japan) (Othello Multivision).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="102103" source="ScreenScraper.fr">
+    <path>./Rally-X (Taiwan) (English Logo).zip</path>
+    <name>Rally-X  </name>
+    <desc>Rally-X is a 1980 arcade game by Namco which was brought to the MSX in 1984. It was subsequently ported to the SG-1000 in Taiwan.</desc>
+    <rating>0.55</rating>
+    <releasedate />
+    <developer>Namco</developer>
+    <publisher>DahJee</publisher>
+    <genre>Race, Driving-Action</genre>
+    <players>1</players>
+    <image>./mixart/Rally-X (Taiwan) (English Logo).png</image>
+    <marquee>./wheel/Rally-X (Taiwan) (English Logo).png</marquee>
+    <video>./snap/Rally-X (Taiwan) (English Logo).mp4</video>
+    <genreid>1537</genreid>
+  </game>
+  <game id="102104" source="ScreenScraper.fr">
+    <path>./Road Fighter (Taiwan) (English Logo).zip</path>
+    <name>Road Fighter  </name>
+    <desc>Road Fighter est un jeu de course développé par Konami. Jumbo a porté la version MSX du jeu sur le SG-1000 à Taiwan sous le nom de Huojiàn che. On ne sait pas s'ils avaient une licence pour cela. Plus tard, il est sorti en Corée du Sud en tant que cartouche pour la Sega Master System sous le nom de Paiteo Lodeu.</desc>
+    <releasedate />
+    <developer>Konami</developer>
+    <publisher>Jumbo Team</publisher>
+    <genre>Race, Driving</genre>
+    <players>1</players>
+    <image>./mixart/Road Fighter (Taiwan) (English Logo).png</image>
+    <marquee>./wheel/Road Fighter (Taiwan) (English Logo).png</marquee>
+    <video>./snap/Road Fighter (Taiwan) (English Logo).mp4</video>
+    <genreid>1537</genreid>
+  </game>
+  <game id="65745" source="ScreenScraper.fr">
+    <path>./Rock n' Bolt (Japan).zip</path>
+    <name>Rock n' Bolt </name>
+    <desc>Before you awaits the construction world's most complicated, confused mess of mind-boggling blueprints, bolts, beams and girders.nnYou and you alone will have to figure it all out and put it all together. And you don't have all day.nnIt's a dazzling, dizzying, incredibly exciting high-rise challenge. All 100 floors of it.nnYou'll spin, leap and dance your way from beam to beam, puzzle to puzzle. Earn bonus wages and hire extra workers.nnSo, grab your hat and strap on your boots. You're about to discover how hot music and high energy can help fill a very, very tall order.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Activision</developer>
+    <publisher>Sega</publisher>
+    <genre>Puzzle-Game</genre>
+    <players>1-2</players>
+    <image>./mixart/Rock n' Bolt (Japan).png</image>
+    <marquee>./wheel/Rock n' Bolt (Japan).png</marquee>
+    <video>./snap/Rock n' Bolt (Japan).mp4</video>
+    <genreid>2816</genreid>
+  </game>
+  <game id="65747" source="ScreenScraper.fr">
+    <path>./Safari Hunting (Japan, Europe, Australia, New Zealand).zip</path>
+    <name>Safari Hunting </name>
+    <desc>Go deep into the jungle and hunt fierce animals. Your weapon is a mighty tranquilizer gun. Capture the sleeping snakes, gorillas, lions and elephants by putting them in a cage. Capture as many animals as possible, while considering the effective time of the tranquilizer and the available quantity of fuel.</desc>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Compile</developer>
+    <publisher>Sega</publisher>
+    <genre>Shooter</genre>
+    <players>2</players>
+    <image>./mixart/Safari Hunting (Japan, Europe, Australia, New Zealand).png</image>
+    <marquee>./wheel/Safari Hunting (Japan, Europe, Australia, New Zealand).png</marquee>
+    <video>./snap/Safari Hunting (Japan, Europe, Australia, New Zealand).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="65748" source="ScreenScraper.fr">
+    <path>./Safari Race (Japan, Europe, Australia, New Zealand).zip</path>
+    <name>Safari Race </name>
+    <desc>On the vast savanna plain, the SAFARI RACE has just gotten underway. Keep running at full speed, passing other cars while avoiding various wild animals that cross the road. Drive fast, ever onward, taking into consideration the limited time, fuel consumption and dangerous sharp curves. Pass through the checkpoints. Run your car at full throttle towards the goal with the engine operating at its maximum capacity.</desc>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Race, Driving</genre>
+    <players>1</players>
+    <image>./mixart/Safari Race (Japan, Europe, Australia, New Zealand).png</image>
+    <marquee>./wheel/Safari Race (Japan, Europe, Australia, New Zealand).png</marquee>
+    <video>./snap/Safari Race (Japan, Europe, Australia, New Zealand).mp4</video>
+    <genreid>1537</genreid>
+  </game>
+  <game id="65749" source="ScreenScraper.fr">
+    <path>./Sega Flipper ~ Video Flipper (Japan, Europe, Australia, New Zealand).zip</path>
+    <name>Sega Flipper ~ Video Flipper </name>
+    <desc>A catchy rhythmical flipper sound accompanies this computer pinball video game. Featuring a D.T. (drop target) that enables you to earn bonus points and a K.H. (kicker hole) that entitles you to earn bonus points X a multiplication rate! Take good aim, and shoot away! Here's wishing you success as you merrily flip your way around the playfield in search of the proverbial "high score".</desc>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./mixart/Sega Flipper ~ Video Flipper (Japan, Europe, Australia, New Zealand).png</image>
+    <marquee>./wheel/Sega Flipper ~ Video Flipper (Japan, Europe, Australia, New Zealand).png</marquee>
+    <video>./snap/Sega Flipper ~ Video Flipper (Japan, Europe, Australia, New Zealand).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="65717" source="ScreenScraper.fr">
+    <path>./Sega-Galaga (Japan, Australia).zip</path>
+    <name>Sega-Galaga </name>
+    <desc>Take control of a fighter space craft and shoot down the invading aliens. Watch out for the swooping motherships, which will try to steal your fighter. Rescue captured fighters to double your firepower. Earn Perfect Bonuses as you battle your way through wave after wave in different challenging stages.</desc>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Namco</developer>
+    <publisher>Sega</publisher>
+    <genre>Shoot'em up / Vertical-Shoot'em Up</genre>
+    <players>1-2</players>
+    <image>./mixart/Sega-Galaga (Japan, Australia).png</image>
+    <marquee>./wheel/Sega-Galaga (Japan, Australia).png</marquee>
+    <video>./snap/Sega-Galaga (Japan, Australia).mp4</video>
+    <genreid>260</genreid>
+  </game>
+  <game id="65751" source="ScreenScraper.fr">
+    <path>./Shinnyushain Tooru-kun (Japan).zip</path>
+    <name>Shinnyushain Tooru-kun </name>
+    <desc>Shinnyuushain Tooru-Kun is a game for the SG-1000. It was originally an arcade game by Konami known as Mikie outside Japan.
+
+An unlicensed version was released for the Sega Master System in South Korea.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Konami</developer>
+    <publisher>Sega</publisher>
+    <genre>Action</genre>
+    <players>2</players>
+    <image>./mixart/Shinnyushain Tooru-kun (Japan).png</image>
+    <marquee>./wheel/Shinnyushain Tooru-kun (Japan).png</marquee>
+    <video>./snap/Shinnyushain Tooru-kun (Japan).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="65752" source="ScreenScraper.fr">
+    <path>./Sindbad Mystery (Japan, Europe, Australia, New Zealand).zip</path>
+    <name>Sindbad Mystery </name>
+    <desc>Sindbad Mystery is an arcade game developed by Sega for Sega G80 (raster) hardware in 1983. It was ported to the SG-1000 in the same year. It follows a boy named Sindbad who must avoid monsters while piecing together a treasure map, similar to Pac-Man. He can also use a digging mechanic to trap enemies, similar to Heiankyo Alien and Space Panic.</desc>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Puzzle-Game</genre>
+    <players>1</players>
+    <image>./mixart/Sindbad Mystery (Japan, Europe, Australia, New Zealand).png</image>
+    <marquee>./wheel/Sindbad Mystery (Japan, Europe, Australia, New Zealand).png</marquee>
+    <video>./snap/Sindbad Mystery (Japan, Europe, Australia, New Zealand).mp4</video>
+    <genreid>2816</genreid>
+  </game>
+  <game id="65754" source="ScreenScraper.fr">
+    <path>./Soukoban (Japan, Australia) (Translated En).zip</path>
+    <name>Soukoban  </name>
+    <desc>Sokoban is a puzzle game developed by Thinking Rabbit. Sega ported it to the SG-1000 in 1985. Neither version left Japan. 
+ 
+Sokoban is the basis for Shove It! ...The Warehouse Game, released for the Sega Mega Drive.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Thinking Rabbit</developer>
+    <publisher>Sega</publisher>
+    <genre>Puzzle-Game</genre>
+    <players>1</players>
+    <image>./mixart/Soukoban (Japan, Australia) (Translated En).png</image>
+    <marquee>./wheel/Soukoban (Japan, Australia) (Translated En).png</marquee>
+    <video>./snap/Soukoban (Japan, Australia) (Translated En).mp4</video>
+    <genreid>2816</genreid>
+  </game>
+  <game id="65783" source="ScreenScraper.fr">
+    <path>./Space Armor (Japan) (Rev 2) (Othello Multivision).zip</path>
+    <name>Space Armor   </name>
+    <desc>Space Armor is a 1984 shoot-'em-up game developed and published by Tsukuda Original. It was built with the Othello Multivision in mind, but like all Multivision games, is also compatible with the SG-1000. Space Armor was not released outside of Japan.
+
+The game is built similarly to Namco's Xevious, in that it is a vertical shooter where one button fires at flying targets and the other at ground targets.</desc>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Tsukuda Original</developer>
+    <publisher>Tsukuda Original</publisher>
+    <genre>Shoot'em Up-Shooter</genre>
+    <players>2</players>
+    <image>./mixart/Space Armor (Japan) (Rev 2) (Othello Multivision).png</image>
+    <marquee>./wheel/Space Armor (Japan) (Rev 2) (Othello Multivision).png</marquee>
+    <video>./snap/Space Armor (Japan) (Rev 2) (Othello Multivision).mp4</video>
+    <genreid>260</genreid>
+  </game>
+  <game id="65755" source="ScreenScraper.fr">
+    <path>./Space Invaders (Japan).zip</path>
+    <name>Space Invaders </name>
+    <desc>Earth is under attack from rows of bomb dropping aliens, and you need to defend it! The rows of aliens begin at the top of the screen, and you control a laser cannon at the bottom of the screen. Your goal is to earn points by shooting the aliens before they can land. The aliens march back and forth, and each time the end of the screen is reached they will drop one row closer to the bottom. Shoot them all, and you move on to the next (tougher) level, but if even one of them lands the game is over.  
+ 
+Surprisingly the SG-1000 port of the game was one of the most accurate of its time, surpassing the NES and MSX versions which were the console's main competitors. Though it adds more color (the arcade version was simply black and white, with translucent overlays to mimic color), the SG-1000 version retains all the original graphics, whereas other ports (especially for Atari systems) re-drew the invaders due to various graphical restrictions. 
+ 
+The SG-1000 version does not appear to have been released outside of Japan.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Shoot'em Up-Shooter</genre>
+    <players>2</players>
+    <image>./mixart/Space Invaders (Japan).png</image>
+    <marquee>./wheel/Space Invaders (Japan).png</marquee>
+    <video>./snap/Space Invaders (Japan).mp4</video>
+    <genreid>260</genreid>
+  </game>
+  <game id="65784" source="ScreenScraper.fr">
+    <path>./Space Mountain (Japan) (Othello Multivision).zip</path>
+    <name>Space Mountain  </name>
+    <desc>Space Mountain is an SG-1000 game developed and published by Tsukuda Original with the Othello Multivision in mind. It is a very primitive third-person space ship shooter, in which the player has to gun down enemy craft before infiltrating a base.</desc>
+    <releasedate>19840101T000000</releasedate>
+    <developer>Tsukuda Original</developer>
+    <publisher>Tsukuda Original</publisher>
+    <genre>Shoot'em Up-Shooter</genre>
+    <players>2</players>
+    <image>./mixart/Space Mountain (Japan) (Othello Multivision).png</image>
+    <marquee>./wheel/Space Mountain (Japan) (Othello Multivision).png</marquee>
+    <video>./snap/Space Mountain (Japan) (Othello Multivision).mp4</video>
+    <genreid>260</genreid>
+  </game>
+  <game id="65757" source="ScreenScraper.fr">
+    <path>./Space Slalom (Japan).zip</path>
+    <name>Space Slalom </name>
+    <desc>Space Slalom is a video game developed by Orca and published by Sega for the SG-1000 in 1983. 
+ 
+Though on the surface it appears to be a space-themed vertical shoot-'em-up, there is actually no shooting involved. The player controls a shuttle and must navigate it through a course defined by coloured stars, similar to ski slaloms. The player must also avoid obstacles, and will be awarded with extra points depending on on his/her speed across the course.</desc>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Orca</developer>
+    <publisher>Sega</publisher>
+    <genre>Action-Shooter</genre>
+    <players>2</players>
+    <image>./mixart/Space Slalom (Japan).png</image>
+    <marquee>./wheel/Space Slalom (Japan).png</marquee>
+    <video>./snap/Space Slalom (Japan).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="65758" source="ScreenScraper.fr">
+    <path>./Star Force (Japan, Australia).zip</path>
+    <name>Star Force </name>
+    <desc>Star Force is a 1984 arcade vertical shoot-'em-up developed by Tehkan (now Tecmo), which was later brought to the SG-1000 in 1985. 
+ 
+The SG-1000 version of the game was released on both cartridge an on Sega Card.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Shooter</genre>
+    <players>1</players>
+    <image>./mixart/Star Force (Japan, Australia).png</image>
+    <marquee>./wheel/Star Force (Japan, Australia).png</marquee>
+    <video>./snap/Star Force (Japan, Australia).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="65759" source="ScreenScraper.fr">
+    <path>./Star Jacker (Japan, Europe) (Rev 2).zip</path>
+    <name>Star Jacker  </name>
+    <desc>A "new feeling" space game. Glorious space troops fight against invading "Dester" army. Avoid UFO's continuous attacks weaving left and right, up and down. Counter-attack by using your fire button. Lead the space troops to the Carrier passing through the various mysteriy zones.</desc>
+    <releasedate>19830715T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Shoot'em Up-Shooter</genre>
+    <players>2</players>
+    <image>./mixart/Star Jacker (Japan, Europe) (Rev 2).png</image>
+    <marquee>./wheel/Star Jacker (Japan, Europe) (Rev 2).png</marquee>
+    <video>./snap/Star Jacker (Japan, Europe) (Rev 2).mp4</video>
+    <genreid>260</genreid>
+  </game>
+  <game id="140813" source="ScreenScraper.fr">
+    <path>./Star Soldier (Taiwan).zip</path>
+    <name>Star Soldier </name>
+    <desc>Starbrain, una súper computadora gigante programada para la destrucción, está amenazando al Imperio Galáctico. Como un soldado estrella experto y experimentado, necesitas pilotar al César en la estación espacial que Starbrain ha ocupado. La estación espacial está fuertemente custodiada por naves enemigas y extrañas criaturas robóticas. Podrás encontrar diferentes armas en el camino para encender al César y aumentar las posibilidades de una misión exitosa. Star Soldier es un shooter de desplazamiento vertical estilo arcade para un jugador.</desc>
+    <releasedate />
+    <developer>Hudson</developer>
+    <genre>Shoot'em Up</genre>
+    <players>1</players>
+    <image>./mixart/Star Soldier (Taiwan).png</image>
+    <marquee>./wheel/Star Soldier (Taiwan).png</marquee>
+    <video>./snap/Star Soldier (Taiwan).mp4</video>
+    <genreid>260</genreid>
+  </game>
+  <game id="65761" source="ScreenScraper.fr">
+    <path>./Super Tank (Japan).zip</path>
+    <name>Super Tank </name>
+    <desc>Super Tank is a shoot-'em-up game for the SG-1000. The player drives a tank and is tasked with shooting at and destroying enemy units and structures.</desc>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Shooter</genre>
+    <players>2</players>
+    <image>./mixart/Super Tank (Japan).png</image>
+    <marquee>./wheel/Super Tank (Japan).png</marquee>
+    <video>./snap/Super Tank (Japan).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="102105" source="ScreenScraper.fr">
+    <path>./Tank Battalion (Taiwan).zip</path>
+    <name>Tank Battalion </name>
+    <desc>Tank Battalion is a 1980 arcade game by Namco which was brought to the MSX in 1984. It was subsequently ported to the SG-1000 in Taiwan and Sega Master System in South Korea.</desc>
+    <releasedate />
+    <developer>Namco</developer>
+    <publisher>DahJee</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./mixart/Tank Battalion (Taiwan).png</image>
+    <marquee>./wheel/Tank Battalion (Taiwan).png</marquee>
+    <video>./snap/Tank Battalion (Taiwan).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="102106" source="ScreenScraper.fr">
+    <path>./TwinBee (Taiwan).zip</path>
+    <name>TwinBee </name>
+    <desc>TwinBee is a 1985 arcade game by Konami which was brought to the MSX in 1986. The MSX version was subsequently ported to the SG-1000 in Taiwan.</desc>
+    <releasedate />
+    <developer>Konami</developer>
+    <publisher>Jumbo Team</publisher>
+    <genre>Shoot'em Up-Shooter</genre>
+    <players>2</players>
+    <image>./mixart/TwinBee (Taiwan).png</image>
+    <marquee>./wheel/TwinBee (Taiwan).png</marquee>
+    <video>./snap/TwinBee (Taiwan).mp4</video>
+    <genreid>260</genreid>
+  </game>
+  <game id="65765" source="ScreenScraper.fr">
+    <path>./Wonder Boy (Japan) (Rev 1).zip</path>
+    <name>Wonder Boy  </name>
+    <desc>WONDER BOY starts off a long and hazardous journey in pursuit of KING, who has kidnapped his girlfriend, TINA. KING lives in a faraway place, inhabited by monstrous creatures and full of many surprises. On the way, our hero has to collect food to increase his energy. WONDER BOY's ultimate mission is to rescue TINA and prove to one and all that true love always triumphs. 
+</desc>
+    <releasedate>19860101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Platform-Action</genre>
+    <players>1-2</players>
+    <image>./mixart/Wonder Boy (Japan) (Rev 1).png</image>
+    <marquee>./wheel/Wonder Boy (Japan) (Rev 1).png</marquee>
+    <video>./snap/Wonder Boy (Japan) (Rev 1).mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="65766" source="ScreenScraper.fr">
+    <path>./Yamato (Japan, Europe, Australia, New Zealand).zip</path>
+    <name>Yamato </name>
+    <desc>Avoid the enemy's attack by torpedoes and missiles. Shoot down the missiles. Be careful, YAMATO will explode if it is hit broadside. Aim at the enemy and fire the guns. Attack enemy's planes by using your quick-friring guuns. Can YAMATO survive through this fierce battle?</desc>
+    <releasedate>19830301T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Shoot'em Up-Shooter</genre>
+    <players>1</players>
+    <image>./mixart/Yamato (Japan, Europe, Australia, New Zealand).png</image>
+    <marquee>./wheel/Yamato (Japan, Europe, Australia, New Zealand).png</marquee>
+    <video>./snap/Yamato (Japan, Europe, Australia, New Zealand).mp4</video>
+    <genreid>260</genreid>
+  </game>
+  <game id="0" source="ScreenScraper.fr">
+    <path>./Yie Ar Kung-Fu (Taiwan).zip</path>
+    <name>Yie Ar Kung-Fu (Taiwan)</name>
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game id="102107" source="ScreenScraper.fr">
+    <path>./Yie Ar Kung-Fu II (Taiwan).zip</path>
+    <name>Yie Ar Kung-Fu II </name>
+    <desc>Yie Ar Kung-Fu 2: The Emperor Yie-Gah is a sequel to the MSX / Famicom (NES) version of Yie Ar Kung-Fu, rather than the versions directly based on the arcade release. The game follows the quest of Lee Young, the main character from the previous game, to become a kung-fu master. This involves fighting with a wide range of opponents in a traditional one-on-one 2D environment. Lee Young has a wide range of attack moves he can use to lower his opponent's life bar, including traditional punching and kicking attacks as well as jumping ones. Opponents are well equipped with unique weapons and attacks.</desc>
+    <releasedate />
+    <developer>Konami</developer>
+    <publisher>DahJee</publisher>
+    <genre>Beat'em Up-Shooter</genre>
+    <players>2</players>
+    <image>./mixart/Yie Ar Kung-Fu II (Taiwan).png</image>
+    <marquee>./wheel/Yie Ar Kung-Fu II (Taiwan).png</marquee>
+    <genreid>263</genreid>
+  </game>
+  <game id="65767" source="ScreenScraper.fr">
+    <path>./Zaxxon (Japan, Taiwan).zip</path>
+    <name>Zaxxon </name>
+    <desc>ZAXXON thrusts you into the depths of outer space. Test your pilot skills as you strap into the command position. Prepare for an action-packed challenge of space survival. Score points as you dive, climb, and swoop down to destroy the enemy's floating fortress. Dodge deadly laser barriers, enemy missiles, and rapid gunfire! Destroy enemy fuel tanks and your own supply is replenished. Survive the enemy's fighter fleet attack and face the ultimate challenge... the powerful, armored ZAXXON ROBOT.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Shoot'em Up-Shooter</genre>
+    <players>1</players>
+    <image>./mixart/Zaxxon (Japan, Taiwan).png</image>
+    <marquee>./wheel/Zaxxon (Japan, Taiwan).png</marquee>
+    <video>./snap/Zaxxon (Japan, Taiwan).mp4</video>
+    <genreid>260</genreid>
+  </game>
+  <game id="65768" source="ScreenScraper.fr">
+    <path>./Zippy Race (Japan, Australia).zip</path>
+    <name>Zippy Race </name>
+    <desc>The player takes control of a motorcyclist who's in a race to be the first to traverse the United States from the west to the east coast, starting in Los Angeles and ending up in New York City. 
+ 
+Gameplay consists of the player dodging cars and other roadway hazards on their way to the next checkpoint. Players can either accelerate or hit the brakes on their motorcycle so they can avoid getting into an accident. Accidents cause the player to lose fuel and running out of fuel can end the game. So players must keep an eye out on the fuel gauge, which can be refilled by fuel barrels littered throughout each stage. Each car the player passes betters their ranks which increases their score. 
+ 
+The SG-1000 version of the game is one of two SG-1000 releases to see four separate Japanese releases (the other being Monaco GP) - three on cartridge with each of the SG-1000's box designs, and one on Sega Card. Despite this it did not see a release outside of Japan.</desc>
+    <releasedate>19830101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Race, Driving</genre>
+    <players>1</players>
+    <image>./mixart/Zippy Race (Japan, Australia).png</image>
+    <marquee>./wheel/Zippy Race (Japan, Australia).png</marquee>
+    <video>./snap/Zippy Race (Japan, Australia).mp4</video>
+    <genreid>1537</genreid>
+  </game>
+  <game id="65769" source="ScreenScraper.fr">
+    <path>./Zoom 909 (Japan, Taiwan).zip</path>
+    <name>Zoom 909 </name>
+    <desc>Zoom 909 is an arcade game developed by Sega for VCO Object arcade hardware. It was released worldwide in 1982, however after obtaining a license for Buck Rogers, western versions of the game became known as Buck Rogers: Planet of Zoom. Both Zoom 909 and Buck Rogers: Planet of Zoom are largely the same game minus some minor graphical differences. 
+ 
+Though most home ports of the game are based on Planet of Zoom, Zoom 909 was brought to the Japanese MSX in 1983 and SG-1000 in 1985. These versions take more liberties with the formula, introducing a top-down stage as level 3.</desc>
+    <releasedate>19850101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Shoot'em Up-Shooter</genre>
+    <players>1</players>
+    <image>./mixart/Zoom 909 (Japan, Taiwan).png</image>
+    <marquee>./wheel/Zoom 909 (Japan, Taiwan).png</marquee>
+    <video>./snap/Zoom 909 (Japan, Taiwan).mp4</video>
+    <genreid>260</genreid>
+  </game>
+</gameList>

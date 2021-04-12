@@ -1,0 +1,962 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gameList>
+  <provider>
+    <System>Mega-CD</System>
+    <software>Skraper</software>
+    <database>ScreenScraper.fr</database>
+    <web>http://www.screenscraper.fr</web>
+  </provider>
+  <game id="12791" source="ScreenScraper.fr">
+    <path>./After Armageddon Gaiden - Majuu Toushouden Eclipse (Japan) (megacd).chd</path>
+    <name>After Armageddon Gaiden - Majuu Toushouden Eclipse </name>
+    <desc>The story takes place in the future, hundreds of years after the extinction of mankind due to a nuclear holocaust. Demons are the rulers of the planet now, but they are engaged in battle for the dominion of the earth by some aliens/robots. The gameplay is similar to Final Fantasy and nearly identical to Last Armageddon. Battles are turn based and, like in Last Armageddon, blocking prevents all the damage from the enemy.</desc>
+    <rating>0.8</rating>
+    <releasedate>19941111T000000</releasedate>
+    <developer>Pandora Box</developer>
+    <publisher>Sega</publisher>
+    <genre>Role playing games</genre>
+    <players>1</players>
+    <image>./media/mixart/After Armageddon Gaiden - Majuu Toushouden Eclipse (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/After Armageddon Gaiden - Majuu Toushouden Eclipse (Japan) (megacd).png</thumbnail>
+    <video>./media/snap/After Armageddon Gaiden - Majuu Toushouden Eclipse (Japan) (megacd).mp4</video>
+    <genreid>768</genreid>
+  </game>
+  <game id="12744" source="ScreenScraper.fr">
+    <path>./Aisle Lord (Japan) (megacd).chd</path>
+    <name>Aisle Lord </name>
+    <desc>Aisle Lord is a 3D dungeon RPG in the tradition of western RPGs such as Wizardry and Might and Magic, though the story and character progression is much closer to Japanese style RPGs with a fixed cast that levels up automatically. The entire game, including towns and building interiors, is explored from a 3D third-person perspective; individual rooms and transitional areas are navigated in a point-and-click adventure game style. Battles play out in a semi-active fashion, with the player giving each character specific commands, which they will follow until instructed to do otherwise.</desc>
+    <releasedate>19920529T000000</releasedate>
+    <developer>Wolf Team</developer>
+    <publisher>Telenet</publisher>
+    <genre>Role playing games</genre>
+    <players>1</players>
+    <image>./media/mixart/Aisle Lord (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Aisle Lord (Japan) (megacd).png</thumbnail>
+    <video>./media/snap/Aisle Lord (Japan) (megacd).mp4</video>
+    <genreid>768</genreid>
+  </game>
+  <game id="12786" source="ScreenScraper.fr">
+    <path>./Alshark (Japan) (megacd).chd</path>
+    <name>Alshark </name>
+    <desc>Alshark is set in a futuristic world where mankind has conquered the space and brought civilization to many planets. You play as a young boy named Shion who lives together with his father. One day, the father of his girlfriend Shoko gets possessed by a mysterious evil force and as a result kills Shion's father. Shion must now investigate this terrible affair and to discover what was the dark force that lead to it.
+
+The game is a traditional Japanese-style RPG (your characters level up, equip a variety of weapons and armor, participate in turn-based combat on a limited battlefield) with some space combat (you can buy various gadgets to upgrade your spaceship, making it more effective in combat and stronger in different ways) (megacd).
+
+The Turbo CD version features improved graphics and voice-overs.</desc>
+    <rating>0.55</rating>
+    <releasedate>19931126T000000</releasedate>
+    <developer>Polydor</developer>
+    <publisher>Polydor</publisher>
+    <genre>Role playing games</genre>
+    <players>1</players>
+    <image>./media/mixart/Alshark (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Alshark (Japan) (megacd).png</thumbnail>
+    <video>./media/snap/Alshark (Japan) (megacd).mp4</video>
+    <genreid>768</genreid>
+  </game>
+  <game id="12799" source="ScreenScraper.fr">
+    <path>./Annett Futatabi (Japan) (megacd).chd</path>
+    <name>Annett Futatabi </name>
+    <desc>The story takes place two years after 'El Viento'. After being rescued from certain sacrifice by Earnest Evans, Annet travels across Europe and encounters a group that wants a pendant in her possession. After being ambushed by them she escapes and begins a quest to protect the world from destruction. 
+ 
+</desc>
+    <rating>0.65</rating>
+    <releasedate>19930330T000000</releasedate>
+    <developer>Wolf Team</developer>
+    <publisher>Wolf Team</publisher>
+    <genre>Beat'em Up</genre>
+    <players>1</players>
+    <image>./media/mixart/Annett Futatabi (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Annett Futatabi (Japan) (megacd).png</thumbnail>
+    <video>./media/snap/Annett Futatabi (Japan) (megacd).mp4</video>
+    <genreid>263</genreid>
+  </game>
+  <game id="97339" source="ScreenScraper.fr">
+    <path>./Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan) (megacd).chd</path>
+    <name>Aoki Ookami to Shiroki Mejika - Genchou Hishi </name>
+    <desc>Genghis Khan II: Clan of the Gray Wolf is an action / strategy game. At the beginning of the game, it is possible to choose between a world conquest, or the Mongol conquest. In the first one, you must conquer all countries in order to build the World as you wish it to be. In the second one, you play the great Temujin and you must unite all the little tribes of Mongolia.</desc>
+    <releasedate>19930924T000000</releasedate>
+    <developer>Koei</developer>
+    <publisher>Koei</publisher>
+    <genre>Strategy</genre>
+    <players>1-2</players>
+    <image>./media/mixart/Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan) (megacd).png</thumbnail>
+    <video>./media/snap/Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan) (megacd).mp4</video>
+    <genreid>1280</genreid>
+  </game>
+  <game id="58728" source="ScreenScraper.fr">
+    <path>./A-Rank Thunder - Tanjou-hen (Japan) (megacd).chd</path>
+    <name>A-Rank Thunder - Tanjou-hen </name>
+    <desc>This RPG was only released in Japan, and for good reason: it is an attempt to transpose a Tokusatsu series (X-Or like) in video game! 
+You incarnate the young Thunder (?) who wakes up in what seems to be a scientific complex. Quickly, he gets caught by a shady guy with a big hat, a mustache and black glasses. Then begins a dialogue phase (all importants dialogues are doubled), and at different moments, we are invited to take decisions.</desc>
+    <rating>0.7</rating>
+    <releasedate>19930625T000000</releasedate>
+    <developer>Nihon Telenet</developer>
+    <publisher>Riot</publisher>
+    <genre>Role playing games</genre>
+    <image>./media/mixart/A-Rank Thunder - Tanjou-hen (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/A-Rank Thunder - Tanjou-hen (Japan) (megacd).png</thumbnail>
+    <video>./media/snap/A-Rank Thunder - Tanjou-hen (Japan) (megacd).mp4</video>
+    <genreid>768</genreid>
+  </game>
+  <game id="97340" source="ScreenScraper.fr">
+    <path>./Arcus I, II, III (Japan) (megacd).chd</path>
+    <name>Arcus I, II, III </name>
+    <desc>Arcus I-II-III is a first-person dungeon RPG released exclusively for the Sega Mega-CD Japan. It combines the first three games in Wolf Team's Arcus series; Arcus, Arcus II: Silent Symphony and Arcus III, originally released for Japanese computers between 1988 and 1991.</desc>
+    <rating>0.7</rating>
+    <releasedate>19930723T000000</releasedate>
+    <developer>Wolf Team</developer>
+    <publisher>Wolf Team</publisher>
+    <genre>Role playing games</genre>
+    <players>1</players>
+    <image>./media/mixart/Arcus I, II, III (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Arcus I, II, III (Japan) (megacd).png</thumbnail>
+    <video>./media/snap/Arcus I, II, III (Japan) (megacd).mp4</video>
+    <genreid>768</genreid>
+  </game>
+  <game id="97341" source="ScreenScraper.fr">
+    <path>./Arslan Senki (Japan) (megacd).chd</path>
+    <name>Arslan Senki </name>
+    <desc>Arslan Senki is a tactical RPG for the Sega Mega-CD. It is based upon the Arslan Senki novels and anime, and was only released in Japan.</desc>
+    <rating>0.55</rating>
+    <releasedate>19931119T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Role playing games</genre>
+    <players>1</players>
+    <image>./media/mixart/Arslan Senki (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Arslan Senki (Japan) (megacd).png</thumbnail>
+    <video>./media/snap/Arslan Senki (Japan) (megacd).mp4</video>
+    <genreid>768</genreid>
+  </game>
+  <game id="12760" source="ScreenScraper.fr">
+    <path>./AX-101 (Japan) (megacd).chd</path>
+    <name>AX-101 </name>
+    <desc>The game is an on-rails shooter, with gameplay seen from a first-person cockpit perspective. The player's ship moves automatically through pre-rendered space and planetary environments and only the targeting crosshair can be moved freely. Laser Cannons and Fusion Warheads are available to hit the numerous enemies. Lasers have unlimited ammunition but need a few moments time to recharge. The warheads function as smart bombs and clear the screen of enemies, but are available only in limited supply. They are restocked when reaching a certain score. The ship's energy shield functions as a life bar. 
+ 
+Between the shooting levels, there are transitional cutscenes, pre-rendered in the same way as the actual gameplay.</desc>
+    <releasedate>19940101T000000</releasedate>
+    <developer>Micronet</developer>
+    <publisher>Absolute Entertainment</publisher>
+    <genre>Shoot'em Up</genre>
+    <image>./media/mixart/AX-101 (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/AX-101 (Japan) (megacd).png</thumbnail>
+    <video>./media/snap/AX-101 (Japan) (megacd).mp4</video>
+    <genreid>260</genreid>
+  </game>
+  <game id="97342" source="ScreenScraper.fr">
+    <path>./Bakuden - The Unbalanced Zone (Japan) (megacd).chd</path>
+    <name>Bakuden - The Unbalanced Zone </name>
+    <desc>The game begins with a crazy intro and devastating music before coming up with a game in which four characters, without warning, break the wall of a poor guy's room and you are just that poor guy ... 
+ 
+In this game you can exercise simple actions like watching, taking, using, talking and having descriptions of objects. 
+ 
+It's filled with humor but here's the problem, it's all in Japanese, so it's difficykt to understand the story and jokes (unless you speak japanese!) ...</desc>
+    <rating>0.75</rating>
+    <releasedate>19940422T000000</releasedate>
+    <developer>Sony Music Entertainment</developer>
+    <publisher>Sony Music Entertainment</publisher>
+    <genre>Adventure</genre>
+    <players>1</players>
+    <image>./media/mixart/Bakuden - The Unbalanced Zone (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Bakuden - The Unbalanced Zone (Japan) (megacd).png</thumbnail>
+    <video>./media/snap/Bakuden - The Unbalanced Zone (Japan) (megacd).mp4</video>
+    <genreid>512</genreid>
+  </game>
+  <game id="58729" source="ScreenScraper.fr">
+    <path>./Bari-Arm (Japan) (megacd).chd</path>
+    <name>Bari-Arm </name>
+    <desc>Launched by the alien planet Zias, an armada of androids has crushed the Earth's conventional space fleet. Desperate and defeated, The United Nations of Earth has no choice but to counterattack with its own living, fighting machine, Bari-Arm. Upgrade weapons to get the awesome firepower of the Thundercracker, Burning Wave and Chase Cannon.</desc>
+    <rating>0.75</rating>
+    <releasedate>19940101T000000</releasedate>
+    <developer>Human</developer>
+    <publisher>Human</publisher>
+    <genre>Shoot'em Up</genre>
+    <players>1</players>
+    <image>./media/mixart/Bari-Arm (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Bari-Arm (Japan) (megacd).png</thumbnail>
+    <video>./media/snap/Bari-Arm (Japan) (megacd).mp4</video>
+    <genreid>260</genreid>
+  </game>
+  <game id="102821" source="ScreenScraper.fr">
+    <path>./Battle Fantasy (Japan) (Rev A) (megacd).chd</path>
+    <name>Battle Fantasy  </name>
+    <desc>Revengers of Vengeance is a combination of RPG, vertical shooter, and fighting game with a fantasy/anime style. There are ten available characters, each with their own animated backstory and fighting techniques. You must choose a hero and guide their stats to create a formidable fighter capable of taking down the Devil King and freeing the land.</desc>
+    <releasedate>19940101T000000</releasedate>
+    <developer>Micronet</developer>
+    <publisher>Extreme Entertainment</publisher>
+    <genre>Fight-Action</genre>
+    <image>./media/mixart/Battle Fantasy (Japan) (Rev A) (megacd).png</image>
+    <thumbnail>./media/wheel/Battle Fantasy (Japan) (Rev A) (megacd).png</thumbnail>
+    <video>./media/snap/Battle Fantasy (Japan) (Rev A) (megacd).mp4</video>
+    <genreid>262</genreid>
+  </game>
+  <game id="12805" source="ScreenScraper.fr">
+    <path>./Burai - Yatsudama no Yuushi Densetsu (Japan) (megacd).chd</path>
+    <name>Burai - Yatsudama no Yuushi Densetsu </name>
+    <desc>Burai on Mega-CD is a role-playing game in the world of Kypros, populated by many different races and gods cohabiting in joy and good mood. When Lord Bido tries to resurrect Daar, the obscure God, Kypros' balance is challenged. According to the prophecy, eight heroes are capable of bringing down Bido. The player plays Gonza and Mamai during the introductory story : the encounter between the heroes.</desc>
+    <rating>0.65</rating>
+    <releasedate>19920911T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Role playing games-Adventure</genre>
+    <players>1</players>
+    <image>./media/mixart/Burai - Yatsudama no Yuushi Densetsu (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Burai - Yatsudama no Yuushi Densetsu (Japan) (megacd).png</thumbnail>
+    <video>./media/snap/Burai - Yatsudama no Yuushi Densetsu (Japan) (megacd).mp4</video>
+    <genreid>768</genreid>
+  </game>
+  <game id="0" source="ScreenScraper.fr">
+    <path>./CD Sonic The Hedgehog (Japan) (Beta 3) (megacd).chd</path>
+    <name>CD Sonic The Hedgehog (Japan) (Beta 3)</name>
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game id="58732" source="ScreenScraper.fr">
+    <path>./Cosmic Fantasy Stories (Japan) (megacd).chd</path>
+    <name>Cosmic Fantasy Stories </name>
+    <desc>This is a re-release of two Turbo CD games:  Cosmic Fantasy: Bouken Shounen Yuu and  Cosmic Fantasy II. The first game tells the story of a young man named Yuu, who is on a quest to become a Cosmic Knight. The second describes the adventures of another young man, Van, whose girlfriend was kidnapped by an evil wizard. Both games are set in a sci-fi universe with intergalactic traveling. 
+
+The Sega CD edition features improved graphics and music (the change is particularly noticeable in the first Cosmic Fantasy) (megacd). It also re-vamps the gameplay system of the first game, allowing previously passive characters to participate in battles, but also increasing the amount of enemies met in battles and modifying the difficulty level.</desc>
+    <rating>0.75</rating>
+    <releasedate>19920327T000000</releasedate>
+    <developer>Shin-Nihon Laser Soft</developer>
+    <publisher>Working Designs</publisher>
+    <genre>Role playing games</genre>
+    <players>1</players>
+    <image>./media/mixart/Cosmic Fantasy Stories (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Cosmic Fantasy Stories (Japan) (megacd).png</thumbnail>
+    <video>./media/snap/Cosmic Fantasy Stories (Japan) (megacd).mp4</video>
+    <genreid>768</genreid>
+  </game>
+  <game id="12828" source="ScreenScraper.fr">
+    <path>./Cyborg 009 (Japan) (megacd).chd</path>
+    <name>Cyborg 009 </name>
+    <desc>Cyborg 009  is a Sega Mega-CD action game released exclusively in Japan.</desc>
+    <releasedate>19930730T000000</releasedate>
+    <developer>Nihon Telenet</developer>
+    <publisher>Riot</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./media/mixart/Cyborg 009 (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Cyborg 009 (Japan) (megacd).png</thumbnail>
+    <video>./media/snap/Cyborg 009 (Japan) (megacd).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="58734" source="ScreenScraper.fr">
+    <path>./Daihoushinden (Japan) (megacd).chd</path>
+    <name>Daihoushinden </name>
+    <desc>Truthfully, there just isn't that much known about this game in the west.  The plot apparently involves an army invading and the hero having to deal with the problems that arise.nnnnThe game is very text heavy, so even with some kind of translation guide, playing the game is a daunting task.  The combat is also very tough, so only the most hardcore will likely continue playing.  Still, it features quality music and the game features, you guessed it, animated cut scenes.  The game itself isn't too shabby to look at either.  It plays as a standard turn-based JRPG.</desc>
+    <releasedate>19950224T000000</releasedate>
+    <developer>Flashback</developer>
+    <publisher>Victor Entertainment</publisher>
+    <genre>Role playing games</genre>
+    <players>1</players>
+    <image>./media/mixart/Daihoushinden (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Daihoushinden (Japan) (megacd).png</thumbnail>
+    <genreid>768</genreid>
+  </game>
+  <game id="12829" source="ScreenScraper.fr">
+    <path>./Dark Wizard - Yomigaerishi Yami no Madoushi (Japan) (megacd).chd</path>
+    <name>Dark Wizard - Yomigaerishi Yami no Madoushi </name>
+    <desc>300 years ago, the high priest of the Kingdom of Cheshire tried to disturb the balance of good and evil by summoning the dark god Arliman. Sabrina, Goddess of Light, saved the Kingdom by giving great powers to two of Cheshire's leaders who defeated the high priest and helped the King's high wizard to entrap Arliman in a magical jewel. Velonese, the high wizard's apprentice, was given the task of guarding the imprisoned Arliman on the Island of Raven. Over the years, his anger towards the kingdom grew and now he is commanding four generals to conquer Cheshire while he is trying to free Arliman.
+
+You take on the role of one of four playable main characters and must re-conquer the land that has already fallen into Velonese's hands and find a way to defeat him and prevent Arliman's resurrection. The four main characters feature largely different stories, however, every game begins with the King's death and your character becoming the new ruler of Cheshire.
+
+The  most important part of the game takes place on various hex maps where you are fighting your enemies in turn-based tactical combat. During these battles your main character - provided he is standing on a castle-field - can summon various monsters like serpents, manticors, harpies etc. or hire human troops(Humans, Dwarfs, Elves and Hobbits) (megacd). Monsters need magic points to be summoned, whereas humans have to be paid with tax money. Depending on which main character you have chosen, your amount of MP and tax money will vary, as well as  the types of monsters you will be able to summon. Your troops, including your main character, gain experience points and humans can even adopt several different jobs (Priest, Mage, Ninja ...) through gaining classes. Your units can also enter towns during battles, to buy weapons and items, hear the latest gossip and maybe even discover a side-quest.
+In-between battles, you can equip your troops, send out search parties and allocate troops to different towns, as they can be re-conquered by the enemy.
+
+Also noteworthy are Dark Wizard's long animated cutscenes with spoken dialogues and it's high quality orchestral soundtrack.</desc>
+    <rating>0.9</rating>
+    <releasedate>19930101T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Strategy-Role playing games</genre>
+    <players>1</players>
+    <image>./media/mixart/Dark Wizard - Yomigaerishi Yami no Madoushi (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Dark Wizard - Yomigaerishi Yami no Madoushi (Japan) (megacd).png</thumbnail>
+    <video>./media/snap/Dark Wizard - Yomigaerishi Yami no Madoushi (Japan) (megacd).mp4</video>
+    <favorite>true</favorite>
+    <genreid>1280</genreid>
+  </game>
+  <game id="12806" source="ScreenScraper.fr">
+    <path>./Death Bringer (Japan) (megacd).chd</path>
+    <name>Death Bringer </name>
+    <desc>Death Bringer on Mega CD is a FPS RPG (first person roleplaying game) in the world of Mezron. The story begins with the resurrection of the evil Azazael, looking for five precious stones giving great powers. The player plays an adventurer who tries to stop Azazael in his quest.</desc>
+    <rating>0.25</rating>
+    <releasedate>19920417T000000</releasedate>
+    <developer>Telenet</developer>
+    <publisher>Telenet</publisher>
+    <genre>Role playing games</genre>
+    <players>1</players>
+    <image>./media/mixart/Death Bringer (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Death Bringer (Japan) (megacd).png</thumbnail>
+    <genreid>768</genreid>
+  </game>
+  <game id="12756" source="ScreenScraper.fr">
+    <path>./Dennin Aleste - Nobunaga and His Ninja Force (Japan) (megacd).chd</path>
+    <name>Dennin Aleste - Nobunaga and His Ninja Force </name>
+    <desc>Overhead Shooter based in Japan. The bloodthirsty Chugoko Warlords of the west have ruled and ravaged the once-supreme Oda Clan. Time to get your revenge. This is an overhead shooter with large bosses and massive power-ups.</desc>
+    <rating>0.7</rating>
+    <releasedate>19921127T000000</releasedate>
+    <developer>Compile</developer>
+    <publisher>Sega</publisher>
+    <genre>Action-Shoot'em Up</genre>
+    <players>1</players>
+    <image>./media/mixart/Dennin Aleste - Nobunaga and His Ninja Force (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Dennin Aleste - Nobunaga and His Ninja Force (Japan) (megacd).png</thumbnail>
+    <video>./media/snap/Dennin Aleste - Nobunaga and His Ninja Force (Japan) (megacd).mp4</video>
+    <genreid>260</genreid>
+  </game>
+  <game id="58735" source="ScreenScraper.fr">
+    <path>./Detonator Orgun (Japan) (megacd).chd</path>
+    <name>Detonator Orgun </name>
+    <desc>Fleeing from his own race, Orgun?an alien being with superhuman abilities and unearthly weapons?travels to Earth to find an answer to his origin. There, he bonds with a young man named Tomoru to defend Earth against the Evoluders, who seek nothing but destruction of other civilizations.</desc>
+    <rating>0.7</rating>
+    <releasedate>19920731T000000</releasedate>
+    <developer>Hot-B</developer>
+    <publisher>Hot-B</publisher>
+    <genre>Adventure</genre>
+    <players>1</players>
+    <image>./media/mixart/Detonator Orgun (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Detonator Orgun (Japan) (megacd).png</thumbnail>
+    <genreid>512</genreid>
+  </game>
+  <game id="58736" source="ScreenScraper.fr">
+    <path>./Devastator (Japan) (megacd).chd</path>
+    <name>Devastator </name>
+    <desc>Ryo begins working for a company called Yaesu as a replacement for his friend Masato. During a test ride with a new machine, however, he is somehow thrown into another dimension. After being rescued there by a group of mecha pilots from vile creatures named Devastators, he learns that nefarious people are working on a connection between that and his own dimension, and sets out to stop them.</desc>
+    <rating>0.7</rating>
+    <releasedate>19930528T000000</releasedate>
+    <developer>Wolf Team</developer>
+    <publisher>Wolf Team</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./media/mixart/Devastator (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Devastator (Japan) (megacd).png</thumbnail>
+    <video>./media/snap/Devastator (Japan) (megacd).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="12771" source="ScreenScraper.fr">
+    <path>./Earnest Evans (Japan) (megacd).chd</path>
+    <name>Earnest Evans </name>
+    <desc>The story of the game is connected to that of  El Viento. Earnest Evans is a brave treasure hunter. His grandfather was a famous archaeologist who searched for three legendary idols in the 1930s. It was said that those idols could bring disaster upon the Earth if fallen into the wrong hands. But despite his efforts, he could never find even one of the idols. Now it's up to the grandson to continue his work, fifty years later. But the evil syndicate leader Brady Tressider has his own plans, and will do anything to stop Earnest...
+
+This is an action platform game in which you control Earnest Evans, armed with his trusty whip. The hero can jump, climb ropes, crouch, and crawl. There are plenty of obstacles on the levels (bottomless pits, spikes, crushing bridges, lava, etc.), as well as gangsters and monsters to dispose of.</desc>
+    <rating>0.55</rating>
+    <releasedate>19910101T000000</releasedate>
+    <developer>Renovation Products</developer>
+    <publisher>Wolf Team</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./media/mixart/Earnest Evans (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Earnest Evans (Japan) (megacd).png</thumbnail>
+    <video>./media/snap/Earnest Evans (Japan) (megacd).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="12736" source="ScreenScraper.fr">
+    <path>./Garou Densetsu Special (Japan) (megacd).chd</path>
+    <name>Garou Densetsu Special </name>
+    <desc>Fatal Fury Special is an improved version of SNK's 2D one-on-one fighter Fatal Fury 2. It's a conversion of the 1993 arcade game of the same name. The objective is still to win the tournament by defeating all other fighters including end boss Wolfgang Krauser. Fatal Fury Special features a fairly large selection of fighters that includes:
+
+1. The eight regular fighters from Fatal Fury 2: Terry Bogard, Andy Bogard, Joe Higashi, Kim Kaphwan, Jubei Yamada, Cheng Sinzan, Mai Shiranui and Big Bear.The four bosses from Fatal Fury 2: Billy Kane, Axel Hawk, Lawrence Blood and Wolfgang Krauser (this time they're all immediately playable) (megacd).Three characters returning from the first Fatal Fury: Duck King, Tung Fu Rue and Geese Howard (the end boss from Fatal Fury) (megacd).
+Other improvements include:
+
+1. A new Count Down mode (defeat as many opponents as possible in 3 minutes) (megacd).Extra color schemes for every character.New &amp; improved background graphics.Dolby Surround Sound support.
+Fatal Fury Special still features the series' trademark pseudo-3D movement along two planes.</desc>
+    <rating>0.9</rating>
+    <releasedate>19950101T000000</releasedate>
+    <developer>JVC</developer>
+    <publisher>JVC</publisher>
+    <genre>Fight-Action</genre>
+    <players>1-2</players>
+    <image>./media/mixart/Garou Densetsu Special (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Garou Densetsu Special (Japan) (megacd).png</thumbnail>
+    <video>./media/snap/Garou Densetsu Special (Japan) (megacd).mp4</video>
+    <favorite>true</favorite>
+    <genreid>262</genreid>
+  </game>
+  <game id="97350" source="ScreenScraper.fr">
+    <path>./Genei Toshi - Illusion City (Japan) (megacd).chd</path>
+    <name>Genei Toshi - Illusion City </name>
+    <desc>In the beginning of 21th century a terrible disaster, called "demon-coming crisis", devastated the Asian continent. Hong Kong was most affected by the mysterious demonic attack. Terrible diseases turned the once prosperous city into a pale shadow of itself. But once people came back to see what happened to the isolated city, they saw it was ruled by a new order - a corporation called SIVA. The new order proclaimed New Hong Kong to be an independent state. People's Republic of China and United Kingdom signed an agreement in which they both renounced their claims over the city. 
+The player takes on the role of Tianren, a "diver" (demon-hunter) who lives in Hong Kong. His place of birth and the identity of his parents are unknown. Together with a girl named Meihong, he was brought up in the house of a wise Master. Traveling through the huge city, gathering information and fighting demonic forces, Tianren will have to unravel the mystery surrounding the corporation SIVA and the supernatural beings from Chinese myths.</desc>
+    <rating>0.8</rating>
+    <releasedate>19930528T000000</releasedate>
+    <developer>Aisystem Tokyo</developer>
+    <publisher>MicroCabin</publisher>
+    <genre>Role playing games</genre>
+    <players>1</players>
+    <image>./media/mixart/Genei Toshi - Illusion City (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Genei Toshi - Illusion City (Japan) (megacd).png</thumbnail>
+    <genreid>768</genreid>
+  </game>
+  <game id="97355" source="ScreenScraper.fr">
+    <path>./Gyuwambler Jiko Chuushinha 2 - Gekitou! Tokyo Mahjongland Hen (Japan) (megacd).chd</path>
+    <name>Gyuwambler Jiko Chuushinha 2 - Gekitou! Tokyo Mahjongland Hen </name>
+    <desc>Gambler Jiko Chuushinha 2 is a mahjong game. There are new characters in this second episode.</desc>
+    <releasedate>19921218T000000</releasedate>
+    <developer>Game Arts</developer>
+    <publisher>Game Arts</publisher>
+    <genre>Asiatic board game-Mahjong</genre>
+    <players>2</players>
+    <image>./media/mixart/Gyuwambler Jiko Chuushinha 2 - Gekitou! Tokyo Mahjongland Hen (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Gyuwambler Jiko Chuushinha 2 - Gekitou! Tokyo Mahjongland Hen (Japan) (megacd).png</thumbnail>
+    <genreid>2048</genreid>
+  </game>
+  <game id="58717" source="ScreenScraper.fr">
+    <path>./Heavy Nova (Japan) (megacd).chd</path>
+    <name>Heavy Nova </name>
+    <desc>In an era of frequent alien attacks, the Earth has a unified Government, which relies on a line of cyborgs known as the Heavy Dolls for defense. The greatest of these are known as the Heavy Nova, a title earned by passing a rigorous training regime.
+
+You are taking on the simulated proving grounds, which are split into two styles of alternating action. In the first you must progress (initially purely horizontally, though later with vertical flick-scrolling as well) through a hostile environment of enemies, bombs and traps, gaining points for doing it quickly and with lots of energy left. Initially you can fly and kick as needed.
+
+Once this section is complete, you move on to one-on-one combat of the Street Fighter 2 style. The early foes have far less energy than you begin with. As you progress through the game, you are awarded extra attacking moves, in a manner similar to Brutal: Paws of Fury</desc>
+    <rating>0.8</rating>
+    <releasedate>19911212T000000</releasedate>
+    <developer>Holocronet</developer>
+    <publisher>Micronet</publisher>
+    <genre>Beat'em Up</genre>
+    <players>1</players>
+    <image>./media/mixart/Heavy Nova (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Heavy Nova (Japan) (megacd).png</thumbnail>
+    <video>./media/snap/Heavy Nova (Japan) (megacd).mp4</video>
+    <genreid>263</genreid>
+  </game>
+  <game id="12773" source="ScreenScraper.fr">
+    <path>./IIIrd World War, The (Japan) (megacd).chd</path>
+    <name>IIIrd World War, The </name>
+    <desc>Third World War is a "hypothetical/what if" wargame with a twist. Set sometime in the late 20th century, when conflicts all over the world have erupted, and world peace is but a thing of the past.
+
+As the leader of one of 16 nations, your ultimate goal is none other than world domination. To accomplish this you have a multitude of options ranging from raw military might, diplomacy, foreign or domestic investment policy, aiding terrorists or revolutionaries, to media manipulation. In other words, it's just like the real world.
+
+The game offers 5 distinct scenarios, all of which require different strategies to win.</desc>
+    <releasedate>19931126T000000</releasedate>
+    <developer>Micronet</developer>
+    <publisher>Micronet</publisher>
+    <genre>Strategy</genre>
+    <players>1</players>
+    <image>./media/mixart/IIIrd World War, The (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/IIIrd World War, The (Japan) (megacd).png</thumbnail>
+    <video>./media/snap/IIIrd World War, The (Japan) (megacd).mp4</video>
+    <genreid>1280</genreid>
+  </game>
+  <game id="97357" source="ScreenScraper.fr">
+    <path>./Ishii Hisaichi no Daiseikai (Japan) (megacd).chd</path>
+    <name>Ishii Hisaichi no Daiseikai </name>
+    <desc>Ishii Hisaichi no Daiseikai (Hisaichi Ishii's Great Political World) is a farcical political-themed strategy board game based on the works of cartoonist Hisaichi Ishii. The player takes the role of a budding politician who must work his way up to become the Prime Minister of Japan.nnnnThe game is completely menu driven, with the player choosing actions for each day as the game progresses, such as visiting a certain place or meeting with a specific person. The ultimate goal is to gain experience solving citizens' problems and earn enough popularity campaigning -- or by using items to swing public opinion in the player's favor -- to win the popular vote.</desc>
+    <releasedate>19940128T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Simulation</genre>
+    <players>1</players>
+    <image>./media/mixart/Ishii Hisaichi no Daiseikai (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Ishii Hisaichi no Daiseikai (Japan) (megacd).png</thumbnail>
+    <genreid>1024</genreid>
+  </game>
+  <game id="12740" source="ScreenScraper.fr">
+    <path>./Keiou Yuugekitai (Japan) (megacd).chd</path>
+    <name>Keiou Yuugekitai </name>
+    <desc>Keio Flying Squadron chronicles the adventures of Rami, the little bunny-suited member of the flying squadron tasked with the protection of the "Special Holy Object". Unfortunately as the game starts the object in question gets stolen by the evil Dr. Pon, and so Rami jumps atop her trusty dragon in pursuit of Dr. Pon.
+
+The game plays as a classic 2D shooter with upgradable weapons and option characters, with a distinct cartoonish and family-friendly design.
+
+Features 7 levels and 3 difficulty settings.</desc>
+    <rating>0.7</rating>
+    <releasedate>19930101T000000</releasedate>
+    <developer>JVC</developer>
+    <publisher>JVC</publisher>
+    <genre>Action-Shoot'em Up</genre>
+    <players>1</players>
+    <image>./media/mixart/Keiou Yuugekitai (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Keiou Yuugekitai (Japan) (megacd).png</thumbnail>
+    <video>./media/snap/Keiou Yuugekitai (Japan) (megacd).mp4</video>
+    <genreid>260</genreid>
+  </game>
+  <game id="12819" source="ScreenScraper.fr">
+    <path>./Mahou no Shoujo - Silky Lip (Japan) (megacd).chd</path>
+    <name>Mahou no Shoujo - Silky Lip </name>
+    <desc>Mahou no Shoujo: Silky Lip is an Adventure game, developed and published by Riot,  which was released in Japan in 1992.</desc>
+    <rating>0.7</rating>
+    <releasedate>19920619T000000</releasedate>
+    <developer>Nihon Telenet</developer>
+    <publisher>Riot</publisher>
+    <genre>Adventure</genre>
+    <players>1</players>
+    <image>./media/mixart/Mahou no Shoujo - Silky Lip (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Mahou no Shoujo - Silky Lip (Japan) (megacd).png</thumbnail>
+    <genreid>512</genreid>
+  </game>
+  <game id="97375" source="ScreenScraper.fr">
+    <path>./Mega Schwarzschild (Japan) (megacd).chd</path>
+    <name>Mega Schwarzschild </name>
+    <desc>Mega Schwarzschild is a modified port of the strategy game Super Schwarzschild. The battle system has been redesigned to play out in real-time, rather than the turn-based skirmishes of the PC Engine version, but the main strategy elements and scenario are otherwise identical to the original release.</desc>
+    <rating>0.8</rating>
+    <releasedate>19930625T000000</releasedate>
+    <developer>Kogado Studio</developer>
+    <publisher>Sega</publisher>
+    <genre>Adventure-Simulation</genre>
+    <players>1</players>
+    <image>./media/mixart/Mega Schwarzschild (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Mega Schwarzschild (Japan) (megacd).png</thumbnail>
+    <genreid>512</genreid>
+  </game>
+  <game id="12727" source="ScreenScraper.fr">
+    <path>./Might and Magic III - Isles of Terra (Japan) (megacd).chd</path>
+    <name>Might and Magic III - Isles of Terra </name>
+    <desc>The third installment of the roleplaying series, with a multi-faceted plot full of twists and turns. Ease of  use was central to the gameplay and interface, and the plot included piles of new twists and turns.
+
+Lead a party of adventurers to rendezvous with the legendary wizard Corak. From dark moldy dungeons, through corridors of hewn stone and timber, and onward to the lofty frozen peaks of Terra you will uncover the mysteries that surround the exotic islands in the Great Sea.</desc>
+    <rating>0.65</rating>
+    <releasedate>19931126T000000</releasedate>
+    <developer>New World Computing's</developer>
+    <publisher>New World Computing's</publisher>
+    <genre>Role playing games</genre>
+    <players>1</players>
+    <image>./media/mixart/Might and Magic III - Isles of Terra (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Might and Magic III - Isles of Terra (Japan) (megacd).png</thumbnail>
+    <genreid>768</genreid>
+  </game>
+  <game id="12704" source="ScreenScraper.fr">
+    <path>./Mortal Kombat Kanzenban (Japan) (megacd).chd</path>
+    <name>Mortal Kombat Kanzenban </name>
+    <desc>Five Hundred years ago, an ancient and well respected Shaolin fighting tournament, held every 50 years, was corrupted by an evil and elderly sorcerer by the name of Shang Tsung.  Shang was accompanied by Prince Goro, a warrior of the Shokan race (a four armed half-human/half-dragon) (megacd). Knowing that if ten tournaments in a row were won by the Outworld champion, the Earth Realm would be conquered by evil and fall into darkness, Shang entered Goro in the tournament and had him defeat the great Kung Lao. Goro has been  reigning supreme as the undefeated fighting champion for five hundred years now. As the last tournament required draws near, Raiden, Thunder God and protector of the Earth Realm, enacts a plan to tip the scales in the humans favor, Seven fighters step into the arena on Shang Tsung's mysterious island: Shaolin warrior Liu Kang, Special Forces operative Sonya Blade, the mercenary thug Kano, fame-seeking actor Johnny Cage, the ice wielding Lin Kuei warrior Sub-Zero and his undead adversary Scorpion, and Raiden himself.
+
+Mortal Kombat is a side-scrolling 1 on 1 fighting game. Fighting is set as one on one kombat, allowing each player to perform a variety of punches, kicks, and special moves in order to defeat their opponent.  When the opponent faces their second round loss, the winner can perform a finishing move called a "Fatality" on the loser.  The Fatality is a move unique to each fighter that graphically kills the loser in a blood-soaked finale.
+
+Mortal Kombat began its life as a 2-player arcade title. It is notable for its use of digitized actors to represent the game's fighters, as well as its use of copious amounts of blood during gameplay.</desc>
+    <rating>0.7</rating>
+    <releasedate>19940603T000000</releasedate>
+    <developer>Probe</developer>
+    <publisher>Acclaim</publisher>
+    <genre>Fight</genre>
+    <players>1-2</players>
+    <image>./media/mixart/Mortal Kombat Kanzenban (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Mortal Kombat Kanzenban (Japan) (megacd).png</thumbnail>
+    <video>./media/snap/Mortal Kombat Kanzenban (Japan) (megacd).mp4</video>
+    <genreid>262</genreid>
+  </game>
+  <game id="97370" source="ScreenScraper.fr">
+    <path>./Night Striker (Japan, Korea) (megacd).chd</path>
+    <name>Night Striker </name>
+    <desc>Night Striker is a third-person shooter reminiscent of Space Harrier, converted from the 1989 Taito coin-op. Laser opticts expert Dr. Lindvery Maska and his daughter have been kidnapped by a terrorist group, and Dick Dagras, head of the Special Service Agency, is mobilizing a group of elite soldiers experienced in the use of special armored flying cars, in order to rescue Dr. Maska and destoy this terrorist group.
+
+The player flies through each stage, controlling their armored car and shooting down waves of enemies. A boss appears at the end of each stage, and after this the player must choose what path to take in the next stage, as in Darius. Instead of lives, the player has a shield that takes damage from each hit, but is recharged at the end of each stage.
+
+The Sega CD version of the game features remixed CD-audio, and the Saturn version features a set of exclusive bonus levels.</desc>
+    <releasedate>19930528T000000</releasedate>
+    <developer>Aisystem Tokyo</developer>
+    <publisher>Taito</publisher>
+    <genre>Shoot'em Up</genre>
+    <players>1</players>
+    <image>./media/mixart/Night Striker (Japan, Korea) (megacd).png</image>
+    <thumbnail>./media/wheel/Night Striker (Japan, Korea) (megacd).png</thumbnail>
+    <video>./media/snap/Night Striker (Japan, Korea) (megacd).mp4</video>
+    <genreid>260</genreid>
+  </game>
+  <game id="12753" source="ScreenScraper.fr">
+    <path>./Ninja Warriors, The (Japan) (megacd).chd</path>
+    <name>Ninja Warriors, The </name>
+    <desc>Two player side scrolling beat-em-up converted from the Taito coin-op that featured three monitor screens side by side. The Amiga version was developed in letterbox format in order to show as much of the wide screen background graphics as possible. 
+
+The player(s) controlled robot Ninjas, which battled their way through the levels using Shuriken and knives. As the Ninja's took damage their classic Ninja garb was torn away to reveal robotic limbs, torso or head. When the damage reached critical the Ninja Robot would explode, scattering mechanical body parts.
+
+As with The Sales Curve's later title SWIV, The Ninja Warriors used the company's Dynamic Loading System to load sprites, sound and background graphics from disk on the fly.</desc>
+    <rating>0.6</rating>
+    <releasedate>19930312T000000</releasedate>
+    <developer>Aisystem Tokyo</developer>
+    <publisher>Taito</publisher>
+    <genre>Action-Beat'em Up</genre>
+    <players>1</players>
+    <image>./media/mixart/Ninja Warriors, The (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Ninja Warriors, The (Japan) (megacd).png</thumbnail>
+    <video>./media/snap/Ninja Warriors, The (Japan) (megacd).mp4</video>
+    <genreid>263</genreid>
+  </game>
+  <game id="97371" source="ScreenScraper.fr">
+    <path>./Nobunaga no Yabou - Haouden (Japan) (megacd).chd</path>
+    <name>Nobunaga no Yabou - Haouden </name>
+    <desc>Nobunaga's Ambition: Tale of the Conqueror) is a Sega Mega Drive and Sega Mega-CD strategy game by Koei released exclusively in Japan. It is compatible with the Sega Mouse and is the fifth title in the series, released December 1992 for PC-98, then quickly ported for various japanese computers. This is the first game with an expansion pack. Battles were changed from taking provinces to taking castles. Releases for Super Famicom, Mega Drive, Sega Mega-CD, 3DO, Mac OS, PlayStation, mobile phones, and Windows were made subsequently. 
+ 
+"Nobunaga's Ambition: Haoden" is a strategy that depicts the life of Oda Nobunaga, who has risen to the world's champions with outstanding talents and intense passions, and the survival of group men who ran through the turbulent warring era. Class simulation game. In this film, a variety of specifications not available for mobile phones, such as more than 900 appearance warlords, a total of 64 countries, a map of Japan represented by 110 castles, and alliances set for three types, have been added. And realistically reproduce the war of the warring states.</desc>
+    <releasedate>19940325T000000</releasedate>
+    <developer>Koei</developer>
+    <publisher>Koei</publisher>
+    <genre>Strategy</genre>
+    <players>1</players>
+    <image>./media/mixart/Nobunaga no Yabou - Haouden (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Nobunaga no Yabou - Haouden (Japan) (megacd).png</thumbnail>
+    <genreid>1280</genreid>
+  </game>
+  <game id="12830" source="ScreenScraper.fr">
+    <path>./Nostalgia 1907 (Japan) (megacd).chd</path>
+    <name>Nostalgia 1907 </name>
+    <desc>Nostalgia 1907 (1907) is a Sega Mega-CD adventure game released exclusively in Japan.</desc>
+    <releasedate>19911215T000000</releasedate>
+    <developer>TAKERU</developer>
+    <publisher>Sur de Wave</publisher>
+    <genre>Adventure</genre>
+    <players>1</players>
+    <image>./media/mixart/Nostalgia 1907 (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Nostalgia 1907 (Japan) (megacd).png</thumbnail>
+    <genreid>512</genreid>
+  </game>
+  <game id="97372" source="ScreenScraper.fr">
+    <path>./Psychic Detective Series Vol. 3 - Aya (Japan) (megacd).chd</path>
+    <name>Psychic Detective Series Vol. 3 - Aya </name>
+    <desc>Psychic Detective Series Vol. 3: Aya  is an adventure game for the Sega Mega-CD. It was only released in Japan. It was followed by Psychic Detective Series Vol. 4: Orgel in the same year. 
+ 
+Only a few people possess the unique ability to read people's hearts; those people are called psychic analysts, and Katsuya Furuyagi is one of them. One day, a fellow analyst pays him an unexpected visit and directs him towards a mysterious old man named Kamiya. Reading the old man's mind, Furuyagi ventures into the realm of memories, where a woman's ghost is attempting to avenge her own murder. 
+ 
+Aya is the third installment of the Psychic Detective series. Like in the previous entries, it is a Japanese-style adventure game with first-person view and menu-based interaction and navigation. Commands such as "Look", "Ask" and "Move" must be used on most screens in order to advance the plot. Talking to characters and contemplating about the case play an important role.</desc>
+    <rating>0.75</rating>
+    <releasedate>19930103T000000</releasedate>
+    <developer>Data West</developer>
+    <publisher>Data West</publisher>
+    <genre>Adventure</genre>
+    <players>1</players>
+    <image>./media/mixart/Psychic Detective Series Vol. 3 - Aya (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Psychic Detective Series Vol. 3 - Aya (Japan) (megacd).png</thumbnail>
+    <genreid>512</genreid>
+  </game>
+  <game id="102114" source="ScreenScraper.fr">
+    <path>./Psychic Detective Series Vol. 4 - Orgel (Japan) (megacd).chd</path>
+    <name>Psychic Detective Series Vol. 4 - Orgel </name>
+    <desc>Psychic Detective Series Vol. 4: Orgel is an Adventure game, developed and published by DataWest,  which was released in Japan in 1993.</desc>
+    <rating>0.8</rating>
+    <releasedate>19931210T000000</releasedate>
+    <developer>Data West</developer>
+    <publisher>Data West</publisher>
+    <genre>Adventure</genre>
+    <players>1</players>
+    <image>./media/mixart/Psychic Detective Series Vol. 4 - Orgel (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Psychic Detective Series Vol. 4 - Orgel (Japan) (megacd).png</thumbnail>
+    <genreid>512</genreid>
+  </game>
+  <game id="12788" source="ScreenScraper.fr">
+    <path>./Ranma 1-2 - Byakuranaika (Japan) (megacd).chd</path>
+    <name>Ranma 1-2 - Byakuranaika </name>
+    <desc>Ranma ½: Byakuran Aika is an adventure game for the Mega-CD. It was the first of three Ranma ½ games to be released in 1993 and the only one released on the Mega-CD. The title can be translated as "White Orchid Serenade". 
+ 
+The game came with a phone card and has a soundtrack, the Electronic Game Music Collection. 
+ 
+The game features an original story centering on a new character, Arisa Nanjo. After Ranma Saotome's friends go missing, it is up to him to track them down. 
+ 
+The game is a a video novel which involves the player, acting as Ranma, selecting from a series of choices, such as what to do or say to someone. The results are then played out in an animated sequence. It uses a Rock-Paper-Scissors-style battle system. 
+ 
+The characters are voiced by the original cast from the series.</desc>
+    <rating>0.6</rating>
+    <releasedate>19930423T000000</releasedate>
+    <developer>NCS</developer>
+    <publisher>Masaya</publisher>
+    <genre>Adventure</genre>
+    <image>./media/mixart/Ranma 1-2 - Byakuranaika (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Ranma 1-2 - Byakuranaika (Japan) (megacd).png</thumbnail>
+    <genreid>512</genreid>
+  </game>
+  <game id="58741" source="ScreenScraper.fr">
+    <path>./Record of Lodoss War (Japan) (megacd).chd</path>
+    <name>Record of Lodoss War </name>
+    <desc>Based on the 1988 novel series by Ryo Mizuno, Record of Lodoss War, it focuses on the adventures of the novel cycle's main hero Parn, his best friend Etoh, and the lovely high elf shaman Deedlit 
+ 
+Instead of the more traditional Japanese RPG-style world map top-down navigation and random battles, the game has a linear world map and pre-set battles. The strategic element of the battles is stronger, since the battle screens are larger and it is not possible to set battles on auto. Each attack is shown graphically on a separate screen. Hostile areas have standard top-down navigation, while towns are viewed from first-person perspective, and the navigation in them is menu-based. 
+ 
+The game has voice acting and real anime movie sequences instead of the usual 2D cut-scenes characteristic for anime-style Sega CD games.</desc>
+    <rating>0.85</rating>
+    <releasedate>19941220T000000</releasedate>
+    <developer>Kogado Studio</developer>
+    <publisher>Sega</publisher>
+    <genre>Role playing games</genre>
+    <players>1</players>
+    <image>./media/mixart/Record of Lodoss War (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Record of Lodoss War (Japan) (megacd).png</thumbnail>
+    <favorite>true</favorite>
+    <genreid>768</genreid>
+  </game>
+  <game id="12831" source="ScreenScraper.fr">
+    <path>./Rise of the Dragon - A Blade Hunter Mystery (Japan) (megacd).chd</path>
+    <name>Rise of the Dragon - A Blade Hunter Mystery </name>
+    <desc>A futuristic adventure game that borrows graphical elements from Blade Runner (in fact, the title character's name is "Blade Hunter") (megacd).  You must find out what is killing--by horrible, spontaneous mutation--inhabitants of the city, before it's too late.  An oriental cult, drugs, and street informants are among the places you find clues.</desc>
+    <rating>0.8</rating>
+    <releasedate>19920925T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Dynamix</publisher>
+    <genre>Adventure</genre>
+    <players>1</players>
+    <image>./media/mixart/Rise of the Dragon - A Blade Hunter Mystery (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Rise of the Dragon - A Blade Hunter Mystery (Japan) (megacd).png</thumbnail>
+    <video>./media/snap/Rise of the Dragon - A Blade Hunter Mystery (Japan) (megacd).mp4</video>
+    <genreid>512</genreid>
+  </game>
+  <game id="12746" source="ScreenScraper.fr">
+    <path>./Road Blaster FX (Japan) (megacd).chd</path>
+    <name>Road Blaster FX </name>
+    <desc>Road Avenger dates from the era when interactive movies (e.g. Dragon's Lair, Escape from Cybercity, Time Gal...) with film-quality graphics, but limited player movement, were highly popular.
+
+Players assume the role of an angry cop on a wild ride as he pursues a gang of bikers who killed his wife. Players need to race through oncoming traffic, squeeze between trucks, trash motorcycles and steer through lots of explosions. The only thing needed are quick reflexes to follow the instructions on the screen (with an increasing difficulty) in order to keep the animation going.
+
+The action is shown from a first-person view and fast-paced, while still maintaining smooth and detailed anime drawn graphics.</desc>
+    <rating>0.75</rating>
+    <releasedate>19921218T000000</releasedate>
+    <developer>Wolf Team</developer>
+    <publisher>Sega</publisher>
+    <genre>Race, Driving-Adventure</genre>
+    <players>1</players>
+    <image>./media/mixart/Road Blaster FX (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Road Blaster FX (Japan) (megacd).png</thumbnail>
+    <video>./media/snap/Road Blaster FX (Japan) (megacd).mp4</video>
+    <genreid>1537</genreid>
+  </game>
+  <game id="12810" source="ScreenScraper.fr">
+    <path>./Sangokushi III (Japan) (megacd).chd</path>
+    <name>Sangokushi III </name>
+    <desc>Sangokushi III, known as Romance of the Three Kingdoms III: Dragon of Destiny in the west, is the third game in Koei's Sangokushi franchise, a part of their Historical Simulation Series and a sequel to Romance of the Three Kingdoms II. It was first released in 1992 on various home computers and was ported to a variety of other platforms, including to the Sega Mega Drive in 1992 and Sega Mega-CD in 1993.</desc>
+    <releasedate>19930423T000000</releasedate>
+    <developer>Koei</developer>
+    <publisher>Koei</publisher>
+    <genre>Strategy</genre>
+    <image>./media/mixart/Sangokushi III (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Sangokushi III (Japan) (megacd).png</thumbnail>
+    <genreid>1280</genreid>
+  </game>
+  <game id="12817" source="ScreenScraper.fr">
+    <path>./Seima Densetsu 3x3 Eyes (Japan, Korea) (megacd).chd</path>
+    <name>Seima Densetsu 3x3 Eyes </name>
+    <desc>RPG based upon the 3x3 Eyes anime and manga. It was only released in Japan.</desc>
+    <releasedate>19930723T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Role playing games</genre>
+    <image>./media/mixart/Seima Densetsu 3x3 Eyes (Japan, Korea) (megacd).png</image>
+    <thumbnail>./media/wheel/Seima Densetsu 3x3 Eyes (Japan, Korea) (megacd).png</thumbnail>
+    <genreid>768</genreid>
+  </game>
+  <game id="97379" source="ScreenScraper.fr">
+    <path>./Seirei Shinseiki - Fhey Area (Japan) (megacd).chd</path>
+    <name>Seirei Shinseiki - Fhey Area </name>
+    <desc>Un RPG intéressant utilisant un look final fantasy pour l'environnement, mais l'écran de combat aurait pu être un peu plus intéressant. C'est le même écran encore et encore. Pas de changement de fond, seulement les monstres.</desc>
+    <releasedate>19920218T000000</releasedate>
+    <developer>Wolf Team</developer>
+    <publisher>Wolf Team</publisher>
+    <genre>Role playing games</genre>
+    <image>./media/mixart/Seirei Shinseiki - Fhey Area (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Seirei Shinseiki - Fhey Area (Japan) (megacd).png</thumbnail>
+    <genreid>768</genreid>
+  </game>
+  <game id="97380" source="ScreenScraper.fr">
+    <path>./Sengoku Denshou (Japan) (megacd).chd</path>
+    <name>Sengoku Denshou </name>
+    <desc>It's the final battle. A warlord in the past planned to conquer the world by brutal attack. Now, 400 years later, this "Demon Castle" suddenly appeared in the sky above Washington D.C. The prophecy came true! Only two samurai warriors with the special weapon can stop the revival of this ghost!</desc>
+    <rating>0.65</rating>
+    <releasedate>19931228T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>Sammy</publisher>
+    <genre>Beat'em Up</genre>
+    <players>1</players>
+    <image>./media/mixart/Sengoku Denshou (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Sengoku Denshou (Japan) (megacd).png</thumbnail>
+    <video>./media/snap/Sengoku Denshou (Japan) (megacd).mp4</video>
+    <genreid>263</genreid>
+  </game>
+  <game id="12757" source="ScreenScraper.fr">
+    <path>./Shadowrun (Japan) (megacd).chd</path>
+    <name>Shadowrun </name>
+    <desc>"Shadowrun" for Sega CD is a little-known game (and one of the very last ones released for this console) that is based on the FASA RPG of the same name and has only very little to do with its much more popular brethren for SNES and Genesis.
+
+It is twenty-first century, and the humanity faces a difficult period that follows devastating wars and other disasters. Magic and technology co-exist, supernatural powers, mythical creatures, ghosts, cyberspace, where hackers meet and fight each other, street deckers which can be hired to do the dirty work, anarchy and struggle between mighty and corrupt corporation - this is the world of Shadowrun. Unlike the two other Shadowrun games which are set in Seattle, according to tradition, "Shadowrun" for Sega CD is set in the futuristic Neo Tokyo. You control a party of characters with different backgrounds: the street samurai Rikudo, the shaman girl Mao, the decker (a hired mercenary) D-Head who also happens to be an elf, and Shiun, a former member of a mighty corporation. Your first assignment is to hunt down a ghostly warrior who has been disturbing the piece of the city for quite some time. As you begin your investigation, you plunge deeper into the dark work of intrigues and find yourself fighting on different fronts.
+
+"Shadowrun" for Sega CD (unlike its two other counterparts) is a distinctly Japanese game. It is a hybrid of Japanese adventure along the lines of  Snatcher and turn-based party RPG. In adventure mode, you interact with the game world by choosing commands ("Look", "Talk", "Move", etc.) from a menu. There are no real puzzles, but rather realistic detective work: you talk to people, gather evidence, access the internet, talk to informers, and so on. But often you find yourself in places where you navigate your characters from a top-down view and fight enemies. The battles occupy the whole screen, and you can move around the battle field, using melee, long-ranged, and magic attacks, like in early  Ultima games. The outcome of an attack is decided by a dice roll. You can stop the dices yourself, or you can let the computer do the rolling for you. There are also cyberspace fights which occur when you encounter a hostile hacker in the matrix world.</desc>
+    <rating>0.45</rating>
+    <releasedate>19930223T000000</releasedate>
+    <developer>Group SNE</developer>
+    <publisher>Compile</publisher>
+    <genre>Role playing games</genre>
+    <players>1</players>
+    <image>./media/mixart/Shadowrun (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Shadowrun (Japan) (megacd).png</thumbnail>
+    <genreid>768</genreid>
+  </game>
+  <game id="12723" source="ScreenScraper.fr">
+    <path>./Shin Megami Tensei (Japan) (megacd).chd</path>
+    <name>Shin Megami Tensei </name>
+    <desc>A young man lives together with his mother in Kichijoji, a district in modern Tokyo. One day, he has a strange dream: he is being sucked into another dimension, a strange maze-like structure. A spirit appears in front of him and asks him his name. As he proceeds further, he meets a man who is hanging on a cross, another one who is being tormented by a demon, and a mysterious young woman who is bathing in a pool...
+
+"Wake up!" - the voice of his mother cuts through the dream. The young man wakes up and checks his computer. Suddenly, a message arrives: the world is headed towards destruction. Only he who can summon demons through a virtual space will be able to prevent a disaster. What could that mean? The young man goes outside and finds out a murder has occurred in the nearby park. The district must be cut off from the rest of the city until the murderer is found. This was the beginning of the demon summoner's story...
+
+"Shin Megami Tensei" is a first-person RPG set in modern-day and futuristic Tokyo. The hero of the game can summon demons, who use a mysterious energy called Magnetite. The demons can fight for you and perform other useful tasks. The first-person combat is turn-based. In the beginning of the game, you can set the statistics of your party members, determining their strength, stamina, intelligence, etc. You'll need to make some crucial decisions during the game, that will also influence the outcome of its events.</desc>
+    <rating>0.8</rating>
+    <releasedate>19940225T000000</releasedate>
+    <developer>Atlus</developer>
+    <publisher>Atlus</publisher>
+    <genre>Role playing games-Action</genre>
+    <players>1</players>
+    <image>./media/mixart/Shin Megami Tensei (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Shin Megami Tensei (Japan) (megacd).png</thumbnail>
+    <genreid>768</genreid>
+  </game>
+  <game id="12768" source="ScreenScraper.fr">
+    <path>./SimEarth (Japan) (megacd).chd</path>
+    <name>SimEarth </name>
+    <desc>SimEarth is a simulation game originally developed by Maxis which was ported to the Sega Mega-CD by Game Arts and Sega. Unusually, despite it being an American invention, the Mega CD version of the game was a Japanese exclusive.</desc>
+    <releasedate>19930312T000000</releasedate>
+    <developer>Maxis Software</developer>
+    <publisher>Sega</publisher>
+    <genre>Simulation</genre>
+    <image>./media/mixart/SimEarth (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/SimEarth (Japan) (megacd).png</thumbnail>
+    <genreid>1024</genreid>
+  </game>
+  <game id="12702" source="ScreenScraper.fr">
+    <path>./Sonic The Hedgehog CD (Japan) (megacd).chd</path>
+    <name>Sonic The Hedgehog CD </name>
+    <desc>This is a standard Sonic the Hedgehog side-scrolling action game. Dr. Robotnik has taken over the Little Planet, captured Amy, and created Metal Sonic with the goal of collecting all the Time Stones to be able to manipulate time and conquer the world.  It is up to Sonic to stop him, by rushing through levels set in different time periods, collecting Time Stones.
+
+Sonic CD has features that take advantage of the CD format such as CD audio, video clips, and more levels (over 50 in total) (megacd).</desc>
+    <rating>0.8</rating>
+    <releasedate>19930923T000000</releasedate>
+    <developer>Sonic Team</developer>
+    <publisher>Sega</publisher>
+    <genre>Platform</genre>
+    <players>1</players>
+    <image>./media/mixart/Sonic The Hedgehog CD (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Sonic The Hedgehog CD (Japan) (megacd).png</thumbnail>
+    <video>./media/snap/Sonic The Hedgehog CD (Japan) (megacd).mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="12793" source="ScreenScraper.fr">
+    <path>./Switch (Japan) (megacd).chd</path>
+    <name>Switch </name>
+    <desc>A virus has infected the world's computer network, which effects all electronical devices on the earth. However, a special program called "Panic!" is designed to counter the effects of the virus and restore the network back to working order. You play Slap the Boy and his sidekick, Stick the Dog(they're not actions, it's their names) who set out to restore the network back to working order. </desc>
+    <releasedate>19930423T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Data East</publisher>
+    <genre>Puzzle-Game-Adventure</genre>
+    <image>./media/mixart/Switch (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Switch (Japan) (megacd).png</thumbnail>
+    <video>./media/snap/Switch (Japan) (megacd).mp4</video>
+    <genreid>2816</genreid>
+  </game>
+  <game id="97367" source="ScreenScraper.fr">
+    <path>./Tenbu Mega CD Special (Japan) (megacd).chd</path>
+    <name>Tenbu Mega CD Special </name>
+    <desc>Tenbu Mega CD Special est un jeu vidéo de stratégie au tour par tour sorti en 1992 sur Mega-CD.</desc>
+    <releasedate>19921225T000000</releasedate>
+    <developer>Wolf Team</developer>
+    <publisher>Wolf Team</publisher>
+    <genre>Simulation</genre>
+    <image>./media/mixart/Tenbu Mega CD Special (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Tenbu Mega CD Special (Japan) (megacd).png</thumbnail>
+    <genreid>1024</genreid>
+  </game>
+  <game id="12824" source="ScreenScraper.fr">
+    <path>./Tenkafubu - Eiyuutachi no Houkou (Japan) (megacd).chd</path>
+    <name>Tenkafubu - Eiyuutachi no Houkou </name>
+    <desc>Tenka Fubu is a Strategy game, developed and published by Game Arts, which was released in Japan in 1991. Developed by Takeshi Miyaji, the founder of Game Arts, who also played pivotal roles in the Silpheed, Lunar, and Grandia series. The game's system was reworked for this release.  
+ 
+The central concept of the series is often cited as being ?a foreigner's misguided view of Japan"</desc>
+    <releasedate>19910101T000000</releasedate>
+    <developer>Game Arts</developer>
+    <publisher>Game Arts</publisher>
+    <genre>Strategy</genre>
+    <image>./media/mixart/Tenkafubu - Eiyuutachi no Houkou (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Tenkafubu - Eiyuutachi no Houkou (Japan) (megacd).png</thumbnail>
+    <genreid>1280</genreid>
+  </game>
+  <game id="12783" source="ScreenScraper.fr">
+    <path>./Thunder Storm FX (Japan) (megacd).chd</path>
+    <name>Thunder Storm FX </name>
+    <desc>Cobra Command is an arcade conversion of a helicopter shooting game from Data East.  It is an "on rails" style shooter with the player controlling only the aiming of the shooting but not the direction of the helicopter.  
+
+Your job is to shoot down the enemies as you are flown through footage of New York streets, the Statue of Liberty, the Atlantic Ocean, Italy, the Grand Canyon and finally, the treacherous corners and return fire of the enemy's stronghold on Easter Island.
+
+There is no background music to go along with the sound effects.  The levels are fairly short with a total game run through possible in about 20 minutes.</desc>
+    <rating>0.15</rating>
+    <releasedate>19920828T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Simulation-Shoot'em Up</genre>
+    <players>1</players>
+    <image>./media/mixart/Thunder Storm FX (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Thunder Storm FX (Japan) (megacd).png</thumbnail>
+    <video>./media/snap/Thunder Storm FX (Japan) (megacd).mp4</video>
+    <genreid>260</genreid>
+  </game>
+  <game id="97366" source="ScreenScraper.fr">
+    <path>./Urusei Yatsura - Dear My Friends (Japan) (megacd).chd</path>
+    <name>Urusei Yatsura - Dear My Friends </name>
+    <desc>This adventure game was released only in Japan and is based on Rumiko Takashi's Urusei Yatsura series.</desc>
+    <releasedate>19930101T000000</releasedate>
+    <developer>Game Arts</developer>
+    <publisher>Game Arts</publisher>
+    <genre>Adventure</genre>
+    <players>1</players>
+    <image>./media/mixart/Urusei Yatsura - Dear My Friends (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Urusei Yatsura - Dear My Friends (Japan) (megacd).png</thumbnail>
+    <genreid>512</genreid>
+  </game>
+  <game id="58743" source="ScreenScraper.fr">
+    <path>./Vay - Ryuusei no Yoroi (Japan) (megacd).chd</path>
+    <name>Vay - Ryuusei no Yoroi </name>
+    <desc>Vay is the story of Prince Sandor of Lorath, and his quest to avenge the assassination of his parents and rescue his beloved Lady Elin. On what is to be the day of their wedding, Castle Lorath is assaulted by the Danek, who have been able to partially reconstruct alien mecha technology from a millennium ago. The castle defenses are powerless against the giant robots, and the king and queen are killed in the attack. The invaders steal Elin in the midst of her wedding vows. Prince Sandor, now the king of the realm, sets out to rescue his betrothed, and find a way to defeat the fearsome alien technology.
+
+The game is a thoroughly "old-school" Japanese-style RPG, meaning that the focus of the game is on fighting random enemies in turn-based combat, gaining experience and gold in process, without any additional gimmicks. The characters come with pre-set "classes" (wizard, bard, etc.), and learn their own abilities/magic spells automatically as they level up.</desc>
+    <rating>0.7</rating>
+    <releasedate>19931022T000000</releasedate>
+    <developer>SIMS Co., Ltd.</developer>
+    <publisher>Working Designs</publisher>
+    <genre>Role playing games</genre>
+    <players>1</players>
+    <image>./media/mixart/Vay - Ryuusei no Yoroi (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Vay - Ryuusei no Yoroi (Japan) (megacd).png</thumbnail>
+    <video>./media/snap/Vay - Ryuusei no Yoroi (Japan) (megacd).mp4</video>
+    <genreid>768</genreid>
+  </game>
+  <game id="97363" source="ScreenScraper.fr">
+    <path>./Wakusei Woodstock - Funky Horror Band (Japan) (megacd).chd</path>
+    <name>Wakusei Woodstock - Funky Horror Band </name>
+    <desc>Wakusei Woodstock: Funky Horror Band est un RPG de 5 chapitres que l'on pourrait qualifier de "RPG Musical". 
+Le Funky Horror Band est un groupe de six musiciens extraterrestres qui propagent un message de paix et d'amour à travers les styles intemporels de la musique des années 80. Cependant, après ils sont chassés de leur planète d' Horahora, leur fusée s'écrase sur une autre planète, où un jeune garçon du village voisin de Funky trouve l'épave et la bande à l'intérieur. Ils doivent travailler ensemble pour réparer le vaisseau de la bande... et leurs instruments , bien sûr! Ce jeu s'apparente à des JRPG style Dragon Quest, mais il n'y a pas de système d'expérience ou de niveau, la customisation des personnages est limitée à changer l'équipement, et certaines histoires sont présentés comme des visuals novels.</desc>
+    <releasedate>19911220T000000</releasedate>
+    <developer>Sega</developer>
+    <publisher>Sega</publisher>
+    <genre>Role playing games</genre>
+    <image>./media/mixart/Wakusei Woodstock - Funky Horror Band (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Wakusei Woodstock - Funky Horror Band (Japan) (megacd).png</thumbnail>
+    <genreid>768</genreid>
+  </game>
+  <game id="12762" source="ScreenScraper.fr">
+    <path>./Yumemi Yakata no Monogatari (Japan) (megacd).chd</path>
+    <name>Yumemi Yakata no Monogatari </name>
+    <desc>Mansion of Hidden Souls is an adventure game created entirely with full-motion video. It takes place in a pre-rendered mansion that the player explores from a first-person perspective. As they wander from room to room, the action unfolds via video sequences. 
+ 
+The player takes on the role of Jonathan, a boy whose sister has wandered into the spooky mansion. When she entered the mansion, she disappeared! What's more, the mansion is full of talking butterflies. The player must search the whole mansion to unlock its secrets and find Jonathan's sister.</desc>
+    <rating>0.75</rating>
+    <releasedate>19930101T000000</releasedate>
+    <developer>Tokai Engineering</developer>
+    <publisher>Sega</publisher>
+    <genre>Adventure</genre>
+    <players>1</players>
+    <image>./media/mixart/Yumemi Yakata no Monogatari (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Yumemi Yakata no Monogatari (Japan) (megacd).png</thumbnail>
+    <video>./media/snap/Yumemi Yakata no Monogatari (Japan) (megacd).mp4</video>
+    <genreid>512</genreid>
+  </game>
+  <game id="12845" source="ScreenScraper.fr">
+    <path>./Yumimi Mix (Japan) (megacd).chd</path>
+    <name>Yumimi Mix </name>
+    <desc>Yumimi Mix is a Digital Comics on Mega CD, in other words an interactive cartoon where each decision made by the player influences the course of the story. The player follows the adventures of a young schoolgirl in Japan named Yumimi, inside a fantastic manga created by Izumi Takemoto.</desc>
+    <rating>0.75</rating>
+    <releasedate>19930129T000000</releasedate>
+    <developer>Game Arts</developer>
+    <publisher>Game Arts</publisher>
+    <genre>Various</genre>
+    <players>1</players>
+    <image>./media/mixart/Yumimi Mix (Japan) (megacd).png</image>
+    <thumbnail>./media/wheel/Yumimi Mix (Japan) (megacd).png</thumbnail>
+  </game>
+</gameList>

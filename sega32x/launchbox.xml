@@ -1,0 +1,3011 @@
+<?xml version="1.0" standalone="yes"?>
+<LaunchBox>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>..\roms\sega32x\ClayFighter 2 (USA) (Proto) (1995-04-28).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2020-11-27T20:02:00.8074879-05:00</DateAdded>
+    <DateModified>2020-11-27T20:02:00.8074879-05:00</DateModified>
+    <DosBoxConfigurationPath />
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>ba3f7072-e77b-4d60-ba8d-41df38165caf</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>ClayFighter 2 revolves around the town of Mudville, where the clay meteor crashed in ClayFighter. Learning of the spectacle that took place in "Clayland", the evil Dr. Generic Kiln flies in on his aircraft containing the residue he collected from the meteor and spreads it to the rest of Mudville in order to create more fighters. He declares himself grand master of Mudville after the fall of N. Boss, the end boss of the original ClayFighter. He holds the C-2 tournament to see who can become next grandmaster of Mudville.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1995-01-01T00:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>180823</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/ClayFighter_2:_Judgment_Clay</WikipediaURL>
+    <Title>ClayFighter 2</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA) (Proto) (1995-04-28)</Version>
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Fighting</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>true</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Unreleased</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>..\roms\sega32x\T-MEK (USA, Europe).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2020-11-27T20:02:03.8265958-05:00</DateAdded>
+    <DateModified>2020-11-27T20:02:03.8265958-05:00</DateModified>
+    <Developer>Bits Corporation</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>03897d4c-8149-404e-a778-be46e10f91e4</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>T-Mek is essentially an updated Battlezone. You are a warrior battling in the T-Mek competition, a hugely popular event in the future. You control a hovercraft and try to blow up everyone else.
+
+The action is viewed from your perspective as you travel around the arena. You also have an overall view of where your opponents are. Terrain surfaces and characteristics vary in each battle. In most levels you need to reach a certain score to progress, however there are out-and-out one-off Deathmatch duels to deal with periodically.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1996-01-01T00:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.1666667</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>15</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>9081</DatabaseID>
+    <WikipediaURL>https://segaretro.org/T-MEK</WikipediaURL>
+    <Title>T-Mek</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA, Europe)</Version>
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>North America, Europe</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>true</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=qRyq1GU0HOg</VideoUrl>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>..\roms\sega32x\gamelist.xml</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2020-11-27T20:02:01.5015221-05:00</DateAdded>
+    <DateModified>2020-11-27T20:02:01.5015221-05:00</DateModified>
+    <Developer />
+    <DosBoxConfigurationPath />
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>fd382033-11a7-4f36-a505-4f68c6420de3</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes />
+    <Platform>Sega 32X</Platform>
+    <Publisher />
+    <Rating />
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <WikipediaURL />
+    <Title>gamelist</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <Series />
+    <PlayMode />
+    <Region />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre />
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>true</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>true</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType />
+    <VideoUrl />
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>..\roms\sega32x\WWF Raw (World).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2020-11-27T20:02:04.7824594-05:00</DateAdded>
+    <DateModified>2020-11-27T20:02:04.7824594-05:00</DateModified>
+    <Developer>Sculptured Software</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>a413e3bc-169e-418b-9e05-246b1b3df6ed</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Get RAW like never before! It's the ultimate 32X ringside slugfest: next-generation graphics, upgraded sound f/x, the hottest WWF superstars, mat-pounding new moves like the high impact powerslam, all new pins like the in-you-face "showboat" and more out-of-the ring, anything goes mayhem than any other game! Now more than ever...RAW IS WAR!</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>Acclaim</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1995-01-01T00:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.7272727</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>11</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>5971</DatabaseID>
+    <WikipediaURL>https://segaretro.org/WWF_Raw</WikipediaURL>
+    <Title>WWF Raw</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(World)</Version>
+    <Series />
+    <PlayMode>Cooperative; Multiplayer</PlayMode>
+    <Region>World</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Fighting;Sports</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>true</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>4</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=RX__D_cjsck</VideoUrl>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>..\roms\sega32x\Primal Rage (USA, Europe).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2020-11-27T20:02:02.7395843-05:00</DateAdded>
+    <DateModified>2020-11-27T20:02:02.7395843-05:00</DateModified>
+    <Developer>Probe Entertainment</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>77e08f6d-4f9d-46cb-ade3-ffcdea94195c</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>A meteor slams to Earth and human authority is shattered in seconds. The planet cracks open and the new world order comes crawling to the surface. Huge dinosaurs now begin their furious battle for domination, as humankind stands on the brink of extinction! Welcome to Urth.
+
+Primal Rage is a one-on-one fighting game featuring dinosaurs and giant apes as the fighters. The graphics are done with digitized stop-motion animation. Gameplay is similar to Mortal Kombat in that it is viewed from a side perspective, and features deadly finishing moves at the end of the match.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>1995-11-14T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.7058823</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>17</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>4922</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Primal_Rage</WikipediaURL>
+    <Title>Primal Rage</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA, Europe)</Version>
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>North America, Europe</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Fighting</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>true</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=F-trIEMO_cg</VideoUrl>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>..\roms\sega32x\Shadow Squadron ~ Stellar Assault (USA, Europe).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2020-11-27T20:02:03.0724632-05:00</DateAdded>
+    <DateModified>2020-11-27T20:02:03.0724632-05:00</DateModified>
+    <Developer>Sega</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>19743f16-8488-409d-b6e2-a75deb250fef</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Chaos has broken out on the edge of the Galaxy. A diabolical power has begun construction of a powerful sun laser. You are the Shadow Squadron's newest fighter jock and the fate and hope of the federation rests in your hands. Destroy the Sun Laser or face the FIRE!!!
+
+Enter the cockpit of your laser-equipped fighter and prepare to be thrust into the 3D world of deep-space battle. Pilot your craft across galaxies, destroying all enemy fleets in your path, or enter 2-player mode as pilot and gunner in pursuit of your ultimate mission.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1995-04-26T03:00:00-04:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.5789473</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>19</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>4923</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Shadow_Squadron</WikipediaURL>
+    <Title>Shadow Squadron</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA, Europe)</Version>
+    <Series />
+    <PlayMode>Cooperative; Multiplayer</PlayMode>
+    <Region>North America, Europe</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>true</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=zYJASpqW1vM</VideoUrl>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>..\roms\sega32x\Blackthorne (USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2020-11-27T20:02:00.3299172-05:00</DateAdded>
+    <DateModified>2020-11-27T20:02:00.3299172-05:00</DateModified>
+    <Developer>Paradox</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>826d1120-4d78-4f8e-8cf9-c61c465951ff</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Through the dark vastness of space, exiled prince Kyle Blackthorne returns to Tuul to avenge his murdered father and restore the shattered Lightstone.  The conqueror Sarlac opposes his vicious troops against the enraged prince.  But the evil lord will soon find out… an army is not enough against a single fierce fighter with a vengeance!</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>1995-10-01T03:00:00-04:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.9125</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>40</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>9074</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Blackthorne</WikipediaURL>
+    <Title>Blackthorne</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Action;Platform</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>true</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=5VCf_QkZECI</VideoUrl>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>..\roms\sega32x\Pinocchio (Europe) (Proto) (1995-06-12).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2020-11-27T20:02:02.4181658-05:00</DateAdded>
+    <DateModified>2020-11-27T20:02:02.4181658-05:00</DateModified>
+    <Developer>Virgin Studios London</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>121bd4b2-0d26-4efc-bc0a-37548ba2b06f</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>This version for the peripheral of Sega was going to go on sale next to the version of Sega Mega Drive / Genesis and it was the same game, but graphically it is superior to have a higher quality color and scenarios with more scroll planes .
+
+For the first time in an interactive game, you discover the meanings of truth, bravery and unselfishness in a whole new way. Created by Gepetto, the puppet-maker, Pinocchio is brought to life by the Blue Fairy's magic wand. Join Pinocchio and Jiminy Crickett in their journeys through Pleasure Island, a place full of games, rides and good food. Travel into the belly of Monstro the whale to save an old friend. A brilliant game with stunning animation that only Disney can provide ... an instant Classic!</Notes>
+    <Platform>Sega 32X</Platform>
+    <Rating>Not Rated</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.75</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>2</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>162492</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Pinocchio_(video_game)</WikipediaURL>
+    <Title>Pinocchio</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Europe) (Proto) (1995-06-12)</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>Europe</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Platform</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>true</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Unreleased</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=Z0DTWa0ZyS4</VideoUrl>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>..\roms\sega32x\X-Men (USA) (Proto).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2020-11-27T20:02:05.0888869-05:00</DateAdded>
+    <DateModified>2020-11-27T20:02:05.0888869-05:00</DateModified>
+    <Developer>Scavenger</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>2f03f7da-7799-47e2-bef4-3b310274f412</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>X-Men is an unreleased game developed for the Sega 32X. It was set to be an exclusive title for the system, but was cancelled for unknown reasons. A working title appears to have been X-Men: Mind Games.
+
+A prototype was dumped by Ryo Suzuki of SegaSaturno.com in August 2009. Most emulators will not run the game, however it is compatible with the latest releases of Kega Fusion. This prototype is very incomplete, and though gives hints that X-Men characters Wolverine, Rogue and Iceman would be playable, you can only control Bishop. Magazine shots show that the game progressed far enough for Wolverine to be included as a playable character.
+
+It has been suggested that the game eventually became the Sega Saturn/PlayStation/DOS game, The Incredible Hulk: The Pantheon Saga.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Rating>Not Rated</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.5833333</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>6</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>20520</DatabaseID>
+    <WikipediaURL>https://segaretro.org/X-Men_(32X)</WikipediaURL>
+    <Title>X-Men</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA) (Proto)</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Action</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>true</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Unreleased</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=-tdiAznqFU4</VideoUrl>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>..\roms\sega32x\Brutal - Above the Claw (USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2020-11-27T20:02:00.4956812-05:00</DateAdded>
+    <DateModified>2020-11-27T20:02:00.4956812-05:00</DateModified>
+    <Developer>Alternative Reality Technologies</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>43a78c80-d414-4e28-aa72-629c7cf8ed38</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Under the watchful eye of the great master Dali Llama, the worlds greatest martial artists would return to a place they knew well… Brutal Island.  Each will use their own unique mental and physical martial arts style and training, in a tournament to prove the worlds one true champion.
+
+Brutal: Above the Claw, is a brilliantly rendered game of humorous cartoon style combat, combined with depth, philosophy, and an attention to detail not found in any other fighting game.
+
+Go ahead and Unleash the Animal, it’s time to get Brutal.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>GameTek</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>1995-03-01T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.2903225</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>31</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>5295</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Brutal:_Paws_of_Fury</WikipediaURL>
+    <Title>Brutal: Above the Claw</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Fighting</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>true</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=3Tg5B3YdeIc</VideoUrl>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>..\roms\sega32x\Toughman Contest (USA, Europe).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2020-11-27T20:02:04.1481535-05:00</DateAdded>
+    <DateModified>2020-11-27T20:02:04.1481535-05:00</DateModified>
+    <Developer>High Score</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>1f60899f-ace4-473b-afe7-779c79f09316</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Toughman Contest is a game based on the world famous boxing competition of the same name. You pick one of 24 fighters, compete in one of 5 locations from around the world, and re-create the Toughman tournament as seen on TV.
+
+The boxing action is viewed from behind the back of fighter you control. Your fighter is rendered as an outline, so you can see what your opponent is up to and react accordingly. Toughman matches consist of three one minute rounds. Your goal is to KO your opponent by causing their stamina meter to decrease to the point where they fall down, or beating on them enough that you are scored the winner at end of the third round.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>Electronic Arts</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>1995-06-06T03:00:00-04:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.142857</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>14</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>9082</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Toughman_Contest_(video_game)</WikipediaURL>
+    <Title>Toughman Contest</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA, Europe)</Version>
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>North America, Europe</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Sports</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>true</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=jiH0VkUPPsg</VideoUrl>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>..\roms\sega32x\Virtua Racing Deluxe (USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2020-11-27T20:02:04.6282529-05:00</DateAdded>
+    <DateModified>2020-11-27T20:02:04.6282529-05:00</DateModified>
+    <Developer>Sega CS R&amp;D</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>960d7867-9491-4094-bb4a-5803df24ab2c</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Virtua Racing Deluxe is an enhanced arcade-to-console conversion of Sega's 3D racing game. This game is primarily an arcade-style affair; Players compete in a 5 lap race with timed checkpoints. It's also possible to play with 2 players in a split-screen mode.
+
+The 32X version of Virtua Racing adds a couple of new features. There are now 3 different types of cars to drive, including a stock car and a prototype racer. Furthermore, there are two all-new tracks.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1994-11-21T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.9732144</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>56</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>4929</DatabaseID>
+    <WikipediaURL>https://segaretro.org/Virtua_Racing_Deluxe</WikipediaURL>
+    <Title>Virtua Racing Deluxe</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Racing</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>true</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=HfeGeBiOXP0</VideoUrl>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>..\roms\sega32x\Star Wars Arcade (USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2020-11-27T20:02:03.673725-05:00</DateAdded>
+    <DateModified>2020-11-27T20:02:03.673725-05:00</DateModified>
+    <Developer>Sega Interactive</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>f98574d9-90a0-4202-ba42-86e90b0adf82</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Star Wars Arcade is a 3D shoot 'em-up set in Episodes 4, 5, and 6 of the Star Wars saga. You take control of either an X-Wing or Y-Wing, and are put right in the middle of the space combat. In some levels, you have to shoot down a specific number of TIE fighters before time runs out. In other levels, your goal is to simply to make it to the end without getting blasted out of the sky.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1994-11-21T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.597826</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>46</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>4926</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Star_Wars_Arcade</WikipediaURL>
+    <Title>Star Wars Arcade</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <Series />
+    <PlayMode>Cooperative; Multiplayer</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>true</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=MUyTGmzKCN0</VideoUrl>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>..\roms\sega32x\Virtua Hamster (USA) (Proto).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2020-11-27T20:02:04.4753038-05:00</DateAdded>
+    <DateModified>2020-11-27T20:02:04.4753038-05:00</DateModified>
+    <Developer>Sega</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>0757af30-91cc-4a47-a7d8-9af038629988</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Virtua Hamster is a unreleased Sega 32X game. The game was to star a variety of selectable rodents attached to rocket packs who could travel through a series of connected tubes, fighting each other and avoiding various obstacles.
+
+It was built solely with the 32X in mind, however after the console failed development moved to the Sega Saturn for a short while before being axed completely. It is also reported that Sega of Japan were not keen on use of the "Virtua" in the game's name, possibly so that the game was not associated with Sega AM2's Virtua Fighter and Virtua Racing. An alternate box mock-up uses the title Virtual Hamster instead.
+
+In August 2009, Ryo Suzuki of SEGASaturno.com dumped an early prototype version of this game. In it, the only selectable character is hamster, Chip, and there is only one empty level (though there are numerous non-moving 3D models of other characters and items dotted around the map). A resets the game, and B/C can be used to move the camera forwards and backwards through the tube. There are also two Sega screens.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Rating>Not Rated</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.25</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>2</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>20518</DatabaseID>
+    <WikipediaURL>https://segaretro.org/Virtua_Hamster</WikipediaURL>
+    <Title>Virtua Hamster</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA) (Proto)</Version>
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Racing</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>true</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Unreleased</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=mNHnkyh-sbs</VideoUrl>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>..\roms\sega32x\BC Racers (USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2020-11-27T20:02:00.1491893-05:00</DateAdded>
+    <DateModified>2020-11-27T20:02:00.1491893-05:00</DateModified>
+    <Developer>Core Design</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>f11413b8-b7d9-4d28-9641-c1f9a0703140</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>It’s pre-hysterical!  Millionaire playboy caveman Millstone Rockafella arranges a wild n’ wacky BC bike race, the winner of which receives the ultimate boulderdash bike.  Cool n’ crazy Cliff Ace has had his sunglasses set on a boulderdash bike since he was knee-high, so he signs up for the race - taking his cave-babe Roxy along for the ride!  The 32X pushes graphics to the limit with 256 colors for in-game graphics and full 24-bit for static display.  The stone-age never looked better!</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>Front Street Publishing</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1995-06-01T03:00:00-04:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.4473684</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>19</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>4913</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/BC_Racers</WikipediaURL>
+    <Title>BC Racers</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Racing</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>true</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=bY58ilMY2ns</VideoUrl>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>..\roms\sega32x\Amazing Spider-Man, The - Web of Fire (USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2020-11-27T20:01:59.9732234-05:00</DateAdded>
+    <DateModified>2020-11-27T20:01:59.9732234-05:00</DateModified>
+    <Developer>BlueSky Software</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>cd90e14d-b94a-4f13-8fc7-592322c7349d</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>The game features side-scrolling action in which Spider-Man has to take on various enemy types which want to kill him. Besides the usual range of melee kicks and punches, he also sticks to walls and uses special attacks based on his web fluid. Creating spider web "vines" are used to swing from building to building; either required to cross gaps or simply to progress faster in the levels. Every use of his fluid decreases a web bar which, just like health, is refilled by picking up items floating in the game world. The first goal of the game is to rescue the superhero Daredevil, who then continues to help Spider-Man out: after activating the associated special attack, Daredevil covers the screen with his attacks.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1996-01-01T00:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.9081633</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>49</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>4925</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Spider-Man:_Web_of_Fire</WikipediaURL>
+    <Title>The Amazing Spider-Man: Web of Fire</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Action;Platform</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>true</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=v2QmZdFvJZw</VideoUrl>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>..\roms\sega32x\Virtua Fighter (Japan, USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2020-11-27T20:02:04.3120666-05:00</DateAdded>
+    <DateModified>2020-11-27T20:02:04.3120666-05:00</DateModified>
+    <Developer>Sega CS R&amp;D</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>f9dc627e-1909-4fa4-918c-a79ffca60bce</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Virtua Fighter was the first of it's kind: A one-on-one fighting game featuring fully 3D environments and characters. The fighters and arenas are rendered in flat-shaded polygons. Unlike many fighting games, Virtua Fighter focuses on deep gameplay based on actual fighting styles, rather than outrageous special moves and story lines.
+
+There are 8 fighters to choose from in Virtua Fighter, and an equal number of fighting backdrops in which to compete. Each fighter has a distinctive fighting style, and their own set of signature moves.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>1995-10-10T03:00:00-04:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.7682927</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>41</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>4928</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Virtua_Fighter</WikipediaURL>
+    <Title>Virtua Fighter</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan, USA)</Version>
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>North America, Japan</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Fighting</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>true</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=2vH1rP_e9h4</VideoUrl>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>..\roms\sega32x\Mortal Kombat II (Japan, USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2020-11-27T20:02:01.8928519-05:00</DateAdded>
+    <DateModified>2020-11-27T20:02:01.8928519-05:00</DateModified>
+    <Developer>Probe Entertainment</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>93dbe260-32fa-423f-92f1-5666e801e2e9</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Following his failure to defeat Liu Kang in the first Mortal Kombat game, the evil sorcerer Shang Tsung begs his master, Shao Kahn, to spare his life. He tells Shao Kahn that the invitation for Mortal Kombat cannot be turned down, and if they hold it in Outworld, the Earthrealm warriors must attend. Kahn agrees to this plan, and even restores Tsung's youth. He then extends the invitation to Raiden, who gathers his warriors and takes them into Outworld. The new tournament is much more dangerous, as Shao Kahn has the home field advantage, and an Outworld victory will allow him to subdue Earthrealm.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>Acclaim</Publisher>
+    <Rating>M - Mature</Rating>
+    <ReleaseDate>1994-12-04T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>38</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>4919</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Mortal_Kombat_II</WikipediaURL>
+    <Title>Mortal Kombat II</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan, USA)</Version>
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>North America, Japan</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Fighting</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>true</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=13gx9QOX2ms</VideoUrl>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>..\roms\sega32x\Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2020-11-27T20:02:02.2464933-05:00</DateAdded>
+    <DateModified>2020-11-27T20:02:02.2464933-05:00</DateModified>
+    <Developer>CRI</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>ce73b6ce-169e-441d-ac5e-7b67b83274af</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>This 32X-exclusive sci-fi shooter is similar gameplay-wise to Sega's arcade game Zaxxon. The graphics consist of a diagonally scrolling playfield which creates a pseudo 3D environment. The backgrounds are drawn using 2D scrolling planes, but the enemy and ship objects are drawn using 3D flat-shaded polygons.
+
+Although the basic goal of each of the 9 levels is to shoot everything without getting shot, the game has a strategic element. Your basic spacecraft has very little firepower, and can only sustain one hit. To make matters worse, there are very few power-ups. In order to survive, you have to jump on top of enemies and take control of their weapons systems. This system allows for a large variety of player-controllable ships.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1995-06-01T03:00:00-04:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.6923077</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>13</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>9083</DatabaseID>
+    <WikipediaURL>https://segaretro.org/Zaxxon's_Motherbase_2000</WikipediaURL>
+    <Title>Parasquad</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan, USA)</Version>
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>North America, Japan</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>true</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=mKqHbZDJSPY</VideoUrl>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>..\roms\sega32x\Soulstar X (USA) (Proto).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2020-11-27T20:02:03.2250562-05:00</DateAdded>
+    <DateModified>2020-11-27T20:02:03.2250562-05:00</DateModified>
+    <Developer>Core Design</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>c1487fc8-9c5e-4c72-a934-de6015614bc6</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Soulstar was a Mega-CD game created by Core Design, and after its release, two seperate conversions were planned. One was a port to the Jaguar CD, under the same name, whereas the other was an updated version for the 32X, under the name Soulstar X. In the end, neither of them were released.
+
+The 32X update was previewed in Sega Power’s August 1995 issue, but some of the screenshots provided are a bit suspect; At least one of them is identical to a screenshot used on Wikipedia (at the time of writing) to demonstrate the unreleased Jaguar version… Did Sega Power simply get screenshots from the Jaguar CD version due to a lack of available 32X screens? It’s difficult to say, but the preview does confirm a few things about the 32X update, specifically the addition of multiplayer, and a faster game overall. The game looks slightly better than the Mega-CD original.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Rating>Not Rated</Rating>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.5</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>12</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>95752</DatabaseID>
+    <WikipediaURL>https://segaretro.org/Soul_Star_X</WikipediaURL>
+    <Title>Soulstar X</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA) (Proto)</Version>
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>true</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Unreleased</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=WFJzbUc1Q0k</VideoUrl>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>..\roms\sega32x\After Burner Complete ~ After Burner (Japan, USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2020-11-27T20:01:33.7627511-05:00</DateAdded>
+    <DateModified>2020-11-27T20:01:33.7627511-05:00</DateModified>
+    <Developer>Rutubo Games</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>9eba0d42-0020-48fd-8b7e-de903fcddcb0</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Strap into your lethal F14 Tomcat, kick-in the afterburner and set the skies alight!  You fly through multiple day and night missions over land and sea, picking off enemy targets as you lock and launch your deadly Sidewinder missiles.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1995-01-13T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.6666667</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>60</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>4912</DatabaseID>
+    <WikipediaURL>https://segaretro.org/After_Burner_Complete</WikipediaURL>
+    <Title>After Burner Complete</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan, USA)</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America, Japan</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>true</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=6nuKA1oKRTc</VideoUrl>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>..\roms\sega32x\Star Trek - Starfleet Academy - Starship Bridge Simulator (USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2020-11-27T20:02:03.517761-05:00</DateAdded>
+    <DateModified>2020-11-27T20:02:03.517761-05:00</DateModified>
+    <Developer>High Voltage Software</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>7693b67d-d37f-4034-ae2e-e15f6ae6c5fc</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Command the Starfleet's finest vessels and pilot your way through the dozens of stunning scenarios. Sneak through the Klingon gauntlet to rescue thousands of colonists... or lose your whole crew in a warp core breach. Can you master the legendary Kobayashi Maru scenario?
+
+- Command five different Federation vessels! Warp through space abroad the bridge of a star cruiser.
+- Serve your initiation as a cadet and work to the ultimate honor of command!
+- Experience the beauty of the final frontier in high-speed 3D polygon graphics.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>Interplay</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1995-01-01T00:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.25</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>12</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>5970</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Star_Trek:_Starfleet_Academy_-_Starship_Bridge_Simulator</WikipediaURL>
+    <Title>Star Trek: Starfleet Academy: Starship Bridge Simulator</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Flight Simulator;Shooter</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>true</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=HZVP80r91PE</VideoUrl>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>..\roms\sega32x\Darxide (Europe) (En,Fr,De,Es).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2020-11-27T20:02:01.1816037-05:00</DateAdded>
+    <DateModified>2020-11-27T20:02:01.1816037-05:00</DateModified>
+    <Developer>Frontier Developments</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>b2fce60c-3158-42f8-bf19-6a785e14dc8e</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>One of the last 32X games released (and exclusively in Europe), DarXide is a 3-D space shooter, inspired in part by the arcade gameplay of Asteroids. It is one of the few 32X games to used texture-mapped polygons.
+
+Players control a lone starship rushing to destroy oncoming asteroids and alien vessels before they annihilate defenseless human miners and colonies. Asteroids break apart into smaller rocks, which much also be hunted down and destroyed. Aliens likewise arrive in larger, more dangerous vessels.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1996-01-01T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.4642856</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>14</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>9075</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Darxide</WikipediaURL>
+    <Title>DarXide</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Europe) (En,Fr,De,Es)</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>Europe</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>true</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=UxfsXDBCp3o</VideoUrl>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>..\roms\sega32x\Cyber Brawl ~ Cosmic Carnage (Japan, USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2020-11-27T20:02:01.0085704-05:00</DateAdded>
+    <DateModified>2020-11-27T20:02:01.0085704-05:00</DateModified>
+    <Developer>Almanic</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>1c7669d8-3747-4e15-b4fe-2900b3057fcb</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Cosmic Carnage is a one-on-one fighting game set in outer space. The story begins as a prison barge is hijacked by it's cargo in an escape attempt. The resulting chaos caused the barge to crash into a military cruiser. The impact caused extensive damage to both ships. There were only 8 survivors, 4 from each ship. What's worse, there's only one escape pod. You control one of the 8 survivors, and have to finish off all the others to escape with your life.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>1994-12-01T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.6111112</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>27</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>4914</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Cosmic_Carnage</WikipediaURL>
+    <Title>Cyber Brawl</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan, USA)</Version>
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>North America, Japan</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Fighting</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>true</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=8qKsnZbknb0</VideoUrl>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>..\roms\sega32x\Kolibri (USA, Europe).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2020-11-27T20:02:01.5919097-05:00</DateAdded>
+    <DateModified>2020-11-27T20:02:01.5919097-05:00</DateModified>
+    <Developer>Novotrade International</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>3711edb8-7d42-4309-a5c3-98b0cc87780c</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Deep in the Earth, a powerful ancient crystal hums, fueling the balance of nature. But when its toxic twin plummets to Earth, nature totters on the edge of extinction! Only one hope survives - Kolibri. Though small and alone, the hummingbird must battle the invasive mutation in all its malignant form to restore Earth. But at what cost?
+
+* Feel the rush as Kolibri zips, dives and dodges in intoxicating aerial acrobatics!
+* Soar through the splendors of nature! Kolibri's world has perfect realism, depth and a panoramic menagerie of colors!
+* Combat bizarre, vicious creatures created by the alien crystal to hunt Kolibri!
+* See nature at its most helpless... and most powerful as Kolibri gains strength. Help Kolibri conquer the cosmic threat in a classic battle of good and evil!
+* Abundant weapons and pick-ups, including lasers, rings of fire and smart bombs, pack this game with punch!</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1995-11-17T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.512195</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>41</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>2609</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Kolibri_(video_game)</WikipediaURL>
+    <Title>Kolibri</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA, Europe)</Version>
+    <Series />
+    <PlayMode>Cooperative; Multiplayer</PlayMode>
+    <Region>North America, Europe</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>true</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=m5ywx9ay_nI</VideoUrl>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>..\roms\sega32x\Sangokushi IV (Japan).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2020-11-27T20:02:02.8981706-05:00</DateAdded>
+    <DateModified>2020-11-27T20:02:02.8981706-05:00</DateModified>
+    <Developer>Sega</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>94cf4b06-5208-4dcc-92d8-1cff8353013d</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>It's the era of the Second Han Dynasty, and China is being overrun by powerful warlords. A struggle for power among the court families has spawned a time known as the Three Kingdoms, and it's up to you (as the current ruler) to restore peace to your troubled country. Rebuild the land by creating a strong military or try to outwit your opponents using negotiation.
+
+Sangokushi IV (Romance of the Three Kingdoms IV: Wall of Fire outside Japan for PS1 and Saturn) is the fourth game in Koei's Romance of the Three Kingdoms series. Sangokushi IV was the first game for the Playstation &amp; Saturn consoles and the last in the series to be released on PC in the U.S. until Romance of the Three Kingdoms XI.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>Koei</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1995-07-28T03:00:00-04:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>1</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>6</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>30674</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Romance_of_the_Three_Kingdoms_IV:_Wall_of_Fire</WikipediaURL>
+    <Title>Sangokushi IV</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan)</Version>
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Strategy</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>true</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>8</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=B8Zqym9ZZaM</VideoUrl>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>..\roms\sega32x\Pitfall - The Mayan Adventure (USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2020-11-27T20:02:02.5767471-05:00</DateAdded>
+    <DateModified>2020-11-27T20:02:02.5767471-05:00</DateModified>
+    <Developer>Zombie</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>73599ec0-59c5-4b07-b665-bc49ed4dde58</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Harry Jr. I've been taken captive by the spirit of an evil Mayan warrior. Need help right away! Continue journey as planned - through the rain forests and mines, past the waterfalls and ruins. But be careful...the Mayan empire is filled with deadly traps and enemies. Think fast and move even faster. Hurry! Time is running out... - Pitfall Harry</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>Activision</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>1995-10-01T03:00:00-04:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.1086957</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>23</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>9079</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Pitfall:_The_Mayan_Adventure</WikipediaURL>
+    <Title>Pitfall: The Mayan Adventure</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Platform</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>true</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=UbZSw2giS4I</VideoUrl>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>..\roms\sega32x\Chaotix ~ Knuckles' Chaotix (Japan, USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2020-11-27T20:02:00.6441447-05:00</DateAdded>
+    <DateModified>2020-11-27T20:02:00.6441447-05:00</DateModified>
+    <Developer>Sonic Team</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>400d3cea-3123-4fa5-830a-1f102ab29c1a</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>A mysterious island rose from the sea shortly after the events of Sonic &amp; Knuckles. Dr. Robotnik discovered the island, and found a mysterious ring inscribed with descriptions of the Chaos Rings, ancient Rings infused with Chaos Emerald energy. In order to find these Rings, Robotnik built his base, the Newtrogic High Zone, on the island. Mighty the Armadillo, Espio the Chameleon, Vector the Crocodile, and Charmy Bee also arrived at the island, and ended up being captured by Robotnik and Metal Sonic, and placed in Robotnik's Combi Catcher machine. Knuckles, curious about the strange island, goes there as well, and manages to rescue Espio. The two then go on to stop Robotnik from getting the Chaos Rings.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1995-04-21T03:00:00-04:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.7536232</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>69</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>2290</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Knuckles%27_Chaotix</WikipediaURL>
+    <Title>Chaotix</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan, USA)</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America, Japan</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Platform</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>true</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=5gYdGxMdnac</VideoUrl>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>..\roms\sega32x\Doom (Japan, USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2020-11-27T20:02:01.3364149-05:00</DateAdded>
+    <DateModified>2020-11-27T20:02:01.3364149-05:00</DateModified>
+    <Developer>Sega of America</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>de007713-5055-454e-ac57-8738e2ff8e70</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>All Hell has run amok!  Monstrous demons from another dimension use their gruesome talents to turn your space station into a blood-splattered slaughterhouse.
+
+They got black magic.  You got firepower.  Fireballs and lost souls face shotguns, chainsaws, and rocket launchers!
+
+Butcher the hordes of Hell.  Or get butchered, if you don’t have the skill and pure guts to save your skin!</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>M - Mature</Rating>
+    <ReleaseDate>1994-11-21T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.606383</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>47</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>4917</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Doom_(1993_video_game)</WikipediaURL>
+    <Title>Doom</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan, USA)</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America, Japan</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>true</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=oqlPTNk4X10</VideoUrl>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>..\roms\sega32x\Motocross Championship (USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2020-11-27T20:02:02.0627564-05:00</DateAdded>
+    <DateModified>2020-11-27T20:02:02.0627564-05:00</DateModified>
+    <Developer>Artech</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>b135cd79-a661-4671-bcd5-f286eb50718d</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Motocross Championship is the only dirtbike racing game for the 32X. The action takes place from a behind-the-bike perspective, and makes use of the 32X's hardware bitmap scaling to present a 3D graphical effect.
+
+Like the title suggests, the main game mode is a points based championship. You can compete in one of 3 motorcycle classes over 12 indoor and outdoor tracks. There's also two player split screen mode so you can share off-road fun with a friend.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1995-01-01T00:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.1785715</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>28</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>9076</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Motocross_Championship</WikipediaURL>
+    <Title>Motocross Championship</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Racing</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>true</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=MSa9EHK83pM</VideoUrl>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>..\roms\sega32x\Metal Head (Japan, USA) (En,Ja).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2020-11-27T20:02:01.7348351-05:00</DateAdded>
+    <DateModified>2020-11-27T20:02:01.7348351-05:00</DateModified>
+    <Developer>Sega</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>497abaed-f896-4565-ad20-9fc350b0b3f8</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>It has been five years after the formation of the Worldwide Federation. Although war has been averted, terrorist cells around the world threaten the stability of the federation. To combat this menace, the Federation has created a bi-pedal armored tank known as the Metal Head. You are a Metal Head pilot, and you have to use all the weapons at your disposal to take out the terrorists.
+
+Metal Head is a bit of a variation on the usual giant robot combat game. The game's mission areas bear more resemblance to a first-person shooter than a simulation. The graphics are all rendered in texture mapped polygons, which is unusual for a 32X game.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1995-02-24T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.0769231</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>26</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>4918</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Metal_Head</WikipediaURL>
+    <Title>Metal Head</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan, USA) (En,Ja)</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America, Japan</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Action</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>true</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=acshRK43R_4</VideoUrl>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>..\roms\sega32x\Tempo (Japan, USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2020-11-27T20:02:03.9865005-05:00</DateAdded>
+    <DateModified>2020-11-27T20:02:03.9865005-05:00</DateModified>
+    <Developer>Red Company</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>cc213a6a-7587-4ea4-a45d-f0113744a185</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Tempo is a grasshopper who lives on Planet Rythmia, the world of music. Unfortunately, the malevolent King Dirge is trying to steal all the rhythm from the planet. It's unclear as to how a creature with no appreciation for music became King, but it's up to Tempo to stop him!
+
+Tempo's game is a side scrolling platformer with 7 levels. It's a single player game, although you can collect "dance" power-ups that allow you to call your friend, a butterfly, to help you defeat your enemies using killer dance moves.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1995-03-24T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.4655173</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>29</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>4927</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Tempo_(video_game)</WikipediaURL>
+    <Title>Tempo</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan, USA)</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America, Japan</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Action;Platform</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>true</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=-AmpliS2xzA</VideoUrl>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>..\roms\sega32x\WWF WrestleMania - The Arcade Game (USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2020-11-27T20:02:04.9397063-05:00</DateAdded>
+    <DateModified>2020-11-27T20:02:04.9397063-05:00</DateModified>
+    <Developer>Sculptured Software</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>6a910d78-0610-4b12-83f0-0f723bf34bc4</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>WWF WrestleMania: The Arcade Game merges the personalities and action of the WWF TV show characters with a Mortal Kombat-style fighting game. This title features digitized graphics of 8 WWF superstars: Doink, Razor Ramon, Bret "Hit Man" Hart, Shawn Michaels, The Undertaker, Yokozuna, Bam Bam Bigelow, and Lex Luger.
+
+Although presented as a wrestling title, this game is structured like a one-on-one fighter, features over-the-top special moves characteristic of WWF. Each match is divided into a series of rounds, much like a fighting game. Instead of each round ending in a KO, it simply ends when the player forces the other wrestler(s) to fall by reducing their energy meter. Game modes include single player arcade mode, tournament mode, and versus mode for one-on-one multiplayer.</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>Acclaim</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1995-11-01T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.78125</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>16</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>14263</DatabaseID>
+    <WikipediaURL>https://segaretro.org/WWF_WrestleMania:_The_Arcade_Game</WikipediaURL>
+    <Title>WWF WrestleMania: The Arcade Game</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <Series />
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Sports</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>true</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=T1vqjvhi4YE</VideoUrl>
+  </Game>
+  <Game>
+    <GogAppId />
+    <OriginAppId />
+    <OriginInstallPath />
+    <VideoPath />
+    <ThemeVideoPath />
+    <ApplicationPath>..\roms\sega32x\Space Harrier (Japan, USA).zip</ApplicationPath>
+    <CommandLine />
+    <Completed>false</Completed>
+    <ConfigurationCommandLine />
+    <ConfigurationPath />
+    <DateAdded>2020-11-27T20:02:03.3691468-05:00</DateAdded>
+    <DateModified>2020-11-27T20:02:03.3691468-05:00</DateModified>
+    <Developer>Rutubo Games</Developer>
+    <DosBoxConfigurationPath />
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>03238d97-877f-4dce-8eb7-604aecb24a22</ID>
+    <ManualPath />
+    <MusicPath />
+    <Notes>Space Harrier is set in the "Fantasy Zone", a surreal world composed of bright colors and a checkerboard-styled ground. The enemies are also unique, featuring prehistoric animals, Chinese dragons, and alien pods. The player is forced along the levels, running or flying around enemy fire, while shooting back with fireballs via the character's under-arm cannon (which doubles as a rocket-esque device allowing the character to fly).</Notes>
+    <Platform>Sega 32X</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1994-12-03T03:00:00-05:00</ReleaseDate>
+    <RootFolder />
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <ScummVMGameDataFolderPath />
+    <ScummVMGameType />
+    <SortTitle />
+    <Source />
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.1842103</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>38</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>117</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Space_Harrier</WikipediaURL>
+    <Title>Space Harrier</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan, USA)</Version>
+    <Series />
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America, Japan</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter</Genre>
+    <MissingVideo>true</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>true</MissingBox3dImage>
+    <MissingCartImage>true</MissingCartImage>
+    <MissingCart3dImage>true</MissingCart3dImage>
+    <MissingManual>true</MissingManual>
+    <MissingBannerImage>true</MissingBannerImage>
+    <MissingMusic>true</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <PauseAutoHotkeyScript />
+    <ResumeAutoHotkeyScript />
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <LoadStateAutoHotkeyScript />
+    <SaveStateAutoHotkeyScript />
+    <ResetAutoHotkeyScript />
+    <SwapDiscsAutoHotkeyScript />
+    <CustomDosBoxVersionPath />
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=Gdv6UiyV_wg</VideoUrl>
+  </Game>
+  <AlternateName>
+    <GameID>ba3f7072-e77b-4d60-ba8d-41df38165caf</GameID>
+    <Name>ClayFighter 2: Judgment Clay</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>19743f16-8488-409d-b6e2-a75deb250fef</GameID>
+    <Name>Stellar Assault</Name>
+    <Region>Europe</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>19743f16-8488-409d-b6e2-a75deb250fef</GameID>
+    <Name>Shadow Squadron: Stellar Assault</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>19743f16-8488-409d-b6e2-a75deb250fef</GameID>
+    <Name>Shadow Squadron</Name>
+    <Region>North America</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>121bd4b2-0d26-4efc-bc0a-37548ba2b06f</GameID>
+    <Name>Disney’s Pinocchio</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>2f03f7da-7799-47e2-bef4-3b310274f412</GameID>
+    <Name>X-Men: Mind Games</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>43a78c80-d414-4e28-aa72-629c7cf8ed38</GameID>
+    <Name>Brutal Unleashed: Above the Claw</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>0757af30-91cc-4a47-a7d8-9af038629988</GameID>
+    <Name>Virtua Hamster</Name>
+    <Region>North America</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>0757af30-91cc-4a47-a7d8-9af038629988</GameID>
+    <Name>Virtual Hamster</Name>
+    <Region>Europe</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>cd90e14d-b94a-4f13-8fc7-592322c7349d</GameID>
+    <Name>Spider-Man: Web of Fire</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>ce73b6ce-169e-441d-ac5e-7b67b83274af</GameID>
+    <Name>Motherbase</Name>
+    <Region>Europe</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>ce73b6ce-169e-441d-ac5e-7b67b83274af</GameID>
+    <Name>Parasquad: Zaxxon's Motherbase 2000</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>ce73b6ce-169e-441d-ac5e-7b67b83274af</GameID>
+    <Name>Zaxxon's Motherbase 2000</Name>
+    <Region>North America</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>9eba0d42-0020-48fd-8b7e-de903fcddcb0</GameID>
+    <Name>After Burner Complete</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>9eba0d42-0020-48fd-8b7e-de903fcddcb0</GameID>
+    <Name>After Burner Complete: After Burner</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>9eba0d42-0020-48fd-8b7e-de903fcddcb0</GameID>
+    <Name>After Burner</Name>
+    <Region>North America</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>1c7669d8-3747-4e15-b4fe-2900b3057fcb</GameID>
+    <Name>Cosmic Carnage</Name>
+    <Region>Europe</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>1c7669d8-3747-4e15-b4fe-2900b3057fcb</GameID>
+    <Name>Cyber Brawl: Cosmic Carnage</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>94cf4b06-5208-4dcc-92d8-1cff8353013d</GameID>
+    <Name>Romance of the Three Kingdoms IV: Wall of Fire</Name>
+    <Region>North America</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>400d3cea-3123-4fa5-830a-1f102ab29c1a</GameID>
+    <Name>Knuckles' Chaotix</Name>
+    <Region>Europe</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>400d3cea-3123-4fa5-830a-1f102ab29c1a</GameID>
+    <Name>Chaotix: Knuckles' Chaotix</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>de007713-5055-454e-ac57-8738e2ff8e70</GameID>
+    <Name>Doom 32X</Name>
+    <Region />
+  </AlternateName>
+</LaunchBox>

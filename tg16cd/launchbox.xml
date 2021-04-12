@@ -1,0 +1,3232 @@
+<?xml version="1.0" standalone="yes"?>
+<LaunchBox>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Forgotten Worlds (USA) (En,Ja) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:17.2039889-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:17.2039889-05:00</DateModified>
+    <Developer>Capcom</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>bd450d8c-dbb6-47f8-9a37-ddcfc9bde122</ID>
+    <Notes>The planet used to be beautiful, with gorgeous cities and gleaming countrysides. Until the Aliens attacked! With fire, bombs, and napalm they devastated the world! They made the planet so abominable that it became an outcast in the universe - the Forgotten World. Until you, the Nameless One, appear. You're a Super Warrior of incredible power and energy. You make it your business to reclaim the panet for its rightful owners - the Human Beings!</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>NEC</Publisher>
+    <Rating>E10+ - Everyone 10+</Rating>
+    <ReleaseDate>1992-01-01T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.909091</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>11</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>9994</DatabaseID>
+    <Title>Forgotten Worlds</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA) (En,Ja)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Fighting Street (USA) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:16.6185504-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:16.6185504-05:00</DateModified>
+    <Developer>Alfa System</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>09b1922d-2ee4-4071-a621-a0a685409340</ID>
+    <Notes>Deep inside you there lurks a warrior. Let him loose! And test him against the martial arts champions of 5 nations. Grit your teeth, pump up and take after Retsu and Geki from Japan. Most worthy opponents! But watch out for the baddest - Adon and Sagat, a couple of Thai's. Mike and Joe (USA), Birdi and Eagle (UK), Lee and Gen (China) all have their own special "tricks." Be quick and strong, or be gone!</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>NEC</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1988-01-01T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.1818182</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>11</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>26639</DatabaseID>
+    <Title>Fighting Street</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Fighting</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Fantastic Night Dreams - Cotton (USA) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:16.3061424-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:16.3061424-05:00</DateModified>
+    <Developer>Hudson Soft</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>2371e16b-06c6-4750-8298-ab4ed5be25aa</ID>
+    <Notes>The young witch Cotton sets out on her magical broom on a quest to get her favorite candy. Fortunately for us her obsession gets her in the way of several world-threatening terrors that she must destroy in standard shooter fare.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>Success</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1993-01-01T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.0555553</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>18</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>9989</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Cotton:_Fantastic_Night_Dreams</WikipediaURL>
+    <Title>Fantastic Night Dreams: Cotton</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Mysterious Song (USA) (En,Fr,Es) (Unl) (Rerelease) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:22.6584918-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:22.6584918-05:00</DateModified>
+    <Developer>Darkness Ethereal</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>c1c65ed5-1aa1-41f0-9865-01db0b853ad8</ID>
+    <Notes>Mysterious Song is an RPG strongly influenced by the style of the early Final Fantasy games. Your character is a knight, sent by the king to investigate the trouble arising in the land, with the help of two other party members whom you pick up as you travel. The combat is turn-based, with a very simple magic system based on spell points. One party member is a mage, one specializes in physical combat, and your main character is a mix. There is no class selection, only leveling up.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>Darkness Ethereal</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2014-09-11T03:00:00-04:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>157783</DatabaseID>
+    <Title>Mysterious Song</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA) (En,Fr,Es) (Unl) (Rerelease)</Version>
+    <PlayMode />
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Homebrew</ReleaseType>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Ys Book I &amp; II (USA) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:27.3658987-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:27.3658987-05:00</DateModified>
+    <Developer>Nihon Falcom</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>11c262b5-5538-4590-b719-0ad0478fcd42</ID>
+    <Notes>Journey through the Ancient Land of Ys, a once peaceful and prosperous country suddenly thrust deep into an empty abyss of isolation. The secret to restoring peace rests in the six books of the wise priests. 700 years have passed, and now you have a chance to unlock the mystery. Stunning graphics, intense stereo sound and profound gameplay make this a CD adventure you'll never forget ... and may never return from.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>Hudson Soft</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1989-01-01T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.9444444</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>18</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>5686</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Ys_I_%26_II</WikipediaURL>
+    <Title>Ys Book I &amp; II</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Hypernova Blast (USA) (Unl) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:18.4159637-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:18.4159637-05:00</DateModified>
+    <Developer>MindRec</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>5fa68f97-8ec8-422f-b7e6-e306bba5a097</ID>
+    <Notes>Hypernova Blast is the follow up PCEngine release from Mindrec's 2004 release Meteor Blaster DX. Hypernova Blast is a re-imagining of the classic Nova Blast (ColecoVision, 1983) game.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>MindRec</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2014-01-01T00:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>169231</DatabaseID>
+    <Title>Hypernova Blast</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA) (Unl)</Version>
+    <PlayMode>Cooperative; Multiplayer</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Unlicensed</ReleaseType>
+    <MaxPlayers>5</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Meteor Blaster DX (USA) (Unl) (Rerelease) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:21.7479773-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:21.7479773-05:00</DateModified>
+    <Developer>MindRec</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>359e67c6-6d3d-4e32-81f9-d477041a82b4</ID>
+    <Notes>Meteor Blaster DX is a homebrew Asteroids variant. The player controls a spaceship navigated by an astronaut named Stryker, who is sent on a mission to destroy dangerous asteroids in space. There are four different ships to choose from, each with different power and speed ratings. The player can move the ship and rotate its cannon to shoot asteroids. Big and medium asteroids split in two when shot, and only when they are small they can be fully destroyed. A stage is completed when all the asteroids have been eliminated. All the stages take place on the same screen, but feature different enemies and difficulty level. 
+
+The DX version is a physical release of a previous download-only version, and includes hostile UFOs that shoot at the player-controlled ship, boss battles, CD audio soundtrack, and power-ups that temporarily grant shields and other bonuses.
+
+Also included on the CD is a timed mode ("Caravan Mode") of Implode, as well as the puzzle game Loop, which was previously only released in emulator-only downloadable format and requires the player to rotate and construct loops out of pipe pieces that gradually fill up the screen, making them disappear.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>MindRec</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2004-01-01T00:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>155545</DatabaseID>
+    <WikipediaURL>http://www.pcengine.co.uk/HTML_Homebrew/Meteor_Blaster.htm</WikipediaURL>
+    <Title>Meteor Blaster DX</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA) (Unl) (Rerelease)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Homebrew</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Might and Magic III - Isles of Terra (USA) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:22.0489722-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:22.0489722-05:00</DateModified>
+    <Developer>New World Computing</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>0813e19f-ffc5-4f9b-bb4d-38e47537f5df</ID>
+    <Notes>Emerging from the depths of the nebulous void, there came four lords. To each lord, a dominion: fire, water, air, and earth. But each lord lusted for more - to be the ultimate ruler of the void. The four lords of the elements descended into a hideous conflict that unleashed a raging storm.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>Hudson Soft</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1993-01-01T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.5555556</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>9</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>10002</DatabaseID>
+    <WikipediaURL>http://www.pcengine.co.uk/HTML_Games/Might_and_Magic_3.htm</WikipediaURL>
+    <Title>Might and Magic III: Isles of Terra</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Buster Bros. (USA) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:13.6244679-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:13.6244679-05:00</DateModified>
+    <Developer>Mitchell Corporation</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>2c6b3003-b0a9-4d56-9f28-516683fe3722</ID>
+    <Notes>Your goal is to destroy the balloons which bounce around the playfield. To accomplish this, you can shoot hooks which travel upwards, and blow up any balloon they touch. Depending on their size, they either split on two smaller ones, or evaporate if they're at their minimum size. Apart from balloons, some levels also have barriers that have to be destroyed with your hooks, since they often block your access to balloons. There are also some barriers which cannot ever be destroyed. Your character has the ability to climb ladders, but cannot jump.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>Hudson Soft</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1991-05-31T03:00:00-04:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.3666666</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>15</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>9987</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Pang_(video_game)</WikipediaURL>
+    <Title>Buster Bros.</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <PlayMode>Cooperative; Multiplayer</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Action;Platform</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=yAixTe_XKHg</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Magical Dinosaur Tour (USA) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:21.4385569-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:21.4385569-05:00</DateModified>
+    <Developer>Victor Entertainment</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>97323e0e-c85f-4948-aedc-15707b57ce46</ID>
+    <Notes>You're exploring a primeval forest over 100 million years ago. Suddenly, the mighty Tyrannosaurus appears! With a push of a button, you bring him to life! The magic of TurboGrafx-CD brings the exciting world of dinosaurs into your home. Move through 20 prehistoric panoramas and watch creatures spring into action as they search for food and struggle for survival. Sort through hundreds of the mighty beasts and see what may have led to their ultimate extinction.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>NEC Home Electronics</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1990-08-24T03:00:00-04:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.5</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>9</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>34132</DatabaseID>
+    <Title>Magical Dinosaur Tour</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Education</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Cosmic Fantasy 2 (USA) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:14.2121164-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:14.2121164-05:00</DateModified>
+    <Developer>Telenet Japan</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>e08961fd-4fac-4731-8a8f-514b75c1d797</ID>
+    <Notes>Van is a young boy who lives on the planet Idea, a place where technology has not yet reached a high level. One day his sweetheart Laura gets kidnapped by an unknown villain. Van soon discovers that Laura possesses mysterious powers that may grant immortality to the one who marries her. That is exactly what the evil wizard Galam has in mind. Van sets off to rescue Laura, on a quest that involves intergalactic journeys and travel through time.
+
+Cosmic Fantasy 2 is a sequel to Cosmic Fantasy: Bōken Shōnen Yuu, and the only installment in the series to have been released in the West. Though initially not directly related to its predecessor story-wise, the game features several common characters and themes.
+
+Like the previous game, it is a Japanese-style RPG set in a mixed sci-fi and medieval world. The game has random enemy encounters and simple turn-based combat mechanics. Player-controlled characters can learn and use various offensive and healing spells; however, enemies are restricted to physical attacks. Characters join and leave the party frequently, as dictated by the plot; the party may contain up to four active combatants. Story progression and overworld exploration is linear; dungeons are usually fairly complex and maze-like. Full-screen anime-style cutscenes with voice-overs advance the story of the game.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>Working Designs</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1992-01-01T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.3125</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>8</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>9988</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Cosmic_Fantasy_2</WikipediaURL>
+    <Title>Cosmic Fantasy 2</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Pyramid Plunder (USA) (Unl) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:23.2421124-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:23.2421124-05:00</DateModified>
+    <Developer>Aetherbyte</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>b01f089c-18ec-490c-b90b-7dada473b89b</ID>
+    <Notes>Pyramid Plunder is an Action game, developed and published by Aetherbyte, which was released in 2013.
+
+Lootin’ Larry is on a quest to get rich from the pyramids of ancient Egypt. The creatures lurking within these pyramids are not too happy with Larry, and don’t intend to let their rare artifacts be stolen so easily! Will Larry succeed in plundering the pyramids of all of their valuables? Or will he become as lost as the civilizations that left these relics behind?
+
+Pyramid Plunder is an exciting variation on the Pac-Man theme, featuring:
+Large, scrolling mazes
+A variety of power-up items
+Genuine chip generated soundtrack 
+In-game radar
+Dash button for a quick getaway
+Impressive end of level illustrations
+Choice of difficulty
+30 levels of exciting action 
+6 different areas to pillage</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>Aetherbyte</Publisher>
+    <ReleaseDate>2013-03-03T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>163769</DatabaseID>
+    <Title>Pyramid Plunder</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA) (Unl)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Action</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType />
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=a4vY9INWM_c</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Addams Family, The (USA) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:19:47.8136434-05:00</DateAdded>
+    <DateModified>2020-12-26T15:19:47.8136434-05:00</DateModified>
+    <Developer>ICOM Simulations, Inc.</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>bb2180af-bb59-4562-bd9e-cf92ba6f1382</ID>
+    <Notes>Based on the Addams Family movie, this game is quite different from the other Addams Family variants. The player is cast in the role of Tully Alford, the crooked lawyer of the Addams family. He finds out that somewhere in the family mansion, a great treasure is stored in a vault. He decides to venture into the mansion and retrieve the treasure. Naturally, this is going to be anything but easy, as the insane Addams family members and a legion of ghosts and monsters are there to make sure the lawyer fails...
+
+Like most other Addams Family incarnations, this is a side-scrolling action game. Tully Alford's only weapon is an umbrella that fires energy shots at enemies. Tully can also jump and duck to avoid enemy blows. The game world consists of a "hub" area, the hall of Addams Family mansion, and many rooms, most of which are locked in the beginning of the game. The gameplay consists mainly of exploring the accessible rooms and collecting keys that are needed to open other doors in the process. Some of the rooms contain treasure and power-ups, while others are infested by monsters or require the player to defeat a boss enemy in order to advance.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>NEC Technologies, Inc.</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1991-01-01T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>1.875</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>8</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>9986</DatabaseID>
+    <Title>The Addams Family</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Action;Platform</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Dragon Slayer - The Legend of Heroes (USA) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:14.5130425-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:14.5130425-05:00</DateModified>
+    <Developer>Nihon Falcom</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>71e6428b-a902-4e62-8421-c726c90966a8</ID>
+    <Notes>In this epic role-playing game, you must guide Prince Logan all accross the beautiful and dngerious world of Isrenasa in the quest to regain his throne. This game features a huge world to explore and many companions to join you on your journey. This game features one of the largest quests and most advanced interface of any role-playing game for the TurboDuo system.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>Turbo Technologies, Inc.</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1991-01-01T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.090909</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>11</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>5665</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Dragon_Slayer:_The_Legend_of_Heroes</WikipediaURL>
+    <Title>Dragon Slayer: The Legend of Heroes</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Godzilla (USA) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:18.1102953-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:18.1102953-05:00</DateModified>
+    <Developer>Hudson Soft Company, Ltd.</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>3f0a1b36-105d-4ee4-a7e9-5a2de9937d1c</ID>
+    <Notes>This interpretation of the famous giant monster from the Japanese cinematic industry takes form of a fighting game, only instead of the usual brave martial artists the players control horrifying monsters from the traditional  Toho lineage: the titular beast itself, Rodan, Anguirus, Ghidorah, and others. The game has two modes: Normal and Vs. The latter is essentially a two-player mode, which allows the players to engage in giant monster battles in a variety of scenarios. Most of the monsters, however, are locked in the Vs. mode before the player has completed the Normal mode.
+
+The Normal mode puts the player in control of Godzilla, who has to go through five stages before reaching the final boss. Each stage has two battles against two different creatures in two different locations, from which the player has to complete only one in order to proceed to the next stage. Depending on the player's performance, points are awarded; in order to be able to compete against different final bosses, the player has to accumulate more points. If the player only has the minimum required points, only one final boss will be available.
+
+The combat system is similar to other fighting games, with various combinations of buttons executing different moves. Naturally, the normal "punch-kick" scheme is modified to suit the monsters' shapes and biological peculiarities. For example, monsters with tails can use tail spin attacks; fire-breathing monsters have a range fire attack, etc. Most of the monsters (including Godzilla) have a move when they hold the opponent and suck its blood.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>Toho Co.,Ltd.</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1993-02-26T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.4230769</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>13</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>18848</DatabaseID>
+    <Title>Godzilla</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Fighting</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Insanity (USA) (Unl) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:19.0305967-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:19.0305967-05:00</DateModified>
+    <Developer>Aetherbyte</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>021fa4aa-82e6-480e-9fba-b65e78aeaf52</ID>
+    <Notes>Imprisoned by an army of robots on a giant space station, you know there's only one thing you can do - blast your way out. That pretty much sums up the plot of Insanity, the first PC Engine game from homebrew developers Aetherbyte Studios. Insanity is essentially a clone of the classic arcade game Berzerk and retains the straightforward gameplay of the original. You run around the flip-screen play area (whose map layout is randomly generated from a selection of master templates) shooting the robots that are out to get you. The robots are pretty dumb to begin with and often blow themselves up by wandering into the electrified walls, but as you progress they get a little faster and a lot more aggressive, making anticipation and dodging of lasers key skills. The action is accompanied by a selection of retro styled music tracks, giving you the option of CD music or chip generated versions of the same tunes.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>Aetherbyte</Publisher>
+    <ReleaseDate>2009-10-24T03:00:00-04:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>1</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>164733</DatabaseID>
+    <Title>Insanity</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA) (Unl)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Action</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Homebrew</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Gate of Thunder + Bonk's Adventure + Bonk's Revenge (USA) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:17.797917-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:17.797917-05:00</DateModified>
+    <Developer>Turbo Technologies, Inc.</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>07297ea4-05ee-47cd-9913-f8175196e2b2</ID>
+    <Notes>This compilation disc was packed in with the TurboDuo in North America, giving buyers easy access to Bonk's Adventure, Bonk's Revenge, Bomberman, and Gate of Thunder.Despite appearing to contain only three games, Bomberman can be accessed by pressing Up, Right, Down, Left, II at the game select menu.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>Turbo Technologies, Inc.</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1992-10-10T03:00:00-04:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.8333333</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>15</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>18851</DatabaseID>
+    <Title>4 In 1 Super CD</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Adventure;Platform;Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType />
+    <MaxPlayers>4</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\John Madden Duo CD Football (USA) (RE) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:19.9363946-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:19.9363946-05:00</DateModified>
+    <Developer>Hudson Soft</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>afce49f8-d416-41c5-b0df-8f0f1f632da6</ID>
+    <Notes>The first and only Madden game to appear on the TurboGrafx, it features the standard game modes such as exhibition and season and features full-motion video of plays, fans and many other important events happening on and off the field. It also features digitized voices of the quarterbacks, referees and fans, but the most important being the games namesake, John Madden, who lends his voice talent to the game.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>Hudson Soft</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1993-01-01T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.25</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>2</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>9997</DatabaseID>
+    <Title>John Madden: Duo CD Football</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA) (RE)</Version>
+    <PlayMode>Cooperative; Multiplayer</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Sports</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=ZYrzRU7C5vc</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Final Zone II (USA) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:16.9065569-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:16.9065569-05:00</DateModified>
+    <Developer>Renovation Game</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>2f711381-b851-4ea6-9a8a-fa91c95349ae</ID>
+    <Notes>Final Zone II is a top down shooter in which you controls a soldier on some levels and vehicle on other levels. As a soldier you don a "New Age Power Suit" and have a choice of playing several different characters, though it is only a one player game.
+
+The object of the game is to fight an enemy army led by "ZOD" who is a mass murderer and killed some of your commando friends. There are various armaments and shields that you can pick up along the way. There are several manga-style animation sequences in the game.
+
+This is the sequel to a Mega Drive game called Final Zone which was released in 1990 also.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>NEC Avenue</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1990-01-01T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.8636363</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>11</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>9993</DatabaseID>
+    <Title>Final Zone II</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Action</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=KowcMlUFaDg</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Dungeon Explorer II (USA) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:14.8049091-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:14.8049091-05:00</DateModified>
+    <Developer>Hudson Soft</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>f40c2e77-03ed-4ba9-83ed-9a35d9ddaceb</ID>
+    <Notes>This CD sequel to Dungeon Explorer plays exactly the same as the first game. You chose your character from a variety of fantasy stereotypes and set forth in a Gauntlet-esque adventure. The CD format allows a greater quantity and variety of levels to compliment the storyline, with new areas and characters becoming open to you as you progress.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>Hudson Soft</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1993-03-26T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.8214285</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>14</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>5668</DatabaseID>
+    <WikipediaURL>https://es.wikipedia.org/wiki/Dungeon_Explorer_II</WikipediaURL>
+    <Title>Dungeon Explorer II</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Action;Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>5</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Valis II (USA) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:26.4933541-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:26.4933541-05:00</DateModified>
+    <Developer>Shin-Nihon Laser Soft Co., Ltd.</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>694bfac5-add7-432a-b1d8-4d6c5c3885ff</ID>
+    <Notes>Mugen senshi Valis II (夢幻戦士ヴァリスⅡ, Mugen Senshi Varisu ni), Also known as Valis II, is the second main game from the Valis series. The game tells the events that happen after the first Valis game, revealing more reasons about why Yuuko was choosen to fight for the three worlds.
+Story
+Some time after the death of Rogles and Yuuko returned to her home in the human world, Vanity is tormented once again by a war between the new candidate to the dark world throne, Megas, Rogles's younger brother; and the resistance formed by the survivor soldiers from Rogles's army. For that reason, Reiko (already dead) appears as an illusion to tell Yuuko to go to the mentioned world and then to inform her about Megas. As result of the war, the human world becomes endangered as Yuuko fights against Rogles generals who want the power of the Valis sword to end with Megas's menace. After beating them, Yuuko goes to Valia's castle only to fight Megas's Army and a dead Valia who was apparently killed by Megas himself. In the mid of the dramatic situation, after this, the servants of the castle tell Yuuko that she is one of Valia's daughters and that her younger sister, Valna, lived in the castle with Valia while Yuuko was send to the human world. Seeing the gravity of the situation, they give Yuuko a new sword and armor: the Leethus sword and the Leethus armor. She goes to Megas's domains fighting more of his generals to finally infiltrate in his technologic tower base and reaches the emperor.
+
+After his defeat, Megas tells Yuuko that he, contrary to Rogles's resistance, wanted to destroy the Valis sword because he was afraid that its power would make him fall like it did with his brother Rogles. He starts to relate the story of how he became the dark emperor is. He was going to inherit the darkworld throne long ago from the hands of his father, Kaiza. But Rogles got jealous and made a scheme to kill Megas so he could became the darkworld's next king. Megas survived but had to repleace many of his body parts with machinery. Later he discovered that the one behind that conspiracy wasn't Rogles but Kaiza himself who, when discovered by Megas, banished him to a dimensional abyss from where he remained a long time growing a hatreness for his brother and his father. That's why he wanted to finish Rogles army's remains and dominate Vecanti.
+
+After Megas dies in her hands, Yuuko goes to Vecanti once again to be sure that her sister is safe and then returns to the human world once again, not before knowing that Valna is decided to fight by her side from there on.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>Telenet Japan Co., Ltd.</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1990-01-01T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.9583333</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>12</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>10010</DatabaseID>
+    <Title>Valis II</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Action;Platform</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=If7G441oQ78</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Splash Lake (USA) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:25.6287287-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:25.6287287-05:00</DateModified>
+    <Developer>Bits Laboratory</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>d34106a0-1c44-42c8-8111-d111276b2a3b</ID>
+    <Notes>Splash Lake is an action-puzzle game for the TurboGrafx-CD and PC Engine CD-ROM. The player is an ostrich named Ozzie and must walk around a grid, pecking at certain lynchpin areas of the ground in order to collapse parts of the level into the ocean. The goal is to remove all enemies by dropping the ground they're walking on. It is structurally similar to Dig Dug 2.
+
+The game has a multiplayer mode, which allows two players to try to outmaneuver and out-think each other.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>Turbo Technologies, Inc.</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1991-06-28T03:00:00-04:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.125</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>8</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>10008</DatabaseID>
+    <Title>Splash Lake</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Action;Strategy</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Prince of Persia (USA) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:22.9621491-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:22.9621491-05:00</DateModified>
+    <Developer>Riverhillsoft</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>875eb71b-27fa-47e9-a10f-5d1232f4fdbc</ID>
+    <Notes>The Grand Vizier Jaffar has thrown you into a dark dungeon and plans to marry the girl of your dreams in an hour. You're not going to let that happen are you? Try to escape from the dungeon, take out Jaffar's guards, find your way through the Sultan's palace and defeat Jaffar himself. Now go, you've got 60 minutes! Prince of Persia is a 2D platformer with run and jump gameplay. Your hero must avoid deadly traps, solve some simple puzzles and engage in sword fights with the guards. The player has an infinite amount of lives, but has to restart at the beginning of a level each time he dies, and must complete the game within an hour. An especially noteworthy aspect of the game is the very fluent animation of your character.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>Riverhillsoft</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1992-01-01T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.375</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>8</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>10003</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Prince_of_Persia_(1989_video_game</WikipediaURL>
+    <Title>Prince of Persia</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Platform</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Lords of the Rising Sun (USA) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:20.8575413-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:20.8575413-05:00</DateModified>
+    <Developer>Cinemaware Corporation</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>984ca97f-3a68-4070-808f-603afb9334a3</ID>
+    <Notes>Japan, 12th century. After your father has been murdered, you set out on a quest to become Shogun to restore the honor of your family.
+
+You'll have to defeat all your enemies - including your brother.
+
+Most of the time, you'll move your troops through the big map of Japan - as soon as something happens, you'll have to fight your enemies in action sequences, such as a Gauntlet-like fortress attack or defending against a Ninja assassin. If two troops collide, a battle might ensue in which you'll have to use all your strategical wits to guide your men to victory.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>NEC Technologies, Inc.</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1992-01-01T00:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>1.1666666</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>6</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>10000</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Lords_of_the_Rising_Sun</WikipediaURL>
+    <Title>Lords of the Rising Sun</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Action;Strategy</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=5scKSiMupeM</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\J. B. Harold Murder Club (USA) (En,Ja) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:19.6265679-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:19.6265679-05:00</DateModified>
+    <Developer>River Hill Software</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>4e82494d-aea6-4d8c-82e7-b515a250d030</ID>
+    <Notes>J.B. Harold Murder Club is an adventure game with simulation elements. The player controls the private detective J.B. Harold, who must investigate the murder of a wealthy businessman named Bill Robbins and bring the murderer to court. The player has to do all the work a real detective would do: find clues, gather evidence, interrogate suspects, establish the motive for the crime — and in the end, make sure the case will stand up in the court.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>Hudson Soft</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1991-01-01T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>1.5714285</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>7</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>9996</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/J.B._Harold_Murder_Club</WikipediaURL>
+    <Title>J.B. Harold Murder Club</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA) (En,Ja)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Adventure</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=DtQIHw_arxs</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Sherlock Holmes - Consulting Detective (USA) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:24.7242754-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:24.7242754-05:00</DateModified>
+    <Developer>ICOM Simulations</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>837b7ab0-8fe9-479b-bc98-a17b0dd1e62c</ID>
+    <Notes>Sherlock Holmes: Consulting Detective can be described as a hybrid of adventure game and simulation. Gameplay process involves traveling to various locations in London, interrogating suspects, gathering clues, checking out the newspapers, and eventually presenting all the evidence to the judge; if the latter finds the circumstances incriminating, he will accept the results of the investigation, and the case will be considered solved. Though the basic gameplay is rather typical for adventure games, the amount of real detective work and the focus of the game on purely case-related actions rather than exploration and manipulation of items makes it comparable to a simulation of a criminal investigation.
+
+The game is notable for being one of the earliest "multimedia" titles, having been released on a CD ROM and featuring rather long (though windowed) video sequences with live actors as introductions and cutscenes, which frequently occur when the heroes investigate suspects.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>Victor Entertainment</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1991-01-01T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>1.875</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>4</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>10006</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Sherlock_Holmes:_Consulting_Detective</WikipediaURL>
+    <Title>Sherlock Holmes: Consulting Detective</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Adventure;Strategy</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=3DlSplE-CLk</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Last Alert (USA) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:20.2475934-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:20.2475934-05:00</DateModified>
+    <Developer>Shin-Nihon Laser Soft</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>523c9b66-0cf9-4f98-acfb-09f7a8e5513b</ID>
+    <Notes>In the near future, a cabal of 4 very evil, powerful men known as The Force is planning world domination through the use of a Super Weapon known and Indra. You are Guy Kazama, a general-purpose bad-ass soldier who can stop these guys. You must take out each of the conspirators one by one and destroy the Indra before it becomes fully operational.
+
+Players play as Guy Kazama and are sent out on multiple missions to fight the Force Project, an evil terrorist organization bent on ruling the world. As players rack up kills, experience points are earned that increase Kazama's rank.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>NEC</Publisher>
+    <ReleaseDate>1990-01-01T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.5666666</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>15</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>9998</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Last_Alert</WikipediaURL>
+    <Title>Last Alert</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=XaxQJ1fXDdI</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Implode (USA) (Unl) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:18.7232531-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:18.7232531-05:00</DateModified>
+    <Developer>MindRec</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>777d9b44-ebf3-4d46-9af1-c9643a2ed72d</ID>
+    <Notes>Implode is a homebrew puzzle game. It plays like a falling block puzzle in all respects, with the exception of the fact that the blocks appear from below instead of falling. All the blocks have the same shape and are only distinguished by their color. The player must selects groups of three or more identically colored blocks in order to make them disappear. The goal is to not let the blocks stack up and pass the upper border of the screen. Bombs would sometimes appear and clear out adjacent blocks if the player selects them. The game gradually advances to higher difficulty levels, with more colors and faster speed.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>MindRec</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2002-01-01T00:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0.6</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>5</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>34131</DatabaseID>
+    <Title>Implode</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA) (Unl)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Action;Puzzle;Strategy</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Homebrew</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=DobXcgBhsT8</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Monster Lair (USA) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:22.3609839-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:22.3609839-05:00</DateModified>
+    <Developer>Westone</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>ecf1a628-b91c-47de-9430-ead86e4c8d9c</ID>
+    <Notes>Wonder Boy III: Monster Lair is a quite different game to most of the games in the Wonder Boy series. You play a green-haired dude who must attack the invaders that attempt to collect weapons and use them to destroy the land. The game starts out like a simple platform game, but it's just when Wonder Boy enters the skull further on that the game is transformed into a shoot 'em up, so basically the gameplay consists of action and shooter scenes.
+
+In the action scenes, your vitality decreases as you make your way towards the skull, but this can be restored by collecting fruit. A wide variety of weapons can be picked up, and not only does these allow you to use the weapons for a limited amount of time, but they also increase your vitality. 
+
+In the shooter scenes, you ride your pink friend as you make your way through the scene. Here, your vitality remains static unless you are hit by an enemy passing by. As usual, there is a boss waiting for you at the end which you must defeat. Every boss changes color to show how much damage has been done to it. You have to defeat some bosses in two stages.
+
+If your vitality gets low in each scene, you'll lose a life. You can also choose to have Wonder Girl join you, as two players can play the game.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>NEC Home Electronics (U.S.A.) Inc.</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1989-08-01T03:00:00-04:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.15</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>10</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>18849</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Wonder_Boy_III:_Monster_Lair</WikipediaURL>
+    <Title>Monster Lair</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Adventure</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=CQNmhrdAwuU</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Shadow of the Beast (USA) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:24.1331623-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:24.1331623-05:00</DateModified>
+    <Developer>Gremlin Graphics</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>f7bc0bfd-ea3a-4c9d-b34d-14c945de7d08</ID>
+    <Notes>Shadow of the Beast is a 2D Platformer game, developed by DMA Design and published by Victor Interactive Software, which was released in 1992.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>Psygnosis</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1992-01-01T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.1666667</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>12</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>5681</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Shadow_of_the_Beast</WikipediaURL>
+    <Title>Shadow of the Beast</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Action</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=SCER25vx49k</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Dungeon Master - Theron's Quest (USA) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:15.109191-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:15.109191-05:00</DateModified>
+    <Developer>Victor Entertainment</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>e7692e3d-9bb9-41c6-8ccc-b8b1874eebe7</ID>
+    <Notes>Terrifyingly brutal beasts! Monstrous mazes! Treacherous pits of evil! The adventure of a lifetime is here....Theron's Quest!!
+
+The Monastery at Ya-Brodin has fallen to the Cult of Deaths and the Brotherhood of Enlightenment, the true keepers of Magic, have been slaughtered. The Seven Great Treasures now lie in the hands of foul beings who will stop at nothing to hold onto their massive powers. But Theron, with a courage beyond belief, has decided to seek out the Cult of Deaths and win back the Treasures. If he succeeds, he will become a High Lord. If not, the land will see eternal darkness.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>Turbo Technologies, Inc.</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1993-01-01T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.125</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>12</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>9990</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Dungeon_Master:_Theron's_Quest</WikipediaURL>
+    <Title>Dungeon Master: Theron's Quest</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Super Air Zonk - Rockabilly-Paradise (USA) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:25.9122708-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:25.9122708-05:00</DateModified>
+    <Developer>Dual</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>4b858a78-2b1b-4554-a19d-7f4556b8a868</ID>
+    <Notes>Super Air Zonk: Rockabilly-Paradise, released in Japan as PC Genjin Series: CD Denjin: Rockabilly Tengoku is a horizontal scrolling shooter developed by Dual and published by Hudson Soft. It was released for the TurboGrafx-CD/TurboDuo in 1993, and was released on the Wii's Virtual Console on November 19, 2007 in North America.
+Super Air Zonk is the sequel to the 1992 game Air Zonk, both of which are part of the Bonk series of games. As a sequel, Super Air Zonk contains all new levels, assistants, and enemies, as well as a Red Book CD audio soundtrack consisting of rockabilly music. While the original Air Zonk relied heavily on multi-layer parallax scrolling, Super Air Zonk features mostly single plane backgrounds with a few exceptions.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>Hudson Soft</Publisher>
+    <ReleaseDate>1993-07-30T03:00:00-04:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.7631578</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>19</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>10009</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Super_Air_Zonk:_Rockabilly-Paradise</WikipediaURL>
+    <Title>Super Air Zonk</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Shape Shifter (USA) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:24.4231988-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:24.4231988-05:00</DateModified>
+    <Developer>ICOM Simulations, Inc.</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>69a912ff-e0b9-41f3-b602-6e9a95de163e</ID>
+    <Notes>The Dark Ones have captured the Ring of Five and imprisoned the wizards that guard it. A barbarian named Lykos has the power to transform into different creatures. He needs to rescue the wizards and the Ring of Five from the Dark Ones before they invade his home, Krellion.
+
+Shape Shifter is a side-scrolling action game with platforming and light role-playing elements. Much of the game consists of traversing hostile areas, fighting regular enemies on the way and defeating bosses. The game's "hub" area is a town where Lykos can replenish his health and buy any of the three available weapons (axe, mace, or bow) (tg16cd). These weapons can be upgraded by enchanting them or picking up power-ups.
+
+After Lykos rescues a wizard he gains access to a transformation power. Transformations require special gems and cannot be performed if Lykos runs out of them. There are four transformations in the game: the panther can jump over large gaps; the shark can swim; the golem can jump higher; and the golden dragon can fly. Each of these forms can also collect power-ups that unlocks a few other attack abilities.
+
+The game's stages are interconnected, but usually a new form must be acquired before Lykos can access a new area. Lykos has eight lives consisting of smaller health units (hearts) (tg16cd). The game can only be saved in the town.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>Turbo Technologies, Inc.</Publisher>
+    <Rating>T - Teen</Rating>
+    <ReleaseDate>1992-09-29T03:00:00-04:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.75</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>4</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>10005</DatabaseID>
+    <Title>Shape Shifter</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Action;Platform</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=291WttQlslI</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Exile (USA) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:15.7184379-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:15.7184379-05:00</DateModified>
+    <Developer>Telenet</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>c153a9a5-50ab-48f0-b947-e9bda3ce01ce</ID>
+    <Notes>Become Sadler the desert warrior as he travels the known world in search of the precious Holimax! Join forces with Rumi, Kindi, and Fakhyle to piece together the puzzle that will allow you to find the Holimax and use it to overthrow the ruthless Klispin Crusaders! But keep your cool! In this quest, you'll have to trudge through waist deep snow, jump through haunted forests, plan a jailbreak, slink through creepy towers, and defeat terrifying monsters if you're going to get anywhere! Hurry! There is only one Holimax, and the enemy forces are closing in!</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>Working Designs</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1992-01-01T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.3333333</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>12</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>9992</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Exile_(1988_video_game_series)</WikipediaURL>
+    <Title>Exile</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\SydMead's TerraForming (USA) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:26.197215-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:26.197215-05:00</DateModified>
+    <Developer>Right Stuff Corp.</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>e71d3ce6-ee3f-4249-9941-94b1382fffc4</ID>
+    <Notes>In Terraforming, the human race has fled into the depths of space after Earth has become uninhabitable. As a result, they travel from planet to planet in an attempt to find a planet suitable enough to terraform into a new Earth. Along the way they encounter alien races which they must destroy in an attempt to survive and continue the human race.
+
+The gameplay is a basic side-scrolling shooter, shooting down enemy space ships, picking up power-ups and health icons and upgrading main and secondary weapons along with the obligatory huge stage bosses. The most notable feature of the game is the work done by Syd Mead, a special effects artist for such films as Star Trek: The Motion Picture, Blade Runner, Aliens, 2010 and as recent as Mission Impossible III.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>Turbo Technologies, Inc.</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1993-01-01T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>4</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>13877</DatabaseID>
+    <Title>Syd Mead's Terraforming</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=egwO7rn3OQM</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Valis III (USA) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:26.7708419-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:26.7708419-05:00</DateModified>
+    <Developer>Shin-Nihon Laser Soft Co., Ltd.</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>82f6945b-4d44-4cea-9838-3239641eaea6</ID>
+    <Notes>Mugen senshi Valis III (夢幻戦士ヴァリス''Ⅲ, Mugen Senshi Varisu suri), also known as Valis III, is the third game installment of the Valis series. The game shows Yuuko's new adventure along her new companions: Valna and Cham.
+Story
+Long time passed since Yuuko's last battle. Yuuko's life seems peaceful but, meanwhile, the Dark world starts to get menaced to become disappeared in the void. So Its king, Glames, decides to take other worlds by force in order to keep the inhabitants from his world alive. But some of the dark world people oppose to the idea of using the force to take the worlds, so Glames starts to dispose them. As a consequence, a girl from the resistance of such world, Cham, decides to go to the human world and search for the Valis sword to use It against Glames who, in turn, posseses the counterpart of the Valis sword, the Leethus sword. After taking the sword, Cham tries to go back to the dark world but Yuuko stops her to find out why she wants her sword only to see the girl kidnapped by one of Glames's generals. After Yuuko beats him, Cham is freed an tells the Valis warrior about the situation and that Vanity is being invaded by Glames's army. Without wasting time, Yuuko and Cham make their ways to the dream world to see It in chaos due to the dark king's intromission as they find out that Valna has been also kidnapped by other of the generals. The heroines make their way to Valna and freed her. She then fights and beats her captor, then she says Yuuko to go to the temple where the widsom man, Nizetti, can give her the Valis armor's ultimate form unleashing all of Valis sword's power. Meanwhile, a strange figure allies with Glames. The three girls go there passing terrible tests and obstacles finally meeting with Nizetti who warns them that although having the sword's full power, Yuuko maybe won't win against Glames, but aside of all negative pronostics, she still decides to use the power. After doing so, they make their way to the dark world to confront Glames, not before getting onto the death world to find an awful surprise, the figure that allied with Glames reveals itself as Rogles, the antagonist from the first game who was supposed to be dead. He fights Yuuko and gets deffeated once again by her. The way continues as the protagonist fight Zalude and Asura. After his defeat, Asura reports them that Glames isn't on the dark world anymore and that he made his way into the human world showing that his generals were only making time for him to approach there. Yuuko and her allies part to the human world to find Glames's tower, they manage to get inside and Yuuko finally fights him. In the end, Glames expresses his last will to his opponents to maintain alive the dark world's inhabitants and to guard the Leethus sword, he dies minutes later. Yuuko then says to Cham and Valna to protect the survivors and goes to the sky with the two swords. She stays there guarding the two swords...apparently forever.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>NEC Home Electronics (U.S.A.) Inc.</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1992-01-01T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.0263157</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>19</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>10011</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Valis_III</WikipediaURL>
+    <Title>Valis III</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Action;Platform</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Sherlock Holmes - Consulting Detective - Volume 2 (USA) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:25.0269765-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:25.0269765-05:00</DateModified>
+    <Developer>ICOM Simulations</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>60646d84-790b-4a9a-94ed-bc800c5852c2</ID>
+    <Notes>The game uses live actors and sets as the player controls Sherlock Holmes and his longtime partner Dr. Watson, trying to solve three separate crimes by visiting various locations, listening to the dialogue, reading the included mock London newspapers, and, when the player gets enough evidence, answering the judge's questions.
+
+At the beginning of each case a full motion video clip depicts Holmes and Watson meeting a client and learning a few background clues about the case. Then the player must visit a particular location or person, read the London newspapers for clues or ask one of the young Baker Street Irregulars to investigate. The object of each case is to gather enough clues in the shortest time possible, then go before a judge who will then ask the player to answer the important questions about the case. If the player is successful, a full motion video clip will take the player back to Holmes' and Watson's study where they will review the events that transpired, and Dr. Watson will inform the player of his or her score, based on the length of time it took to solve the case.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>Victor Musical Industries</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1993-05-28T03:00:00-04:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>1.5</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>6</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>10007</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Sherlock_Holmes:_Consulting_Detective_Vol._II</WikipediaURL>
+    <Title>Sherlock Holmes: Consulting Detective Volume II</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Adventure</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=5mehj592DwI</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Vasteel (USA) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:27.0755393-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:27.0755393-05:00</DateModified>
+    <Developer>Human Entertainment</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>e72ec67a-3e5a-4e81-8985-9df6bb1ef13e</ID>
+    <Notes>The Emperor is dead. Now begins the bloodiest chapter in the history of the Vasteel solar system! Jump right into the action as you choose to play as either Falial, the newly crowned emperor, or his brother Stefan, leader of the rebel army. In addition to a first-of-it's-kind on-line guide that actually speaks to aid you in your weapon's choice, there are over 70 types of armored robots and transports to lead you to victory. Set up the battles on the overhead strategy map, then go in and duke out the actual fight arcade style! Vasteel also offers the option of a 2 player VS mode where you can match wits and arcade skill with a friend.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>Working Designs</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1993-01-01T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.6363637</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>11</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>10012</DatabaseID>
+    <Title>Vasteel</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Strategy</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Revival Chase (USA) (En,Fr) (Unl) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:23.5586835-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:23.5586835-05:00</DateModified>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>12bee946-a00b-4122-b803-2da7c21d1fdf</ID>
+    <Notes>Here's another indie/homebrew release for the TurboGrafx-CD (Super CD-ROM) (tg16cd).  This time it's a Lock 'n' Chase redux, where your mission is to steal money in order to purchase Revival magazine.  It's wacky, but damn is it fun.  If you enjoy classic arcade games like Pac-Man, this is one to check out.
+
+ReVIVAL CHASE is a Lock 'n Chase style game with 5-Player Turbo-Tap support PLUS two (2) additional SHMUP* shoot-em-up games: the new RT2A and the classic Ozma Wars!</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>163768</DatabaseID>
+    <Title>Revival Chase</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA) (En,Fr) (Unl)</Version>
+    <PlayMode />
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre />
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType />
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Bonk III - Bonk's Big Adventure (USA) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:13.309511-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:13.309511-05:00</DateModified>
+    <Developer>A.I Co., Ltd.</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>8c31d833-1dde-4a06-9a0f-fedfe5c0bb7b</ID>
+    <Notes>Bonk's Big Adventure is the third instalment in the side-scrolling platformer series. As in previous games, the player assumes the role of a caveman named Bonk who headbutts his way through various enemies in order to defeat King Drool. Familiar moves include swinging on trees, bouncing off walls, breaking blocks and climbing walls with his teeth. Compared to the previous games, he walks and moves a little faster.
+
+Bonk has the new ability to pick up red and blue candy power-ups that make him grow or shrink and grab a flower copter. As always, there is plenty of platforming and enemies to discover. The game consists of seven rounds, set in the Dinosaur Kingdom, finished off with a boss. At the end of each stage, 16 smileys can be exchanged to play up to eight different bonus stages (2 smileys per stage needed) (tg16cd). New level elements include ziplines and sewer pipes. The game also features a cooperative multiplayer mode.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>NEC Home Electronics</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1994-12-01T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.5</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>18</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>13876</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Bonk_3:_Bonk%27s_Big_Adventure</WikipediaURL>
+    <Title>Bonk 3: Bonk's Big Adventure</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <PlayMode>Cooperative; Multiplayer</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Action;Platform</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=6nuU-qYZC0M</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Riot Zone (USA) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:23.8589067-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:23.8589067-05:00</DateModified>
+    <Developer>Westone</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>109d1b5f-b79c-4977-aa89-81dbdb0d0ee5</ID>
+    <Notes>Riot Zone is a side-scrolling fighting game that follows two heroes as they fight to take down an evil organization. The crime syndicate Dragon Zone has kidnapped Hawk's girlfriend and it's up to him and his partner detective, Tony, to get her back. Join them as they jump "fists first" into the grim Kowloon district.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>Turbo Technologies, Inc.</Publisher>
+    <Rating>E10+ - Everyone 10+</Rating>
+    <ReleaseDate>1992-01-01T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.5416667</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>12</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>10004</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Riot_Zone</WikipediaURL>
+    <Title>Riot Zone</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Action;Beat 'em Up</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=xF9sk5fet_k</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Beyond Shadowgate (USA) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:13.0119364-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:13.0119364-05:00</DateModified>
+    <Developer>ICOM</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>b0492485-c4eb-453e-b5ca-e714876a9302</ID>
+    <Notes>As the last descendant in the "Line of Kings", Prince Erik is summoned home to regain his rightful place on his father's throne. But alas, Prince Erik is accused of his father's murder by the evil Royal Advisor Belezaar, and is thrown into the dungeon to be executed at dawn. Your mission and destiny are intertwined. Escape the dungeon and start your long journey toward the land deep within Castle Shadowgate. Your quest is to free the kingdom from the evil grips of the Warlock Lord. You will need to make good use of all the resources you can find throughout your journey. Evil abounds, and creatures great and small will try to defeat you! Use the good that comes of it because the Legend of Shadowgate rests in your hands!</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>Turbo Technologies, Inc.</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1993-04-23T03:00:00-04:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.4615386</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>13</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>5656</DatabaseID>
+    <Title>Beyond Shadowgate</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Adventure</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Camp California (USA) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:13.9065269-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:13.9065269-05:00</DateModified>
+    <Developer>ICOM Simulations</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>bbd904c6-0cb0-4394-9f61-adf6507e7def</ID>
+    <Notes>Early CD-ROM platfomer featuring real Beach Boys music for the TurboGrafx-CD. It is a partial follow up/spin-off of Yo' Bro, the skateboarding TG16 game which also used licensed Beach Boys music.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>Turbo Technologies, Inc.</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1993-01-01T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0.88461536</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>13</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>26651</DatabaseID>
+    <Title>Camp California</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Platform</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Exile - Wicked Phenomenon (USA) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:16.0173348-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:16.0173348-05:00</DateModified>
+    <Developer>Alfa System / Telenet Japan</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>bbfbf1a7-1d3b-460b-8516-69b20b512690</ID>
+    <Notes>The Age of Chaos is upon the Chaltar world! The source of this chaos is rumored to be at the heart of an ancient tower. Join Sadler, Rumi, Kindi, and Fakhyle as they begin a new quest: To learn the secret of the ancient tower and stop the madness spreading over the land. Choose from five different characters as you hack, slash, and bash your way through foreign lands, putrid pyramids, and deadly dungeons while enjoying intense cinema sequences along the way. Will Sadler be able to unlock the secret of the ancient tower and stop the insanity that is spreading throughout the land? Only you can decide that as you guide Sadler through this heart-stopping Action/RPG!</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>Working Designs</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1993-01-01T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.8888888</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>9</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>9991</DatabaseID>
+    <Title>Exile: Wicked Phenomenon</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=Eoa7tc3tRv8</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\It Came from the Desert (USA) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:19.3363345-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:19.3363345-05:00</DateModified>
+    <Developer>Cinemaware</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>1e515c89-33f6-4e3d-9de0-7384dad4ed61</ID>
+    <Notes>It Came from the Desert is a remake of the the original 1989 Amiga game of the same name, but with a vast amount of changes and improvements. The basic setting was kept identical. It is a mix of action and adventure elements, largely inspired from cult-horror B-Movies of the 50's and 60's, and the 1954 film Them in particular. The player plays the part of Dr. Greg Bradley, a geologist and the newest resident in town. Eager to satisfy his scientific mind, Bradley sets out to examine the crash-site of a mysterious meteor, but what he finds is not at all what he had been looking for.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>NEC</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1992-03-01T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.0714285</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>7</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>9958</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/It_Came_from_the_Desert</WikipediaURL>
+    <Title>It Came From The Desert</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Action;Adventure</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=9AvhQYj98xk</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Loom (USA) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:20.5550014-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:20.5550014-05:00</DateModified>
+    <Developer>LucasArts Entertainment Company LLC</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>a6e3976a-6561-475f-afb2-07d8df068a61</ID>
+    <Notes>Loom is an adventure game that sets itself apart from other titles in the genre through its unique gameplay system: the player character does not carry items around, but rather manipulates objects through the use of spells (called "drafts" in the game) (tg16cd). The drafts themselves are woven by playing magical notes on a special instrument called "distaff". All the puzzles in the game are solved by learning and correctly applying these drafts.
+
+Each draft is a sequence of four notes within one octave. The player learns new drafts by exploring the environment and interacting with it through a simple point-and-click interface. Once a draft has been learned, it may be applied in a different situation in order to solve a problem. Drafts range from simple general actions (such as opening) to more specific and complex commands, e.g. turning straw into gold. Drafts can also be "reversed", i.e. played backwards, in order to execute the opposite action (for example, closing something instead of opening) (tg16cd). As the game progresses Bobbin learns to play higher notes on the distaff, allowing him to access more drafts.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>Victor Musical Industries</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1992-09-25T03:00:00-04:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.7142856</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>7</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>9999</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Loom_(video_game)</WikipediaURL>
+    <Title>Loom</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Adventure</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=nCKoVLIxcHI</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Lords of Thunder (USA) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:21.1435313-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:21.1435313-05:00</DateModified>
+    <Developer>Red Entertainment</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>9065d95c-fc2d-4b20-8618-8c61981c4f88</ID>
+    <Notes>Lords of Thunder is a side-scrolling shooter that has you take on the role of a legendary warrior, blasting enemies to heavy-metal tunes. Your enemies are plotting to revive Zaggart, "The Dark One," who was sealed beneath the six continents of Mistral. It's up to Landis, descendant of the heroic Dyu, to stop them.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>Turbo Technologies, Inc.</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1993-01-01T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.659091</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>44</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>10001</DatabaseID>
+    <WikipediaURL>http://www.pcengine.co.uk/HTML_Games/Winds_of_Thunder.htm</WikipediaURL>
+    <Title>Lords of Thunder</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\SimEarth - The Living Planet (USA) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:25.3485686-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:25.3485686-05:00</DateModified>
+    <Developer>Maxis Software</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>713f7cc8-d86d-4872-9c8b-7df36355a398</ID>
+    <Notes>SimEarth puts you in charge of an entire planet throughout its 10 billion year lifespan. Your ultimate task is to guide the planet’s inhabitants into the stars, from its humble single-celled roots.
+
+The main threats you face include pollution, disease, famine, war and global warming. The controls available to you include the chance to move mountains and continents, creating different levels of species, and unleash tidal waves and earthquakes so as to reshape your planet. All of these things take from your limited energy, which must be replenished.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>Hudson Soft Company, Ltd.</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1993-01-14T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>1</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>1</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>13871</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/SimEarth</WikipediaURL>
+    <Title>SimEarth: The Living Planet</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Strategy</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=ovM4uwPnKYo</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Ys III - Wanderers from Ys (USA) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:27.6498515-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:27.6498515-05:00</DateModified>
+    <Developer>Nihon Falcom</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>fc0dd710-4222-4508-9d7e-859ee3bacba5</ID>
+    <Notes>As Adol, hero of Ys Book I &amp; II, your most fearsome new adventure is about to begin! The curse of the monster Demanicus terrorizes your friend Dogi's homeland. Chaos rules as blood-thirsty creatures threaten innocent lives. Only you have the courage and strength to defeat them! Gather your fiercest swords and deadly amulet to battle these horrific creatures with a thrilling new action view. Survive the fiery depths of Alcaino. Conquer the terrifying Nekevil. But stay alert, brave Adol! The fury of Demanicus awaits your final epic struggle!</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>Hudson Soft</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1991-01-01T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.3125</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>16</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>5687</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Ys_III:_Wanderers_from_Ys</WikipediaURL>
+    <Title>Ys III: Wanderers from Ys</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\FX Unit Yuki - The Henshin Engine (USA) (Unl) (Rerelease) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:17.4988802-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:17.4988802-05:00</DateModified>
+    <Developer>Eponasoft, SaruPro</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>30630da5-89f7-4caf-ba21-d4a7cdbaef5d</ID>
+    <Notes>Stop SG Corporation from hacking into the CJC video game!
+Take the role of the young Yuki Shirokawa, the new beta-steller of the JEC company. Transformed into an FX Unit Yuki when it approached the FX Engine too close, it is now able to get into the game and chase away the malware of SG Corp and its champion: Ultradrive Unit Geni. Go through the 8 different levels, mixing platform game and shoot'em up, taking care of the many traps, enemies and formidable bosses.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>SaruPro</Publisher>
+    <ReleaseDate>2018-01-01T00:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.5</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>1</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>168974</DatabaseID>
+    <Title>FX Unit Yuki: The Henshin Engine</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA) (Unl) (Rerelease)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Action</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://youtu.be/LPMgDT5u1jA?t=28</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\tg16cd\Dynastic Hero, The (USA) (tg16cd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-26T15:20:15.4044866-05:00</DateAdded>
+    <DateModified>2020-12-26T15:20:15.4044866-05:00</DateModified>
+    <Developer>Hudson Soft Company, Ltd.</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>851f6294-a249-4d43-964e-e414139e4144</ID>
+    <Notes>The Dynastic Hero is a slightly re-branded version of Wonder Boy in Monster World for the Turbo Duo.The game features palette-swapped visuals, new insect-themed graphics for main characters (and insects' natural predators as bosses), a Red Book audio soundtrack which is completely different from the Wonder Boy original, and anime-style cutscenes at the intro and ending. Shion was renamed Dyna and was modeled after a Hercules Beetle, and the final boss was changed to a giant lizard king. An English-language version was also produced, but both were built off of the Japanese version of Wonder Boy in Monster World. They feature the same difficulty and mechanics as the Japanese original.</Notes>
+    <Platform>NEC TurboGrafx-CD</Platform>
+    <Publisher>Hudson Soft Company, Ltd.</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1994-05-20T03:00:00-04:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.3181818</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>11</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>18852</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Wonder_Boy_in_Monster_World#Conversions_and_ports</WikipediaURL>
+    <Title>The Dynastic Hero</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(USA)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>North America</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Action;Adventure</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType />
+    <MaxPlayers>1</MaxPlayers>
+  </Game>
+  <AlternateName>
+    <GameID>11c262b5-5538-4590-b719-0ad0478fcd42</GameID>
+    <Name>Ys I: Ancient Ys Vanished (CD)</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>11c262b5-5538-4590-b719-0ad0478fcd42</GameID>
+    <Name>Ys I &amp; II</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>11c262b5-5538-4590-b719-0ad0478fcd42</GameID>
+    <Name>Ys I・II</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>2c6b3003-b0a9-4d56-9f28-516683fe3722</GameID>
+    <Name>Pomping World</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>97323e0e-c85f-4948-aedc-15707b57ce46</GameID>
+    <Name>Magical Saurus Tour</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>e08961fd-4fac-4731-8a8f-514b75c1d797</GameID>
+    <Name>Cosmic Fantasy 2: Bouken Shounen Ban</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>71e6428b-a902-4e62-8421-c726c90966a8</GameID>
+    <Name>Dragon Slayer: Eiyuu Densetsu</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>3f0a1b36-105d-4ee4-a7e9-5a2de9937d1c</GameID>
+    <Name>Godzilla Bakutou Retsuden</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>07297ea4-05ee-47cd-9913-f8175196e2b2</GameID>
+    <Name>3 Games in 1: Gate of Thunder + Bonk's Adventure + Bonk's Revenge</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>d34106a0-1c44-42c8-8111-d111276b2a3b</GameID>
+    <Name>Splash Lake: Ostrich Daibouken</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>984ca97f-3a68-4070-808f-603afb9334a3</GameID>
+    <Name>Rising Sun</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>4e82494d-aea6-4d8c-82e7-b515a250d030</GameID>
+    <Name>J. B. Harold Series 1: Murder Club</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>837b7ab0-8fe9-479b-bc98-a17b0dd1e62c</GameID>
+    <Name>Sherlock Holmes no Tantei Kouza</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>523c9b66-0cf9-4f98-acfb-09f7a8e5513b</GameID>
+    <Name>Red Alert</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>ecf1a628-b91c-47de-9430-ead86e4c8d9c</GameID>
+    <Name>Wonder Boy III: Monster Lair</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>f7bc0bfd-ea3a-4c9d-b34d-14c945de7d08</GameID>
+    <Name>Shadow of the Beast - Mashou no Okite</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>4b858a78-2b1b-4554-a19d-7f4556b8a868</GameID>
+    <Name>Super Air Zonk: Rockabilly-Paradise</Name>
+    <Region>North America</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>4b858a78-2b1b-4554-a19d-7f4556b8a868</GameID>
+    <Name>CD Denjin: Rockabilly Tengoku</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>69a912ff-e0b9-41f3-b602-6e9a95de163e</GameID>
+    <Name>Makai Eiyuuden: Shape Shifter</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>69a912ff-e0b9-41f3-b602-6e9a95de163e</GameID>
+    <Name>Makai Eiyuuden - Shape Shifter</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>69a912ff-e0b9-41f3-b602-6e9a95de163e</GameID>
+    <Name>Shapeshifter: Makai Eiyuuden</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>c153a9a5-50ab-48f0-b947-e9bda3ce01ce</GameID>
+    <Name>Exile: Toki no Hazama</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>c153a9a5-50ab-48f0-b947-e9bda3ce01ce</GameID>
+    <Name>Exile: Toki no Hasama e</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>82f6945b-4d44-4cea-9838-3239641eaea6</GameID>
+    <Name>ヴァリスⅢ</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>60646d84-790b-4a9a-94ed-bc800c5852c2</GameID>
+    <Name>Sherlock Holmes: Consulting Detective Vol. II</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>60646d84-790b-4a9a-94ed-bc800c5852c2</GameID>
+    <Name>Sherlock Holmes no Tantei Kouza II</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>109d1b5f-b79c-4977-aa89-81dbdb0d0ee5</GameID>
+    <Name>Ookami-teki Monshou: Crest of Wolf</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>9065d95c-fc2d-4b20-8618-8c61981c4f88</GameID>
+    <Name>Winds of Thunder</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>713f7cc8-d86d-4872-9c8b-7df36355a398</GameID>
+    <Name>Sim Earth: The Living Planet</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>713f7cc8-d86d-4872-9c8b-7df36355a398</GameID>
+    <Name>Sim Earth The Living Planet</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>851f6294-a249-4d43-964e-e414139e4144</GameID>
+    <Name>Chou Eiyuu Densetsu: Dynastic Hero</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+</LaunchBox>

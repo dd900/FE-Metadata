@@ -1,0 +1,1147 @@
+<?xml version="1.0" standalone="yes"?>
+<LaunchBox>
+  <Game>
+    <ApplicationPath>..\roms\megacd\Sengoku Denshou (Japan) (megacd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-24T11:00:20.4610315-05:00</DateAdded>
+    <DateModified>2020-12-24T11:00:20.4610315-05:00</DateModified>
+    <Developer>SNK</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>4e805f45-4796-45a0-84e4-234fce46e19d</ID>
+    <Notes>Sengoku Denshou (戦国伝承) is a beat-'em-up released for the Sega Mega-CD exclusively in Japan.</Notes>
+    <Platform>Sega Mega CD</Platform>
+    <Publisher>Sammy</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1993-12-28T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.8333333</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>6</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>34305</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Sengoku_(1991_video_game)</WikipediaURL>
+    <Title>Sengoku Denshou</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Action</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\megacd\Thunder Storm FX (Japan) (megacd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-24T11:00:27.7909107-05:00</DateAdded>
+    <DateModified>2020-12-24T11:00:27.7909107-05:00</DateModified>
+    <Developer>Data East</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>6e948d0f-0b44-41d9-8372-fa077bd45c09</ID>
+    <Notes>Cobra Command is an arcade conversion of a helicopter shooting game from Data East. It is an "on rails" style shooter with the player controlling only the aiming of the shooting but not the direction of the helicopter.
+
+Your job is to shoot down the enemies as you are flown through footage of New York streets, the Statue of Liberty, the Atlantic Ocean, Italy, the Grand Canyon and finally, the treacherous corners and return fire of the enemy's stronghold on Easter Island.</Notes>
+    <Platform>Sega Mega CD</Platform>
+    <Publisher>Renovation Products, Inc.</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1992-10-28T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.090909</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>11</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>4950</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Cobra_Command_(1984_video_game)</WikipediaURL>
+    <Title>Thunder Storm FX</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Action</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\megacd\Earnest Evans (Japan) (megacd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-24T10:59:56.956554-05:00</DateAdded>
+    <DateModified>2020-12-24T10:59:56.956554-05:00</DateModified>
+    <Developer>Wolf Team</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>b4f83f49-d537-46a9-ad34-f6c887256b93</ID>
+    <Notes>In the 1930s, a man known as Earnest Evans had learned of three ancient idols which hold enough power to destroy the Earth. Evans had decided to search the world to find the scattered idols, but was injured before he could find all three. Now, many years later, his grandson, Earnest Evans III, continues his grandfather's quest to save humanity from total annihilation. However, a rival treasure hunter named Brady Tresidder also seeks the idols to bring the world's destruction.
+
+Evans must find the treasures before Tresidder does. During his journey, Evans stumbles upon the beautiful young green-haired girl Annet Myer lying in some ruins in Peru who decides to accompany him for the rest of his adventures. The two encounter a mysterious figure by the name of Sigfried, who has unknown motives, but seems to know a lot about Hastur and his cul</Notes>
+    <Platform>Sega Mega CD</Platform>
+    <Publisher>Wolf Team</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1991-12-20T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.4117646</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>17</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>25461</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Earnest_Evans</WikipediaURL>
+    <Title>Earnest Evans</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Action;Platform</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=Gz5sYERRYdo</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\megacd\Garou Densetsu Special (Japan) (megacd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-24T11:00:00.2319508-05:00</DateAdded>
+    <DateModified>2020-12-24T11:00:00.2319508-05:00</DateModified>
+    <Developer>Hudson Soft</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>1780e6d7-012f-4840-84ba-171a49854584</ID>
+    <Notes>Fatal Fury Special is an improved version of SNK's 2D one-on-one fighter Fatal Fury 2. It's a conversion of the 1993 arcade game of the same name. The objective is still to win the tournament by defeating all other fighters including end boss Wolfgang Krauser. Fatal Fury Special still features the series' trademark pseudo-3D movement along two planes.</Notes>
+    <Platform>Sega Mega CD</Platform>
+    <Publisher>Hudson Soft</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1994-12-02T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.3</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>15</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>123441</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Fatal_Fury_Special</WikipediaURL>
+    <Title>Garou Densetsu: Special</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan)</Version>
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Fighting</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\megacd\Cyborg 009 (Japan) (megacd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-24T10:59:46.6443836-05:00</DateAdded>
+    <DateModified>2020-12-24T10:59:46.6443836-05:00</DateModified>
+    <Developer>Telenet Japan</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>29ccc56e-b650-46e0-b8f0-f8c85e22ae52</ID>
+    <Notes>The storyline of the game takes various bits of the manga and mixes them together. It is a merger of "Assassins", "Mythos", and "The Underground Empire of Yomi".
+The art style of the FMV cutscenes mostly references the character designs as seen from the film Cyborg 009 The Movie: Legend of the Super Galaxy (save for 001 having white hair from the manga), with the voice cast from the film reprising key roles. However, the soundtrack in the game is sourced from the 1960s animated works (particularly Cyborg 009 Monster Wars), except for one track from the 1979 series in the climax.
+The game ultimately ends with the original intended stop point of the manga; 009 and 002 burn up in re-entering the atmosphere, and two children see them as a shooting star, with the older sister wishing for world peace.</Notes>
+    <Platform>Sega Mega CD</Platform>
+    <Publisher>Riot</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1993-07-30T03:00:00-04:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.3235295</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>17</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>34371</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Cyborg_009#Other</WikipediaURL>
+    <Title>Cyborg 009</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Action</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\megacd\Keiou Yuugekitai (Japan) (megacd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-24T11:00:06.8343438-05:00</DateAdded>
+    <DateModified>2020-12-24T11:00:06.8343438-05:00</DateModified>
+    <Developer>Victor Musical</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>3a980ab9-de20-42c2-b975-762f82545516</ID>
+    <Notes>Keio Flying Squadron (慶応遊撃隊 Keiōyūgekitai?) is a scrolling shooter video game developed and published by Victor Entertainment in 1994 for the Sega/Mega CD in Japan, Europe, and North America. It is the first game of the Keio Flying Squadron series with a simple shoot-'em-up style of play.
+Gameplay
+The game consists of the protagonist Rami riding on top of Spot, who can shoot fireballs at enemies. When Spot is not firing, two smaller dragons (Companion fighters) appear one after another to assist Rami and Spot. The lesser dragons shoot smaller fireballs and can be sacrificed to do larger damage, only to reappear when Spot ceases to shoot.
+Release
+In Europe, a demo of the first level of this game was provided by Sega Pro magazine. The game seemed to end after the first level, but in fact the whole game was accessible on the disc by using a level-select cheat to skip to the second level, and then continuing through the game.
+Reception
+Retro Gamer included among top ten Mega CD games, calling it "a perfectly acceptable substitute" OF Konami's Parodius that features "similar style of horizontally scrolling wackiness and puts the Mega-CD hardware to good use to produce some excellent cut-scenes and a brilliant CD-quality soundtrack."</Notes>
+    <Platform>Sega Mega CD</Platform>
+    <Publisher>JVC</Publisher>
+    <Rating>E - Everyone</Rating>
+    <ReleaseDate>1993-08-06T03:00:00-04:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.9047618</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>42</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>2578</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Keio_Flying_Squadron</WikipediaURL>
+    <Title>Keiou Yuugekitai</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Action;Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=kuA7F3X0klo</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\megacd\Urusei Yatsura - Dear My Friends (Japan) (megacd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-24T11:00:31.104009-05:00</DateAdded>
+    <DateModified>2020-12-24T11:00:31.104009-05:00</DateModified>
+    <Developer>Game Arts</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>7f063cf8-9408-46eb-b775-9e5a0555a47e</ID>
+    <Notes>This adventure game was released only in Japan and is based on Rumiko Takashi's Urusei Yatsura series.</Notes>
+    <Platform>Sega Mega CD</Platform>
+    <Publisher>Game Arts</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1994-04-15T03:00:00-04:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.25</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>2</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>27807</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Urusei_Yatsura</WikipediaURL>
+    <Title>Urusei Yatsura: Dear My Friends</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Adventure</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\megacd\Dennin Aleste - Nobunaga and His Ninja Force (Japan) (megacd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-24T10:59:50.1881628-05:00</DateAdded>
+    <DateModified>2020-12-24T10:59:50.1881628-05:00</DateModified>
+    <Developer>Compile</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>3ec6ef79-012e-4112-aec5-fdf37e7f5a88</ID>
+    <Notes>Pilot your massive mecha Aleste in the name of the Oda clan and seek revenge against the evil Chugoku Army for their atrocities!  Robo Aleste is another title in the Aleste series by famed shoot-'em-up developer Compile where players must collect power-ups to defeat countless waves of enemies and large bosses.</Notes>
+    <Platform>Sega Mega CD</Platform>
+    <Publisher>Tengen</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1992-11-27T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.8953488</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>43</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>445</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Robo_Aleste</WikipediaURL>
+    <Title>Dennin-Aleste: Nobunaga and His Ninja Force</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\megacd\Ninja Warriors, The (Japan) (megacd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-24T11:00:13.3619442-05:00</DateAdded>
+    <DateModified>2020-12-24T11:00:13.3619442-05:00</DateModified>
+    <Developer>Taito</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>d4efdefe-eb1a-42a8-8510-9f2d9a69f1e2</ID>
+    <Notes>The Ninja Warriors is a one or two player side-scrolling beat-em-up. The Taito coin-op featured three monitor screens side by side, while the Amiga version was developed in letterbox format in order to show as much of the wide screen background graphics as possible. 
+
+The player(s) control robot Ninjas, which battle their way through the levels using Shuriken and knives. As the Ninja's take damage their classic Ninja garb is torn away to reveal robotic limbs, torso or head. When the damage reaches a critical level the Ninja Robot explodes scattering mechanical body parts.
+
+As with The Sales Curve's later title SWIV, The Ninja Warriors uses the company's Dynamic Loading System to load sprites, sound and background graphics from disk on the fly.</Notes>
+    <Platform>Sega Mega CD</Platform>
+    <Publisher>Virgin Games, Ltd.</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1989-01-01T00:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.3333333</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>3</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>158350</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/The_Ninja_Warriors_%281987_video_game%29</WikipediaURL>
+    <Title>The Ninja Warriors</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Action;Beat 'em Up</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=DA06uZBEJMA</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\megacd\Seirei Shinseiki - Fhey Area (Japan) (megacd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-24T11:00:16.99899-05:00</DateAdded>
+    <DateModified>2020-12-24T11:00:16.99899-05:00</DateModified>
+    <Developer>Wolf Team</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>6699cf33-7513-4353-a66b-73dfbca8c9f5</ID>
+    <Notes>Seirei Shinseiki Fhey Area (精霊新世紀フェイエリア) is an RPG for the Sega Mega-CD. It was only released in Japan</Notes>
+    <Platform>Sega Mega CD</Platform>
+    <Publisher>Wolf Team</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1992-02-18T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>34289</DatabaseID>
+    <Title>Seirei Shinseiki Fhey Area</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\megacd\Night Striker (Japan, Korea) (megacd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-24T11:00:10.2700273-05:00</DateAdded>
+    <DateModified>2020-12-24T11:00:10.2700273-05:00</DateModified>
+    <Developer>Taito</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>f670f38f-1618-4ef9-b369-cf34baefb8a8</ID>
+    <Notes>It is the year 2009. The elite division of the United Nations Special Service Agency, NIGHT STRIKER, is attempting to locate kidnapped Dr. Lindbery Masca, a world authority on laser science. With the recent threat of global destruction facing the planet, it is imperative the good doctor be found. Only his vast knowledge of laser science can stop the evil forces and save the Earth from total annihilation.</Notes>
+    <Platform>Sega Mega CD</Platform>
+    <Publisher>Taito</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1989-01-01T00:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.2307692</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>26</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>33202</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Night_Striker</WikipediaURL>
+    <Title>Night Striker</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan, Korea)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=d-H6JYRzP50</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\megacd\Heavy Nova (Japan) (megacd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-24T11:00:03.6010204-05:00</DateAdded>
+    <DateModified>2020-12-24T11:00:03.6010204-05:00</DateModified>
+    <Developer>Micronet</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>db257e6f-c44c-4c95-9d37-fa133b0c0118</ID>
+    <Notes>Heavy Nova (ヘビーノバ) is a 1991 action game for the Sharp X68000 by Micronet. It was ported to the Sega Mega-CD as one of the system's two launch titles (the other being Wolf Team's Sol-Feace); the Mega-CD port was not released outside Japan. Micronet subsequently ported it to the Sega Mega Drive for an American release in 1992.
+
+You play as a giant mech beating up other mechs of various sizes. A punches and B kicks. Up rockets up for as long as the button is held; you will eventually come back down.</Notes>
+    <Platform>Sega Mega CD</Platform>
+    <Publisher>Micronet</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1991-12-12T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0.96428573</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>14</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>34377</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Heavy_Nova_(video_game)</WikipediaURL>
+    <Title>Heavy Nova</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan)</Version>
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Action</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\megacd\Yumimi Mix (Japan) (megacd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-24T11:00:34.5716317-05:00</DateAdded>
+    <DateModified>2020-12-24T11:00:34.5716317-05:00</DateModified>
+    <Developer>Game Arts Co., Ltd.</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>fda06e9b-238f-4024-9599-d2603f1a82e2</ID>
+    <Notes>A seemingly ordinary Japanese high school student named Yumimi Yoshizawa sees a strange dream about a unicorn couple in a magical land. When one of the unicorns suddenly falls through a hole in the ground, Yumimi wakes up, realizing she has fallen out of the bed as well. The following day brings more strange occurrences, such as mysterious hopping blobs and a strange girl who professes her love to Yumimi. Eventually Yumimi and her friends realize that all these events are connected and that it lies in their power to protect our world from monsters.
+
+Though not based on a manga or anime, Yumimi Mix has characteristic anime-style plot and visuals, and is built like an interactive cartoon movie with animation and voice-overs. The player is sometimes prompted to select an action or a response from a pop-up menu out of two or more available ones. These choices lead to different scenes, though the overall story remains the same. There is no possibility of a Game Over in the game.</Notes>
+    <Platform>Sega Mega CD</Platform>
+    <Publisher>CSK Research Institute Corp.</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1993-12-10T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>184597</DatabaseID>
+    <Title>Yumimi Mix</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Adventure</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\megacd\Cosmic Fantasy Stories (Japan) (megacd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-24T10:59:43.2745174-05:00</DateAdded>
+    <DateModified>2020-12-24T10:59:43.2745174-05:00</DateModified>
+    <Developer>Riot</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>b4199341-f481-44fe-9089-b0961b466d1e</ID>
+    <Notes>Cosmic Fantasy Stories is a re-release of two PC Engine (TurboGrafx) CD games: Cosmic Fantasy: Bōken Shōnen Yū and Cosmic Fantasy 2. 
+
+The Sega CD edition features improved graphics and music (the change is particularly noticeable in the first Cosmic Fantasy) (megacd). It also re-vamps the gameplay system of the first game, allowing previously passive characters to participate in battles, but also increasing the amount of enemies met in battles. The difficulty levels has been modified; in particular, boss battles have become noticeably easier in the first installment. Many areas have been re-designed, often becoming more complex.
+
+Cosmic Fantasy 2 has undergone similar changes; the difficulty level is generally higher in this release, as enemies have learned new techniques that were absent in the original release, most notably attacks that inflict status ailments on the player-controlled characters.</Notes>
+    <Platform>Sega Mega CD</Platform>
+    <Publisher>Telenet Japan</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1992-03-27T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.5</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>5</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>34382</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Cosmic_Fantasy</WikipediaURL>
+    <Title>Cosmic Fantasy Stories</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\megacd\Annett Futatabi (Japan) (megacd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-24T10:59:36.3224114-05:00</DateAdded>
+    <DateModified>2020-12-24T10:59:36.3224114-05:00</DateModified>
+    <Developer>Wolf Team</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>0478652f-c2f6-4623-a011-b291a0ea51a4</ID>
+    <Notes>Set in the same fictional universe as Earnest Evans and El Viento, the story takes place two years after El Viento, and concludes the story of Annet and Earnest. Zigfried's true motives are finally revealed as well. Being rescued from certain sacrifice by father figure Earnest Evans, Annet travels across Europe and encounters a local sect that wants her special pendant. After an attempted ambush in the sect's castle, she barely escapes, and begins another quest to protect the world from destruction.</Notes>
+    <Platform>Sega Mega CD</Platform>
+    <Publisher>Wolf Team</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1993-03-30T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.1666667</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>12</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>25432</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Anett_Futatabi</WikipediaURL>
+    <Title>Annett Futatabi</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Action;Fighting</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=bBSsFn88rrY</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\megacd\Arcus I, II, III (Japan) (megacd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-24T10:59:39.7975574-05:00</DateAdded>
+    <DateModified>2020-12-24T10:59:39.7975574-05:00</DateModified>
+    <Developer>Wolf Team</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>61e782d3-ecd7-491f-adee-44790fbf51a3</ID>
+    <Notes>Arcus I-II-III (アークス I・II・III) is a first-person dungeon RPG released exclusively for the Sega Mega-CD Japan. It combines the first three games in Wolf Team's Arcus series; Arcus, Arcus II: Silent Symphony and Arcus III, originally released for Japanese computers between 1988 and 1991.</Notes>
+    <Platform>Sega Mega CD</Platform>
+    <Publisher>Wolf Team</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1993-07-23T03:00:00-04:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.642857</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>7</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>34266</DatabaseID>
+    <Title>Arcus I・II・III</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Role-Playing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\megacd\Devastator (Japan) (megacd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-24T10:59:53.9868418-05:00</DateAdded>
+    <DateModified>2020-12-24T10:59:53.9868418-05:00</DateModified>
+    <Developer>David R. Arnold</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>b4e40ed1-a792-4c36-941c-5251895e5f5b</ID>
+    <Notes>COMPUTE! 1984/08 (Issue #51) (megacd). Mankind's last defender is pitted against an endless wave of alien ships, hellbent on destroying the Earth using incredibly powerful explosives. You must outwit their evasive maneuvers and take them down before they carry out their nefarious scheme. You are given a strict time limit to hunt down each ship, and it gets shorter and shorter as the game progresses: take aim and fire before the countdown expires, or the enemy will plant its explosive charge in Earth's orbit. If ten of them succeed, the Earth is doomed.</Notes>
+    <Platform>Sega Mega CD</Platform>
+    <Publisher>COMPUTE! Publications, Inc.</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1984-01-01T00:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>146464</DatabaseID>
+    <Title>Devastator</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\megacd\Switch (Japan) (megacd).chd</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-24T11:00:23.7719287-05:00</DateAdded>
+    <DateModified>2020-12-24T11:00:23.7719287-05:00</DateModified>
+    <Developer>MegaBusters</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>ad6c1f13-cbaa-4ede-8c22-ce616e22d82a</ID>
+    <Notes>Switch is a top-down puzzle game where you control a humanoid character, trying to reach the exit on each level. In order to get out of each level, you need to skillfully walk on arrows (you can only walk off an arrow in the direction it's pointing to); master the operation of levers and buttons (they allow you to rotate some arrows around); jump through teleporters; collect keys and open doors with them; and watch out for crumbling floors (once you pass over one, it disappears and you cannot go back) (megacd).</Notes>
+    <Platform>Sega Mega CD</Platform>
+    <Publisher>MegaBusters</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1995-01-10T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>149359</DatabaseID>
+    <Title>Switch</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Japan)</Version>
+    <PlayMode />
+    <Region>Japan</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Puzzle</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+  </Game>
+  <AlternateName>
+    <GameID>4e805f45-4796-45a0-84e4-234fce46e19d</GameID>
+    <Name>Sengoku Denshō</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>4e805f45-4796-45a0-84e4-234fce46e19d</GameID>
+    <Name>Sengoku Denshou</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>6e948d0f-0b44-41d9-8372-fa077bd45c09</GameID>
+    <Name>Cobra Command</Name>
+    <Region>North America</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>1780e6d7-012f-4840-84ba-171a49854584</GameID>
+    <Name>Fatal Fury Special</Name>
+    <Region>North America</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>3a980ab9-de20-42c2-b975-762f82545516</GameID>
+    <Name>Keio Flying Squadron</Name>
+    <Region>Europe</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>3a980ab9-de20-42c2-b975-762f82545516</GameID>
+    <Name>Keiō Yūgekitai</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>3ec6ef79-012e-4112-aec5-fdf37e7f5a88</GameID>
+    <Name>Robo Aleste</Name>
+    <Region>Europe</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>0478652f-c2f6-4623-a011-b291a0ea51a4</GameID>
+    <Name>Anett Futatabi</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>0478652f-c2f6-4623-a011-b291a0ea51a4</GameID>
+    <Name>Anetto Futatabi</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>0478652f-c2f6-4623-a011-b291a0ea51a4</GameID>
+    <Name>Annet Again</Name>
+    <Region>North America</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>61e782d3-ecd7-491f-adee-44790fbf51a3</GameID>
+    <Name>Arcus I-II-III</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>61e782d3-ecd7-491f-adee-44790fbf51a3</GameID>
+    <Name>Arcus I・II・III</Name>
+    <Region />
+  </AlternateName>
+</LaunchBox>

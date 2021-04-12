@@ -1,0 +1,1260 @@
+<?xml version="1.0" standalone="yes"?>
+<LaunchBox>
+  <Game>
+    <ApplicationPath>..\roms\gx4000\Skeet Shoot (Europe).zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-21T20:46:16.0858164-05:00</DateAdded>
+    <DateModified>2020-12-21T20:46:16.0858164-05:00</DateModified>
+    <Developer>Trojan software</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>9de9f3cd-ac05-4edb-b022-de851dcd9285</ID>
+    <Notes>Skeet Shoot consists of six levels, each broken up into two normal rounds, and one bonus round. The bonus round sees the geese (the ones you tried to horribly maim - remember?) flying overhead, dropping more eggs which must be shot - though you'd better learn to discriminate between gold and silver ones, as the latter detract from your score.</Notes>
+    <Platform>Amstrad GX4000</Platform>
+    <Publisher>Trojan software</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1990-01-01T00:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.1666667</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>9</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>129360</DatabaseID>
+    <Title>Skeet Shoot</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Europe)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>Europe</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\gx4000\Pang (Europe).zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-21T20:46:14.5623228-05:00</DateAdded>
+    <DateModified>2020-12-21T20:46:14.5623228-05:00</DateModified>
+    <Developer>Ocean</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>c51c962a-8ff4-4027-8b07-4b61d9147fd5</ID>
+    <Notes>In the game, the Buster brothers must finish a round-the-world quest to destroy bouncing balloons that are terrorizing several of Earth's landmarks and cities. The fight to save the Earth begins on Mt. Fuji, Japan, where the brothers must pass all three stages before moving on to the next location. The basic gameplay is identical to a much earlier 1983 Japanese computer game called Cannon Ball (also released in 1983 on the ZX Spectrum as Bubble Buster). Cannon Ball was made by Japanese publishers Hudson Soft, and possibly inspired Mitchell Corp. to make Buster Bros. six years later.</Notes>
+    <Platform>Amstrad GX4000</Platform>
+    <Publisher>Ocean</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1990-01-01T00:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.5</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>3</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>126357</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Pang_(video_game)</WikipediaURL>
+    <Title>Pang</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Europe)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>Europe</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Action</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\gx4000\Operation Thunderbolt (Europe).zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-21T20:46:14.2703512-05:00</DateAdded>
+    <DateModified>2020-12-21T20:46:14.2703512-05:00</DateModified>
+    <Developer>Taito</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>bb464a0d-972a-4f65-b3b3-481b17debcac</ID>
+    <Notes>Roy Adams and Hardy Jones, two green berets, must save American hostages from a hijacked airliner which was forced to land in the fictional African province, Kalubya. To accomplish their mission, they must capture six different bases, shoot enemies such as soldiers, jeeps, tanks, and helicopters using their machine gun or grenade launcher, and try to save the hostages along the way. Enemies attack with bullets, grenades, or rockets. Killing the hostages by accident results in the player receiving a bad ending. Once Stage 8 is reached, the players must engage with the lead hijacker holding the pilot hostage. At this point continues are no longer permitted and if the player dies, he obtains a game over screen which is also seen when the player fails to insert coins before the continue timer reaches 0. The player can accidentally kill the pilot, which triggers a bad ending. If he kills the hijacker, the good ending is shown with the credits</Notes>
+    <Platform>Amstrad GX4000</Platform>
+    <Publisher>Taito</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1990-01-01T00:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.5</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>2</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>126353</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Operation_Thunderbolt_(video_game)</WikipediaURL>
+    <Title>Operation Thunderbolt</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Europe)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>Europe</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Action;Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\gx4000\Crazy Cars 2 (Europe).zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-21T20:46:11.8133775-05:00</DateAdded>
+    <DateModified>2020-12-21T20:46:11.8133775-05:00</DateModified>
+    <Developer>Titus Software</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>e58edaca-91b2-411e-bc64-93ee59261745</ID>
+    <Notes>Racing game through four states of the USA driving a Ferrari F40. You have a given amount of time to reach a distant city. Using the added map you have to find the best way by yourself through the junctions. While there are no other private cars the police tries to stop you using patrol cars and road blocks.</Notes>
+    <Platform>Amstrad GX4000</Platform>
+    <Publisher>Titus Software</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1990-01-01T00:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.7857144</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>7</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>126328</DatabaseID>
+    <Title>Crazy Cars II</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Europe)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>Europe</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Racing;Vehicle Simulation</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\gx4000\Panza Kick Boxing (Europe).zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-21T20:46:14.8654378-05:00</DateAdded>
+    <DateModified>2020-12-21T20:46:14.8654378-05:00</DateModified>
+    <Developer>Loriciels</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>9e235c51-f660-4225-a7a7-302b570f017a</ID>
+    <Notes>Best of the Best: Championship Karate (also known as Super Kick Boxing and The Kick Boxing) is a kick boxing game that features black belt kick boxing masters. The object is to win the kick boxing championship by defeating an array of kick boxing masters in a series of fighting matches.</Notes>
+    <Platform>Amstrad GX4000</Platform>
+    <Publisher>Loriciels</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1990-01-01T00:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.2</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>5</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>126340</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Best_of_the_Best:_Championship_Karate</WikipediaURL>
+    <Title>Panza Kick Boxing</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Europe)</Version>
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>Europe</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Fighting;Sports</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\gx4000\Super Pinball Magic (Europe).zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-21T20:46:16.3841248-05:00</DateAdded>
+    <DateModified>2020-12-21T20:46:16.3841248-05:00</DateModified>
+    <Developer>Loriciel</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>d310000a-b608-433a-8453-1529c74b75be</ID>
+    <Notes>This super pinball simulation will really make you "tilt" with pleasure! With its 12 levels, some of which are break outs, with plenty of bonuses and extra balls.</Notes>
+    <Platform>Amstrad GX4000</Platform>
+    <Publisher>Loriciel</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1991-01-01T00:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.625</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>4</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>126361</DatabaseID>
+    <Title>Super Pinball Magic</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Europe)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>Europe</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Action</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=VvIGZNslDug</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\gx4000\Barbarian 2 (Europe).zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-21T20:46:10.2044362-05:00</DateAdded>
+    <DateModified>2020-12-21T20:46:10.2044362-05:00</DateModified>
+    <Developer>Palace Software</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>f057cee5-7505-4039-8d06-ee45c2163a9f</ID>
+    <Notes>At the finale of BARBARIAN - THE ULTIMATE WARRIOR, the Barbarian defeated the warriors of Drax and thus saved Princess Mariana from his evil spell. Drax fled to the dungeons beneath his black castle, vowing to wreak disaster on the Jewelled Kingdom. There is only one way to stop Drax - the Barbarian and Mariana are the only two warriors skilled enough to survive the perilous journey to Drax's lair. Can you stop him? You must stop him!</Notes>
+    <Platform>Amstrad GX4000</Platform>
+    <Publisher>Ocean</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1990-01-01T00:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.1666667</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>15</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>121705</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Barbarian_II:_The_Dungeon_of_Drax</WikipediaURL>
+    <Title>Barbarian II: The Dungeon of Drax</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Europe)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>Europe</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Fighting</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\gx4000\Enforcer (Europe).zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-21T20:46:12.4351092-05:00</DateAdded>
+    <DateModified>2020-12-21T20:46:12.4351092-05:00</DateModified>
+    <Developer>Trojan</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>e5c02d0f-3730-43ca-b3b3-366ab8f75cb0</ID>
+    <Notes>Your job is to gun down dozens of bad guys as they pop up from beind trash cans (that's American dustbins), peer out of windows. The game is played Operation Wolf style, though the screen won't move - you have to kill a pre-determined number of goons before you can progress any further down the street. There are also nice little bonus levels in between locations, involving loads of bottles of booze and some blokeys trying frantically to pack it. Your job here is to shoot the whiskey before it gets packed.</Notes>
+    <Platform>Amstrad GX4000</Platform>
+    <Publisher>Trojan</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1990-01-01T00:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>4</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>127432</DatabaseID>
+    <Title>The Enforcer</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Europe)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>Europe</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\gx4000\Dick Tracy (Europe).zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-21T20:46:12.1270115-05:00</DateAdded>
+    <DateModified>2020-12-21T20:46:12.1270115-05:00</DateModified>
+    <Developer>Titus</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>9c6b2ce4-8473-491e-82b5-e6c965869434</ID>
+    <Notes>Dick Tracy is an adaptation of a movie (with Warren Betty and Madonna sexy as hell) based on an famous american Comic book franchise.</Notes>
+    <Platform>Amstrad GX4000</Platform>
+    <Publisher>Titus Interactive</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1991-01-01T00:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.875</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>4</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>126350</DatabaseID>
+    <Title>Dick Tracy</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Europe)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>Europe</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Action;Platform</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\gx4000\Burnin' Rubber (Europe).zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-21T20:46:11.2198121-05:00</DateAdded>
+    <DateModified>2020-12-21T20:46:11.2198121-05:00</DateModified>
+    <Developer>Ocean</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>6abc13ae-6b8b-4e26-ba9d-18a608d31c1b</ID>
+    <Notes>Burnin' Rubber is the game that was included with every Plus and GX4000 on a cartridge, in a bid to showcase the Plus machine's new hardware abilities. Therefore it was quite popular, although it did not really show off the Plus capabilities, being an early title and all. Despite that, it wasn't a bad game on its own and is considered one of the good racing games on the Amstrad.</Notes>
+    <Platform>Amstrad GX4000</Platform>
+    <Publisher>Ocean</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1990-01-01T00:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.35</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>10</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>126355</DatabaseID>
+    <Title>Burnin' Rubber</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Europe)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>Europe</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Racing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=MixXYnw58KA</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\gx4000\Mystical (Europe).zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-21T20:46:13.3406114-05:00</DateAdded>
+    <DateModified>2020-12-21T20:46:13.3406114-05:00</DateModified>
+    <Developer>Infogrames</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>398efa08-2064-4e7a-a346-d41a1e44aca8</ID>
+    <Notes>Mystical is a strange French running shooter for the GX4000, probably the only one of it's kind.</Notes>
+    <Platform>Amstrad GX4000</Platform>
+    <Publisher>Infogrames</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1990-01-01T00:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.25</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>6</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>126351</DatabaseID>
+    <Title>Mystical</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Europe)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>Europe</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Action</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\gx4000\Copter 271 (Europe).zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-21T20:46:11.5099849-05:00</DateAdded>
+    <DateModified>2020-12-21T20:46:11.5099849-05:00</DateModified>
+    <Developer>Loriciel</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>b6684314-b993-410a-a84a-5ae111017c7b</ID>
+    <Notes>Copter 271 is a vertical shoot them up. It was the last official game released on Cartridge for the GX4000/Plus range, it was rushed to the released and seems unfinished.</Notes>
+    <Platform>Amstrad GX4000</Platform>
+    <Publisher>Loriciel</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1991-01-01T00:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.4166667</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>6</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>126349</DatabaseID>
+    <Title>Copter 271</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Europe)</Version>
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>Europe</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\gx4000\Wild Streets (Europe).zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-21T20:46:17.644081-05:00</DateAdded>
+    <DateModified>2020-12-21T20:46:17.644081-05:00</DateModified>
+    <Developer>Titus</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>70ae9cf1-fe5f-4a72-9d03-993b46b780d0</ID>
+    <Notes>There's five levels and your job is to take down the organised crime gangs and rescue John Steven, head of the C.I.A. Button 1 in conjunction with a d-pad direction allows for various attacks (such as kicks, punches and head butts), whereas Button 2 shoots your 357 Magnum gun (six bullets per level).</Notes>
+    <Platform>Amstrad GX4000</Platform>
+    <Publisher>Titus</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1990-01-01T00:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>8</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>126354</DatabaseID>
+    <Title>Wild Streets</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Europe)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>Europe</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Action;Fighting</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\gx4000\Navy Seals (Europe).zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-21T20:46:13.6439784-05:00</DateAdded>
+    <DateModified>2020-12-21T20:46:13.6439784-05:00</DateModified>
+    <Developer>Ocean Software</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>2666e533-9276-4624-94f6-02d5cf781708</ID>
+    <Notes>Navy SEALS is a shoot 'em up platform video game developed and published by Ocean Software. The game is a side-scrolling shoot 'em up and revolves around the protagonist, Lieutenant Dale Hawkins, recovering caches of hidden Stinger missiles from Arab terrorists in Oman. The game features a total of five levels with varying locations and begins with allocating five lives to the player. The main objective of the game is to locate and place time bombs on boxes containing Stinger missiles, in which the player is required to escape before the time runs out. The enemies featured in the game are Arab terrorists; the player must neutralise them by shooting them with their selected weapon, which is a handgun by default. Other weapons available in the game include machine guns, rocket launchers, and a flamethrower, which are only accessible through finding hidden crates.</Notes>
+    <Platform>Amstrad GX4000</Platform>
+    <Publisher>Ocean Software</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1990-01-01T00:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.75</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>2</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>126316</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Navy_SEALS_(video_game)</WikipediaURL>
+    <Title>Navy Seals</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Europe)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>Europe</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=IjJhn3p60zY</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\gx4000\Fire and Forget 2 (Europe).zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-21T20:46:12.7265138-05:00</DateAdded>
+    <DateModified>2020-12-21T20:46:12.7265138-05:00</DateModified>
+    <Developer>Titus Software</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>ac35db08-4d54-4201-b987-bf1aefcad19d</ID>
+    <Notes>Fire &amp; Forget II is a 1990 futuristic racing-shooting video game developed by Titus Arcade and published by Sega for the Master System, and by Amstrad for the GX4000. It is the sequel to Fire and Forget, which was developed by Titus France SA for a number of platforms including the ZX Spectrum. Fire &amp; Forget II is one of a number of similar games which emerged in the late 1980s and early 1990s in the wake of Sega's popular arcade driving game Out Run (1986). It is notable for the variety of its enemy sprites, and for its use of parallax scrolling. It is also notable for being one of the first video games to be launched simultaneously on two consoles.</Notes>
+    <Platform>Amstrad GX4000</Platform>
+    <Publisher>Titus Software</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1990-01-01T00:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.178571</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>14</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>126329</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Fire_%26_Forget_II</WikipediaURL>
+    <Title>Fire &amp; Forget II</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Europe)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>Europe</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Racing;Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\gx4000\Tin Tin on the Moon (Europe).zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-21T20:46:17.3276279-05:00</DateAdded>
+    <DateModified>2020-12-21T20:46:17.3276279-05:00</DateModified>
+    <Developer>Infogrames</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>941f6bb1-f566-4255-94b8-d422f49518c0</ID>
+    <Notes>Tintin on the Moon is a video game loosely based on the Destination Moon and Explorers on the Moon comic books from The Adventures of Tintin, the series by Belgian cartoonist Hergé. It is a first person shoot 'em up/side scroller and the first Tintin video game.</Notes>
+    <Platform>Amstrad GX4000</Platform>
+    <Publisher>Infogrames</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1990-01-01T00:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.9166667</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>6</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>126358</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Tintin_on_the_Moon</WikipediaURL>
+    <Title>Tintin on the Moon</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Europe)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>Europe</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Action</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\gx4000\Klax (Europe).zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-21T20:46:13.0293692-05:00</DateAdded>
+    <DateModified>2020-12-21T20:46:13.0293692-05:00</DateModified>
+    <Developer>Domark</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>0089741c-a6b9-4f95-b908-a7e1136bb42b</ID>
+    <Notes>Klax features a conveyor belt at the top of the screen. It constantly rolls toward the playing area, delivering a steady supply of blocks. The player controls a small device which sits at the interface between the conveyor belt and the playing area, which can be moved left and right to catch the blocks and deposit them either in the playing area (which can hold 25 blocks in a 5X5 arrangement) or push them back up the conveyor belt. The device can hold up to five blocks. An uncaught block is considered a "drop". A flashing block can be used as a wildcard on any colour. In the playing area, blocks can be eliminated by arranging three or more of the same color into a continuous line, known as a "Klax." The line may be horizontal, vertical, or diagonal. A multiple grouping (e.g., one vertical and horizontal) counts as multiple Klaxes, as does Klaxes of four same-colored blocks (two Klaxes) or five same-colored blocks (three Klaxes). Once the goal is reached, bonus points are awarded for remaining blocks on the conveyor belt and device, and empty spaces in the bin (also, on levels where a certain point total is required, points in excess of the required amount are counted both in the scoring and as bonus points)</Notes>
+    <Platform>Amstrad GX4000</Platform>
+    <Publisher>Domark</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1990-01-01T00:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.3333335</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>6</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>126356</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Klax_(video_game)</WikipediaURL>
+    <Title>Klax</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Europe)</Version>
+    <PlayMode>Multiplayer</PlayMode>
+    <Region>Europe</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Puzzle</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\gx4000\No Exit (Europe).zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-21T20:46:13.9550182-05:00</DateAdded>
+    <DateModified>2020-12-21T20:46:13.9550182-05:00</DateModified>
+    <Developer>Tomahawk</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>dd9919b0-4c04-4a88-81b6-aa7b5644b543</ID>
+    <Notes>No Exit is a side-view martial arts beat 'em up, similar in style to IK+. Each fight must be won within a time limit. You can specify your character's ability quite precisely, trading off Vivacity against Efficiency and Resistance against Strength. Your character has a special destructive mode, which can be accessed 3 times This turns the character into a monster (corresponding to the opponent you are fighting against) and increases the level of damage you can inflict.</Notes>
+    <Platform>Amstrad GX4000</Platform>
+    <Publisher>Tomahawk</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1990-01-01T00:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.5</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>4</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>126352</DatabaseID>
+    <Title>No Exit</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Europe)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>Europe</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Fighting</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\gx4000\Batman the Movie (Europe).zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-21T20:46:10.9080638-05:00</DateAdded>
+    <DateModified>2020-12-21T20:46:10.9080638-05:00</DateModified>
+    <Developer>Ocean Software</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>b63ec8f7-8595-4765-a9ec-ec3a9971a91c</ID>
+    <Notes>The game consists of five stages based on events from the movie. Each stage has a time limit and a health gauge (represented by Batman's face turning into the Joker's), with Batman losing a life if he runs out of either. The levels have varying gameplay</Notes>
+    <Platform>Amstrad GX4000</Platform>
+    <Publisher>Ocean Software</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1990-01-01T00:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.9230769</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>13</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>126339</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Batman_(1989_Ocean_video_game)</WikipediaURL>
+    <Title>Batman</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Europe)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>Europe</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Action;Platform</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\gx4000\Switchblade (Europe).zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-21T20:46:16.6937531-05:00</DateAdded>
+    <DateModified>2020-12-21T20:46:16.6937531-05:00</DateModified>
+    <Developer>Core Design</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>38315e53-d80d-4e44-9697-c46f818d000f</ID>
+    <Notes>The player guides the protagonist, Hiro, through a flip-screen platform environment with a subterranean setting. Unexplored areas of the screen are obscured from view until the player character enters them</Notes>
+    <Platform>Amstrad GX4000</Platform>
+    <Publisher>Gremlin Graphics</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1991-01-01T00:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.5</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>6</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>126330</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Switchblade_(video_game)</WikipediaURL>
+    <Title>Switchblade</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Europe)</Version>
+    <PlayMode>Single Player</PlayMode>
+    <Region>Europe</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Platform;Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=bdQrIMef7y0</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\gx4000\Robocop 2 (Europe).zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2020-12-21T20:46:15.7921986-05:00</DateAdded>
+    <DateModified>2020-12-21T20:46:15.7921986-05:00</DateModified>
+    <Developer>Ocean</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>0bc4b41a-9bad-4b3b-bce2-38c6ab2e7359</ID>
+    <Notes>Robocop 2 is a sequel to Robocop on CPC, both being adaptations of the famous Robocop Franchise.</Notes>
+    <Platform>Amstrad GX4000</Platform>
+    <Publisher>Ocean</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>1991-01-01T00:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>4</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>126364</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/List_of_RoboCop_video_games#RoboCop_2</WikipediaURL>
+    <Title>Robocop 2</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>(Europe)</Version>
+    <PlayMode />
+    <Region>Europe</Region>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Action;Platform</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>false</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+  </Game>
+  <AlternateName>
+    <GameID>e58edaca-91b2-411e-bc64-93ee59261745</GameID>
+    <Name>F40 Pursuit Simulator</Name>
+    <Region>World</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>9e235c51-f660-4225-a7a7-302b570f017a</GameID>
+    <Name>Best of the Best: Championship Karate</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>941f6bb1-f566-4255-94b8-d422f49518c0</GameID>
+    <Name>Tintin sur la Lune</Name>
+    <Region>France</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>b63ec8f7-8595-4765-a9ec-ec3a9971a91c</GameID>
+    <Name>Batman : The Movie</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>38315e53-d80d-4e44-9697-c46f818d000f</GameID>
+    <Name>Switch Blade</Name>
+    <Region />
+  </AlternateName>
+</LaunchBox>

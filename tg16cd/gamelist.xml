@@ -1,0 +1,858 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gameList>
+  <provider>
+    <System>NEC PC Engine CD-Rom</System>
+    <software>Skraper</software>
+    <database>ScreenScraper.fr</database>
+    <web>http://www.screenscraper.fr</web>
+  </provider>
+  <game id="118878" source="ScreenScraper.fr">
+    <path>./Addams Family, The (USA) (tg16cd).chd</path>
+    <name>Addams Family, The </name>
+    <desc>Based on the Addams Family movie, this game is quite different from the other Addams Family variants. The player is cast in the role of Tully Alford, the crooked lawyer of the Addams family. He finds out that somewhere in the family mansion, a great treasure is stored in a vault. He decides to venture into the mansion and retrieve the treasure. Naturally, this is going to be anything but easy, as the insane Addams family members and a legion of ghosts and monsters are there to make sure the lawyer fails... 
+ 
+Like most other Addams Family incarnations, this is a side-scrolling action game. Tully Alford's only weapon is an umbrella that fires energy shots at enemies. Tully can also jump and duck to avoid enemy blows. The game world consists of a "hub" area, the hall of Addams Family mansion, and many rooms, most of which are locked in the beginning of the game. The gameplay consists mainly of exploring the accessible rooms and collecting keys that are needed to open other doors in the process. Some of the rooms contain treasure and power-ups, while others are infested by monsters or require the player to defeat a boss enemy in order to advance.</desc>
+    <releasedate>19910101T000000</releasedate>
+    <developer>ICOM Simulations</developer>
+    <publisher>NEC</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./media/mixart/Addams Family, The (USA) (tg16cd).png</image>
+    <thumbnail>./media/wheel/Addams Family, The (USA) (tg16cd).png</thumbnail>
+    <video>./media/snap/Addams Family, The (USA) (tg16cd).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="14538" source="ScreenScraper.fr">
+    <path>./Beyond Shadowgate (USA) (tg16cd).chd</path>
+    <name>Beyond Shadowgate </name>
+    <desc>This is a sequel to the adventure game Shadowgate. You control Prince Eric, the descendant of the hero of the first game. You return to your home country, only to discover that your father was murdered. You should become the new king, but the minister of the late king has other plans, frames you for killing your own father, and throws you into jail, where your adventure begins.
+
+Unlike the first Shadowgate, this is a platform game - not an action game, but a classical point-and-click adventure viewed from a platform perspective. You can move your hero around, examine, manipulate, and take objects. You can also duck and have a "punch" command. Find the correct solutions to the game's puzzles, otherwise a gruesome death awaits you!</desc>
+    <releasedate>19930101T000000</releasedate>
+    <developer>Turbo Technologies, Inc.</developer>
+    <publisher>Icom</publisher>
+    <genre>Adventure</genre>
+    <players>1</players>
+    <image>./media/mixart/Beyond Shadowgate (USA) (tg16cd).png</image>
+    <thumbnail>./media/wheel/Beyond Shadowgate (USA) (tg16cd).png</thumbnail>
+    <video>./media/snap/Beyond Shadowgate (USA) (tg16cd).mp4</video>
+    <genreid>512</genreid>
+  </game>
+  <game id="103568" source="ScreenScraper.fr">
+    <path>./Bonk III - Bonk's Big Adventure (USA) (tg16cd).chd</path>
+    <name>Bonk III - Bonk's Big Adventure </name>
+    <desc>Bonk is back! And he's bigger and better than ever! Use your head (literally) to traverse 6 wild locations- including a forest grove, an antartic ice prison and more! Chomp on blue miracle candy to grow to gigantic proportions and break right through large obstacles. Chomp red candy to shrink to microscopic size and slip right under narrow cracks to discover secret items! Catch the magic flower in each stage to be transported to a bonus round- where you can score more points and earn bonus men! On your way, you will defeat menacing bosses that include acrobatic dinosaur, a sneaky squid and other! Are you ready to save the world, little cave dude!?</desc>
+    <releasedate>19930101T000000</releasedate>
+    <developer>Hudson</developer>
+    <publisher>NEC</publisher>
+    <genre>Platform</genre>
+    <players>1</players>
+    <image>./media/mixart/Bonk III - Bonk's Big Adventure (USA) (tg16cd).png</image>
+    <thumbnail>./media/wheel/Bonk III - Bonk's Big Adventure (USA) (tg16cd).png</thumbnail>
+    <video>./media/snap/Bonk III - Bonk's Big Adventure (USA) (tg16cd).mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="103571" source="ScreenScraper.fr">
+    <path>./Buster Bros. (USA) (tg16cd).chd</path>
+    <name>Buster Bros. </name>
+    <desc>Your goal is to destroy the balloons which bounce around the playfield. To accomplish this, you can shoot hooks which travel upwards, and blow up any balloon they touch. Depending on their size, they either split on two smaller ones, or evaporate if they're at their minimum size. Apart from balloons, some levels also have barriers that have to be destroyed with your hooks, since they often block your access to balloons. There are also some barriers which cannot ever be destroyed. Your character has the ability to climb ladders, but cannot jump.</desc>
+    <releasedate>19910531T000000</releasedate>
+    <developer>Mitchell Corporation</developer>
+    <publisher>Hudson</publisher>
+    <genre>Puzzle-Game-Action</genre>
+    <players>1-2</players>
+    <image>./media/mixart/Buster Bros. (USA) (tg16cd).png</image>
+    <thumbnail>./media/wheel/Buster Bros. (USA) (tg16cd).png</thumbnail>
+    <video>./media/snap/Buster Bros. (USA) (tg16cd).mp4</video>
+    <genreid>2816</genreid>
+  </game>
+  <game id="103576" source="ScreenScraper.fr">
+    <path>./Camp California (USA) (tg16cd).chd</path>
+    <name>Camp California </name>
+    <desc>Camp California is the second and last game based on the short-lived multimedia property of the same name, featuring a group of anthropomorphic animals who are the official mascots of surf rock group The Beach Boys.
+
+In the game, the gnarly surfer dudes of the Camp California crew find that their favorite beach has been sold to a villain called the Big Cheese who plans to build a nuclear power plant in the area. The gang's plan: hold a benefit concert to raise enough money to buy back the beach. Unfortunately, the Big Cheese gets wind of the plan and sends his henchmen, the Ratz, to kidnap the crew, steal their instruments and take the tires off Woody, the gang's trusty vehicle. Luckily, Byron the bear was out surfing while this happened, and it now falls to him to rescue his friends and get back the tires and the instruments.
+
+The game is a side-scrolling platformer consisting of nine levels, with such areas as a beach, a junkyard, an amusement park, an army base and a mall. The levels are reached via an overview map of California that players drive along in Woody. To start the car, the tires must be found in the first level. All other levels then contain instruments or members of the crew to rescue. At the start, players can only control Byron, but once a new friend has been rescued, they can be selected to be played at the beginning of a level. All characters differ in abilities. Byron punches and kicks to defeat enemies while Lil' Bro (the star of the previous game) uses his skateboard to skid or jump on top of the bad guys. Shred can turn into a tornado, Pouch headbutts and is also the only one who can swim underwater, and Scream'r uses a boomerang and is the only one who can fly.
+
+Besides many enemies (mostly the Ratz gang, but also robotic dogs and other critters) the levels include recyclables to pick up, like soda cans and banana peels. When a level is completed, the trash is converted into fuel for Woody. If the fuel runs out on the overview map, the car can only be restarted at the loss of a life.
+
+The game features voiced cutscenes and CD-quality background music, including three Beach Boys tracks: Fun, Fun, Fun, I Get Around and Good Vibrations.</desc>
+    <releasedate>19930101T000000</releasedate>
+    <developer>ICOM Simulations, Inc.</developer>
+    <publisher>Turbo Technologies, Inc.</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./media/mixart/Camp California (USA) (tg16cd).png</image>
+    <thumbnail>./media/wheel/Camp California (USA) (tg16cd).png</thumbnail>
+    <video>./media/snap/Camp California (USA) (tg16cd).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="103577" source="ScreenScraper.fr">
+    <path>./Cosmic Fantasy 2 (USA) (tg16cd).chd</path>
+    <name>Cosmic Fantasy 2 </name>
+    <desc>Van is a young boy who lives on the planet Idea, a place where technology has not yet reached a high level. One day his sweetheart Laura gets kidnapped by an unknown villain. Van soon discovers that Laura possesses mysterious powers that may grant immortality to the one who marries her. That is exactly what the evil wizard Galam has in mind. Van sets off to rescue Laura, on a quest that involves intergalactic journeys and travel through time.
+
+Cosmic Fantasy 2 is a sequel to Cosmic Fantasy: B?ken Sh?nen Yuu, and the only installment in the series to have been released in the West. Though initially not directly related to its predecessor story-wise, the game features several common characters and themes. 
+
+Like the previous game, it is a Japanese-style RPG set in a mixed sci-fi and medieval world. The game has random enemy encounters and simple turn-based combat mechanics. Player-controlled characters can learn and use various offensive and healing spells; however, enemies are restricted to physical attacks. Characters join and leave the party frequently, as dictated by the plot; the party may contain up to four active combatants. Story progression and overworld exploration is linear; dungeons are usually fairly complex and maze-like. Full-screen anime-style cutscenes with voice-overs advance the story of the game.</desc>
+    <releasedate>19910405T000000</releasedate>
+    <developer>Shin-Nihon Laser Soft</developer>
+    <publisher>Working Designs</publisher>
+    <genre>Role playing games</genre>
+    <players>1</players>
+    <image>./media/mixart/Cosmic Fantasy 2 (USA) (tg16cd).png</image>
+    <thumbnail>./media/wheel/Cosmic Fantasy 2 (USA) (tg16cd).png</thumbnail>
+    <video>./media/snap/Cosmic Fantasy 2 (USA) (tg16cd).mp4</video>
+    <genreid>768</genreid>
+  </game>
+  <game id="14533" source="ScreenScraper.fr">
+    <path>./Dragon Slayer - The Legend of Heroes (USA) (tg16cd).chd</path>
+    <name>Dragon Slayer - The Legend of Heroes </name>
+    <desc>Dragon Slayer: The Legend of Heroes is a RPG for PC Engine. You play as Prince Selios/Logan. During a test intended to make you a warrior, the kingdom of your father is attacked by savage monsters. Betrayed on all sides by your former allies, you must recruit companions to liberate your country.</desc>
+    <releasedate>19921201T000000</releasedate>
+    <developer>Nihon Falcom</developer>
+    <publisher>Hudson</publisher>
+    <genre>Role playing games</genre>
+    <players>1</players>
+    <image>./media/mixart/Dragon Slayer - The Legend of Heroes (USA) (tg16cd).png</image>
+    <thumbnail>./media/wheel/Dragon Slayer - The Legend of Heroes (USA) (tg16cd).png</thumbnail>
+    <video>./media/snap/Dragon Slayer - The Legend of Heroes (USA) (tg16cd).mp4</video>
+    <genreid>768</genreid>
+  </game>
+  <game id="103580" source="ScreenScraper.fr">
+    <path>./Dungeon Explorer II (USA) (tg16cd).chd</path>
+    <name>Dungeon Explorer II </name>
+    <desc>This CD sequel to Dungeon Explorer plays exactly the same as the first game. You chose your character from a variety of fantasy stereotypes and set forth in a Gauntlet-esque adventure. The CD format allows a greater quantity and variety of levels to compliment the storyline, with new areas and characters becoming open to you as you progress.</desc>
+    <rating>0.9</rating>
+    <releasedate>19930326T000000</releasedate>
+    <developer>Atlus</developer>
+    <publisher>Hudson</publisher>
+    <genre>Role playing games</genre>
+    <players>5</players>
+    <image>./media/mixart/Dungeon Explorer II (USA) (tg16cd).png</image>
+    <thumbnail>./media/wheel/Dungeon Explorer II (USA) (tg16cd).png</thumbnail>
+    <video>./media/snap/Dungeon Explorer II (USA) (tg16cd).mp4</video>
+    <genreid>768</genreid>
+  </game>
+  <game id="103579" source="ScreenScraper.fr">
+    <path>./Dungeon Master - Theron's Quest (USA) (tg16cd).chd</path>
+    <name>Dungeon Master - Theron's Quest </name>
+    <desc>Terrifyingly brutal beasts! Monstrous mazes! Treacherous pits of evil! The adventure of a lifetime is here....Theron's Quest!! 
+ 
+The Monastery at Ya-Brodin has fallen to the Cult of Deaths and the Brotherhood of Enlightenment, the true keepers of Magic, have been slaughtered. The Seven Great Treasures now lie in the hands of foul beings who will stop at nothing to hold onto their massive powers. But Theron, with a courage beyond belief, has decided to seek out the Cult of Deaths and win back the Treasures. If he succeeds, he will become a High Lord. If not, the land will see eternal darkness.</desc>
+    <releasedate>19920918T000000</releasedate>
+    <developer>FTL Games</developer>
+    <publisher>Victor Entertainment</publisher>
+    <genre>Role playing games</genre>
+    <players>1</players>
+    <image>./media/mixart/Dungeon Master - Theron's Quest (USA) (tg16cd).png</image>
+    <thumbnail>./media/wheel/Dungeon Master - Theron's Quest (USA) (tg16cd).png</thumbnail>
+    <video>./media/snap/Dungeon Master - Theron's Quest (USA) (tg16cd).mp4</video>
+    <genreid>768</genreid>
+  </game>
+  <game id="14582" source="ScreenScraper.fr">
+    <path>./Dynastic Hero, The (USA) (tg16cd).chd</path>
+    <name>Dynastic Hero, The </name>
+    <desc>The Dynastic Hero is a slightly re-branded version of Wonder Boy in Monster World for the Turbo Duo.The game features palette-swapped visuals, new insect-themed graphics for main characters (and insects' natural predators as bosses), a Red Book audio soundtrack which is completely different from the Wonder Boy original, and anime-style cutscenes at the intro and ending. Shion was renamed Dyna and was modeled after a Hercules Beetle, and the final boss was changed to a giant lizard king. An English-language version was also produced, but both were built off of the Japanese version of Wonder Boy in Monster World. They feature the same difficulty and mechanics as the Japanese original.</desc>
+    <releasedate>19910101T000000</releasedate>
+    <developer>Westone</developer>
+    <publisher>Hudson</publisher>
+    <genre>Role playing games</genre>
+    <players>1</players>
+    <image>./media/mixart/Dynastic Hero, The (USA) (tg16cd).png</image>
+    <thumbnail>./media/wheel/Dynastic Hero, The (USA) (tg16cd).png</thumbnail>
+    <video>./media/snap/Dynastic Hero, The (USA) (tg16cd).mp4</video>
+    <genreid>768</genreid>
+  </game>
+  <game id="103563" source="ScreenScraper.fr">
+    <path>./Exile - Wicked Phenomenon (USA) (tg16cd).chd</path>
+    <name>Exile - Wicked Phenomenon </name>
+    <desc>The world of Chaltar is at stake and Sadler returns as the main protagonist and titular character of the series. Nearly, as his first task is to look for his friends in the nearby towns. Unlike the previous episodes of the series, Sadler is here one of several possible playable characters - the cute but lethal Rumi, the strong Kindi and the mystic Fakhyle follow our hero in his quest and can be controlled. The game follows the same formula laid out by its predecessors and alternates between fighting and exploring. The first part gets Sadler to walk around towns, talk to villagers or purchase new equipment. The fighting phases are classic hack-and-slash action scenes set in countless hostile locations - there the player fight enemies, bosses and earn precious experience points and gold coins.</desc>
+    <releasedate>19920922T000000</releasedate>
+    <developer>AlfaSystem</developer>
+    <publisher>Nihon Telenet</publisher>
+    <genre>Action-Role playing games</genre>
+    <players>1</players>
+    <image>./media/mixart/Exile - Wicked Phenomenon (USA) (tg16cd).png</image>
+    <thumbnail>./media/wheel/Exile - Wicked Phenomenon (USA) (tg16cd).png</thumbnail>
+    <video>./media/snap/Exile - Wicked Phenomenon (USA) (tg16cd).mp4</video>
+    <genreid>768</genreid>
+  </game>
+  <game id="14564" source="ScreenScraper.fr">
+    <path>./Exile (USA) (tg16cd).chd</path>
+    <name>Exile </name>
+    <desc>Exile concerns the desert adventures of Sadler, the great hero whose revolt years before led to the downfall of a powerful empire. Recently, however, peace was broken in Sadler's home country, as the rival Luciel empire has been launching attacks on the Village of Dunes. Exile is a hybrid action/role-playing game. Travel and exploration occurs in the traditional overhead view of RPGs, while the battles and dungeons are side-scrolling mazes, similar to Wanderers from Ys. Characters gain experience and levels, buy equipment, and use magic.</desc>
+    <releasedate>19920101T000000</releasedate>
+    <developer>Working Designs</developer>
+    <publisher>Telenet</publisher>
+    <genre>Role playing games</genre>
+    <players>1</players>
+    <image>./media/mixart/Exile (USA) (tg16cd).png</image>
+    <thumbnail>./media/wheel/Exile (USA) (tg16cd).png</thumbnail>
+    <video>./media/snap/Exile (USA) (tg16cd).mp4</video>
+    <genreid>768</genreid>
+  </game>
+  <game id="103578" source="ScreenScraper.fr">
+    <path>./Fantastic Night Dreams - Cotton (USA) (tg16cd).chd</path>
+    <name>Fantastic Night Dreams - Cotton </name>
+    <desc>Cotton: Fantastic Night Dreams plays in a similar way to other scrolling shooter video games such as R-Type. What distinguishes Cotton: Fantastic Night Dreams from other games of a similar ilk is its bright colourful graphics and its lead character, Cotton. The game also takes place in a fantasy dream-like world instead of space like many other shooting games. The game can be compared to other fantasy Shoot 'em up games like Parodius. It bears most similarities in style to the Chariot game on Three Wonders. 
+ 
+The player controls Cotton, a young witch on a broomstick. The player must blast various monsters and avoid being shot. The player can collect power-ups to enhance their weaponry and unleash a more powerful attack on the enemy. The player has lives represented by an arrow. The player has three lives and is only allowed one hit per life.</desc>
+    <releasedate>19930212T000000</releasedate>
+    <developer>Success</developer>
+    <publisher>Hudson</publisher>
+    <genre>Shoot'em Up-Shoot'em up / Horizontal</genre>
+    <players>1</players>
+    <image>./media/mixart/Fantastic Night Dreams - Cotton (USA) (tg16cd).png</image>
+    <thumbnail>./media/wheel/Fantastic Night Dreams - Cotton (USA) (tg16cd).png</thumbnail>
+    <video>./media/snap/Fantastic Night Dreams - Cotton (USA) (tg16cd).mp4</video>
+    <genreid>260</genreid>
+  </game>
+  <game id="14485" source="ScreenScraper.fr">
+    <path>./Fighting Street (USA) (tg16cd).chd</path>
+    <name>Fighting Street </name>
+    <desc>Deep inside you there lurks a warrior. Let him loose! And test him against the martial arts champions of 5 nations. Grit your teeth, pump up and take after Retsu and Geki from Japan. Most worthy opponents! But watch out for the baddest - Adon and Sagat, a couple of Thai's. Mike and Joe (USA), Birdi and Eagle (UK), Lee and Gen (China) all have their own special "tricks." Be quick and strong, or be gone!</desc>
+    <releasedate>19891204T000000</releasedate>
+    <developer>NEC</developer>
+    <publisher>Capcom</publisher>
+    <genre>Fight</genre>
+    <players>1</players>
+    <image>./media/mixart/Fighting Street (USA) (tg16cd).png</image>
+    <thumbnail>./media/wheel/Fighting Street (USA) (tg16cd).png</thumbnail>
+    <video>./media/snap/Fighting Street (USA) (tg16cd).mp4</video>
+    <genreid>262</genreid>
+  </game>
+  <game id="103575" source="ScreenScraper.fr">
+    <path>./Final Zone II (USA) (tg16cd).chd</path>
+    <name>Final Zone II </name>
+    <desc>Final Zone II is a top down shooter in which you controls a soldier on some levels and vehicle on other levels. As a soldier you don a "New Age Power Suit" and have a choice of playing several different characters, though it is only a one player game. 
+ 
+The object of the game is to fight an enemy army led by "ZOD" who is a mass murderer and killed some of your commando friends. There are various armaments and shields that you can pick up along the way. There are several manga-style animation sequences in the game. 
+ 
+This is the sequel to a Mega Drive game called Final Zone which was released in 1990 also.</desc>
+    <releasedate>19900323T000000</releasedate>
+    <developer>Renovation Products</developer>
+    <publisher>Telenet</publisher>
+    <genre>Shoot'em Up-Shoot'em up / Vertical</genre>
+    <players>1</players>
+    <image>./media/mixart/Final Zone II (USA) (tg16cd).png</image>
+    <thumbnail>./media/wheel/Final Zone II (USA) (tg16cd).png</thumbnail>
+    <video>./media/snap/Final Zone II (USA) (tg16cd).mp4</video>
+    <genreid>260</genreid>
+  </game>
+  <game id="14578" source="ScreenScraper.fr">
+    <path>./Forgotten Worlds (USA) (En,Ja) (tg16cd).chd</path>
+    <name>Forgotten Worlds  </name>
+    <desc>Forgotten Worlds features two characters known as The Nameless Ones, who both look like Arnold Schwarzenegger, one even has a mohawk. It's their job to rid the planet of the attacking aliens. 
+
+Guiding your character around the screen as they fly with jet-packs, guns on full auto, you control a satellite which you rotate around your character for the direction in which your gun is firing. At the end of each level is a boss which needs to be killed to progress.
+
+Enemies that have been killed drop money. At the end of every level is a shop where you can buy weapons, armour, items and first-aid packs.</desc>
+    <releasedate>19920327T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>NEC</publisher>
+    <genre>Action-Shoot'em Up</genre>
+    <players>1</players>
+    <image>./media/mixart/Forgotten Worlds (USA) (En,Ja) (tg16cd).png</image>
+    <thumbnail>./media/wheel/Forgotten Worlds (USA) (En,Ja) (tg16cd).png</thumbnail>
+    <video>./media/snap/Forgotten Worlds (USA) (En,Ja) (tg16cd).mp4</video>
+    <genreid>260</genreid>
+  </game>
+  <game id="204288" source="ScreenScraper.fr">
+    <path>./FX Unit Yuki - The Henshin Engine (USA) (Unl) (Rerelease) (tg16cd).chd</path>
+    <name>FX Unit Yuki - The Henshin Engine   </name>
+    <desc>Stop SG Corporation from hacking into the CJC video game!nnTake the role of the young Yuki Shirokawa, the new beta-steller of the JEC company. Transformed into an FX Unit Yuki when it approached the FX Engine too close, it is now able to get into the game and chase away the malware of SG Corp and its champion: Ultradrive Unit Geni. Go through the 8 different levels, mixing platform game and shoot'em up, taking care of the many traps, enemies and formidable bosses.</desc>
+    <releasedate>20180412T000000</releasedate>
+    <developer>Eponasoft</developer>
+    <publisher>SaruPro</publisher>
+    <image>./media/mixart/FX Unit Yuki - The Henshin Engine (USA) (Unl) (Rerelease) (tg16cd).png</image>
+    <thumbnail>./media/wheel/FX Unit Yuki - The Henshin Engine (USA) (Unl) (Rerelease) (tg16cd).png</thumbnail>
+  </game>
+  <game id="14496" source="ScreenScraper.fr">
+    <path>./Gate of Thunder + Bonk's Adventure + Bonk's Revenge (USA) (tg16cd).chd</path>
+    <name>Gate of Thunder + Bonk's Adventure + Bonk's Revenge </name>
+    <desc>A side-scrolling shoot-'em-up, Gate of Thunder asks players to take control of the space-craft "Hunting Dog". You fly left-to-right mostly, with occasional vertically-scrolling sections, and use several different weapon styles to defeat your many foes. Along with Esty in her ship the "Wild Cat", you must defeat the forces of General Don Jingi, who has plans of taking energy from the star of Aries.
+
+Playing as the pilot Hawk, players must avoid collisions and weapon-fire from the General's "Obellon" army. Consisting of many different types of enemy, the army has a massive, sprawling force of guns, turret, ships, battle-stations and mech-type units. Their fire-power is immense and you are the single opposing force!
+
+Gate of Thunder allows players to choose in real-time from three weapon-fire types. A blue-coloured electrical fire, a green-coloured wave-fire, and a red-coloured quake-type fire. Along with this, players obtain homing-missiles and the assistance of the "Wild Cat" which orbits the ship separately. Gate of Thunder also features a critically acclaimed soundtrack that remains a talking-point to this day.</desc>
+    <releasedate>19920221T000000</releasedate>
+    <developer>Red Company</developer>
+    <publisher>Hudson</publisher>
+    <genre>Shoot'em up / Horizontal-Shoot'em Up</genre>
+    <players>1</players>
+    <image>./media/mixart/Gate of Thunder + Bonk's Adventure + Bonk's Revenge (USA) (tg16cd).png</image>
+    <thumbnail>./media/wheel/Gate of Thunder + Bonk's Adventure + Bonk's Revenge (USA) (tg16cd).png</thumbnail>
+    <video>./media/snap/Gate of Thunder + Bonk's Adventure + Bonk's Revenge (USA) (tg16cd).mp4</video>
+    <genreid>260</genreid>
+  </game>
+  <game id="103561" source="ScreenScraper.fr">
+    <path>./Godzilla (USA) (tg16cd).chd</path>
+    <name>Godzilla </name>
+    <desc>This interpretation of the famous giant monster from the Japanese cinematic industry takes form of a fighting game, only instead of the usual brave martial artists the players control horrifying monsters from the traditional  Toho lineage: the titular beast itself, Rodan, Anguirus, Ghidorah, and others. The game has two modes: Normal and Vs. The latter is essentially a two-player mode, which allows the players to engage in giant monster battles in a variety of scenarios. Most of the monsters, however, are locked in the Vs. mode before the player has completed the Normal mode.
+
+The Normal mode puts the player in control of Godzilla, who has to go through five stages before reaching the final boss. Each stage has two battles against two different creatures in two different locations, from which the player has to complete only one in order to proceed to the next stage. Depending on the player's performance, points are awarded; in order to be able to compete against different final bosses, the player has to accumulate more points. If the player only has the minimum required points, only one final boss will be available.
+
+The combat system is similar to other fighting games, with various combinations of buttons executing different moves. Naturally, the normal "punch-kick" scheme is modified to suit the monsters' shapes and biological peculiarities. For example, monsters with tails can use tail spin attacks; fire-breathing monsters have a range fire attack, etc. Most of the monsters (including Godzilla) have a move when they hold the opponent and suck its blood. </desc>
+    <releasedate>19940226T000000</releasedate>
+    <developer>Hudson</developer>
+    <publisher>Toho Company</publisher>
+    <genre>Fight-Fight / 2D-Action</genre>
+    <players>1-2</players>
+    <image>./media/mixart/Godzilla (USA) (tg16cd).png</image>
+    <thumbnail>./media/wheel/Godzilla (USA) (tg16cd).png</thumbnail>
+    <video>./media/snap/Godzilla (USA) (tg16cd).mp4</video>
+    <genreid>262</genreid>
+  </game>
+  <game id="0" source="ScreenScraper.fr">
+    <path>./Hawiian Island Girls (USA) (Unl) (tg16cd).chd</path>
+    <name>Hawiian Island Girls (USA) (Unl)</name>
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game id="0" source="ScreenScraper.fr">
+    <path>./Henshin Engine (USA) (Unl) (Demo) (tg16cd).chd</path>
+    <name>Henshin Engine (USA) (Unl) (Demo)</name>
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game id="200257" source="ScreenScraper.fr">
+    <path>./Hypernova Blast (USA) (Unl) (tg16cd).chd</path>
+    <name>Hypernova Blast  </name>
+    <desc>Inspirado en el videojuego de Nova Blast, debes defender mediante misiles las ciudades o incluso repararlas. Los niveles continúan unos detrás de otros, sin interrupciones, ni forma de diferenciarlos. La repetición de acciones conjuntas tienen un efecto soporífero en el jugador. Incluye 200 niveles y muchas pistas de música.</desc>
+    <releasedate>20140101T000000</releasedate>
+    <developer>Bt Garner</developer>
+    <publisher>MindRec</publisher>
+    <genre>Action</genre>
+    <players>1-5</players>
+    <image>./media/mixart/Hypernova Blast (USA) (Unl) (tg16cd).png</image>
+    <thumbnail>./media/wheel/Hypernova Blast (USA) (Unl) (tg16cd).png</thumbnail>
+    <genreid>256</genreid>
+  </game>
+  <game id="103581" source="ScreenScraper.fr">
+    <path>./Implode (USA) (Unl) (tg16cd).chd</path>
+    <name>Implode  </name>
+    <desc>Implode is a homebrew puzzle game. It plays like a falling block puzzle in all respects, with the exception of the fact that the blocks appear from below instead of falling. All the blocks have the same shape and are only distinguished by their color. The player must selects groups of three or more identically colored blocks in order to make them disappear. The goal is to not let the blocks stack up and pass the upper border of the screen. Bombs would sometimes appear and clear out adjacent blocks if the player selects them. The game gradually advances to higher difficulty levels, with more colors and faster speed.
+
+Also included on the CD are two games previously only released in downloadable emulation format: Crash and Humpball. The first is a single-screen overhead arcade racing game. Two cars race automatically on a maze-like screen in circular movement. Players must press directional buttons to switch between the tracks. The goal is to move over all the dots scattered in the stage while avoiding crashing into the other car. 
+
+Humpball can be described as a cross between Pong and a volleyball game. Two hump-like creatures are positioning on either side of a pole, tossing a ball towards the opponent's side by moving to the sides and jumping. The goal is to make the ball touch the opponent's floor, which results in scoring a point. Power-ups that move the pole to left or right, change the speed of the ball, gravity rules, etc., appear randomly and are activated when touched by the ball.</desc>
+    <releasedate>20020101T000000</releasedate>
+    <developer>MindRec</developer>
+    <publisher>MindRec</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./media/mixart/Implode (USA) (Unl) (tg16cd).png</image>
+    <thumbnail>./media/wheel/Implode (USA) (Unl) (tg16cd).png</thumbnail>
+    <video>./media/snap/Implode (USA) (Unl) (tg16cd).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="190834" source="ScreenScraper.fr">
+    <path>./Insanity (USA) (Unl) (tg16cd).chd</path>
+    <name>Insanity  </name>
+    <desc>Imprisoned by an army of robots on a giant space station, you know there's only one thing you can do - blast your way out. That pretty much sums up the plot of Insanity, the first PC Engine game from homebrew developers Aetherbyte Studios. Insanity is essentially a clone of the classic arcade game Berzerk and retains the straightforward gameplay of the original. You run around the flip-screen play area (whose map layout is randomly generated from a selection of master templates) shooting the robots that are out to get you. The robots are pretty dumb to begin with and often blow themselves up by wandering into the electrified walls, but as you progress they get a little faster and a lot more aggressive, making anticipation and dodging of lasers key skills. The action is accompanied by a selection of retro styled music tracks, giving you the option of CD music or chip generated versions of the same tunes.</desc>
+    <releasedate>20091024T000000</releasedate>
+    <developer>Aetherbyte</developer>
+    <publisher>Aetherbyte</publisher>
+    <players>1</players>
+    <image>./media/mixart/Insanity (USA) (Unl) (tg16cd).png</image>
+    <thumbnail>./media/wheel/Insanity (USA) (Unl) (tg16cd).png</thumbnail>
+    <video>./media/snap/Insanity (USA) (Unl) (tg16cd).mp4</video>
+  </game>
+  <game id="103582" source="ScreenScraper.fr">
+    <path>./It Came from the Desert (USA) (tg16cd).chd</path>
+    <name>It Came from the Desert </name>
+    <desc>It Came from the Desert is a remake of the the original 1989 Amiga game of the same name, but with a vast amount of changes and improvements. The basic setting was kept identical. It is a mix of action and adventure elements, largely inspired from cult-horror B-Movies of the 50's and 60's, and the 1954 film Them in particular. The player plays the part of Dr. Greg Bradley, a geologist and the newest resident in town. Eager to satisfy his scientific mind, Bradley sets out to examine the crash-site of a mysterious meteor, but what he finds is not at all what he had been looking for.</desc>
+    <releasedate>19890101T000000</releasedate>
+    <developer>Cinemaware</developer>
+    <publisher>Mirrorsoft Ltd.</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./media/mixart/It Came from the Desert (USA) (tg16cd).png</image>
+    <thumbnail>./media/wheel/It Came from the Desert (USA) (tg16cd).png</thumbnail>
+    <video>./media/snap/It Came from the Desert (USA) (tg16cd).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="103585" source="ScreenScraper.fr">
+    <path>./J. B. Harold Murder Club (USA) (En,Ja) (tg16cd).chd</path>
+    <name>J. B. Harold Murder Club  </name>
+    <desc>Murder Club is an adventure game with simulation elements. The player controls the private detective J.B. Harold, who must investigate the murder of a wealthy businessman named Bill Robbins and bring the murderer to court. The player has to do all the work a real detective would do: find clues, gather evidence, interrogate suspects, establish the motive for the crime ? and in the end, make sure the case will stand up in the court. </desc>
+    <releasedate>19901123T000000</releasedate>
+    <developer>Riverhillsoft</developer>
+    <publisher>NEC</publisher>
+    <genre>Adventure</genre>
+    <players>1</players>
+    <image>./media/mixart/J. B. Harold Murder Club (USA) (En,Ja) (tg16cd).png</image>
+    <thumbnail>./media/wheel/J. B. Harold Murder Club (USA) (En,Ja) (tg16cd).png</thumbnail>
+    <video>./media/snap/J. B. Harold Murder Club (USA) (En,Ja) (tg16cd).mp4</video>
+    <genreid>512</genreid>
+  </game>
+  <game id="103584" source="ScreenScraper.fr">
+    <path>./John Madden Duo CD Football (USA) (RE) (tg16cd).chd</path>
+    <name>John Madden Duo CD Football  </name>
+    <desc>The first and only Madden game to appear on the TurboGrafx, it features the standard game modes such as exhibition and season and features full-motion video of plays, fans and many other important events happening on and off the field.  It also features digitized voices of the quarterbacks, referees and fans, but the most important being the games namesake, John Madden, who lends his voice talent to the game.</desc>
+    <releasedate>19930712T000000</releasedate>
+    <developer>Hudson</developer>
+    <publisher>Hudson</publisher>
+    <genre>Sports-Sports / Football</genre>
+    <players>1-2</players>
+    <image>./media/mixart/John Madden Duo CD Football (USA) (RE) (tg16cd).png</image>
+    <thumbnail>./media/wheel/John Madden Duo CD Football (USA) (RE) (tg16cd).png</thumbnail>
+    <video>./media/snap/John Madden Duo CD Football (USA) (RE) (tg16cd).mp4</video>
+    <genreid>1538</genreid>
+  </game>
+  <game id="103565" source="ScreenScraper.fr">
+    <path>./Last Alert (USA) (tg16cd).chd</path>
+    <name>Last Alert </name>
+    <desc>In the near future, a cabal of 4 very evil, powerful men known as The Force is planning world domination through the use of a Super Weapon known and Indra. You are Guy Kazama, a general-purpose bad-ass soldier who can stop these guys.  You must take out each of the conspirators one by one and destroy the Indra before it becomes fully operational.
+
+Last Alert is a shoot-em up played from a top-down perspective.  You move Guy around more than 20 levels and shoot everything that stands in your way.</desc>
+    <releasedate>19891228T000000</releasedate>
+    <developer>Shin-Nihon Laser Soft</developer>
+    <publisher>NEC</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./media/mixart/Last Alert (USA) (tg16cd).png</image>
+    <thumbnail>./media/wheel/Last Alert (USA) (tg16cd).png</thumbnail>
+    <video>./media/snap/Last Alert (USA) (tg16cd).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="0" source="ScreenScraper.fr">
+    <path>./Local Girls of Hawaii, The (USA) (Unl) (tg16cd).chd</path>
+    <name>Local Girls of Hawaii, The (USA) (Unl)</name>
+    <desc />
+    <releasedate />
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game id="14473" source="ScreenScraper.fr">
+    <path>./Loom (USA) (tg16cd).chd</path>
+    <name>Loom </name>
+    <desc>Loom was the fourth game to use the SCUMM scripting language. The game follows Bobbin Threadbare as he learns how to use his magical powers through his distaff and as he eventually saves the world from the Lord of Chaos, who was unraveling the Loom (the source of power for the members of the weaver's guild) (tg16cd). 
+ 
+Loom is an adventure game that sets itself apart from other titles in the genre through its unique gameplay system: the player character does not carry items around, but rather manipulates objects through the use of spells (called "drafts" in the game) (tg16cd). The drafts themselves are woven by playing magical notes on a special instrument called "distaff". All the puzzles in the game are solved by learning and correctly applying these drafts.  
+ 
+Although the PC Engine version is CD based, it isn't a port of the PC CD-ROM version. Instead, it features mixed visuals from the 16- and 256-color versions adapted to the PC Engine's color palette and enhanced CD soundtrack with no spoken dialogue.</desc>
+    <releasedate>19921204T000000</releasedate>
+    <developer>Turbo Technologies, Inc.</developer>
+    <publisher>LucasArts</publisher>
+    <genre>Adventure</genre>
+    <players>1</players>
+    <image>./media/mixart/Loom (USA) (tg16cd).png</image>
+    <thumbnail>./media/wheel/Loom (USA) (tg16cd).png</thumbnail>
+    <video>./media/snap/Loom (USA) (tg16cd).mp4</video>
+    <genreid>512</genreid>
+  </game>
+  <game id="103564" source="ScreenScraper.fr">
+    <path>./Lords of the Rising Sun (USA) (tg16cd).chd</path>
+    <name>Lords of the Rising Sun </name>
+    <desc>Japan, 12th century. After your father has been murdered, you set out on a quest to become Shogun to restore the honor of your family. 
+ 
+You'll have to defeat all your enemies - including your brother. 
+ 
+Most of the time, you'll move your troops through the big map of Japan - as soon as something happens, you'll have to fight your enemies in action sequences, such as a Gauntlet-like fortress attack or defending against a Ninja assassin. If two troops collide, a battle might ensue in which you'll have to use all your strategical wits to guide your men to victory. 
+ 
+In the CD-i version the informative sequences include life actor FMVs and voice acting as well as new background art.</desc>
+    <releasedate>19920313T000000</releasedate>
+    <developer>Cinemaware</developer>
+    <publisher>NEC</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./media/mixart/Lords of the Rising Sun (USA) (tg16cd).png</image>
+    <thumbnail>./media/wheel/Lords of the Rising Sun (USA) (tg16cd).png</thumbnail>
+    <video>./media/snap/Lords of the Rising Sun (USA) (tg16cd).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="14547" source="ScreenScraper.fr">
+    <path>./Lords of Thunder (USA) (tg16cd).chd</path>
+    <name>Lords of Thunder </name>
+    <desc>In the once peaceful land of Mistral, legend holds of a brave knight named Drak who has sealed an evil god named Deoric beneath the six continents of the land. However, peace never lasts. The Garuda Empire has invaded the lands of Mistral, and the six Dark Generals, led by Sornbul, have conquered the continents. Sornbul's ambition is nothing less than to resurrect Deoric and plunge the land into chaos.
+
+Duran, descendant of Drak, is the only one who can stop the Garuda Empire's mad plan, and with the power of Drak's mystic armors, he heads off to stop Sornbul at any cost.
+
+The six continents of Mistral can be challenged in any order, each of which are filled with hordes of demons and one of Sornbul's Dark Generals. After completing all six continents the player will face Sornbul on the final island. Before a level the player can choose from one of four elemental armors, each with its own bullet spread and unique bomb. The armor's attack can be powered up several levels by finding jewels dropped by enemies. This power level, as well as the armor's health, is reduced when hit. Enemies also drop crystals that are used in a between-level shop to buy additional health, bombs, and continues.</desc>
+    <releasedate>19930101T000000</releasedate>
+    <developer>Red Company</developer>
+    <publisher>Hudson</publisher>
+    <genre>Shoot'em up / Horizontal-Shoot'em Up</genre>
+    <players>1</players>
+    <image>./media/mixart/Lords of Thunder (USA) (tg16cd).png</image>
+    <thumbnail>./media/wheel/Lords of Thunder (USA) (tg16cd).png</thumbnail>
+    <video>./media/snap/Lords of Thunder (USA) (tg16cd).mp4</video>
+    <genreid>260</genreid>
+  </game>
+  <game id="103572" source="ScreenScraper.fr">
+    <path>./Magical Dinosaur Tour (USA) (tg16cd).chd</path>
+    <name>Magical Dinosaur Tour </name>
+    <desc>The Magical Dinosaur Tour is an extensive dinosaur database.
+
+Several modes may be accessed from the main menu, most of which lead to visual presentations and descriptions of various dinosaurs. Individual dinosaur data can be accessed by viewing geological periods and geographical areas (e.g. China of the Cretaceous period) and selecting dinosaurs appearing on the screen; browsing a dinosaur list alphabetically; viewing a genealogical tree; and finally viewing dinosaurs by phylum and family.
+
+Most areas can be scrolled to the sides and some of the dinosaurs present themselves with voice-overs. There is also a variety section that allows viewing various dinosaur-related records and specifications (such as the tallest dinosaurs, inhabitants of cold areas, etc.) (tg16cd). Another section is dedicated to animated sequences depicting various locations and dinosaurs.</desc>
+    <releasedate>19900824T000000</releasedate>
+    <developer>Fun Project, Inc.</developer>
+    <publisher>Victor Entertainment</publisher>
+    <genre>Educational</genre>
+    <players>1</players>
+    <image>./media/mixart/Magical Dinosaur Tour (USA) (tg16cd).png</image>
+    <thumbnail>./media/wheel/Magical Dinosaur Tour (USA) (tg16cd).png</thumbnail>
+    <video>./media/snap/Magical Dinosaur Tour (USA) (tg16cd).mp4</video>
+    <genreid>4352</genreid>
+  </game>
+  <game id="141165" source="ScreenScraper.fr">
+    <path>./Meteor Blaster DX (USA) (Unl) (Rerelease) (tg16cd).chd</path>
+    <name>Meteor Blaster DX   </name>
+    <desc>Meteor Blaster DX is a homebrew Asteroids variant. The player controls a spaceship navigated by an astronaut named Stryker, who is sent on a mission to destroy dangerous asteroids in space. There are four different ships to choose from, each with different power and speed ratings. The player can move the ship and rotate its cannon to shoot asteroids. Big and medium asteroids split in two when shot, and only when they are small they can be fully destroyed. A stage is completed when all the asteroids have been eliminated. All the stages take place on the same screen, but feature different enemies and difficulty level. 
+
+The DX version is a physical release of a previous download-only version, and includes hostile UFOs that shoot at the player-controlled ship, boss battles, CD audio soundtrack, and power-ups that temporarily grant shields and other bonuses.
+
+Also included on the CD is a timed mode ("Caravan Mode") of Implode, as well as the puzzle game Loop, which was previously only released in emulator-only downloadable format and requires the player to rotate and construct loops out of pipe pieces that gradually fill up the screen, making them disappear.</desc>
+    <releasedate>20040101T000000</releasedate>
+    <developer>MindRec</developer>
+    <publisher>MindRec</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./media/mixart/Meteor Blaster DX (USA) (Unl) (Rerelease) (tg16cd).png</image>
+    <thumbnail>./media/wheel/Meteor Blaster DX (USA) (Unl) (Rerelease) (tg16cd).png</thumbnail>
+    <video>./media/snap/Meteor Blaster DX (USA) (Unl) (Rerelease) (tg16cd).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="14475" source="ScreenScraper.fr">
+    <path>./Might and Magic III - Isles of Terra (USA) (tg16cd).chd</path>
+    <name>Might and Magic III - Isles of Terra </name>
+    <desc>Emerging from the depths of the nebulous void, there came four lords. To each lord, a dominion: fire, water, air, and earth. But each lord lusted for more - to be the ultimate ruler of the void. The four lords of the elements descended into a hideous conflict that unleashed a raging storm.</desc>
+    <releasedate>19931029T000000</releasedate>
+    <developer>New World Computing's</developer>
+    <publisher>Hudson</publisher>
+    <genre>Role playing games</genre>
+    <players>1</players>
+    <image>./media/mixart/Might and Magic III - Isles of Terra (USA) (tg16cd).png</image>
+    <thumbnail>./media/wheel/Might and Magic III - Isles of Terra (USA) (tg16cd).png</thumbnail>
+    <video>./media/snap/Might and Magic III - Isles of Terra (USA) (tg16cd).mp4</video>
+    <genreid>768</genreid>
+  </game>
+  <game id="14517" source="ScreenScraper.fr">
+    <path>./Monster Lair (USA) (tg16cd).chd</path>
+    <name>Monster Lair </name>
+    <desc>Feeling more like the first Wonder Boy than the second, Monster Lair is a fast-paced auto scrolling platform game. The levels are split into two stages, the first being a platform stage, the second a shoot 'em up stage which ends in a boss. During the game your energy counts down, so you must keep picking up fruit to replenish yourself. There are a variety of weapons to collect - lasers, spread shots, spinning shields and so on, but these are also on a timer and do not last long, so weapon switching is frequent to avoid being left with your basic short range sword shot. The game is single or two player simultaneous.</desc>
+    <releasedate>19900101T000000</releasedate>
+    <developer>Alfa System</developer>
+    <publisher>Hudson</publisher>
+    <genre>Platform-Shoot'em Up</genre>
+    <players>2</players>
+    <image>./media/mixart/Monster Lair (USA) (tg16cd).png</image>
+    <thumbnail>./media/wheel/Monster Lair (USA) (tg16cd).png</thumbnail>
+    <video>./media/snap/Monster Lair (USA) (tg16cd).mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="200259" source="ScreenScraper.fr">
+    <path>./Mysterious Song (USA) (En,Fr,Es) (Unl) (Rerelease) (tg16cd).chd</path>
+    <name>Mysterious Song    </name>
+    <desc>Videojuego desarrollado durante mucho tiempo. Después de muchos aplazamientos y un desarrollo de 7 años, este remake de un RPG para MS_DPS fue lanzado en 2012. Sus fases son tediosas, sin embargo, tiene buenas pistas de audio y fondos. Ofrece la opción de jugar en inglés, español o francés, gracias a la excelente traducción de Arn. Como es habitual, cuando se trata de un juego realizado por fans, los personajes no tienen un diseño perfecto y los tiempos de carga antes y después de cada pelea son largos.</desc>
+    <releasedate>20120827T000000</releasedate>
+    <developer>Notveidt Studio</developer>
+    <publisher>Frozen Utopia</publisher>
+    <genre>Role playing games</genre>
+    <players>1</players>
+    <image>./media/mixart/Mysterious Song (USA) (En,Fr,Es) (Unl) (Rerelease) (tg16cd).png</image>
+    <thumbnail>./media/wheel/Mysterious Song (USA) (En,Fr,Es) (Unl) (Rerelease) (tg16cd).png</thumbnail>
+    <genreid>768</genreid>
+  </game>
+  <game id="103562" source="ScreenScraper.fr">
+    <path>./Prince of Persia (USA) (tg16cd).chd</path>
+    <name>Prince of Persia </name>
+    <desc>While the Sultan of Persia is fighting a war in a foreign country, his Grand Vizier Jaffar orchestrates a coup d'état. His way to the throne lies through the Sultan's lovely daughter. Jaffar kidnaps her and threatens to kill her if she refuses to marry him. Meanwhile, the man the Princess loves is thrown into the dungeon. He has only one hour to escape from his prison, defeat the guards on his way, and stop Jaffar before the terrible marriage takes place.
+
+Prince of Persia is a 2D platformer that is commonly regarded as a progenitor of the cinematic platform genre. Rather than following the more common jump-and-run mechanics, it focuses on careful advancement through fairly complex levels, emphasizing the protagonist's vulnerability and survival aspect. Rotoscoping technique is used to give more realism to the animation of the characters' movements.
+
+The protagonist must avoid deadly traps, solve some simple jumping and environmental puzzles (such as stepping on pressure plates to raise portcullis), and engage in sword fights with the guards. The player character has an infinite amount of lives, but has to restart at the beginning of a level each time he dies, and must complete the game within an hour. The hero starts with three units of health, which can be replenished with small health potions or permanently increased with large jars.
+
+The Game Boy Color and SNES versions of the game feature additional levels and new enemies. The Genesis version has a new intro, an altered set of graphics and four new levels.</desc>
+    <releasedate>19911108T000000</releasedate>
+    <developer>Broderbund Software</developer>
+    <publisher>Riverhillsoft</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./media/mixart/Prince of Persia (USA) (tg16cd).png</image>
+    <thumbnail>./media/wheel/Prince of Persia (USA) (tg16cd).png</thumbnail>
+    <video>./media/snap/Prince of Persia (USA) (tg16cd).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="200263" source="ScreenScraper.fr">
+    <path>./Pyramid Plunder (USA) (Unl) (tg16cd).chd</path>
+    <name>Pyramid Plunder  </name>
+    <desc>Pyramid Plunder es un homenaje a los juegos de laberinto de los inicios de 1980 (Pac-man…) (tg16cd). Al tiempo que se amplía el concepto, añadiendo características nuevas. Para escapar de los diversos enemigos (momias, escorpiones…) el jugador tiene la capacidad de acelerar el paso, lo cual le impide también recoger los objetos que hay dispersos por el laberinto. El jugador también puede congelar a los enemigos temporalmente, entre otras opciones.</desc>
+    <releasedate>20130303T000000</releasedate>
+    <developer>Arkhan</developer>
+    <publisher>Aetherbyte</publisher>
+    <genre>Action</genre>
+    <players>1</players>
+    <image>./media/mixart/Pyramid Plunder (USA) (Unl) (tg16cd).png</image>
+    <genreid>256</genreid>
+  </game>
+  <game id="200261" source="ScreenScraper.fr">
+    <path>./Revival Chase (USA) (En,Fr) (Unl) (tg16cd).chd</path>
+    <name>Revival Chase   </name>
+    <desc>Revival es una de las revistas más antiguas dedicados a los juegos independientes. Con motivo de su número 50, se propuso una versión coleccionista acompañada de un nuevo videojuego, remake de Lock n´Chase. Fue desarrollado en tres meses. El jugador juega como un ladrón, que tratará de recoger los 50 números la revista Revival y consolas de videojuegos. Es interesante remarcar que pueden jugar hasta 5 jugadores. Incluye 2 minijuegos, uno de ellos un shoot em up muy elaborado.</desc>
+    <releasedate>20130101T000000</releasedate>
+    <developer>Rewind Team</developer>
+    <publisher>Revival Games</publisher>
+    <genre>Action</genre>
+    <players>1-5</players>
+    <image>./media/mixart/Revival Chase (USA) (En,Fr) (Unl) (tg16cd).png</image>
+    <genreid>256</genreid>
+  </game>
+  <game id="106875" source="ScreenScraper.fr">
+    <path>./Riot Zone (USA) (tg16cd).chd</path>
+    <name>Riot Zone </name>
+    <desc>The police is afraid to deal with a criminal organization known as the Dragon Zone. Street punks and leaders of Chinese crime syndicates dominate the area where its headquarters are supposedly located. The young fighter Hawk has his own score to settle with the Dragon Zone: they have kidnapped his girlfriend Candy. Together with his friend, the punk Tony, Hawk enters the dangerous districts and is determined to rescue his sweetheart and put an end to the organization.
+
+Riot Zone (Crest of Wolf in Japan) is a rather simple brawler in which the player can choose to control either Hawk or Tony. Hawk is faster, but doesn't hit quite as hard as Tony. Both characters fight entirely unarmed, using kicks and punches to deal with the enemies; both also possess a powerful all-screen attack that depletes a portion of their health bar. Each stage culminates with a boss battle as Hawk and Tony gradually defeat the "wanted" criminals of the city.</desc>
+    <releasedate>19930226T000000</releasedate>
+    <developer>Westone Co., Ltd.</developer>
+    <publisher>Hudson</publisher>
+    <genre>Beat'em Up-Action</genre>
+    <players>1</players>
+    <image>./media/mixart/Riot Zone (USA) (tg16cd).png</image>
+    <thumbnail>./media/wheel/Riot Zone (USA) (tg16cd).png</thumbnail>
+    <video>./media/snap/Riot Zone (USA) (tg16cd).mp4</video>
+    <genreid>263</genreid>
+  </game>
+  <game id="14530" source="ScreenScraper.fr">
+    <path>./Shadow of the Beast (USA) (tg16cd).chd</path>
+    <name>Shadow of the Beast </name>
+    <desc>While very young, Aarbron was kidnapped and enslaved by the Priests of the Beast Lord. He grew up on drugs made to destroy his own will and turn him into the Beast Messenger, a powerful creature serving Maletoth, The Beast Lord himself. He did his job, until one day he noticed a man about to be sacrificed in a ritual, his face triggering ancient memories. As the sacrificial knife descended into the man's body, Aarbron recognizes his father's face. As his father dies in the altar, memories of his childhood and tormented past at the hands of the Beast Lord emerged, and as feelings of hate over his captors took over him, he swore revenge and fled the temple, knowing the road to avenge his father and redemption would be hard.
+
+Shadow of the Beast is a side-scrolling platformer. The player has to navigate through several areas filled with enemies and traps, collecting keys and activating triggers than open new areas or give Aarbron the means to overcome a sub-boss. The number of moves the player has at disposal is limited: duck, jump and only two attacks: punch and a flying kick. While most enemies die with just one hit, the player must time each attack accurately. However, there are also traps of objects that cannot be destroyed, and these require the player to jump, duck or move according the sequence. The player has only one life with 12 hit points that can be replenished by collecting some objects hidden in the level (like an off-route location or a under a megalith), which also contributes to the difficulty level.</desc>
+    <releasedate>19920327T000000</releasedate>
+    <developer>Reflections Interactive Limited</developer>
+    <publisher>Psygnosis</publisher>
+    <genre>Action-Beat'em Up</genre>
+    <players>1</players>
+    <image>./media/mixart/Shadow of the Beast (USA) (tg16cd).png</image>
+    <thumbnail>./media/wheel/Shadow of the Beast (USA) (tg16cd).png</thumbnail>
+    <video>./media/snap/Shadow of the Beast (USA) (tg16cd).mp4</video>
+    <genreid>263</genreid>
+  </game>
+  <game id="103586" source="ScreenScraper.fr">
+    <path>./Shape Shifter (USA) (tg16cd).chd</path>
+    <name>Shape Shifter </name>
+    <desc>The Dark Ones have captured the Ring of Five and imprisoned the wizards that guard it. A barbarian named Lykos has the power to transform into different creatures. He needs to rescue the wizards and the Ring of Five from the Dark Ones before they invade his home, Krellion.
+
+Shape Shifter is a side-scrolling action game with platforming and light role-playing elements. Much of the game consists of traversing hostile areas, fighting regular enemies on the way and defeating bosses. The game's "hub" area is a town where Lykos can replenish his health and buy any of the three available weapons (axe, mace, or bow) (tg16cd). These weapons can be upgraded by enchanting them or picking up power-ups.
+
+After Lykos rescues a wizard he gains access to a transformation power. Transformations require special gems and cannot be performed if Lykos runs out of them. There are four transformations in the game: the panther can jump over large gaps; the shark can swim; the golem can jump higher; and the golden dragon can fly. Each of these forms can also collect power-ups that unlocks a few other attack abilities.
+
+The game's stages are interconnected, but usually a new form must be acquired before Lykos can access a new area. Lykos has eight lives consisting of smaller health units (hearts) (tg16cd). The game can only be saved in the town.</desc>
+    <releasedate>19920925T000000</releasedate>
+    <developer>ICOM Simulations, Inc.</developer>
+    <publisher>Turbo Technologies, Inc.</publisher>
+    <genre>Action / Adventure-Action</genre>
+    <players>1</players>
+    <image>./media/mixart/Shape Shifter (USA) (tg16cd).png</image>
+    <thumbnail>./media/wheel/Shape Shifter (USA) (tg16cd).png</thumbnail>
+    <video>./media/snap/Shape Shifter (USA) (tg16cd).mp4</video>
+    <genreid>256</genreid>
+  </game>
+  <game id="14579" source="ScreenScraper.fr">
+    <path>./Sherlock Holmes - Consulting Detective - Volume 2 (USA) (tg16cd).chd</path>
+    <name>Sherlock Holmes - Consulting Detective - Volume 2 </name>
+    <desc>"What they said about Sherlock I, you'll say about Sherlock II"...reads the advert in the box, based on the nice critics about Volume I.
+
+- The same video technology (this is 1992), keeps offering true interactive environment: actually letting you "feel" the traffic in the streets of the old London?
+
+- The same structure brings a familiar look, inviting to channel all attention to the task of solving mysteries: your intelligence, skills and patience are required to find clues by listening to people, observing details, or even reading the London Times - but don't let yourself be misguided by a wrong hint.
+
+- The same number of cases: 3
+
+But, each situation is completely different: ?The Two Lions? involving the murder of circus lions, ?The Pilfered Paintings? just bought by The National Gallery...and ?The Murdered Munitions Magnate?, where hints reveal different possible motives...have nothing in common, except the detective in charge: you?</desc>
+    <releasedate>19930528T000000</releasedate>
+    <developer>ICOM Simulations, Inc.</developer>
+    <publisher>Victor Entertainment</publisher>
+    <genre>Puzzle-Game-Adventure</genre>
+    <players>1</players>
+    <image>./media/mixart/Sherlock Holmes - Consulting Detective - Volume 2 (USA) (tg16cd).png</image>
+    <thumbnail>./media/wheel/Sherlock Holmes - Consulting Detective - Volume 2 (USA) (tg16cd).png</thumbnail>
+    <video>./media/snap/Sherlock Holmes - Consulting Detective - Volume 2 (USA) (tg16cd).mp4</video>
+    <genreid>2816</genreid>
+  </game>
+  <game id="14508" source="ScreenScraper.fr">
+    <path>./Sherlock Holmes - Consulting Detective (USA) (tg16cd).chd</path>
+    <name>Sherlock Holmes - Consulting Detective </name>
+    <desc>In this game, the player is cast into the roles of Sherlock Holmes, the greatest fictional detective of all times, and his friend and partner Dr. Watson, as they have to investigate and successfully solve three criminal cases:
+The Mummy's Curse deals with the horrifying death of three men, which were apparently murdered by an ancient mummy;
+
+The Mystified Murderess involves a woman who has been convicted for murdering her beloved one, but cannot seem to recall anything of what had happened to her;
+
+The Tin Soldier concerns the murder of an old general, whose past must be investigated in order to find the killer.Sherlock Holmes: Consulting Detective can be described as a hybrid of adventure game and simulation. Gameplay process involves traveling to various locations in London, interrogating suspects, gathering clues, checking out the newspapers, and eventually presenting all the evidence to the judge; if the latter finds the circumstances incriminating, he will accept the results of the investigation, and the case will be considered solved. Though the basic gameplay is rather typical for adventure games, the amount of real detective work and the focus of the game on purely case-related actions rather than exploration and manipulation of items makes it comparable to a simulation of a criminal investigation.
+
+The game is notable for being one of the earliest "multimedia" titles, having been released on a CD ROM and featuring rather long (though windowed) video sequences with live actors as introductions and cutscenes, which frequently occur when the heroes investigate suspects.</desc>
+    <releasedate>19910726T000000</releasedate>
+    <developer>ICOM Simulations, Inc.</developer>
+    <publisher>Victor Entertainment</publisher>
+    <genre>Puzzle-Game-Adventure</genre>
+    <players>1</players>
+    <image>./media/mixart/Sherlock Holmes - Consulting Detective (USA) (tg16cd).png</image>
+    <thumbnail>./media/wheel/Sherlock Holmes - Consulting Detective (USA) (tg16cd).png</thumbnail>
+    <video>./media/snap/Sherlock Holmes - Consulting Detective (USA) (tg16cd).mp4</video>
+    <genreid>2816</genreid>
+  </game>
+  <game id="14506" source="ScreenScraper.fr">
+    <path>./SimEarth - The Living Planet (USA) (tg16cd).chd</path>
+    <name>SimEarth - The Living Planet </name>
+    <desc>SimEarth puts you in charge of an entire planet throughout its 10 billion year lifespan. Your ultimate task is to guide the planet?s inhabitants into the stars, from its humble single-celled roots.
+
+The main threats you face include pollution, disease, famine, war and global warming. The controls available to you include the chance to move mountains and continents, creating different levels of species, and unleash tidal waves and earthquakes so as to reshape your planet. All of these things take from your limited energy, which must be replenished.
+</desc>
+    <releasedate>19930114T000000</releasedate>
+    <developer>Maxis Software</developer>
+    <publisher>Hudson</publisher>
+    <genre>Educational-Simulation</genre>
+    <players>1</players>
+    <image>./media/mixart/SimEarth - The Living Planet (USA) (tg16cd).png</image>
+    <thumbnail>./media/wheel/SimEarth - The Living Planet (USA) (tg16cd).png</thumbnail>
+    <video>./media/snap/SimEarth - The Living Planet (USA) (tg16cd).mp4</video>
+    <genreid>4352</genreid>
+  </game>
+  <game id="103587" source="ScreenScraper.fr">
+    <path>./Splash Lake (USA) (tg16cd).chd</path>
+    <name>Splash Lake </name>
+    <desc>Splash Lake is an action strategy puzzle game.  Each round consists of a single screen play area composed of tiles suspended over a lake.  You control an Ostrich that can crack the tiles and cause them to fall into the water.  Your goal is to use this ability to make all the bad guys on the screen fall into the water. The game features more than 60 levels, a simultaneous two-player mode, and humorous cutscenes every 10 levels.</desc>
+    <releasedate>19910628T000000</releasedate>
+    <developer>Bits Laboratory</developer>
+    <publisher>Turbo Technologies, Inc.</publisher>
+    <genre>Puzzle-Game-Action</genre>
+    <players>1-2</players>
+    <image>./media/mixart/Splash Lake (USA) (tg16cd).png</image>
+    <thumbnail>./media/wheel/Splash Lake (USA) (tg16cd).png</thumbnail>
+    <video>./media/snap/Splash Lake (USA) (tg16cd).mp4</video>
+    <genreid>2816</genreid>
+  </game>
+  <game id="14518" source="ScreenScraper.fr">
+    <path>./Super Air Zonk - Rockabilly-Paradise (USA) (tg16cd).chd</path>
+    <name>Super Air Zonk - Rockabilly-Paradise </name>
+    <desc>After the success of PC Denjin, our hero leaps onto CD with a whole new game and a whole new soundtrack. Flying over the various landscapes (you get to choose which order to play the first four levels in), you come up against tidal waves, giant robots and a general array of nasty but cute bad guys as you would expect. The plants from the original PC Kid games are still here to provide such joys as extra firepower, fountains of smiley faces or the tiny-denjin which makes dodging bullets that little bit easier. Another handy little trick is that your boots also pack a punch, so backing into an enemy is more likely to dispose of them than do you any permanent damage. Part way along each of the levels you get the chance to rescue a friend who then joins with you, giving you a specific extra ability. These friends are pre-set one per level and cannot be chosen, and they allow things like rapid-sushi-fire and handy rear shots.</desc>
+    <releasedate>19930730T000000</releasedate>
+    <developer>Red Company</developer>
+    <publisher>Hudson</publisher>
+    <genre>Shoot'em Up</genre>
+    <players>1</players>
+    <image>./media/mixart/Super Air Zonk - Rockabilly-Paradise (USA) (tg16cd).png</image>
+    <thumbnail>./media/wheel/Super Air Zonk - Rockabilly-Paradise (USA) (tg16cd).png</thumbnail>
+    <video>./media/snap/Super Air Zonk - Rockabilly-Paradise (USA) (tg16cd).mp4</video>
+    <genreid>260</genreid>
+  </game>
+  <game id="141174" source="ScreenScraper.fr">
+    <path>./SydMead's TerraForming (USA) (tg16cd).chd</path>
+    <name>SydMead's TerraForming </name>
+    <desc>In Terraforming, the human race has fled into the depths of space after Earth has become uninhabitable.  As a result, they travel from planet to planet in an attempt to find a planet suitable enough to terraform into a new Earth.  Along the way they encounter alien races which they must destroy in an attempt to survive and continue the human race.
+
+The gameplay is a basic side-scrolling shooter, shooting down enemy space ships, picking up power-ups and health icons and upgrading main and secondary weapons along with the obligatory huge stage bosses.  The most notable feature of the game is the work done by Syd Mead, a special effects artist for such films as Star Trek: The Motion Picture, Blade Runner, Aliens, 2010 and as recent as Mission Impossible III.</desc>
+    <releasedate>19920501T000000</releasedate>
+    <developer>Right Stuff Corp.</developer>
+    <publisher>NEC</publisher>
+    <genre>Shoot'em Up-Shoot'em up / Horizontal-Action</genre>
+    <players>1</players>
+    <image>./media/mixart/SydMead's TerraForming (USA) (tg16cd).png</image>
+    <thumbnail>./media/wheel/SydMead's TerraForming (USA) (tg16cd).png</thumbnail>
+    <video>./media/snap/SydMead's TerraForming (USA) (tg16cd).mp4</video>
+    <genreid>260</genreid>
+  </game>
+  <game id="103588" source="ScreenScraper.fr">
+    <path>./Valis II (USA) (tg16cd).chd</path>
+    <name>Valis II </name>
+    <desc>Valis II has the same basic plot as its computer counterpart: Rogles, the tyrant of the magical world Vecanti, was defeated, and a new emperor named Megas is terrorizing its inhabitants. It's up to the Japanese schoolgirl Yuko to take on her persona of the Valis Soldier and vanquish Megas.
+
+Gameplay-wise, this version differs from the computer releases significantly. Though it has six stages that end with the same boss enemies, its level design, layout, and many regular enemies are different. This release also completely removes two key gameplay features of the computer version: the ability to equip different weapons and armor, and the flying side-scrolling shooter stages. </desc>
+    <releasedate>19890623T000000</releasedate>
+    <developer>Shin-Nihon Laser Soft</developer>
+    <publisher>NEC</publisher>
+    <genre>Platform-Action</genre>
+    <players>1</players>
+    <image>./media/mixart/Valis II (USA) (tg16cd).png</image>
+    <thumbnail>./media/wheel/Valis II (USA) (tg16cd).png</thumbnail>
+    <video>./media/snap/Valis II (USA) (tg16cd).mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="103589" source="ScreenScraper.fr">
+    <path>./Valis III (USA) (tg16cd).chd</path>
+    <name>Valis III </name>
+    <desc>After Yuko has defeated the evil Rogles, peace descended upon Earth and the magical world of Vecanti. But a new threat has arisen: an enigmatic man named Glames from the Dark World, possessor of a sword named Leethus, is planning to conquer both Earth and Vecanti, convinced that there is no other way to save his world from imminent destruction. A young girl from the Dark World named Cham escapes from Glames, and asks Yuko to help her stop him with the aid of her Valis sword. 
+ 
+Like its predecessors in the series, Valis III is a side-scrolling platform action game. Unlike the previous installments, the player can control three characters in the game: Yuko, Cham (who uses a whip and fights similarly to Castlevania protagonists), and princess Valna from Vecanti, who is weaker physically, but can cast more powerful magic. Each of the characters can equip different weapons and has access to her own magic spells.</desc>
+    <releasedate>19900907T000000</releasedate>
+    <developer>Shin-Nihon Laser Soft</developer>
+    <publisher>Telenet</publisher>
+    <genre>Platform-Action</genre>
+    <players>1</players>
+    <image>./media/mixart/Valis III (USA) (tg16cd).png</image>
+    <thumbnail>./media/wheel/Valis III (USA) (tg16cd).png</thumbnail>
+    <video>./media/snap/Valis III (USA) (tg16cd).mp4</video>
+    <genreid>257</genreid>
+  </game>
+  <game id="107060" source="ScreenScraper.fr">
+    <path>./Vasteel (USA) (tg16cd).chd</path>
+    <name>Vasteel </name>
+    <desc>The governing planet of the Vasteel Solar System is called Belose. Emperors of the Faracia dynasty have been ruling the planet for hundreds of years. However, the last emperor turned out to be rather unpopular with the people, and they began talking about changing the government system. Unexpectedly, the emperor becomes gravely ill and dies soon thereafter. His elder son, Faliall, is proclaimed the heir. However, Faliall's younger brother, Stefan, cares for the wishes of the simple folk, and is willing to change things. Hence, the bloody war between the two brothers for power and justice begins...
+
+Vasteel is a hex-based war strategy game in its core. The story mode takes the player (who controls either Stefan's or Faliall's armies) through various top-down maps, on which the two armies will try to annihilate each other, advance to a better position, conquer enemy cities, etc. There is also a versus mode, which allows two-player gameplay, as well as access to all the maps regardless of the story.
+
+The armies of the two princes are entirely robotic; even tanks, cannons, and spaceships are shaped like "transformer" robots. Both armies have factories, which can produce new robots, even several times per turn; each such productions costs money, of which there is limited amount. The player navigates the robots in turn-based fashion over the map. Combat ensues when two robots are on the same grid.
+
+Unlike in most games of this kind, the actual battles in Vasteel are interactive and action-based. The players must quickly move their robots and shoot at each other. Same applies to robots which enter factories and cities with the intention to destroy their protective mechanisms; the defending side uses stationary turrets to fire at the robot, while the latter tries to avoid them and get to the core before being destroyed.</desc>
+    <releasedate>19901220T000000</releasedate>
+    <developer>Human</developer>
+    <publisher>Working Designs</publisher>
+    <genre>Strategy-Action</genre>
+    <players>1-2</players>
+    <image>./media/mixart/Vasteel (USA) (tg16cd).png</image>
+    <thumbnail>./media/wheel/Vasteel (USA) (tg16cd).png</thumbnail>
+    <video>./media/snap/Vasteel (USA) (tg16cd).mp4</video>
+    <genreid>1280</genreid>
+  </game>
+  <game id="14489" source="ScreenScraper.fr">
+    <path>./Ys Book I &amp; II (USA) (tg16cd).chd</path>
+    <name>Ys Book I &amp; II </name>
+    <desc>Ys: Book I &amp; II contains enhanced remakes of two games: Ys: The Vanished Omens and its sequel, Ys II: Ancient Ys Vanished - The Final Chapter. The enhanced versions were not released separately.
+
+The players controls a young red-haired hero named Adol Christin, whose task is to find the six books of Ys, an ancient paradise-like land that mysteriously disappeared long time ago. It is said that whoever possesses the six books can gain access into Ys. In the first game, Adol is on the quest to find the books and to enter Ys. The second game takes place in Ys itself, and Adol must defeat an even greater evil and liberate the land.
+
+This release features enhanced CD-quality sound, higher-quality graphics, and new anime-style cutscenes.</desc>
+    <releasedate>19891221T000000</releasedate>
+    <developer>Nihon Falcom</developer>
+    <publisher>NEC</publisher>
+    <genre>Role playing games</genre>
+    <players>1</players>
+    <image>./media/mixart/Ys Book I &amp; II (USA) (tg16cd).png</image>
+    <thumbnail>./media/wheel/Ys Book I &amp; II (USA) (tg16cd).png</thumbnail>
+    <video>./media/snap/Ys Book I &amp; II (USA) (tg16cd).mp4</video>
+    <genreid>768</genreid>
+  </game>
+  <game id="14471" source="ScreenScraper.fr">
+    <path>./Ys III - Wanderers from Ys (USA) (tg16cd).chd</path>
+    <name>Ys III - Wanderers from Ys </name>
+    <desc>Adol Christin's long-time friend, Dogi, wishes to return to his home town of Redmont after hearing about strange disturbances that are happening there.  Always looking for an adventure, Adol joins him and soon finds out the cause of this new evil.
+
+Ys III: Wanderers from Ys breaks away from the "bumping into enemies" battle system of the first two games, allowing Adol to control his sword in a variety of directions. Beside changing the battle system, the game's perspective switches to a side-scrolling view, as opposed to the top-down one of the previous games. Adol also has the ability to jump now.  New to the series is the use of magical rings, which give Adol different powering-up abilities such as healing and shielding. The game also uses various key items found along the way to solve minor puzzles and progress the story.</desc>
+    <releasedate>19910322T000000</releasedate>
+    <developer>Nihon Falcom</developer>
+    <publisher>NEC</publisher>
+    <genre>Role playing games</genre>
+    <players>1</players>
+    <image>./media/mixart/Ys III - Wanderers from Ys (USA) (tg16cd).png</image>
+    <thumbnail>./media/wheel/Ys III - Wanderers from Ys (USA) (tg16cd).png</thumbnail>
+    <video>./media/snap/Ys III - Wanderers from Ys (USA) (tg16cd).mp4</video>
+    <genreid>768</genreid>
+  </game>
+</gameList>
