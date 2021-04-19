@@ -1,0 +1,8 @@
+crater
+maxrpm
+powerdrv
+rampage
+sarge
+spyhunt
+stargrds
+turbotag

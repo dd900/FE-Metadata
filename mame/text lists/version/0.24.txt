@@ -1,0 +1,8 @@
+blaster
+bubbles
+defender
+jrpacman
+qbertqub
+sinistar
+spacezap
+splat

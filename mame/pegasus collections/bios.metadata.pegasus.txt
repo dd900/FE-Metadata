@@ -1,0 +1,443 @@
+collection: Aleck64 PIF BIOS
+shortname: bios-ale
+sortBy: bios-ale
+files:
+	./11beat.zip
+	./kurufev.zip
+	./starsldr.zip
+	./twrshaft.zip
+
+
+collection: Arcadia System BIOS
+shortname: bios-arc
+sortBy: bios-arc
+files:
+	./ar_airh.zip
+	./ar_argh.zip
+	./ar_blast.zip
+	./ar_bowl.zip
+	./ar_dart.zip
+	./ar_dlta.zip
+	./ar_fast.zip
+	./ar_ldrb.zip
+	./ar_ninj.zip
+	./ar_rdwr.zip
+	./ar_sdwr.zip
+	./ar_socc.zip
+	./ar_sprg.zip
+	./ar_xeon.zip
+
+
+collection: Atari System 1 BIOS
+shortname: bios-ata
+sortBy: bios-ata
+files:
+	./indytemp.zip
+	./marble.zip
+	./peterpak.zip
+	./roadblst.zip
+	./roadrunn.zip
+
+
+collection: Baby Phoenix/GV System
+shortname: bios-bab
+sortBy: bios-bab
+files:
+	./hyperath.zip
+	./lacrazyc.zip
+	./nagano98.zip
+	./powyak96.zip
+	./simpbowl.zip
+
+
+collection: DECO Cassette System
+shortname: bios-dec
+sortBy: bios-dec
+files:
+	./cadanglr.zip
+	./castfant.zip
+	./cbdash.zip
+	./cbtime.zip
+	./cburnrub.zip
+	./cexplore.zip
+	./cfboy0a1.zip
+	./cfghtice.zip
+	./cflyball.zip
+	./cgraplop.zip
+	./chwy.zip
+	./clapapa.zip
+	./clocknch.zip
+	./cmissnx.zip
+	./cnightst.zip
+	./coozumou.zip
+	./cppicf.zip
+	./cprobowl.zip
+	./cprogolf.zip
+	./cpsoccer.zip
+	./cptennis.zip
+	./cscrtry.zip
+	./csdtenis.zip
+	./cskater.zip
+	./csuperas.zip
+	./cterrani.zip
+	./ctisland.zip
+	./ctornado.zip
+	./czeroize.zip
+
+
+collection: Eagle BIOS
+shortname: bios-eag
+sortBy: bios-eag
+files:
+	./bbh.zip
+	./bbh2sp.zip
+	./bbhcotw.zip
+	./carnking.zip
+	./gtfore01.zip
+	./gtfore02.zip
+	./gtfore03.zip
+	./gtfore04.zip
+	./gtfore05.zip
+	./gtfore06.zip
+	./virtpool.zip
+
+
+collection: Max-A-Flex
+shortname: bios-max
+sortBy: bios-max
+files:
+	./mf_achas.zip
+	./mf_bdash.zip
+	./mf_brist.zip
+	./mf_flip.zip
+
+
+collection: Mega Play BIOS
+shortname: bios-meg
+sortBy: bios-meg
+files:
+	./mp_bio.zip
+	./mp_col3.zip
+	./mp_gaxe2.zip
+	./mp_gslam.zip
+	./mp_gunhe.zip
+	./mp_mazin.zip
+	./mp_soni2.zip
+	./mp_sonic.zip
+	./mp_sor2.zip
+
+
+collection: Neo-Geo MV-6F
+shortname: bios-neo
+sortBy: bios-neo
+files:
+	./2020bb.zip
+	./3countb.zip
+	./alpham2.zip
+	./androdun.zip
+	./aodk.zip
+	./aof.zip
+	./aof2.zip
+	./aof3.zip
+	./b2b.zip
+	./bangbead.zip
+	./bjourney.zip
+	./blazstar.zip
+	./breakers.zip
+	./breakrev.zip
+	./bstars.zip
+	./bstars2.zip
+	./burningf.zip
+	./crswd2bl.zip
+	./crsword.zip
+	./ctomaday.zip
+	./cyberlip.zip
+	./diggerma.zip
+	./doubledr.zip
+	./dragonsh.zip
+	./eightman.zip
+	./fatfursp.zip
+	./fatfury1.zip
+	./fatfury2.zip
+	./fatfury3.zip
+	./fbfrenzy.zip
+	./fightfev.zip
+	./flipshot.zip
+	./galaxyfg.zip
+	./ganryu.zip
+	./garou.zip
+	./ghostlop.zip
+	./goalx3.zip
+	./gowcaizr.zip
+	./gpilots.zip
+	./gururin.zip
+	./ironclad.zip
+	./irrmaze.zip
+	./joyjoy.zip
+	./kabukikl.zip
+	./karnovr.zip
+	./kf2k5uni.zip
+	./kizuna.zip
+	./kof2000.zip
+	./kof2001.zip
+	./kof2002.zip
+	./kof2003.zip
+	./kof94.zip
+	./kof95.zip
+	./kof96.zip
+	./kof97.zip
+	./kof98.zip
+	./kof99.zip
+	./kotm.zip
+	./kotm2.zip
+	./lastblad.zip
+	./lastbld2.zip
+	./lasthope.zip
+	./lbowling.zip
+	./legendos.zip
+	./lresort.zip
+	./magdrop2.zip
+	./magdrop3.zip
+	./maglord.zip
+	./matrim.zip
+	./miexchng.zip
+	./mslug.zip
+	./mslug2.zip
+	./mslug3.zip
+	./mslug4.zip
+	./mslug5.zip
+	./mslugx.zip
+	./mutnat.zip
+	./nam1975.zip
+	./ncombat.zip
+	./ncommand.zip
+	./neobombe.zip
+	./neocup98.zip
+	./neodrift.zip
+	./neomrdo.zip
+	./ninjamas.zip
+	./nitd.zip
+	./overtop.zip
+	./panicbom.zip
+	./pbobbl2n.zip
+	./pbobblen.zip
+	./pgoal.zip
+	./pnyaa.zip
+	./popbounc.zip
+	./preisle2.zip
+	./pspikes2.zip
+	./pulstar.zip
+	./puzzledp.zip
+	./ragnagrd.zip
+	./rbff1.zip
+	./rbff2.zip
+	./rbffspec.zip
+	./ridhero.zip
+	./roboarmy.zip
+	./rotd.zip
+	./s1945p.zip
+	./samsh5sp.zip
+	./samsho.zip
+	./samsho2.zip
+	./samsho3.zip
+	./samsho4.zip
+	./samsho5.zip
+	./savagere.zip
+	./sdodgeb.zip
+	./sengoku.zip
+	./sengoku2.zip
+	./sengoku3.zip
+	./shocktr2.zip
+	./shocktro.zip
+	./socbrawl.zip
+	./sonicwi2.zip
+	./sonicwi3.zip
+	./spinmast.zip
+	./ssideki.zip
+	./ssideki2.zip
+	./ssideki3.zip
+	./ssideki4.zip
+	./stakwin.zip
+	./stakwin2.zip
+	./strhoop.zip
+	./superspy.zip
+	./svc.zip
+	./tophuntr.zip
+	./tpgolf.zip
+	./trally.zip
+	./turfmast.zip
+	./twinspri.zip
+	./twsoc96.zip
+	./viewpoin.zip
+	./wakuwak7.zip
+	./wh1.zip
+	./wh2.zip
+	./wh2j.zip
+	./whp.zip
+	./wjammers.zip
+	./zedblade.zip
+	./zintrckb.zip
+	./zupapa.zip
+
+
+collection: PGM (Polygame Master) System BIOS
+shortname: bios-pgm
+sortBy: bios-pgm
+files:
+	./ddp2.zip
+	./dmnfrnt.zip
+	./killbld.zip
+	./killbldp.zip
+	./kov.zip
+	./kov2.zip
+	./kov2p.zip
+	./kovplus.zip
+	./kovsh.zip
+	./martmast.zip
+	./olds.zip
+	./orlegend.zip
+	./puzzli2.zip
+	./svg.zip
+	./theglad.zip
+
+
+collection: ST-V Bios
+shortname: bios-st-
+sortBy: bios-st-
+files:
+	./astrass.zip
+	./bakubaku.zip
+	./batmanfr.zip
+	./colmns97.zip
+	./cotton2.zip
+	./cottonbm.zip
+	./diehard.zip
+	./elandore.zip
+	./ffreveng.zip
+	./fhboxers.zip
+	./gaxeduel.zip
+	./grdforce.zip
+	./groovef.zip
+	./hanagumi.zip
+	./mausuke.zip
+	./pblbeach.zip
+	./prikura.zip
+	./puyosun.zip
+	./rsgun.zip
+	./seabass.zip
+	./shienryu.zip
+	./sokyugrt.zip
+	./sss.zip
+	./suikoenb.zip
+	./techbowl.zip
+	./vfkids.zip
+	./winterht.zip
+	./znpwfv.zip
+
+
+collection: Super Kaneko Nova System BIOS
+shortname: bios-sup
+sortBy: bios-sup
+files:
+	./cyvern.zip
+	./puzzloop.zip
+	./sengekis.zip
+	./senknow.zip
+	./vblokbrk.zip
+
+
+collection: System 573 BIOS
+shortname: bios-sys
+sortBy: bios-sys
+files:
+	./darkhleg.zip
+	./fbait2bc.zip
+	./fbaitbc.zip
+	./fbaitmc.zip
+	./hndlchmp.zip
+	./powyakex.zip
+
+
+collection: System GX
+shortname: bios-sys
+sortBy: bios-sys
+files:
+	./crzcross.zip
+	./dragoona.zip
+	./fantjour.zip
+	./le2.zip
+	./rungun2.zip
+	./rushhero.zip
+	./salmndr2.zip
+	./soccerss.zip
+	./tbyahhoo.zip
+	./tkmmpzdm.zip
+	./vsnetscr.zip
+	./winspike.zip
+
+
+collection: Taito FX1
+shortname: bios-tai
+sortBy: bios-tai
+files:
+	./ftimpcta.zip
+	./gdarius2.zip
+	./psyforce.zip
+	./raystorm.zip
+	./sfchamp.zip
+
+
+collection: Taito GNET
+shortname: bios-tai
+sortBy: bios-tai
+files:
+	./chaoshea.zip
+	./gobyrc.zip
+	./psyvaria.zip
+	./psyvarrv.zip
+	./raycris.zip
+	./shikigam.zip
+	./shikigama.zip
+	./spuzbobl.zip
+	./xiistag.zip
+
+
+collection: TPS
+shortname: bios-tps
+sortBy: bios-tps
+files:
+	./1on1gov.zip
+	./brvblade.zip
+	./cbaj.zip
+	./doapp.zip
+	./flamegun.zip
+	./glpracr2.zip
+	./glpracr3.zip
+	./mfjump.zip
+	./tblkkuzu.zip
+	./twcupmil.zip
+
+
+collection: ZN1
+shortname: bios-zn1
+sortBy: bios-zn1
+files:
+	./glpracr.zip
+	./sfex.zip
+	./sfexp.zip
+	./starglad.zip
+	./ts2.zip
+
+
+collection: ZN2
+shortname: bios-zn2
+sortBy: bios-zn2
+files:
+	./plsmaswd.zip
+	./rvschool.zip
+	./sfex2.zip
+	./sfex2p.zip
+	./techromn.zip
+	./tgmj.zip
+
+

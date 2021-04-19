@@ -1,0 +1,685 @@
+collection: 194X
+shortname: series-194
+sortBy: series-194
+files:
+	./1941.zip
+	./1942.zip
+	./1943.zip
+	./1943kai.zip
+	./1943mii.zip
+	./1944.zip
+	./19xx.zip
+
+
+collection: Aero Fighters
+shortname: series-aer
+sortBy: series-aer
+files:
+	./aerofgt.zip
+	./aerofgts.zip
+	./sonicwi2.zip
+	./sonicwi3.zip
+
+
+collection: After Burner
+shortname: series-aft
+sortBy: series-aft
+files:
+	./aburner.zip
+	./aburner2.zip
+	./gloc.zip
+	./strkfgtr.zip
+
+
+collection: Arkanoid
+shortname: series-ark
+sortBy: series-ark
+files:
+	./arkanoid.zip
+	./arkatour.zip
+	./arknoid2.zip
+	./arkretrn.zip
+
+
+collection: Asteroids
+shortname: series-ast
+sortBy: series-ast
+files:
+	./astdelux.zip
+	./asteroid.zip
+	./blstroid.zip
+	./spacduel.zip
+
+
+collection: Bubble Bobble
+shortname: series-bub
+sortBy: series-bub
+files:
+	./bubblem.zip
+	./bublbob2.zip
+	./bublbobl.zip
+	./bublcave.zip
+	./rbisland.zip
+	./rbislande.zip
+	./sboblbobla.zip
+
+
+collection: Burger Time
+shortname: series-bur
+sortBy: series-bur
+files:
+	./btime.zip
+	./cbtime.zip
+	./cppicf.zip
+	./supbtime.zip
+
+
+collection: Columns
+shortname: series-col
+sortBy: series-col
+files:
+	./colmns97.zip
+	./columns.zip
+	./columns2.zip
+	./hanagumi.zip
+	./mp_col3.zip
+	./stkclmns.zip
+
+
+collection: Cosmic
+shortname: series-cos
+sortBy: series-cos
+files:
+	./cavenger.zip
+	./cosmica.zip
+	./cosmicg.zip
+	./devzone.zip
+	./panic.zip
+	./zerohour.zip
+
+
+collection: Darius
+shortname: series-dar
+sortBy: series-dar
+files:
+	./darius.zip
+	./darius2.zip
+	./dariusg.zip
+	./dariusgx.zip
+	./gdarius2.zip
+
+
+collection: Donkey Kong
+shortname: series-don
+sortBy: series-don
+files:
+	./dkong.zip
+	./dkong3.zip
+	./dkongf.zip
+	./dkongjr.zip
+	./dkongx11.zip
+	./kong.zip
+
+
+collection: DonPachi
+shortname: series-don
+sortBy: series-don
+files:
+	./ddonpach.zip
+	./ddp2.zip
+	./ddp3.zip
+	./ddpdfk.zip
+	./dfkbl.zip
+	./donpachi.zip
+
+
+collection: Double Dragon
+shortname: series-dou
+sortBy: series-dou
+files:
+	./ddragon.zip
+	./ddragon2.zip
+	./ddragon3.zip
+	./doubledr.zip
+
+
+collection: Fantasy Zone
+shortname: series-fan
+sortBy: series-fan
+files:
+	./fantzn2.zip
+	./fantzn2x.zip
+	./fantzone.zip
+	./opaopa.zip
+
+
+collection: Fatal Fury
+shortname: series-fat
+sortBy: series-fat
+files:
+	./fatfursp.zip
+	./fatfury1.zip
+	./fatfury2.zip
+	./fatfury3.zip
+	./garou.zip
+	./rbff1.zip
+	./rbff2.zip
+	./rbffspec.zip
+
+
+collection: Galaxian
+shortname: series-gal
+sortBy: series-gal
+files:
+	./fantastc.zip
+	./galaga.zip
+	./galaga88.zip
+	./galagamf.zip
+	./galapx.zip
+	./galaxian.zip
+	./galturbo.zip
+	./gaplus.zip
+	./moonal2.zip
+
+
+collection: Gauntlet
+shortname: series-gau
+sortBy: series-gau
+files:
+	./gaunt2.zip
+	./gaunt22p.zip
+	./gauntdl.zip
+	./gauntleg.zip
+	./gauntlet.zip
+	./gauntlet2p.zip
+
+
+collection: Golden Axe
+shortname: series-gol
+sortBy: series-gol
+files:
+	./ga2.zip
+	./gaxeduel.zip
+	./goldnaxe.zip
+	./mp_gaxe2.zip
+
+
+collection: Golden Tee
+shortname: series-gol
+sortBy: series-gol
+files:
+	./gt2k.zip
+	./gt2kt500.zip
+	./gt3d.zip
+	./gt97.zip
+	./gt98.zip
+	./gt99.zip
+	./gtclassc.zip
+	./gtfore01.zip
+	./gtfore02.zip
+	./gtfore03.zip
+	./gtfore04.zip
+	./gtfore05.zip
+	./gtg.zip
+	./gtg2.zip
+
+
+collection: Gradius
+shortname: series-gra
+sortBy: series-gra
+files:
+	./gradius3.zip
+	./gradius4.zip
+	./lifefrce.zip
+	./nemesis.zip
+	./salamand.zip
+	./salmndr2.zip
+	./slrasslt.zip
+	./vsgradus.zip
+	./vulcan.zip
+
+
+collection: Hard Drivin'
+shortname: series-har
+sortBy: series-har
+files:
+	./harddriv.zip
+	./hdrivair.zip
+	./racedriv.zip
+	./strtdriv.zip
+
+
+collection: Hat Trick Hero
+shortname: series-hat
+sortBy: series-hat
+files:
+	./cupfinal.zip
+	./euroch92.zip
+	./footchmp.zip
+	./intcup94.zip
+	./pwrgoal.zip
+	./scfinals.zip
+
+
+collection: Hunting
+shortname: series-hun
+sortBy: series-hun
+files:
+	./deerhunt.zip
+	./trophyh.zip
+	./turkhunt.zip
+	./wschamp.zip
+
+
+collection: Ikari
+shortname: series-ika
+sortBy: series-ika
+files:
+	./ikari.zip
+	./ikari3.zip
+	./ikari3u.zip
+	./ikarijpb.zip
+	./victroad.zip
+
+
+collection: King of Fighters
+shortname: series-kin
+sortBy: series-kin
+files:
+	./kf2k3pcb.zip
+	./kf2k5uni.zip
+	./kof2000.zip
+	./kof2001.zip
+	./kof2002.zip
+	./kof2003.zip
+	./kof94.zip
+	./kof95.zip
+	./kof96.zip
+	./kof97.zip
+	./kof98.zip
+	./kof99.zip
+
+
+collection: Knights of Valour
+shortname: series-kni
+sortBy: series-kni
+files:
+	./kov.zip
+	./kov2.zip
+	./kov2p.zip
+	./kov3.zip
+	./kovplus.zip
+	./kovsh.zip
+
+
+collection: Lode Runner
+shortname: series-lod
+sortBy: series-lod
+files:
+	./ldrun.zip
+	./ldrun2.zip
+	./ldrun3.zip
+	./ldrun4.zip
+	./loderndf.zip
+
+
+collection: Metal Slug
+shortname: series-met
+sortBy: series-met
+files:
+	./ms5pcb.zip
+	./mslug.zip
+	./mslug2.zip
+	./mslug3.zip
+	./mslug4.zip
+	./mslug5.zip
+	./mslugx.zip
+
+
+collection: Moon Cresta
+shortname: series-moo
+sortBy: series-moo
+files:
+	./dangar.zip
+	./mooncrst.zip
+	./terracre.zip
+	./terraf.zip
+
+
+collection: Mortal Kombat
+shortname: series-mor
+sortBy: series-mor
+files:
+	./mk.zip
+	./mk2.zip
+	./mk3.zip
+	./mk3mdb.zip
+	./mk4.zip
+	./umk3.zip
+
+
+collection: Mr. Do!
+shortname: series-mr.
+sortBy: series-mr.
+files:
+	./docastle.zip
+	./dorunrun.zip
+	./dowild.zip
+	./mrdo.zip
+	./neomrdo.zip
+
+
+collection: NBA Jam
+shortname: series-nba
+sortBy: series-nba
+files:
+	./nbahangt.zip
+	./nbajam.zip
+	./nbajamex.zip
+	./nbajamte.zip
+
+
+collection: NFL Blitz
+shortname: series-nfl
+sortBy: series-nfl
+files:
+	./blitz.zip
+	./blitz2k.zip
+	./blitz99.zip
+	./nbanfl.zip
+
+
+collection: Pac-Man
+shortname: series-pac
+sortBy: series-pac
+files:
+	./jrpacman.zip
+	./mspacman.zip
+	./mspacmnf.zip
+	./pacland.zip
+	./paclandp.zip
+	./pacman.zip
+	./pacmanf.zip
+	./pacmania.zip
+	./pacnpal.zip
+	./pacplus.zip
+	./puckman.zip
+	./puckpkmn.zip
+	./superpac.zip
+
+
+collection: Pang
+shortname: series-pan
+sortBy: series-pan
+files:
+	./mpang.zip
+	./pang.zip
+	./pang3.zip
+	./spang.zip
+
+
+collection: Pole Position
+shortname: series-pol
+sortBy: series-pol
+files:
+	./finalap2.zip
+	./finalap3.zip
+	./finalapr.zip
+	./finallap.zip
+	./polepos.zip
+	./polepos2.zip
+
+
+collection: Power Instinct
+shortname: series-pow
+sortBy: series-pow
+files:
+	./groovef.zip
+	./matrim.zip
+	./plegends.zip
+	./powerins.zip
+	./pwrinst2.zip
+
+
+collection: Puzzle Bobble
+shortname: series-puz
+sortBy: series-puz
+files:
+	./pbobbl2n.zip
+	./pbobble.zip
+	./pbobble2.zip
+	./pbobble3.zip
+	./pbobble4.zip
+	./pbobblen.zip
+	./spuzbobl.zip
+
+
+collection: Quarterback
+shortname: series-qua
+sortBy: series-qua
+files:
+	./aafb.zip
+	./aafbd2p.zip
+	./quarterb.zip
+	./teamqb.zip
+
+
+collection: Raiden
+shortname: series-rai
+sortBy: series-rai
+files:
+	./r2dx_v33.zip
+	./raiden.zip
+	./raiden2.zip
+	./raidendx.zip
+	./rdft.zip
+	./rdft2.zip
+	./rfjet.zip
+
+
+collection: Samurai Shodown
+shortname: series-sam
+sortBy: series-sam
+files:
+	./samsh5sp.zip
+	./samsho.zip
+	./samsho2.zip
+	./samsho3.zip
+	./samsho4.zip
+	./samsho5.zip
+
+
+collection: San Francisco Rush
+shortname: series-san
+sortBy: series-san
+files:
+	./sf2049.zip
+	./sf2049se.zip
+	./sfrush.zip
+	./sfrushrk.zip
+
+
+collection: Space Invaders
+shortname: series-spa
+sortBy: series-spa
+files:
+	./beaminv.zip
+	./invad2ct.zip
+	./invaders.zip
+	./invadpt2.zip
+	./ipminvad.zip
+	./retofinv.zip
+	./spacedx.zip
+	./spaceint.zip
+	./spcinv95.zip
+	./spcking2.zip
+	./ssi.zip
+	./sspaceat.zip
+
+
+collection: Sprint
+shortname: series-spr
+sortBy: series-spr
+files:
+	./badlands.zip
+	./csprint.zip
+	./sprint1.zip
+	./sprint4.zip
+	./sprint8.zip
+	./ssprint.zip
+
+
+collection: Street Fighter
+shortname: series-str
+sortBy: series-str
+files:
+	./hsf2.zip
+	./sf.zip
+	./sf2.zip
+	./sf2ce.zip
+	./sf2hf.zip
+	./sf2hfj.zip
+	./sfiii.zip
+	./sfiii2.zip
+	./sfiii3.zip
+	./sftm.zip
+	./sfz2al.zip
+	./ssf2.zip
+	./ssf2mdb.zip
+	./ssf2t.zip
+	./ssf2xj.zip
+
+
+collection: Street Fighter EX
+shortname: series-str
+sortBy: series-str
+files:
+	./sfex.zip
+	./sfex2.zip
+	./sfex2p.zip
+	./sfexp.zip
+
+
+collection: Strikers 1945
+shortname: series-str
+sortBy: series-str
+files:
+	./s1945.zip
+	./s1945ii.zip
+	./s1945iii.zip
+	./s1945p.zip
+
+
+collection: Super Sidekicks
+shortname: series-sup
+sortBy: series-sup
+files:
+	./neocup98.zip
+	./ssideki.zip
+	./ssideki2.zip
+	./ssideki3.zip
+	./ssideki4.zip
+
+
+collection: Teenage Mutant Ninja Turtles
+shortname: series-tee
+sortBy: series-tee
+files:
+	./tmnt.zip
+	./tmnt2.zip
+	./tmnt22pu.zip
+	./tmnt2po.zip
+
+
+collection: Tekken
+shortname: series-tek
+sortBy: series-tek
+files:
+	./tekken.zip
+	./tekken2.zip
+	./tekken3.zip
+	./tektagt.zip
+
+
+collection: Tetris
+shortname: series-tet
+sortBy: series-tet
+files:
+	./atetris.zip
+	./bloxeed.zip
+	./finalttr.zip
+	./phtetris.zip
+	./tetrbx.zip
+	./tetris.zip
+	./tetriskr.zip
+	./tetrisse.zip
+	./tetrsark.zip
+
+
+collection: Tornado Baseball
+shortname: series-tor
+sortBy: series-tor
+files:
+	./dplay.zip
+	./ebases.zip
+	./einning.zip
+	./tornbase.zip
+
+
+collection: Track & Field
+shortname: series-tra
+sortBy: series-tra
+files:
+	./88games.zip
+	./atlantol.zip
+	./hyperath.zip
+	./hyperspt.zip
+	./nagano98.zip
+	./trackfld.zip
+
+
+collection: World Heroes
+shortname: series-wor
+sortBy: series-wor
+files:
+	./wh1.zip
+	./wh2.zip
+	./wh2j.zip
+	./whp.zip
+
+
+collection: World Series
+shortname: series-wor
+sortBy: series-wor
+files:
+	./basebal2.zip
+	./dblplay.zip
+	./strkzone.zip
+	./wseries.zip
+
+
+collection: World Stadium
+shortname: series-wor
+sortBy: series-wor
+files:
+	./sws.zip
+	./sws92.zip
+	./sws93.zip
+	./sws95.zip
+	./sws96.zip
+	./sws97.zip
+	./sws98.zip
+	./sws99.zip
+	./ws.zip
+
+
+collection: X-Men
+shortname: series-x-m
+sortBy: series-x-m
+files:
+	./xmcota.zip
+	./xmen.zip
+	./xmen2pa.zip
+	./xmen6p.zip
+
+

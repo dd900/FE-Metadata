@@ -1,0 +1,6 @@
+bloodbro
+cabal
+cabalus
+heatbrl
+legionna
+toki

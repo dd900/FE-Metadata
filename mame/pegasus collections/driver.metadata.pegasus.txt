@@ -1,0 +1,3025 @@
+collection: 8080bw.cpp
+shortname: driver-808
+sortBy: driver-808
+files:
+	./astropal.zip
+	./attackfc.zip
+	./ballbomb.zip
+	./claybust.zip
+	./cosmo.zip
+	./galactic.zip
+	./galxwars.zip
+	./gunchamp.zip
+	./indianbt.zip
+	./invadpt2.zip
+	./invrvnge.zip
+	./lrescue.zip
+	./lupin3.zip
+	./ozmawars.zip
+	./polaris.zip
+	./schaser.zip
+	./sflush.zip
+	./shuttlei.zip
+	./skylove.zip
+	./spcewarl.zip
+	./vortex.zip
+	./yosakdon.zip
+
+
+collection: aerofgt.cpp
+shortname: driver-aer
+sortBy: driver-aer
+files:
+	./aerofgt.zip
+	./karatblz.zip
+	./kickball.zip
+	./pspikes.zip
+	./spinlbrk.zip
+	./turbofrc.zip
+	./wbbc97.zip
+
+
+collection: aleck64.cpp
+shortname: driver-ale
+sortBy: driver-ale
+files:
+	./11beat.zip
+	./kurufev.zip
+	./starsldr.zip
+	./twrshaft.zip
+
+
+collection: alpha68k.cpp
+shortname: driver-alp
+sortBy: driver-alp
+files:
+	./gangwars.zip
+	./goldmedl.zip
+	./sbasebal.zip
+	./skyadvnt.zip
+	./skysoldr.zip
+	./timesold.zip
+
+
+collection: arkanoid.cpp
+shortname: driver-ark
+sortBy: driver-ark
+files:
+	./arkanoid.zip
+	./arkatour.zip
+	./brixian.zip
+	./tetrsark.zip
+
+
+collection: armedf.cpp
+shortname: driver-arm
+sortBy: driver-arm
+files:
+	./armedf.zip
+	./cclimbr2.zip
+	./kozure.zip
+	./legion.zip
+	./skyrobo.zip
+	./terraf.zip
+
+
+collection: arsystems.cpp
+shortname: driver-ars
+sortBy: driver-ars
+files:
+	./ar_airh.zip
+	./ar_argh.zip
+	./ar_blast.zip
+	./ar_bowl.zip
+	./ar_dart.zip
+	./ar_dlta.zip
+	./ar_fast.zip
+	./ar_ldrb.zip
+	./ar_ninj.zip
+	./ar_rdwr.zip
+	./ar_sdwr.zip
+	./ar_socc.zip
+	./ar_sprg.zip
+	./ar_xeon.zip
+
+
+collection: astrocde.cpp
+shortname: driver-ast
+sortBy: driver-ast
+files:
+	./demndrgn.zip
+	./ebases.zip
+	./gorf.zip
+	./robby.zip
+	./seawolf2.zip
+	./spacezap.zip
+	./wow.zip
+
+
+collection: asuka.cpp
+shortname: driver-asu
+sortBy: driver-asu
+files:
+	./asuka.zip
+	./bonzeadv.zip
+	./cadash.zip
+	./earthjkr.zip
+	./eto.zip
+	./galmedes.zip
+	./mofflott.zip
+
+
+collection: atarisy1.cpp
+shortname: driver-ata
+sortBy: driver-ata
+files:
+	./indytemp.zip
+	./marble.zip
+	./peterpak.zip
+	./roadblst.zip
+	./roadrunn.zip
+
+
+collection: atarisy2.cpp
+shortname: driver-ata
+sortBy: driver-ata
+files:
+	./720.zip
+	./apb.zip
+	./csprint.zip
+	./paperboy.zip
+	./ssprint.zip
+
+
+collection: bagman.cpp
+shortname: driver-bag
+sortBy: driver-bag
+files:
+	./bagman.zip
+	./botanic.zip
+	./pickin.zip
+	./sbagman.zip
+	./squaitsa.zip
+
+
+collection: balsente.cpp
+shortname: driver-bal
+sortBy: driver-bal
+files:
+	./cshift.zip
+	./gghost.zip
+	./gimeabrk.zip
+	./grudge.zip
+	./hattrick.zip
+	./minigolf.zip
+	./nstocker.zip
+	./otwalls.zip
+	./rescraid.zip
+	./sfootbal.zip
+	./shrike.zip
+	./snakepit.zip
+	./snakjack.zip
+	./spiker.zip
+	./stocker.zip
+	./toggle.zip
+
+
+collection: blockade.cpp
+shortname: driver-blo
+sortBy: driver-blo
+files:
+	./blasto.zip
+	./blockade.zip
+	./comotion.zip
+	./hustle.zip
+	./mineswpr.zip
+
+
+collection: btime.cpp
+shortname: driver-bti
+sortBy: driver-bti
+files:
+	./brubber.zip
+	./btime.zip
+	./disco.zip
+	./lnc.zip
+	./sdtennis.zip
+	./wtennis.zip
+	./zoar.zip
+
+
+collection: bublbobl.cpp
+shortname: driver-bub
+sortBy: driver-bub
+files:
+	./bublbobl.zip
+	./bublcave.zip
+	./sboblbobla.zip
+	./tokio.zip
+
+
+collection: cave.cpp
+shortname: driver-cav
+sortBy: driver-cav
+files:
+	./agallet.zip
+	./crusherm.zip
+	./ddonpach.zip
+	./donpachi.zip
+	./esprade.zip
+	./feversos.zip
+	./gaia.zip
+	./guwange.zip
+	./hotdogst.zip
+	./mazinger.zip
+	./metmqstr.zip
+	./plegends.zip
+	./pwrinst2.zip
+	./sailormn.zip
+	./theroes.zip
+	./uopoko.zip
+
+
+collection: cclimber.cpp
+shortname: driver-ccl
+sortBy: driver-ccl
+files:
+	./cclimber.zip
+	./ckong.zip
+	./ckongpt2.zip
+	./guzzler.zip
+	./rpatrol.zip
+	./swimmer.zip
+	./toprollr.zip
+	./yamato.zip
+
+
+collection: centiped.cpp
+shortname: driver-cen
+sortBy: driver-cen
+files:
+	./bullsdrt.zip
+	./centiped.zip
+	./mazeinv.zip
+	./milliped.zip
+	./warlords.zip
+
+
+collection: champbas.cpp
+shortname: driver-cha
+sortBy: driver-cha
+files:
+	./champbas.zip
+	./champbb2.zip
+	./exctscc2.zip
+	./exctsccr.zip
+	./talbot.zip
+
+
+collection: cinemat.cpp
+shortname: driver-cin
+sortBy: driver-cin
+files:
+	./armora.zip
+	./barrier.zip
+	./boxingb.zip
+	./demon.zip
+	./qb3.zip
+	./ripoff.zip
+	./solarq.zip
+	./spacewar.zip
+	./speedfrk.zip
+	./starcas.zip
+	./starhawk.zip
+	./tailg.zip
+	./warrior.zip
+	./wotw.zip
+
+
+collection: circus.cpp
+shortname: driver-cir
+sortBy: driver-cir
+files:
+	./circus.zip
+	./crash.zip
+	./ripcord.zip
+	./robotbwl.zip
+
+
+collection: cischeat.cpp
+shortname: driver-cis
+sortBy: driver-cis
+files:
+	./bigrun.zip
+	./cischeat.zip
+	./f1gpstar.zip
+	./f1gpstr2.zip
+
+
+collection: cninja.cpp
+shortname: driver-cni
+sortBy: driver-cni
+files:
+	./cninja.zip
+	./edrandy.zip
+	./mutantf.zip
+	./robocop2.zip
+	./robocop2j.zip
+
+
+collection: cosmic.cpp
+shortname: driver-cos
+sortBy: driver-cos
+files:
+	./cosmica.zip
+	./devzone.zip
+	./magspot.zip
+	./magspot2.zip
+	./nomnlnd.zip
+	./panic.zip
+
+
+collection: cps1.cpp
+shortname: driver-cps
+sortBy: driver-cps
+files:
+	./1941.zip
+	./captcomm.zip
+	./cawing.zip
+	./dino.zip
+	./dynwar.zip
+	./ffight.zip
+	./forgottn.zip
+	./ganbare.zip
+	./ghouls.zip
+	./gulunpa.zip
+	./knights.zip
+	./kod.zip
+	./mbombrd.zip
+	./megaman.zip
+	./mercs.zip
+	./msword.zip
+	./mtwins.zip
+	./nemo.zip
+	./pang3.zip
+	./pnickj.zip
+	./punisher.zip
+	./sf2.zip
+	./sf2ce.zip
+	./sf2hf.zip
+	./sf2hfj.zip
+	./slammast.zip
+	./strider.zip
+	./unsquad.zip
+	./varth.zip
+	./willow.zip
+	./wof.zip
+
+
+collection: cps2.cpp
+shortname: driver-cps
+sortBy: driver-cps
+files:
+	./1944.zip
+	./19xx.zip
+	./armwar.zip
+	./avsp.zip
+	./batcir.zip
+	./cybots.zip
+	./ddsom.zip
+	./ddtod.zip
+	./dimahoo.zip
+	./dstlk.zip
+	./ecofghtr.zip
+	./gigawing.zip
+	./hsf2.zip
+	./megaman2.zip
+	./mmatrix.zip
+	./mpang.zip
+	./msh.zip
+	./mshvsf.zip
+	./mshvsfj.zip
+	./mvsc.zip
+	./nwarr.zip
+	./progear.zip
+	./pzloop2.zip
+	./ringdest.zip
+	./sfa.zip
+	./sfa2.zip
+	./sfa3.zip
+	./sfz2al.zip
+	./sgemf.zip
+	./spf2t.zip
+	./ssf2.zip
+	./ssf2t.zip
+	./ssf2xj.zip
+	./vhunt2.zip
+	./vsav.zip
+	./vsav2.zip
+	./xmcota.zip
+	./xmvsf.zip
+
+
+collection: cps3.cpp
+shortname: driver-cps
+sortBy: driver-cps
+files:
+	./jojo.zip
+	./jojoba.zip
+	./redearth.zip
+	./sfiii.zip
+	./sfiii2.zip
+	./sfiii3.zip
+
+
+collection: cv1k.cpp
+shortname: driver-cv1
+sortBy: driver-cv1
+files:
+	./akatana.zip
+	./ddpdfk.zip
+	./deathsml.zip
+	./dfkbl.zip
+	./dsmbl.zip
+	./espgal2.zip
+	./futari15.zip
+	./futaribl.zip
+	./ibara.zip
+	./ibarablk.zip
+	./mmpork.zip
+	./mushisam.zip
+	./pinkswts.zip
+
+
+collection: cvs.cpp
+shortname: driver-cvs
+sortBy: driver-cvs
+files:
+	./8ball.zip
+	./cosmos.zip
+	./darkwar.zip
+	./dazzler.zip
+	./diggerc.zip
+	./goldbug.zip
+	./heartatk.zip
+	./hero.zip
+	./hunchbak.zip
+	./huncholy.zip
+	./logger.zip
+	./radarzon.zip
+	./raiders.zip
+	./spacefrt.zip
+	./superbik.zip
+	./wallst.zip
+
+
+collection: ddragon.cpp
+shortname: driver-ddr
+sortBy: driver-ddr
+files:
+	./darktowr.zip
+	./ddragon.zip
+	./ddragon2.zip
+	./ddungeon.zip
+	./toffy.zip
+	./tstrike.zip
+
+
+collection: dec0.cpp
+shortname: driver-dec
+sortBy: driver-dec
+files:
+	./baddudes.zip
+	./birdtry.zip
+	./bouldash.zip
+	./drgninja.zip
+	./hbarrel.zip
+	./hippodrm.zip
+	./midres.zip
+	./robocop.zip
+	./secretag.zip
+
+
+collection: dec8.cpp
+shortname: driver-dec
+sortBy: driver-dec
+files:
+	./cobracom.zip
+	./csilver.zip
+	./garyoret.zip
+	./ghostb.zip
+	./gondo.zip
+	./lastmisn.zip
+	./oscar.zip
+	./shackled.zip
+	./srdarwin.zip
+
+
+collection: deco32.cpp
+shortname: driver-dec
+sortBy: driver-dec
+files:
+	./captaven.zip
+	./captavenu.zip
+	./dragngun.zip
+	./fghthist.zip
+	./nslasher.zip
+	./nslasherj.zip
+	./tattass.zip
+
+
+collection: decocass.cpp
+shortname: driver-dec
+sortBy: driver-dec
+files:
+	./cadanglr.zip
+	./castfant.zip
+	./cbdash.zip
+	./cbtime.zip
+	./cburnrub.zip
+	./cexplore.zip
+	./cfboy0a1.zip
+	./cfghtice.zip
+	./cflyball.zip
+	./cgraplop.zip
+	./chwy.zip
+	./clapapa.zip
+	./clocknch.zip
+	./cmissnx.zip
+	./cnightst.zip
+	./coozumou.zip
+	./cppicf.zip
+	./cprobowl.zip
+	./cprogolf.zip
+	./cpsoccer.zip
+	./cptennis.zip
+	./cscrtry.zip
+	./csdtenis.zip
+	./cskater.zip
+	./csuperas.zip
+	./cterrani.zip
+	./ctisland.zip
+	./ctornado.zip
+	./czeroize.zip
+
+
+collection: dkong.cpp
+shortname: driver-dko
+sortBy: driver-dko
+files:
+	./8ballact.zip
+	./dkong.zip
+	./dkong3.zip
+	./dkongf.zip
+	./dkongjr.zip
+	./dkongpe.zip
+	./dkongx11.zip
+	./drakton.zip
+	./radarscp.zip
+	./shootgal.zip
+	./spcfrcii.zip
+	./spclforc.zip
+	./strtheat.zip
+
+
+collection: docastle.cpp
+shortname: driver-doc
+sortBy: driver-doc
+files:
+	./docastle.zip
+	./dorunrun.zip
+	./dowild.zip
+	./idsoccer.zip
+	./jjack.zip
+	./kickridr.zip
+
+
+collection: dooyong.cpp
+shortname: driver-doo
+sortBy: driver-doo
+files:
+	./bluehawk.zip
+	./flytiger.zip
+	./gulfstrm.zip
+	./lastday.zip
+	./pollux.zip
+	./rshark.zip
+	./superx.zip
+
+
+collection: dreamwld.cpp
+shortname: driver-dre
+sortBy: driver-dre
+files:
+	./baryon.zip
+	./cutefght.zip
+	./dreamwld.zip
+	./gaialast.zip
+	./rolcrush.zip
+
+
+collection: eolith.cpp
+shortname: driver-eol
+sortBy: driver-eol
+files:
+	./candy.zip
+	./fort2b.zip
+	./ironfort.zip
+	./linkypip.zip
+
+
+collection: epos.cpp
+shortname: driver-epo
+sortBy: driver-epo
+files:
+	./eeekk.zip
+	./igmo.zip
+	./megadon.zip
+	./revngr84.zip
+	./suprglob.zip
+
+
+collection: equites.cpp
+shortname: driver-equ
+sortBy: driver-equ
+files:
+	./bullfgtr.zip
+	./equites.zip
+	./gekisou.zip
+	./hvoltage.zip
+	./kouyakyu.zip
+	./splndrbt.zip
+	./splndrbt2.zip
+
+
+collection: esd16.cpp
+shortname: driver-esd
+sortBy: driver-esd
+files:
+	./hedpanic.zip
+	./jumppop.zip
+	./swatpolc.zip
+	./tangtang.zip
+
+
+collection: exidy.cpp
+shortname: driver-exi
+sortBy: driver-exi
+files:
+	./hardhat.zip
+	./mtrap.zip
+	./pepper2.zip
+	./sidetrac.zip
+	./spectar.zip
+	./targ.zip
+	./teetert.zip
+	./venture.zip
+
+
+collection: exidy440.cpp
+shortname: driver-exi
+sortBy: driver-exi
+files:
+	./cheyenne.zip
+	./chiller.zip
+	./claypign.zip
+	./combat.zip
+	./cracksht.zip
+	./crossbow.zip
+	./hitnmiss.zip
+	./topsecex.zip
+	./whodunit.zip
+
+
+collection: fantland.cpp
+shortname: driver-fan
+sortBy: driver-fan
+files:
+	./borntofi.zip
+	./fantland.zip
+	./galaxygn.zip
+	./wheelrun.zip
+
+
+collection: fastfred.cpp
+shortname: driver-fas
+sortBy: driver-fas
+files:
+	./boggy84.zip
+	./flyboy.zip
+	./imago.zip
+	./jumpcoas.zip
+	./redrobin.zip
+
+
+collection: flstory.cpp
+shortname: driver-fls
+sortBy: driver-fls
+files:
+	./flstory.zip
+	./onna34ro.zip
+	./rumba.zip
+	./victnine.zip
+
+
+collection: freekick.cpp
+shortname: driver-fre
+sortBy: driver-fre
+files:
+	./freekick.zip
+	./gigas.zip
+	./gigasm2.zip
+	./omega.zip
+	./pbillrd.zip
+
+
+collection: gaelco.cpp
+shortname: driver-gae
+sortBy: driver-gae
+files:
+	./bigkarnk.zip
+	./biomtoy.zip
+	./lastkm.zip
+	./squash.zip
+	./thoop.zip
+
+
+collection: gaelco2.cpp
+shortname: driver-gae
+sortBy: driver-gae
+files:
+	./aligator.zip
+	./bang.zip
+	./maniacsq.zip
+	./snowboar.zip
+	./touchgo.zip
+	./wrally2.zip
+
+
+collection: gaelco3d.cpp
+shortname: driver-gae
+sortBy: driver-gae
+files:
+	./footbpow.zip
+	./radikalb.zip
+	./speedup.zip
+	./surfplnt.zip
+
+
+collection: gaiden.cpp
+shortname: driver-gai
+sortBy: driver-gai
+files:
+	./drgnbowl.zip
+	./gaiden.zip
+	./shadoww.zip
+	./stratof.zip
+	./wildfang.zip
+
+
+collection: galaga.cpp
+shortname: driver-gal
+sortBy: driver-gal
+files:
+	./bosco.zip
+	./digdug.zip
+	./galaga.zip
+	./galagamf.zip
+	./xevious.zip
+
+
+collection: galaxian.cpp
+shortname: driver-gal
+sortBy: driver-gal
+files:
+	./amidar.zip
+	./anteater.zip
+	./armorcar.zip
+	./atlantis.zip
+	./azurian.zip
+	./blkhole.zip
+	./bongo.zip
+	./calipso.zip
+	./catacomb.zip
+	./checkman.zip
+	./dingo.zip
+	./exodus.zip
+	./fantastc.zip
+	./frogger.zip
+	./galapx.zip
+	./galaxian.zip
+	./galturbo.zip
+	./jumpbug.zip
+	./kingball.zip
+	./kong.zip
+	./levers.zip
+	./losttomb.zip
+	./mimonkey.zip
+	./moonal2.zip
+	./mooncrst.zip
+	./moonqsr.zip
+	./moonwar.zip
+	./mshuttle.zip
+	./orbitron.zip
+	./ozon1.zip
+	./pisces.zip
+	./redufo.zip
+	./scobra.zip
+	./scorpion.zip
+	./scramble.zip
+	./sfx.zip
+	./skybase.zip
+	./superbon.zip
+	./tazmania.zip
+	./theend.zip
+	./timefgtr.zip
+	./turtles.zip
+	./uniwars.zip
+	./victoryc.zip
+	./warofbug.zip
+	./zigzagb.zip
+
+
+collection: gameplan.cpp
+shortname: driver-gam
+sortBy: driver-gam
+files:
+	./challeng.zip
+	./kaos.zip
+	./killcom.zip
+	./leprechn.zip
+	./megatack.zip
+	./piratetr.zip
+
+
+collection: gauntlet.cpp
+shortname: driver-gau
+sortBy: driver-gau
+files:
+	./gaunt2.zip
+	./gaunt22p.zip
+	./gauntlet.zip
+	./gauntlet2p.zip
+	./vindctr2.zip
+
+
+collection: gottlieb.cpp
+shortname: driver-got
+sortBy: driver-got
+files:
+	./3stooges.zip
+	./argusg.zip
+	./curvebal.zip
+	./insector.zip
+	./kngtmare.zip
+	./krull.zip
+	./mach3.zip
+	./mplanets.zip
+	./qbert.zip
+	./qbertqub.zip
+	./reactor.zip
+	./screwloo.zip
+	./sqbert.zip
+	./tylz.zip
+	./usvsthem.zip
+	./vidvince.zip
+	./wizwarz.zip
+
+
+collection: harddriv.cpp
+shortname: driver-har
+sortBy: driver-har
+files:
+	./harddriv.zip
+	./hdrivair.zip
+	./racedriv.zip
+	./steeltal.zip
+	./strtdriv.zip
+	./stunrun.zip
+
+
+collection: iteagle.cpp
+shortname: driver-ite
+sortBy: driver-ite
+files:
+	./bbh.zip
+	./bbh2sp.zip
+	./bbhcotw.zip
+	./carnking.zip
+	./gtfore01.zip
+	./gtfore02.zip
+	./gtfore03.zip
+	./gtfore04.zip
+	./gtfore05.zip
+	./gtfore06.zip
+	./virtpool.zip
+
+
+collection: itech32.cpp
+shortname: driver-ite
+sortBy: driver-ite
+files:
+	./bloodstm.zip
+	./drivedge.zip
+	./gt2k.zip
+	./gt2kt500.zip
+	./gt3d.zip
+	./gt97.zip
+	./gt98.zip
+	./gt99.zip
+	./gtclassc.zip
+	./hardyard.zip
+	./sftm.zip
+	./shufshot.zip
+	./timekill.zip
+	./wcbowl.zip
+
+
+collection: itech8.cpp
+shortname: driver-ite
+sortBy: driver-ite
+files:
+	./arlingtn.zip
+	./gpgolf.zip
+	./grmatch.zip
+	./gtg.zip
+	./gtg2.zip
+	./hstennis.zip
+	./neckneck.zip
+	./ninclown.zip
+	./peggle.zip
+	./pegglet.zip
+	./rimrockn.zip
+	./stratab.zip
+
+
+collection: jack.cpp
+shortname: driver-jac
+sortBy: driver-jac
+files:
+	./brix.zip
+	./freeze.zip
+	./jack.zip
+	./joinem.zip
+	./tripool.zip
+	./unclepoo.zip
+	./zzyzzyxx.zip
+
+
+collection: jaguar.cpp
+shortname: driver-jag
+sortBy: driver-jag
+files:
+	./area51.zip
+	./area51mx.zip
+	./fishfren.zip
+	./freezeat.zip
+	./maxforce.zip
+	./vcircle.zip
+
+
+collection: kaneko16.cpp
+shortname: driver-kan
+sortBy: driver-kan
+files:
+	./berlwall.zip
+	./blazeon.zip
+	./bloodwar.zip
+	./bonkadv.zip
+	./brapboys.zip
+	./explbrkr.zip
+	./gtmr.zip
+	./gtmr2.zip
+	./mgcrystl.zip
+	./packbang.zip
+	./shogwarr.zip
+	./wingforc.zip
+
+
+collection: konamigv.cpp
+shortname: driver-kon
+sortBy: driver-kon
+files:
+	./hyperath.zip
+	./lacrazyc.zip
+	./nagano98.zip
+	./powyak96.zip
+	./simpbowl.zip
+
+
+collection: konamigx.cpp
+shortname: driver-kon
+sortBy: driver-kon
+files:
+	./crzcross.zip
+	./dragoona.zip
+	./fantjour.zip
+	./le2.zip
+	./rungun2.zip
+	./rushhero.zip
+	./salmndr2.zip
+	./soccerss.zip
+	./tbyahhoo.zip
+	./tkmmpzdm.zip
+	./vsnetscr.zip
+	./winspike.zip
+
+
+collection: ksys573.cpp
+shortname: driver-ksy
+sortBy: driver-ksy
+files:
+	./darkhleg.zip
+	./fbait2bc.zip
+	./fbaitbc.zip
+	./fbaitmc.zip
+	./hndlchmp.zip
+	./powyakex.zip
+
+
+collection: kyugo.cpp
+shortname: driver-kyu
+sortBy: driver-kyu
+files:
+	./airwolf.zip
+	./flashgal.zip
+	./gyrodine.zip
+	./legend.zip
+	./repulse.zip
+	./srdmissn.zip
+
+
+collection: ladybug.cpp
+shortname: driver-lad
+sortBy: driver-lad
+files:
+	./cavenger.zip
+	./dorodon.zip
+	./ladybug.zip
+	./snapjack.zip
+	./sraider.zip
+
+
+collection: legionna.cpp
+shortname: driver-leg
+sortBy: driver-leg
+files:
+	./denjinmk.zip
+	./godzilla.zip
+	./heatbrl.zip
+	./legionna.zip
+
+
+collection: leland.cpp
+shortname: driver-lel
+sortBy: driver-lel
+files:
+	./aafb.zip
+	./aafbd2p.zip
+	./alleymas.zip
+	./asylum.zip
+	./basebal2.zip
+	./brutforc.zip
+	./cerberus.zip
+	./dangerz.zip
+	./dblplay.zip
+	./indyheat.zip
+	./mayhem.zip
+	./offroad.zip
+	./offroadt.zip
+	./offroadt2p.zip
+	./pigout.zip
+	./powrplay.zip
+	./quarterb.zip
+	./redlin2p.zip
+	./strkzone.zip
+	./teamqb.zip
+	./viper.zip
+	./wseries.zip
+	./wsf.zip
+
+
+collection: lethalj.cpp
+shortname: driver-let
+sortBy: driver-let
+files:
+	./cclownz.zip
+	./cfarm.zip
+	./eggventr.zip
+	./lethalj.zip
+	./ripribit.zip
+
+
+collection: liberate.cpp
+shortname: driver-lib
+sortBy: driver-lib
+files:
+	./boomrang.zip
+	./kamikcab.zip
+	./liberate.zip
+	./prosoccr.zip
+
+
+collection: lwings.cpp
+shortname: driver-lwi
+sortBy: driver-lwi
+files:
+	./avengers.zip
+	./fball.zip
+	./lwings.zip
+	./sectionz.zip
+	./trojan.zip
+
+
+collection: m10.cpp
+shortname: driver-m10
+sortBy: driver-m10
+files:
+	./greenber.zip
+	./headoni.zip
+	./ipminvad.zip
+	./skychut.zip
+	./spacbeam.zip
+
+
+collection: m62.cpp
+shortname: driver-m62
+sortBy: driver-m62
+files:
+	./battroad.zip
+	./horizon.zip
+	./kidniki.zip
+	./kungfum.zip
+	./ldrun.zip
+	./ldrun2.zip
+	./ldrun3.zip
+	./ldrun4.zip
+	./spelunk2.zip
+	./spelunkr.zip
+	./youjyudn.zip
+
+
+collection: m72.cpp
+shortname: driver-m72
+sortBy: driver-m72
+files:
+	./airduel.zip
+	./bchopper.zip
+	./cosmccop.zip
+	./dbreed.zip
+	./hharry.zip
+	./imgfight.zip
+	./loht.zip
+	./ltswords.zip
+	./majtitle.zip
+	./nspirit.zip
+	./poundfor.zip
+	./rtype.zip
+	./rtype2.zip
+	./xmultipl.zip
+
+
+collection: m92.cpp
+shortname: driver-m92
+sortBy: driver-m92
+files:
+	./bmaster.zip
+	./gunforc2.zip
+	./gunforce.zip
+	./hook.zip
+	./inthunt.zip
+	./lethalth.zip
+	./majtitl2.zip
+	./mysticri.zip
+	./nbbatman.zip
+	./rtypeleo.zip
+	./ssoldier.zip
+	./uccops.zip
+	./uccopsar.zip
+
+
+collection: mappy.cpp
+shortname: driver-map
+sortBy: driver-map
+files:
+	./digdug2.zip
+	./grobda.zip
+	./mappy.zip
+	./pacnpal.zip
+	./superpac.zip
+	./todruaga.zip
+
+
+collection: marineb.cpp
+shortname: driver-mar
+sortBy: driver-mar
+files:
+	./bcruzm12.zip
+	./changes.zip
+	./hoccer.zip
+	./hopprobo.zip
+	./marineb.zip
+	./springer.zip
+	./wanted.zip
+
+
+collection: maxaflex.cpp
+shortname: driver-max
+sortBy: driver-max
+files:
+	./mf_achas.zip
+	./mf_bdash.zip
+	./mf_brist.zip
+	./mf_flip.zip
+
+
+collection: mcr.cpp
+shortname: driver-mcr
+sortBy: driver-mcr
+files:
+	./demoderb.zip
+	./domino.zip
+	./dotron.zip
+	./journey.zip
+	./kick.zip
+	./kroozr.zip
+	./shollow.zip
+	./solarfox.zip
+	./tapper.zip
+	./timber.zip
+	./twotiger.zip
+	./wacko.zip
+
+
+collection: mcr3.cpp
+shortname: driver-mcr
+sortBy: driver-mcr
+files:
+	./crater.zip
+	./maxrpm.zip
+	./powerdrv.zip
+	./rampage.zip
+	./sarge.zip
+	./spyhunt.zip
+	./stargrds.zip
+	./turbotag.zip
+
+
+collection: mcr68.cpp
+shortname: driver-mcr
+sortBy: driver-mcr
+files:
+	./archrivl.zip
+	./blasted.zip
+	./pigskin.zip
+	./spyhunt2.zip
+	./xenophob.zip
+
+
+collection: meadows.cpp
+shortname: driver-mea
+sortBy: driver-mea
+files:
+	./bowl3d.zip
+	./deadeye.zip
+	./gypsyjug.zip
+	./minferno.zip
+
+
+collection: megadriv_acbl.cpp
+shortname: driver-meg
+sortBy: driver-meg
+files:
+	./mk3mdb.zip
+	./sonic2mb.zip
+	./srmdb.zip
+	./ssf2mdb.zip
+	./topshoot.zip
+
+
+collection: megaplay.cpp
+shortname: driver-meg
+sortBy: driver-meg
+files:
+	./mp_bio.zip
+	./mp_col3.zip
+	./mp_gaxe2.zip
+	./mp_gslam.zip
+	./mp_gunhe.zip
+	./mp_mazin.zip
+	./mp_soni2.zip
+	./mp_sonic.zip
+	./mp_sor2.zip
+
+
+collection: megasys1.cpp
+shortname: driver-meg
+sortBy: driver-meg
+files:
+	./64street.zip
+	./astyanax.zip
+	./avspirit.zip
+	./bigstrik.zip
+	./chimerab.zip
+	./cybattlr.zip
+	./edf.zip
+	./hachoo.zip
+	./inyourfa.zip
+	./jitsupro.zip
+	./kazan.zip
+	./kickoff.zip
+	./lomakai.zip
+	./p47.zip
+	./plusalph.zip
+	./rodland.zip
+	./soldam.zip
+	./stdragon.zip
+	./tshingen.zip
+
+
+collection: metro.cpp
+shortname: driver-met
+sortBy: driver-met
+files:
+	./balcube.zip
+	./bangball.zip
+	./blzntrnd.zip
+	./dharma.zip
+	./gstrik2.zip
+	./gunmast.zip
+	./karatour.zip
+	./mouja.zip
+	./msgogo.zip
+	./pangpoms.zip
+	./poitto.zip
+	./puzzli.zip
+	./skyalert.zip
+	./vmetal.zip
+
+
+collection: midtunit.cpp
+shortname: driver-mid
+sortBy: driver-mid
+files:
+	./jdreddp.zip
+	./mk.zip
+	./mk2.zip
+	./nbajam.zip
+	./nbajamte.zip
+
+
+collection: midvunit.cpp
+shortname: driver-mid
+sortBy: driver-mid
+files:
+	./crusnusa.zip
+	./crusnwld.zip
+	./offroadc.zip
+	./wargods.zip
+
+
+collection: midwunit.cpp
+shortname: driver-mid
+sortBy: driver-mid
+files:
+	./mk3.zip
+	./nbahangt.zip
+	./nbamht.zip
+	./nbamht1.zip
+	./openice.zip
+	./rmpgwt.zip
+	./umk3.zip
+	./wwfmania.zip
+
+
+collection: midyunit.cpp
+shortname: driver-mid
+sortBy: driver-mid
+files:
+	./hiimpact.zip
+	./narc.zip
+	./shimpact.zip
+	./smashtv.zip
+	./strkforc.zip
+	./term2.zip
+	./totcarn.zip
+	./trog.zip
+
+
+collection: mitchell.cpp
+shortname: driver-mit
+sortBy: driver-mit
+files:
+	./block.zip
+	./mstworld.zip
+	./pang.zip
+	./spang.zip
+
+
+collection: ms32.cpp
+shortname: driver-ms3
+sortBy: driver-ms3
+files:
+	./bbbxing.zip
+	./desertwr.zip
+	./gametngk.zip
+	./gratia.zip
+	./p47aces.zip
+	./tetrisp.zip
+	./wpksocv2.zip
+
+
+collection: mw8080bw.cpp
+shortname: driver-mw8
+sortBy: driver-mw8
+files:
+	./280zzzap.zip
+	./blueshrk.zip
+	./boothill.zip
+	./bowler.zip
+	./checkmat.zip
+	./clowns.zip
+	./desertgu.zip
+	./dogpatch.zip
+	./dplay.zip
+	./einning.zip
+	./gmissile.zip
+	./gunfight.zip
+	./invad2ct.zip
+	./invaders.zip
+	./lagunar.zip
+	./m4.zip
+	./maze.zip
+	./phantom2.zip
+	./seawolf.zip
+	./shuffle.zip
+	./spacwalk.zip
+	./spcenctr.zip
+	./tornbase.zip
+
+
+collection: mystwarr.cpp
+shortname: driver-mys
+sortBy: driver-mys
+files:
+	./gaiapols.zip
+	./metamrph.zip
+	./mmaulers.zip
+	./mtlchamp.zip
+	./mystwarr.zip
+	./viostorm.zip
+
+
+collection: n8080.cpp
+shortname: driver-n80
+sortBy: driver-n80
+files:
+	./helifire.zip
+	./highsplt.zip
+	./sheriff.zip
+	./spacefev.zip
+	./spacelnc.zip
+
+
+collection: namcona1.cpp
+shortname: driver-nam
+sortBy: driver-nam
+files:
+	./cgangpzl.zip
+	./emeralda.zip
+	./exvania.zip
+	./fghtatck.zip
+	./knckhead.zip
+	./numanath.zip
+	./swcourt.zip
+	./tinklpit.zip
+
+
+collection: namconb1.cpp
+shortname: driver-nam
+sortBy: driver-nam
+files:
+	./gslgr94u.zip
+	./gslugrsj.zip
+	./machbrkr.zip
+	./nebulray.zip
+	./outfxies.zip
+	./ptblank.zip
+	./sws95.zip
+	./sws96.zip
+	./sws97.zip
+	./vshoot.zip
+
+
+collection: namcos1.cpp
+shortname: driver-nam
+sortBy: driver-nam
+files:
+	./bakutotu.zip
+	./berabohm.zip
+	./blastoff.zip
+	./blazer.zip
+	./boxyboy.zip
+	./dangseed.zip
+	./dspirit.zip
+	./faceoff.zip
+	./galaga88.zip
+	./mmaze.zip
+	./pacmania.zip
+	./pistoldm.zip
+	./puzlclub.zip
+	./quester.zip
+	./rompers.zip
+	./shadowld.zip
+	./splatter.zip
+	./tankfrce.zip
+	./wldcourt.zip
+	./ws.zip
+
+
+collection: namcos11.cpp
+shortname: driver-nam
+sortBy: driver-nam
+files:
+	./dunkmnia.zip
+	./pocketrc.zip
+	./primglex.zip
+	./souledge.zip
+	./tekken.zip
+	./tekken2.zip
+	./xevi3dg.zip
+
+
+collection: namcos12.cpp
+shortname: driver-nam
+sortBy: driver-nam
+files:
+	./aplarail.zip
+	./aquarush.zip
+	./ehrgeiz.zip
+	./fgtlayer.zip
+	./g13knd.zip
+	./ghlpanic.zip
+	./golgo13.zip
+	./lbgrande.zip
+	./ptblank2.zip
+	./soulclbr.zip
+	./sws98.zip
+	./sws99.zip
+	./technodr.zip
+	./tekken3.zip
+	./tektagt.zip
+	./toukon3.zip
+
+
+collection: namcos2.cpp
+shortname: driver-nam
+sortBy: driver-nam
+files:
+	./assault.zip
+	./bubbletr.zip
+	./burnforc.zip
+	./cosmogng.zip
+	./dirtfoxj.zip
+	./dsaber.zip
+	./finalap2.zip
+	./finalap3.zip
+	./finallap.zip
+	./finehour.zip
+	./fourtrax.zip
+	./gollygho.zip
+	./kyukaidk.zip
+	./luckywld.zip
+	./marvland.zip
+	./metlhawk.zip
+	./mirninja.zip
+	./ordyne.zip
+	./phelios.zip
+	./rthun2.zip
+	./sgunner.zip
+	./sgunner2.zip
+	./suzuk8h2.zip
+	./suzuka8h.zip
+	./sws.zip
+	./sws92.zip
+	./sws93.zip
+	./valkyrie.zip
+
+
+collection: namcos22.cpp
+shortname: driver-nam
+sortBy: driver-nam
+files:
+	./acedrvrw.zip
+	./adillor.zip
+	./airco22b.zip
+	./alpinerd.zip
+	./alpinr2b.zip
+	./aquajet.zip
+	./cybrcomm.zip
+	./cybrcycc.zip
+	./dirtdash.zip
+	./propcycl.zip
+	./raveracw.zip
+	./ridgera2.zip
+	./ridgerac.zip
+	./timecris.zip
+	./tokyowar.zip
+	./victlapw.zip
+
+
+collection: namcos86.cpp
+shortname: driver-nam
+sortBy: driver-nam
+files:
+	./genpeitd.zip
+	./hopmappy.zip
+	./roishtar.zip
+	./rthunder.zip
+	./skykiddx.zip
+	./wndrmomo.zip
+
+
+collection: nemesis.cpp
+shortname: driver-nem
+sortBy: driver-nem
+files:
+	./blkpnthr.zip
+	./citybomb.zip
+	./gwarrior.zip
+	./hcrash.zip
+	./kittenk.zip
+	./konamigt.zip
+	./lifefrce.zip
+	./nemesis.zip
+	./salamand.zip
+	./twinbee.zip
+
+
+collection: neogeo.cpp
+shortname: driver-neo
+sortBy: driver-neo
+files:
+	./2020bb.zip
+	./3countb.zip
+	./alpham2.zip
+	./androdun.zip
+	./aodk.zip
+	./aof.zip
+	./aof2.zip
+	./aof3.zip
+	./b2b.zip
+	./bangbead.zip
+	./bjourney.zip
+	./blazstar.zip
+	./breakers.zip
+	./breakrev.zip
+	./bstars.zip
+	./bstars2.zip
+	./burningf.zip
+	./crswd2bl.zip
+	./crsword.zip
+	./ctomaday.zip
+	./cyberlip.zip
+	./diggerma.zip
+	./doubledr.zip
+	./dragonsh.zip
+	./eightman.zip
+	./fatfursp.zip
+	./fatfury1.zip
+	./fatfury2.zip
+	./fatfury3.zip
+	./fbfrenzy.zip
+	./fightfev.zip
+	./flipshot.zip
+	./galaxyfg.zip
+	./ganryu.zip
+	./garou.zip
+	./ghostlop.zip
+	./goalx3.zip
+	./gowcaizr.zip
+	./gpilots.zip
+	./gururin.zip
+	./ironclad.zip
+	./irrmaze.zip
+	./joyjoy.zip
+	./kabukikl.zip
+	./karnovr.zip
+	./kf2k5uni.zip
+	./kizuna.zip
+	./kof2000.zip
+	./kof2001.zip
+	./kof2002.zip
+	./kof2003.zip
+	./kof94.zip
+	./kof95.zip
+	./kof96.zip
+	./kof97.zip
+	./kof98.zip
+	./kof99.zip
+	./kotm.zip
+	./kotm2.zip
+	./lastblad.zip
+	./lastbld2.zip
+	./lasthope.zip
+	./lbowling.zip
+	./legendos.zip
+	./lresort.zip
+	./magdrop2.zip
+	./magdrop3.zip
+	./maglord.zip
+	./matrim.zip
+	./miexchng.zip
+	./mslug.zip
+	./mslug2.zip
+	./mslug3.zip
+	./mslug4.zip
+	./mslug5.zip
+	./mslugx.zip
+	./mutnat.zip
+	./nam1975.zip
+	./ncombat.zip
+	./ncommand.zip
+	./neobombe.zip
+	./neocup98.zip
+	./neodrift.zip
+	./neomrdo.zip
+	./ninjamas.zip
+	./nitd.zip
+	./overtop.zip
+	./panicbom.zip
+	./pbobbl2n.zip
+	./pbobblen.zip
+	./pgoal.zip
+	./pnyaa.zip
+	./popbounc.zip
+	./preisle2.zip
+	./pspikes2.zip
+	./pulstar.zip
+	./puzzledp.zip
+	./ragnagrd.zip
+	./rbff1.zip
+	./rbff2.zip
+	./rbffspec.zip
+	./ridhero.zip
+	./roboarmy.zip
+	./rotd.zip
+	./s1945p.zip
+	./samsh5sp.zip
+	./samsho.zip
+	./samsho2.zip
+	./samsho3.zip
+	./samsho4.zip
+	./samsho5.zip
+	./savagere.zip
+	./sdodgeb.zip
+	./sengoku.zip
+	./sengoku2.zip
+	./sengoku3.zip
+	./shocktr2.zip
+	./shocktro.zip
+	./socbrawl.zip
+	./sonicwi2.zip
+	./sonicwi3.zip
+	./spinmast.zip
+	./ssideki.zip
+	./ssideki2.zip
+	./ssideki3.zip
+	./ssideki4.zip
+	./stakwin.zip
+	./stakwin2.zip
+	./strhoop.zip
+	./superspy.zip
+	./svc.zip
+	./tophuntr.zip
+	./tpgolf.zip
+	./trally.zip
+	./turfmast.zip
+	./twinspri.zip
+	./twsoc96.zip
+	./viewpoin.zip
+	./wakuwak7.zip
+	./wh1.zip
+	./wh2.zip
+	./wh2j.zip
+	./whp.zip
+	./wjammers.zip
+	./zedblade.zip
+	./zintrckb.zip
+	./zupapa.zip
+
+
+collection: ninjakd2.cpp
+shortname: driver-nin
+sortBy: driver-nin
+files:
+	./arkarea.zip
+	./mnight.zip
+	./ninjakd2.zip
+	./omegaf.zip
+	./robokid.zip
+
+
+collection: nmk16.cpp
+shortname: driver-nmk
+sortBy: driver-nmk
+files:
+	./acrobatm.zip
+	./airattck.zip
+	./arcadian.zip
+	./bioship.zip
+	./bjtwin.zip
+	./blkheart.zip
+	./dolmen.zip
+	./grdnstrm.zip
+	./gunnail.zip
+	./hachamf.zip
+	./macross.zip
+	./macross2.zip
+	./manybloc.zip
+	./mustang.zip
+	./sabotenb.zip
+	./spec2k.zip
+	./ssmissin.zip
+	./stagger1.zip
+	./strahl.zip
+	./tdragon.zip
+	./tdragon2.zip
+	./tharrier.zip
+	./twinactn.zip
+	./vandyke.zip
+
+
+collection: nova2001.cpp
+shortname: driver-nov
+sortBy: driver-nov
+files:
+	./ninjakun.zip
+	./nova2001.zip
+	./pkunwar.zip
+	./raiders5.zip
+
+
+collection: pacman.cpp
+shortname: driver-pac
+sortBy: driver-pac
+files:
+	./alibaba.zip
+	./birdiy.zip
+	./cannonbp.zip
+	./clubpacm.zip
+	./crush.zip
+	./dremshpr.zip
+	./drivfrcp.zip
+	./eggor.zip
+	./eyes.zip
+	./jumpshot.zip
+	./lizwiz.zip
+	./mrtnt.zip
+	./mspacman.zip
+	./mspacmnf.zip
+	./nmouse.zip
+	./numcrash.zip
+	./pacman.zip
+	./pacmanf.zip
+	./pacplus.zip
+	./ponpoko.zip
+	./porky.zip
+	./puckman.zip
+	./shootbul.zip
+	./vanvan.zip
+	./woodpeck.zip
+
+
+collection: pgm.cpp
+shortname: driver-pgm
+sortBy: driver-pgm
+files:
+	./ddp2.zip
+	./ddp3.zip
+	./dmnfrnt.zip
+	./espgal.zip
+	./ket.zip
+	./killbld.zip
+	./killbldp.zip
+	./kov.zip
+	./kov2.zip
+	./kov2p.zip
+	./kovplus.zip
+	./kovsh.zip
+	./martmast.zip
+	./olds.zip
+	./orlegend.zip
+	./puzzli2.zip
+	./svg.zip
+	./theglad.zip
+
+
+collection: psikyo.cpp
+shortname: driver-psi
+sortBy: driver-psi
+files:
+	./btlkroad.zip
+	./gunbird.zip
+	./s1945.zip
+	./samuraia.zip
+	./tengai.zip
+
+
+collection: psikyosh.cpp
+shortname: driver-psi
+sortBy: driver-psi
+files:
+	./daraku.zip
+	./dragnblz.zip
+	./gnbarich.zip
+	./gunbird2.zip
+	./s1945ii.zip
+	./s1945iii.zip
+	./sbomber.zip
+	./soldivid.zip
+	./tgm2.zip
+
+
+collection: qix.cpp
+shortname: driver-qix
+sortBy: driver-qix
+files:
+	./complexx.zip
+	./elecyoyo.zip
+	./kram.zip
+	./sdungeon.zip
+	./slither.zip
+	./zookeep.zip
+
+
+collection: rallyx.cpp
+shortname: driver-ral
+sortBy: driver-ral
+files:
+	./commsega.zip
+	./jungler.zip
+	./locomotn.zip
+	./nrallyx.zip
+	./rallyx.zip
+	./tactcian.zip
+
+
+collection: rohga.cpp
+shortname: driver-roh
+sortBy: driver-roh
+files:
+	./hangzo.zip
+	./nitrobal.zip
+	./rohga.zip
+	./schmeisr.zip
+	./wizdfire.zip
+
+
+collection: scobra.cpp
+shortname: driver-sco
+sortBy: driver-sco
+files:
+	./darkplnt.zip
+	./hustler.zip
+	./minefld.zip
+	./rescue.zip
+	./stratgyx.zip
+
+
+collection: scramble.cpp
+shortname: driver-scr
+sortBy: driver-scr
+files:
+	./ad2083.zip
+	./cavelon.zip
+	./devilfsh.zip
+	./harem.zip
+	./hotshock.zip
+	./mariner.zip
+	./mars.zip
+	./mrkougar.zip
+	./newsin7.zip
+	./triplep.zip
+
+
+collection: seattle.cpp
+shortname: driver-sea
+sortBy: driver-sea
+files:
+	./biofreak.zip
+	./blitz.zip
+	./blitz2k.zip
+	./blitz99.zip
+	./calspeed.zip
+	./carnevil.zip
+	./hyprdriv.zip
+	./mace.zip
+	./sfrush.zip
+	./sfrushrk.zip
+	./vaportrx.zip
+	./wg3dh.zip
+
+
+collection: segac2.cpp
+shortname: driver-seg
+sortBy: driver-seg
+files:
+	./borench.zip
+	./columns.zip
+	./columns2.zip
+	./potopoto.zip
+	./puyo.zip
+	./puyopuy2.zip
+	./ribbit.zip
+	./soniccar.zip
+	./sonicfgt.zip
+	./stkclmns.zip
+	./tfrceac.zip
+	./twinsqua.zip
+	./zunkyou.zip
+
+
+collection: segae.cpp
+shortname: driver-seg
+sortBy: driver-seg
+files:
+	./fantzn2.zip
+	./hangonjr.zip
+	./opaopa.zip
+	./ridleofp.zip
+	./slapshtr.zip
+	./tetrisse.zip
+	./transfrm.zip
+
+
+collection: segag80r.cpp
+shortname: driver-seg
+sortBy: driver-seg
+files:
+	./005.zip
+	./astrob.zip
+	./monsterb.zip
+	./pignewt.zip
+	./sindbadm.zip
+	./spaceod.zip
+
+
+collection: segag80v.cpp
+shortname: driver-seg
+sortBy: driver-seg
+files:
+	./elim2.zip
+	./spacfury.zip
+	./startrek.zip
+	./tacscan.zip
+	./zektor.zip
+
+
+collection: segas16a.cpp
+shortname: driver-seg
+sortBy: driver-seg
+files:
+	./afighter.zip
+	./alexkidd.zip
+	./bodyslam.zip
+	./fantzone.zip
+	./mjleague.zip
+	./quartet.zip
+	./quartet2a.zip
+	./sdi.zip
+	./shinobi.zip
+	./tetris.zip
+
+
+collection: segas16b.cpp
+shortname: driver-seg
+sortBy: driver-seg
+files:
+	./aceattac.zip
+	./aliensyn.zip
+	./altbeast.zip
+	./atomicp.zip
+	./aurail.zip
+	./bayroute.zip
+	./bullet.zip
+	./cotton.zip
+	./ddux.zip
+	./dunkshot.zip
+	./eswat.zip
+	./exctleag.zip
+	./fantzn2x.zip
+	./fpoint.zip
+	./goldnaxe.zip
+	./hwchamp.zip
+	./lockonph.zip
+	./mvp.zip
+	./passsht.zip
+	./riotcity.zip
+	./shinfz.zip
+	./snapper.zip
+	./sonicbom.zip
+	./suprleag.zip
+	./tetrbx.zip
+	./toryumon.zip
+	./tturf.zip
+	./ultracin.zip
+	./wb3.zip
+	./wrestwar.zip
+
+
+collection: segas18.cpp
+shortname: driver-seg
+sortBy: driver-seg
+files:
+	./astorm.zip
+	./bloxeed.zip
+	./cltchitr.zip
+	./ddcrew.zip
+	./ddcrew2.zip
+	./desertbr.zip
+	./hamaway.zip
+	./lghost.zip
+	./mwalk.zip
+	./shdancer.zip
+
+
+collection: segas24.cpp
+shortname: driver-seg
+sortBy: driver-seg
+files:
+	./bnzabros.zip
+	./crkdown.zip
+	./dcclub.zip
+	./gground.zip
+	./hotrod.zip
+	./roughrac.zip
+	./sgmast.zip
+	./sspirits.zip
+
+
+collection: segas32.cpp
+shortname: driver-seg
+sortBy: driver-seg
+files:
+	./alien3.zip
+	./arabfgt.zip
+	./arescue.zip
+	./brival.zip
+	./darkedge.zip
+	./dbzvrvs.zip
+	./f1en.zip
+	./f1lap.zip
+	./ga2.zip
+	./harddunk.zip
+	./holo.zip
+	./jpark.zip
+	./orunners.zip
+	./radm.zip
+	./radr.zip
+	./scross.zip
+	./slipstrm.zip
+	./sonic.zip
+	./spidman.zip
+	./svf.zip
+	./titlef.zip
+
+
+collection: segaxbd.cpp
+shortname: driver-seg
+sortBy: driver-seg
+files:
+	./abcop.zip
+	./aburner.zip
+	./aburner2.zip
+	./gprider.zip
+	./lastsurv.zip
+	./loffire.zip
+	./rachero.zip
+	./smgp.zip
+	./thndrbld.zip
+
+
+collection: segaybd.cpp
+shortname: driver-seg
+sortBy: driver-seg
+files:
+	./gforce2.zip
+	./gloc.zip
+	./pdrift.zip
+	./pdriftl.zip
+	./rchase.zip
+	./strkfgtr.zip
+
+
+collection: seibuspi.cpp
+shortname: driver-sei
+sortBy: driver-sei
+files:
+	./rdft.zip
+	./rdft2.zip
+	./rfjet.zip
+	./senkyu.zip
+	./viprp1.zip
+
+
+collection: seta.cpp
+shortname: driver-set
+sortBy: driver-set
+files:
+	./arbalest.zip
+	./blockcar.zip
+	./calibr50.zip
+	./crazyfgt.zip
+	./daioh.zip
+	./downtown.zip
+	./drgnunit.zip
+	./eightfrc.zip
+	./extdwnhl.zip
+	./gundhara.zip
+	./jjsquawk.zip
+	./kamenrid.zip
+	./keroppi.zip
+	./krzybowl.zip
+	./madshark.zip
+	./metafox.zip
+	./msgundam.zip
+	./neobattl.zip
+	./orbs.zip
+	./rezon.zip
+	./sokonuke.zip
+	./stg.zip
+	./thunderl.zip
+	./tndrcade.zip
+	./twineagl.zip
+	./umanclub.zip
+	./usclssic.zip
+	./utoukond.zip
+	./wits.zip
+	./wrofaero.zip
+	./zingzip.zip
+	./zombraid.zip
+
+
+collection: seta2.cpp
+shortname: driver-set
+sortBy: driver-set
+files:
+	./deerhunt.zip
+	./grdians.zip
+	./gundamex.zip
+	./penbros.zip
+	./pzlbowl.zip
+	./trophyh.zip
+	./turkhunt.zip
+	./wschamp.zip
+
+
+collection: sidearms.cpp
+shortname: driver-sid
+sortBy: driver-sid
+files:
+	./dyger.zip
+	./sidearms.zip
+	./turtship.zip
+	./twinfalc.zip
+
+
+collection: simpl156.cpp
+shortname: driver-sim
+sortBy: driver-sim
+files:
+	./chainrec.zip
+	./charlien.zip
+	./joemacr.zip
+	./osman.zip
+
+
+collection: slapfght.cpp
+shortname: driver-sla
+sortBy: driver-sla
+files:
+	./alcon.zip
+	./grdian.zip
+	./perfrman.zip
+	./tigerh.zip
+
+
+collection: snesb.cpp
+shortname: driver-sne
+sortBy: driver-sne
+files:
+	./denseib.zip
+	./endless.zip
+	./ffight2b.zip
+	./iron.zip
+	./kinstb.zip
+	./legendsb.zip
+	./sblast2b.zip
+
+
+collection: snk.cpp
+shortname: driver-snk
+sortBy: driver-snk
+files:
+	./aso.zip
+	./athena.zip
+	./bermudat.zip
+	./chopper.zip
+	./countryc.zip
+	./fitegolf.zip
+	./fsoccer.zip
+	./gwar.zip
+	./gwarb.zip
+	./hal21.zip
+	./ikari.zip
+	./ikarijpb.zip
+	./ikariram.zip
+	./jcross.zip
+	./madcrash.zip
+	./marvins.zip
+	./psychos.zip
+	./sgladiat.zip
+	./tdfever.zip
+	./tnk3.zip
+	./vangrd2.zip
+	./victroad.zip
+	./worldwar.zip
+
+
+collection: snk6502.cpp
+shortname: driver-snk
+sortBy: driver-snk
+files:
+	./fantasyu.zip
+	./nibbler.zip
+	./pballoon.zip
+	./sasuke.zip
+	./satansat.zip
+	./vanguard.zip
+
+
+collection: snk68.cpp
+shortname: driver-snk
+sortBy: driver-snk
+files:
+	./ikari3.zip
+	./ikari3u.zip
+	./pow.zip
+	./searchar.zip
+	./streetsm.zip
+
+
+collection: snowbros.cpp
+shortname: driver-sno
+sortBy: driver-sno
+files:
+	./cookbib2.zip
+	./cookbib3.zip
+	./finalttr.zip
+	./hyperpac.zip
+	./snowbro3.zip
+	./snowbros.zip
+	./toppyrap.zip
+	./toto.zip
+	./twinkle.zip
+
+
+collection: ssv.cpp
+shortname: driver-ssv
+sortBy: driver-ssv
+files:
+	./cairblad.zip
+	./drifto94.zip
+	./dynagear.zip
+	./eaglshot.zip
+	./gdfs.zip
+	./mslider.zip
+	./pastelis.zip
+	./stmblade.zip
+	./survarts.zip
+	./twineag2.zip
+	./ultrax.zip
+	./vasara.zip
+	./vasara2.zip
+
+
+collection: stv.cpp
+shortname: driver-stv
+sortBy: driver-stv
+files:
+	./astrass.zip
+	./bakubaku.zip
+	./batmanfr.zip
+	./colmns97.zip
+	./cotton2.zip
+	./cottonbm.zip
+	./diehard.zip
+	./elandore.zip
+	./ffreveng.zip
+	./fhboxers.zip
+	./gaxeduel.zip
+	./grdforce.zip
+	./groovef.zip
+	./hanagumi.zip
+	./mausuke.zip
+	./pblbeach.zip
+	./prikura.zip
+	./puyosun.zip
+	./rsgun.zip
+	./seabass.zip
+	./shienryu.zip
+	./sokyugrt.zip
+	./sss.zip
+	./suikoenb.zip
+	./techbowl.zip
+	./vfkids.zip
+	./winterht.zip
+	./znpwfv.zip
+
+
+collection: suna8.cpp
+shortname: driver-sun
+sortBy: driver-sun
+files:
+	./brickzn.zip
+	./hardhea2.zip
+	./hardhead.zip
+	./sparkman.zip
+	./sranger.zip
+	./starfigh.zip
+
+
+collection: suprnova.cpp
+shortname: driver-sup
+sortBy: driver-sup
+files:
+	./cyvern.zip
+	./puzzloop.zip
+	./sengekis.zip
+	./senknow.zip
+	./vblokbrk.zip
+
+
+collection: system1.cpp
+shortname: driver-sys
+sortBy: driver-sys
+files:
+	./4dwarrio.zip
+	./brain.zip
+	./bullfgt.zip
+	./choplift.zip
+	./flicky.zip
+	./gardia.zip
+	./hvymetal.zip
+	./imsorry.zip
+	./mrviking.zip
+	./myhero.zip
+	./nob.zip
+	./pitfall2.zip
+	./raflesia.zip
+	./regulus.zip
+	./seganinj.zip
+	./shtngmst.zip
+	./spatter.zip
+	./starjack.zip
+	./swat.zip
+	./teddybb.zip
+	./tokisens.zip
+	./ufosensi.zip
+	./upndown.zip
+	./wbml.zip
+	./wboy.zip
+	./wmatch.zip
+
+
+collection: taito_b.cpp
+shortname: driver-tai
+sortBy: driver-tai
+files:
+	./ashura.zip
+	./crimec.zip
+	./hitice.zip
+	./masterw.zip
+	./nastar.zip
+	./pbobble.zip
+	./rambo3.zip
+	./rambo3u.zip
+	./ryujin.zip
+	./selfeena.zip
+	./silentd.zip
+	./spacedx.zip
+	./viofight.zip
+
+
+collection: taito_f2.cpp
+shortname: driver-tai
+sortBy: driver-tai
+files:
+	./cameltry.zip
+	./deadconx.zip
+	./dinorex.zip
+	./dondokod.zip
+	./driftout.zip
+	./euroch92.zip
+	./finalb.zip
+	./footchmp.zip
+	./growl.zip
+	./gunfront.zip
+	./koshien.zip
+	./liquidk.zip
+	./megablst.zip
+	./metalb.zip
+	./ninjak.zip
+	./pulirula.zip
+	./solfigtr.zip
+	./ssi.zip
+	./thundfox.zip
+
+
+collection: taito_f3.cpp
+shortname: driver-tai
+sortBy: driver-tai
+files:
+	./arabianm.zip
+	./arkretrn.zip
+	./bubblem.zip
+	./bublbob2.zip
+	./cleopatr.zip
+	./commandw.zip
+	./cupfinal.zip
+	./dankuga.zip
+	./dariusg.zip
+	./dariusgx.zip
+	./elvactr.zip
+	./gekiridn.zip
+	./gseeker.zip
+	./gunlock.zip
+	./intcup94.zip
+	./kaiserkn.zip
+	./landmakr.zip
+	./landmakrp.zip
+	./lightbr.zip
+	./pbobble2.zip
+	./pbobble3.zip
+	./pbobble4.zip
+	./popnpop.zip
+	./puchicar.zip
+	./pwrgoal.zip
+	./recalh.zip
+	./ridingf.zip
+	./ringrage.zip
+	./scfinals.zip
+	./spcinv95.zip
+	./tcobra2.zip
+	./trstar.zip
+
+
+collection: taito_l.cpp
+shortname: driver-tai
+sortBy: driver-tai
+files:
+	./cachat.zip
+	./champwr.zip
+	./cubybop.zip
+	./evilston.zip
+	./fhawk.zip
+	./horshoes.zip
+	./kurikint.zip
+	./palamed.zip
+	./plotting.zip
+	./raimais.zip
+
+
+collection: taito_x.cpp
+shortname: driver-tai
+sortBy: driver-tai
+files:
+	./ballbros.zip
+	./gigandes.zip
+	./kyustrkr.zip
+	./superman.zip
+	./twinhawk.zip
+
+
+collection: taito_z.cpp
+shortname: driver-tai
+sortBy: driver-tai
+files:
+	./aquajack.zip
+	./bshark.zip
+	./chasehq.zip
+	./contcirc.zip
+	./dblaxle.zip
+	./enforce.zip
+	./nightstr.zip
+	./racingb.zip
+	./sci.zip
+	./spacegun.zip
+
+
+collection: taitogn.cpp
+shortname: driver-tai
+sortBy: driver-tai
+files:
+	./chaoshea.zip
+	./gobyrc.zip
+	./psyvaria.zip
+	./psyvarrv.zip
+	./raycris.zip
+	./shikigam.zip
+	./shikigama.zip
+	./spuzbobl.zip
+	./xiistag.zip
+
+
+collection: taitojc.cpp
+shortname: driver-tai
+sortBy: driver-tai
+files:
+	./dendego.zip
+	./dendego2.zip
+	./landgear.zip
+	./sidebs.zip
+	./sidebs2.zip
+
+
+collection: taitosj.cpp
+shortname: driver-tai
+sortBy: driver-tai
+files:
+	./alpine.zip
+	./bioatack.zip
+	./elevator.zip
+	./frontlin.zip
+	./hwrace.zip
+	./junglek.zip
+	./kikstart.zip
+	./piratpet.zip
+	./sfposeid.zip
+	./spacecr.zip
+	./spaceskr.zip
+	./timetunl.zip
+	./tinstar.zip
+	./waterski.zip
+	./wwestern.zip
+
+
+collection: tecmo.cpp
+shortname: driver-tec
+sortBy: driver-tec
+files:
+	./backfirt.zip
+	./gemini.zip
+	./rygar.zip
+	./silkworm.zip
+
+
+collection: thepit.cpp
+shortname: driver-the
+sortBy: driver-the
+files:
+	./desertdn.zip
+	./dockman.zip
+	./intrepid.zip
+	./machomou.zip
+	./roundup.zip
+	./suprmous.zip
+	./thepit.zip
+
+
+collection: tiamc1.cpp
+shortname: driver-tia
+sortBy: driver-tia
+files:
+	./bilyard.zip
+	./konek.zip
+	./koroleva.zip
+	./kot.zip
+	./sosterm.zip
+
+
+collection: tickee.cpp
+shortname: driver-tic
+sortBy: driver-tic
+files:
+	./ghoshunt.zip
+	./maletmad.zip
+	./mouseatk.zip
+	./rapidfir.zip
+	./tickee.zip
+	./tutstomb.zip
+
+
+collection: tmnt.cpp
+shortname: driver-tmn
+sortBy: driver-tmn
+files:
+	./blswhstl.zip
+	./cuebrick.zip
+	./lgtnfght.zip
+	./mia.zip
+	./prmrsocr.zip
+	./punkshot.zip
+	./punkshot2.zip
+	./ssriders.zip
+	./ssridersubc.zip
+	./thndrx2.zip
+	./tmnt.zip
+	./tmnt2.zip
+	./tmnt22pu.zip
+	./tmnt2po.zip
+
+
+collection: tnzs.cpp
+shortname: driver-tnz
+sortBy: driver-tnz
+files:
+	./arknoid2.zip
+	./chukatai.zip
+	./drtoppel.zip
+	./extrmatn.zip
+	./insectx.zip
+	./jpopnics.zip
+	./kabukiz.zip
+	./kageki.zip
+	./plumppop.zip
+	./tnzs.zip
+
+
+collection: toaplan1.cpp
+shortname: driver-toa
+sortBy: driver-toa
+files:
+	./demonwld.zip
+	./fireshrk.zip
+	./hellfire.zip
+	./outzone.zip
+	./rallybik.zip
+	./truxton.zip
+	./vimana.zip
+	./zerowing.zip
+
+
+collection: toaplan2.cpp
+shortname: driver-toa
+sortBy: driver-toa
+files:
+	./batrider.zip
+	./batsugun.zip
+	./bbakraid.zip
+	./bgaregga.zip
+	./dogyuun.zip
+	./fixeight.zip
+	./ghox.zip
+	./grindstm.zip
+	./kbash.zip
+	./kbash2.zip
+	./kingdmgp.zip
+	./pwrkick.zip
+	./snowbro2.zip
+	./sstriker.zip
+	./tekipaki.zip
+	./truxton2.zip
+
+
+collection: trackfld.cpp
+shortname: driver-tra
+sortBy: driver-tra
+files:
+	./atlantol.zip
+	./mastkin.zip
+	./reaktor.zip
+	./trackfld.zip
+
+
+collection: tsamurai.cpp
+shortname: driver-tsa
+sortBy: driver-tsa
+files:
+	./ladymstr.zip
+	./m660.zip
+	./tsamurai.zip
+	./vsgongf.zip
+	./yamagchi.zip
+
+
+collection: tumbleb.cpp
+shortname: driver-tum
+sortBy: driver-tum
+files:
+	./carket.zip
+	./chokchok.zip
+	./cookbib.zip
+	./fncywld.zip
+	./htchctch.zip
+	./jumpkids.zip
+	./magicbal.zip
+	./magipur.zip
+	./metlsavr.zip
+	./sdfight.zip
+	./semibase.zip
+	./suprtrio.zip
+	./wlstar.zip
+	./wondl96.zip
+
+
+collection: vamphalf.cpp
+shortname: driver-vam
+sortBy: driver-vam
+files:
+	./aoh.zip
+	./dtfamily.zip
+	./jmpbreak.zip
+	./mrkicker.zip
+	./poosho.zip
+	./toyland.zip
+	./vamphalf.zip
+	./wivernwg.zip
+
+
+collection: vegas.cpp
+shortname: driver-veg
+sortBy: driver-veg
+files:
+	./cartfury.zip
+	./gauntdl.zip
+	./gauntleg.zip
+	./nbanfl.zip
+	./nbashowt.zip
+	./roadburn.zip
+	./sf2049.zip
+	./sf2049se.zip
+	./tenthdeg.zip
+	./warfa.zip
+
+
+collection: vicdual.cpp
+shortname: driver-vic
+sortBy: driver-vic
+files:
+	./brdrline.zip
+	./carnival.zip
+	./depthch.zip
+	./digger.zip
+	./frogs.zip
+	./headon.zip
+	./headon2.zip
+	./heiankyo.zip
+	./invinco.zip
+	./nsub.zip
+	./pulsar.zip
+	./safari.zip
+	./samurai.zip
+	./spacetrk.zip
+	./sspaceat.zip
+	./startrks.zip
+	./tranqgun.zip
+
+
+collection: vsnes.cpp
+shortname: driver-vsn
+sortBy: driver-vsn
+files:
+	./balonfgt.zip
+	./bnglngby.zip
+	./btlecity.zip
+	./cluclu.zip
+	./cstlevna.zip
+	./drmario.zip
+	./duckhunt.zip
+	./excitebk.zip
+	./goonies.zip
+	./hogalley.zip
+	./iceclimb.zip
+	./iceclmrd.zip
+	./jajamaru.zip
+	./nvs_machrider.zip
+	./nvs_mightybj.zip
+	./nvs_platoon.zip
+	./rbibb.zip
+	./smgolf.zip
+	./starlstr.zip
+	./suprmrio.zip
+	./supxevs.zip
+	./tkoboxng.zip
+	./topgun.zip
+	./vsbball.zip
+	./vsfdf.zip
+	./vsgradus.zip
+	./vsgshoe.zip
+	./vsskykid.zip
+	./vsslalom.zip
+	./vssoccer.zip
+	./vstennis.zip
+	./vstetris.zip
+	./wrecking.zip
+
+
+collection: warpwarp.cpp
+shortname: driver-war
+sortBy: driver-war
+files:
+	./bombbee.zip
+	./cutieq.zip
+	./geebee.zip
+	./kaitei.zip
+	./navarone.zip
+	./warpwarp.zip
+
+
+collection: williams.cpp
+shortname: driver-wil
+sortBy: driver-wil
+files:
+	./alienar.zip
+	./blaster.zip
+	./bubbles.zip
+	./colony7.zip
+	./defender.zip
+	./inferno.zip
+	./joust.zip
+	./joust2.zip
+	./joustr.zip
+	./mayday.zip
+	./mysticm.zip
+	./playball.zip
+	./robotron.zip
+	./sinistar.zip
+	./spdball.zip
+	./splat.zip
+	./stargate.zip
+	./tshoot.zip
+
+
+collection: wiz.cpp
+shortname: driver-wiz
+sortBy: driver-wiz
+files:
+	./kungfut.zip
+	./scion.zip
+	./stinger.zip
+	./wiz.zip
+
+
+collection: zaxxon.cpp
+shortname: driver-zax
+sortBy: driver-zax
+files:
+	./congo.zip
+	./futspy.zip
+	./ixion.zip
+	./razmataz.zip
+	./szaxxon.zip
+	./zaxxon.zip
+
+
+collection: zn.cpp
+shortname: driver-zn.
+sortBy: driver-zn.
+files:
+	./1on1gov.zip
+	./aerofgts.zip
+	./beastrzr.zip
+	./bldyror2.zip
+	./brvblade.zip
+	./cbaj.zip
+	./doapp.zip
+	./flamegun.zip
+	./ftimpcta.zip
+	./gdarius2.zip
+	./glpracr.zip
+	./glpracr2.zip
+	./glpracr3.zip
+	./hvnsgate.zip
+	./jdredd.zip
+	./mfjump.zip
+	./nbajamex.zip
+	./plsmaswd.zip
+	./psyforce.zip
+	./raystorm.zip
+	./rvschool.zip
+	./sfchamp.zip
+	./sfex.zip
+	./sfex2.zip
+	./sfex2p.zip
+	./sfexp.zip
+	./starglad.zip
+	./tblkkuzu.zip
+	./techromn.zip
+	./tgmj.zip
+	./ts2.zip
+	./twcupmil.zip
+
+
+collection: zodiack.cpp
+shortname: driver-zod
+sortBy: driver-zod
+files:
+	./bounty.zip
+	./dogfight.zip
+	./moguchan.zip
+	./percuss.zip
+	./zodiack.zip
+
+

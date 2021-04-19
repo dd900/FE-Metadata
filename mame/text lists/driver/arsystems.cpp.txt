@@ -1,0 +1,14 @@
+ar_airh
+ar_argh
+ar_blast
+ar_bowl
+ar_dart
+ar_dlta
+ar_fast
+ar_ldrb
+ar_ninj
+ar_rdwr
+ar_sdwr
+ar_socc
+ar_sprg
+ar_xeon

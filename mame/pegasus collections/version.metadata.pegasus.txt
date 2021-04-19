@@ -1,0 +1,3243 @@
+collection: 0.1
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./crush.zip
+	./ladybug.zip
+	./pacman.zip
+	./pengo.zip
+
+
+collection: 0.100u3
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./catnmous.zip
+	./egghunt.zip
+	./esckids.zip
+	./gigandes.zip
+	./laserbat.zip
+	./metlsavr.zip
+	./watrball.zip
+
+
+collection: 0.102
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./avengrgs.zip
+	./downtown.zip
+	./metamrph.zip
+	./mtlchamp.zip
+	./rohga.zip
+	./tattack.zip
+	./varth.zip
+
+
+collection: 0.102u5
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./ghlpanic.zip
+	./littlerb.zip
+	./sf2049.zip
+	./toprollr.zip
+
+
+collection: 0.103
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./dbldynj.zip
+	./gekisou.zip
+	./kf2k5uni.zip
+	./martmast.zip
+	./outzone.zip
+	./semibase.zip
+	./shuttlei.zip
+	./swcourt.zip
+
+
+collection: 0.103u2
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./airattck.zip
+	./dmnfrnt.zip
+	./kf2k3pcb.zip
+	./kof2003.zip
+	./mgcrystl.zip
+	./mslug5.zip
+	./samsho5.zip
+	./svc.zip
+	./svcpcb.zip
+	./twinactn.zip
+
+
+collection: 0.107
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./cclownz.zip
+	./cfarm.zip
+	./legendoh.zip
+	./mlanding.zip
+	./progolf.zip
+	./sb2003.zip
+
+
+collection: 0.109u1
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./dokidoki.zip
+	./dynashot.zip
+	./fiveside.zip
+	./ssf2mdb.zip
+
+
+collection: 0.109u2
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./altair.zip
+	./destryer.zip
+	./draco.zip
+	./rockduck.zip
+
+
+collection: 0.119u1
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./crgolf.zip
+	./deerhunt.zip
+	./trophyh.zip
+	./turkhunt.zip
+	./wschamp.zip
+
+
+collection: 0.12
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./docastle.zip
+	./jumpbug.zip
+	./losttomb.zip
+	./milliped.zip
+	./scobra.zip
+	./timeplt.zip
+
+
+collection: 0.129
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./dkongf.zip
+	./tgm2.zip
+	./thndrx2.zip
+	./vamphalf.zip
+
+
+collection: 0.129u4
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./aoh.zip
+	./extrmatn.zip
+	./gticlub.zip
+	./hvysmsh.zip
+	./imgfight.zip
+	./psychic5.zip
+	./tomcat.zip
+
+
+collection: 0.129u5
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./ddungeon.zip
+	./hvyunit.zip
+	./pipedrm.zip
+	./vball.zip
+
+
+collection: 0.130u1
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./chaoshea.zip
+	./gobyrc.zip
+	./jmpbreak.zip
+	./kov2p.zip
+	./psyvarrv.zip
+	./spuzbobl.zip
+	./xiistag.zip
+
+
+collection: 0.130u2
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./ironfort.zip
+	./killbldp.zip
+	./shikigam.zip
+	./svg.zip
+
+
+collection: 0.131u3
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./aquajet.zip
+	./hiimpact.zip
+	./techbowl.zip
+	./tokyowar.zip
+	./wizdfire.zip
+
+
+collection: 0.133u1
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./grdnstrm.zip
+	./panther.zip
+	./phtetris.zip
+	./spacwalk.zip
+
+
+collection: 0.137u1
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./crusherm.zip
+	./hotshock.zip
+	./kov2.zip
+	./msgogo.zip
+
+
+collection: 0.138u3
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./boggy84.zip
+	./ckong.zip
+	./gunchamp.zip
+	./looping.zip
+	./raidendx.zip
+	./redufo.zip
+
+
+collection: 0.140u2
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./espgal.zip
+	./ket.zip
+	./kod.zip
+	./megaman.zip
+
+
+collection: 0.145u5
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./1941.zip
+	./kong.zip
+	./luckboom.zip
+	./rastan.zip
+
+
+collection: 0.146u2
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./dleague.zip
+	./fantzn2x.zip
+	./raiden.zip
+	./wargods.zip
+
+
+collection: 0.147u2
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./3on3dunk.zip
+	./cadanglr.zip
+	./dblaxle.zip
+	./invrvnge.zip
+	./puzzli2.zip
+	./xsleena.zip
+
+
+collection: 0.148
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./adillor.zip
+	./grasspin.zip
+	./imolagp.zip
+	./rotr.zip
+	./scfinals.zip
+
+
+collection: 0.148u4
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./arkretrn.zip
+	./ddp2.zip
+	./gtfore04.zip
+	./superchs.zip
+
+
+collection: 0.148u5
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./lacrazyc.zip
+	./seabattl.zip
+	./stuntair.zip
+	./timefgtr.zip
+
+
+collection: 0.149u1
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./arcadian.zip
+	./carnking.zip
+	./desertdn.zip
+	./gtfore03.zip
+	./gtfore06.zip
+
+
+collection: 0.151
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./carket.zip
+	./dolmen.zip
+	./safarir.zip
+	./strkfgtr.zip
+
+
+collection: 0.152
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./ar_blast.zip
+	./ar_dlta.zip
+	./glpracr.zip
+	./lbeach.zip
+	./pwrkick.zip
+	./sfiii.zip
+	./whodunit.zip
+	./wivernwg.zip
+
+
+collection: 0.153
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./airass.zip
+	./ar_argh.zip
+	./ddpdfk.zip
+	./deathsml.zip
+	./dsmbl.zip
+	./espgal2.zip
+	./funkyjet.zip
+	./futari15.zip
+	./ibara.zip
+	./ibarablk.zip
+	./jetwave.zip
+	./keroppi.zip
+	./megaphx.zip
+	./mmpork.zip
+	./mushisam.zip
+	./pinkswts.zip
+	./spec2k.zip
+	./tetriskr.zip
+	./x2222.zip
+	./zerowing.zip
+
+
+collection: 0.154
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./cocoloco.zip
+	./crzcross.zip
+	./rolcrush.zip
+	./tigeroad.zip
+	./wyvernf0.zip
+
+
+collection: 0.155
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./baryon.zip
+	./growl.zip
+	./numcrash.zip
+	./pdriftl.zip
+	./punchout.zip
+	./ssf2.zip
+
+
+collection: 0.156
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./alinvade.zip
+	./botanic.zip
+	./clubpacm.zip
+	./cutefght.zip
+	./dunkshot.zip
+	./firetrap.zip
+	./futaribl.zip
+	./hamaway.zip
+	./sonic2mb.zip
+	./supduck.zip
+	./vigilant.zip
+
+
+collection: 0.160
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./b2b.zip
+	./brickzn.zip
+	./cdracula.zip
+	./willow.zip
+
+
+collection: 0.161
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./dfkbl.zip
+	./dodghero.zip
+	./phelios.zip
+	./rdft.zip
+	./spf2t.zip
+	./tbeastw2.zip
+	./totlvice.zip
+
+
+collection: 0.162
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./bbhcotw.zip
+	./gtfore01.zip
+	./gtfore02.zip
+	./gtfore05.zip
+	./virtpool.zip
+
+
+collection: 0.167
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./airduel.zip
+	./aplarail.zip
+	./bublcave.zip
+	./dkongpe.zip
+	./leds2011.zip
+	./ltswords.zip
+
+
+collection: 0.168
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./ffreveng.zip
+	./fghthist.zip
+	./forgottn.zip
+	./ripribit.zip
+
+
+collection: 0.173
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./androidp.zip
+	./dragonsh.zip
+	./dsaber.zip
+	./excitebk.zip
+	./lasthope.zip
+	./sushibar.zip
+
+
+collection: 0.175
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./1943mii.zip
+	./dangar.zip
+	./divebomb.zip
+	./rpatrol.zip
+	./sidebs2.zip
+
+
+collection: 0.178
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./elevator.zip
+	./nbajamex.zip
+	./roadriot.zip
+	./slapshtr.zip
+
+
+collection: 0.183
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./cfboy0a1.zip
+	./dodgeman.zip
+	./omega.zip
+	./sonicfgt.zip
+	./vblokbrk.zip
+
+
+collection: 0.187
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./jumpkun.zip
+	./palamed.zip
+	./ultracin.zip
+	./victoryc.zip
+
+
+collection: 0.188
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./actfancr.zip
+	./kageki.zip
+	./legendsb.zip
+	./xevi3dg.zip
+
+
+collection: 0.189
+shortname: version-0.1
+sortBy: version-0.1
+files:
+	./ddp3.zip
+	./kickball.zip
+	./megazone.zip
+	./ordyne.zip
+	./poosho.zip
+
+
+collection: 0.205
+shortname: version-0.2
+sortBy: version-0.2
+files:
+	./f1gpstar.zip
+	./magipur.zip
+	./pastelis.zip
+	./sfex2p.zip
+
+
+collection: 0.22
+shortname: version-0.2
+sortBy: version-0.2
+files:
+	./commando.zip
+	./diamond.zip
+	./gng.zip
+	./pacplus.zip
+	./phoenix.zip
+
+
+collection: 0.225
+shortname: version-0.2
+sortBy: version-0.2
+files:
+	./crusnusa.zip
+	./jojoba.zip
+	./polaris.zip
+	./speedup.zip
+
+
+collection: 0.23
+shortname: version-0.2
+sortBy: version-0.2
+files:
+	./joustr.zip
+	./kungfum.zip
+	./robotron.zip
+	./stargate.zip
+
+
+collection: 0.24
+shortname: version-0.2
+sortBy: version-0.2
+files:
+	./blaster.zip
+	./bubbles.zip
+	./defender.zip
+	./jrpacman.zip
+	./qbertqub.zip
+	./sinistar.zip
+	./spacezap.zip
+	./splat.zip
+
+
+collection: 0.25
+shortname: version-0.2
+sortBy: version-0.2
+files:
+	./anteater.zip
+	./naughtyb.zip
+	./rescue.zip
+	./starforc.zip
+	./wwestern.zip
+
+
+collection: 0.26
+shortname: version-0.2
+sortBy: version-0.2
+files:
+	./3stooges.zip
+	./astdelux.zip
+	./bwidow.zip
+	./dorunrun.zip
+	./dowild.zip
+	./llander.zip
+	./mappy.zip
+	./redbaron.zip
+	./seawolf2.zip
+	./spacduel.zip
+
+
+collection: 0.27
+shortname: version-0.2
+sortBy: version-0.2
+files:
+	./blueprnt.zip
+	./cavenger.zip
+	./elim2.zip
+	./exedexes.zip
+	./locomotn.zip
+	./pacnpal.zip
+	./puckman.zip
+	./snapjack.zip
+	./sonson.zip
+	./startrek.zip
+	./tacscan.zip
+	./warlords.zip
+	./xevious.zip
+	./zektor.zip
+
+
+collection: 0.28
+shortname: version-0.2
+sortBy: version-0.2
+files:
+	./bankp.zip
+	./bzone.zip
+	./domino.zip
+	./journey.zip
+	./kick.zip
+	./kroozr.zip
+	./omegrace.zip
+	./rampage.zip
+	./sbasketb.zip
+	./shollow.zip
+	./solarfox.zip
+	./spyhunt.zip
+	./timber.zip
+	./tp84.zip
+	./wacko.zip
+
+
+collection: 0.29
+shortname: version-0.2
+sortBy: version-0.2
+files:
+	./blktiger.zip
+	./champbas.zip
+	./cloak.zip
+	./gunsmoke.zip
+	./invinco.zip
+	./lwings.zip
+	./pulsar.zip
+	./sectionz.zip
+	./silkworm.zip
+	./triplep.zip
+	./zookeep.zip
+
+
+collection: 0.30
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./005.zip
+	./1943kai.zip
+	./arkanoid.zip
+	./armorcar.zip
+	./astrof.zip
+	./brkthru.zip
+	./brubber.zip
+	./circus.zip
+	./circusc.zip
+	./colony7.zip
+	./exerion.zip
+	./foodf.zip
+	./frenzy.zip
+	./gaunt2.zip
+	./gauntlet.zip
+	./hyperspt.zip
+	./invadpt2.zip
+	./jjack.zip
+	./joust.zip
+	./matmania.zip
+	./mhavoc.zip
+	./mhavocrv.zip
+	./mikie.zip
+	./minefld.zip
+	./monsterb.zip
+	./robotbwl.zip
+	./sarge.zip
+	./spacfury.zip
+	./superpac.zip
+	./swimmer.zip
+	./szaxxon.zip
+	./targ.zip
+	./temptube.zip
+	./trackfld.zip
+	./travrusa.zip
+	./vastar.zip
+
+
+collection: 0.31
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./280zzzap.zip
+	./atetris.zip
+	./baddudes.zip
+	./blockade.zip
+	./blockout.zip
+	./boothill.zip
+	./bsktball.zip
+	./capbowl.zip
+	./checkman.zip
+	./choplift.zip
+	./citycon.zip
+	./commsega.zip
+	./comotion.zip
+	./copsnrob.zip
+	./crash.zip
+	./crater.zip
+	./darkplnt.zip
+	./dday.zip
+	./dominos.zip
+	./drgninja.zip
+	./ebases.zip
+	./espial.zip
+	./ffight.zip
+	./flyboy.zip
+	./friskyt.zip
+	./gaiden.zip
+	./gauntlet2p.zip
+	./guzzler.zip
+	./hippodrm.zip
+	./hustler.zip
+	./indytemp.zip
+	./jedi.zip
+	./jungler.zip
+	./kamikaze.zip
+	./killcom.zip
+	./leprechn.zip
+	./liberatr.zip
+	./maniach.zip
+	./maze.zip
+	./megatack.zip
+	./mpatrol.zip
+	./mtwins.zip
+	./nitedrvr.zip
+	./peterpak.zip
+	./pingpong.zip
+	./pitfall2.zip
+	./pleiads.zip
+	./rbislande.zip
+	./roadblst.zip
+	./roadf.zip
+	./roadrunn.zip
+	./rygar.zip
+	./sbrkout.zip
+	./schaser.zip
+	./scregg.zip
+	./spnchout.zip
+	./sprint1.zip
+	./srumbler.zip
+	./strider.zip
+	./tankbatt.zip
+	./tazmania.zip
+	./toobin.zip
+	./tornbase.zip
+	./twcup90.zip
+	./unsquad.zip
+	./wiz.zip
+
+
+collection: 0.33b1
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./lnc.zip
+	./nibbler.zip
+	./popeye.zip
+	./punkshot2.zip
+	./tutankhm.zip
+
+
+collection: 0.33b2
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./hbarrel.zip
+	./msword.zip
+	./sdungeon.zip
+	./sqbert.zip
+
+
+collection: 0.33b3
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./aliensyn.zip
+	./blasto.zip
+	./challeng.zip
+	./clowns.zip
+	./curvebal.zip
+	./darwin.zip
+	./ddragon.zip
+	./ddragon2.zip
+	./f1dream.zip
+	./ghouls.zip
+	./gmissile.zip
+	./gunfight.zip
+	./junofrst.zip
+	./kaos.zip
+	./klax.zip
+	./knights.zip
+	./pnickj.zip
+	./redalert.zip
+	./safari.zip
+	./seawolf.zip
+	./shootout.zip
+	./spcenctr.zip
+	./zoar.zip
+
+
+collection: 0.33b4
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./720.zip
+	./apb.zip
+	./crbaloon.zip
+	./eprom.zip
+	./eyes.zip
+	./headon.zip
+	./jackrabt.zip
+	./mach3.zip
+	./monymony.zip
+	./paperboy.zip
+	./spaceskr.zip
+	./spacetrk.zip
+	./ssi.zip
+	./ssprint.zip
+	./tranqgun.zip
+	./usvsthem.zip
+	./xenophob.zip
+	./xybots.zip
+	./zzyzzyxx.zip
+
+
+collection: 0.33b5
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./bowlrama.zip
+	./cosmica.zip
+	./depthch.zip
+	./konamigt.zip
+	./madgear.zip
+	./moonal2.zip
+	./nemesis.zip
+	./nemo.zip
+	./satansat.zip
+	./spiders.zip
+
+
+collection: 0.33b6
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./avalnche.zip
+	./bking2.zip
+	./deadeye.zip
+	./gladiatr.zip
+	./gypsyjug.zip
+	./helifire.zip
+	./lazercmd.zip
+	./lizwiz.zip
+	./spacefev.zip
+	./superbon.zip
+	./tmnt.zip
+
+
+collection: 0.33b7
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./bagman.zip
+	./jackal.zip
+	./kicker.zip
+	./mainevt.zip
+	./ninjakd2.zip
+	./pballoon.zip
+	./roundup.zip
+	./stactics.zip
+	./teedoff.zip
+	./tehkanwc.zip
+
+
+collection: 0.34b1
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./2020bb.zip
+	./3countb.zip
+	./alpham2.zip
+	./androdun.zip
+	./aof.zip
+	./avengers.zip
+	./blueshrk.zip
+	./bowler.zip
+	./burningf.zip
+	./calipso.zip
+	./crsword.zip
+	./cyberlip.zip
+	./dogpatch.zip
+	./dplay.zip
+	./eightman.zip
+	./einning.zip
+	./elecyoyo.zip
+	./fatfury1.zip
+	./fbfrenzy.zip
+	./flicky.zip
+	./futspy.zip
+	./gpilots.zip
+	./gridiron.zip
+	./gsword.zip
+	./hardhat.zip
+	./higemaru.zip
+	./imsorry.zip
+	./intrepid.zip
+	./joyjoy.zip
+	./kingball.zip
+	./kotm.zip
+	./lagunar.zip
+	./lresort.zip
+	./m4.zip
+	./m79amb.zip
+	./maxrpm.zip
+	./moonwar.zip
+	./mrviking.zip
+	./mutnat.zip
+	./myhero.zip
+	./nam1975.zip
+	./pbobblen.zip
+	./phantom2.zip
+	./puzzledp.zip
+	./ridhero.zip
+	./seganinj.zip
+	./speakres.zip
+	./ssideki.zip
+	./starjack.zip
+	./superspy.zip
+	./suprmous.zip
+	./teddybb.zip
+	./trally.zip
+	./twincobr.zip
+
+
+collection: 0.34b2
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./4dwarrio.zip
+	./bjourney.zip
+	./brix.zip
+	./cop01.zip
+	./exterm.zip
+	./frogs.zip
+	./goalx3.zip
+	./hustle.zip
+	./karnovr.zip
+	./kotm2.zip
+	./lbowling.zip
+	./mslug.zip
+	./ncombat.zip
+	./ncommand.zip
+	./pspikes2.zip
+	./renegade.zip
+	./samsho.zip
+	./samsho2.zip
+	./samurai.zip
+	./sasuke.zip
+	./sengoku.zip
+	./sengoku2.zip
+	./sharkatt.zip
+	./sidetrac.zip
+	./spectar.zip
+	./subs.zip
+	./tomahawk.zip
+	./tophuntr.zip
+	./tpgolf.zip
+	./viewpoin.zip
+	./wjammers.zip
+
+
+collection: 0.34b3
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./brain.zip
+	./hvymetal.zip
+	./ldrun.zip
+	./ldrun4.zip
+	./neomrdo.zip
+	./pkunwar.zip
+	./pooyan.zip
+	./regulus.zip
+	./ripcord.zip
+	./stinger.zip
+	./swat.zip
+	./waterski.zip
+	./wboy.zip
+	./zigzagb.zip
+
+
+collection: 0.34b4
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./1942.zip
+	./alpine.zip
+	./arknoid2.zip
+	./armwrest.zip
+	./aurail.zip
+	./doubledr.zip
+	./hwchamp.zip
+	./kchamp.zip
+	./mjleague.zip
+	./mrtnt.zip
+	./neobombe.zip
+	./sonicwi2.zip
+	./tigerh.zip
+	./turbo.zip
+	./twsoc96.zip
+	./wrestwar.zip
+
+
+collection: 0.34b5
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./aodk.zip
+	./aof2.zip
+	./aof3.zip
+	./bioatack.zip
+	./blazstar.zip
+	./bstars2.zip
+	./fatfursp.zip
+	./fatfury2.zip
+	./fatfury3.zip
+	./galaxyfg.zip
+	./kabukikl.zip
+	./kingofb.zip
+	./kof94.zip
+	./kof96.zip
+	./legendos.zip
+	./magdrop3.zip
+	./mslug2.zip
+	./neodrift.zip
+	./ninjamas.zip
+	./overtop.zip
+	./panicbom.zip
+	./pulstar.zip
+	./samsho4.zip
+	./savagere.zip
+	./sfposeid.zip
+	./sonicwi3.zip
+	./spinmast.zip
+	./ssideki2.zip
+	./stakwin.zip
+	./strhoop.zip
+	./timetunl.zip
+	./turfmast.zip
+	./twinspri.zip
+	./wakuwak7.zip
+	./wh2.zip
+	./zedblade.zip
+
+
+collection: 0.34b6
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./checkmat.zip
+	./gowcaizr.zip
+	./grdian.zip
+	./highsplt.zip
+	./kizuna.zip
+	./kof97.zip
+	./midres.zip
+	./ozmawars.zip
+	./qwak.zip
+	./ragnagrd.zip
+	./rbff1.zip
+	./rbffspec.zip
+	./scion.zip
+	./superman.zip
+	./whp.zip
+
+
+collection: 0.34b7
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./cawing.zip
+	./exctsccr.zip
+	./gururin.zip
+	./jumpshot.zip
+	./magdrop2.zip
+	./mercs.zip
+	./miexchng.zip
+	./mk.zip
+	./mk2.zip
+	./narc.zip
+	./nbajam.zip
+	./pickin.zip
+	./shimpact.zip
+	./smashtv.zip
+	./strkforc.zip
+	./totcarn.zip
+
+
+collection: 0.34b8
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./cheekyms.zip
+	./esb.zip
+	./gwarrior.zip
+	./heiankyo.zip
+	./jailbrek.zip
+	./kram.zip
+	./liquidk.zip
+	./medlanes.zip
+	./oscar.zip
+	./pacland.zip
+	./pow.zip
+	./sauro.zip
+	./snowbros.zip
+	./spelunk2.zip
+	./ssideki3.zip
+	./twinbee.zip
+
+
+collection: 0.35
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./machomou.zip
+	./ponpoko.zip
+	./starcas.zip
+	./vulgus.zip
+
+
+collection: 0.35b1
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./atarifb.zip
+	./battlane.zip
+	./btime.zip
+	./mariner.zip
+	./rthunder.zip
+	./wildfang.zip
+
+
+collection: 0.35b10
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./avspirit.zip
+	./disco.zip
+	./edf.zip
+	./flipshot.zip
+	./senjyo.zip
+	./starcrus.zip
+
+
+collection: 0.35b11
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./blstroid.zip
+	./breakrev.zip
+	./cabal.zip
+	./ddribble.zip
+	./insectx.zip
+	./lastduel.zip
+	./prehisle.zip
+	./punkshot.zip
+	./starwars.zip
+	./toki.zip
+	./vindctr2.zip
+	./wiping.zip
+	./wndrmomo.zip
+
+
+collection: 0.35b12
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./alibaba.zip
+	./ballbomb.zip
+	./cloud9.zip
+	./cninja.zip
+	./combatsc.zip
+	./dyger.zip
+	./lifefrce.zip
+	./salamand.zip
+	./sspaceat.zip
+	./wtennis.zip
+	./yamyam.zip
+
+
+collection: 0.35b13
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./arabian.zip
+	./badlands.zip
+	./bombjack.zip
+	./changes.zip
+	./dogfight.zip
+	./funkybee.zip
+	./genpeitd.zip
+	./grobda.zip
+	./hitnmiss.zip
+	./hoccer.zip
+	./lastbld2.zip
+	./marineb.zip
+	./moguchan.zip
+	./nomnlnd.zip
+	./rampart.zip
+	./rampart2p.zip
+	./retofinv.zip
+	./roishtar.zip
+	./shuuz.zip
+	./skullxbo.zip
+	./skylancr.zip
+	./springer.zip
+	./truxton.zip
+	./wanted.zip
+	./zodiack.zip
+
+
+collection: 0.35b2
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./abaseb.zip
+	./aerofgt.zip
+	./canyon.zip
+	./cosmicg.zip
+	./gravitar.zip
+	./headon2.zip
+	./ikari.zip
+	./ikarijpb.zip
+	./jack.zip
+	./ldrun2.zip
+	./maglord.zip
+	./pignewt.zip
+	./radrad.zip
+	./sf2hfj.zip
+	./skydiver.zip
+	./ssideki4.zip
+	./victroad.zip
+
+
+collection: 0.35b3
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./breakers.zip
+	./devilfsh.zip
+	./devzone.zip
+	./dino.zip
+	./fireone.zip
+	./magspot2.zip
+	./mbombrd.zip
+	./punisher.zip
+	./roboarmy.zip
+	./sf.zip
+	./shackled.zip
+	./slammast.zip
+	./spaceint.zip
+	./stakwin2.zip
+	./starfire.zip
+	./troangel.zip
+	./turbofrc.zip
+
+
+collection: 0.35b4
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./64street.zip
+	./cheyenne.zip
+	./chiller.zip
+	./claypign.zip
+	./combat.zip
+	./crossbow.zip
+	./digger.zip
+	./gwarb.zip
+	./hellfire.zip
+	./lomakai.zip
+	./p47.zip
+	./pang.zip
+	./spang.zip
+	./tdfever.zip
+	./topsecex.zip
+
+
+collection: 0.35b6
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./armora.zip
+	./barrier.zip
+	./boxingb.zip
+	./darkseal.zip
+	./demon.zip
+	./inferno.zip
+	./joust2.zip
+	./mysticm.zip
+	./ripoff.zip
+	./scramble.zip
+	./solarq.zip
+	./spacewar.zip
+	./speedfrk.zip
+	./starhawk.zip
+	./tailg.zip
+	./tshoot.zip
+	./warrior.zip
+	./yiear.zip
+
+
+collection: 0.35b8
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./aso.zip
+	./athena.zip
+	./bermudat.zip
+	./fitegolf.zip
+	./psychos.zip
+	./rallyx.zip
+	./skychut.zip
+	./tnk3.zip
+	./todruaga.zip
+	./warpwarp.zip
+
+
+collection: 0.35rc1
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./alcon.zip
+	./appoooh.zip
+	./azurian.zip
+	./digdug.zip
+	./digdug2.zip
+	./freeze.zip
+	./levers.zip
+	./mars.zip
+	./neocup98.zip
+	./newsin7.zip
+	./popbounc.zip
+	./saturnzi.zip
+	./sdodgeb.zip
+	./spelunkr.zip
+
+
+collection: 0.35rc2
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./fshark.zip
+	./irrmaze.zip
+	./rallybik.zip
+	./shocktr2.zip
+	./streetsm.zip
+	./wardner.zip
+
+
+collection: 0.36b1
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./atomicp.zip
+	./bodyslam.zip
+	./cchasm.zip
+	./cyberbal.zip
+	./gangwars.zip
+	./goldmedl.zip
+	./goldnaxe.zip
+	./hangon.zip
+	./hopprobo.zip
+	./hwrace.zip
+	./hydra.zip
+	./ikari3u.zip
+	./marvins.zip
+	./psurge.zip
+	./quartet.zip
+	./razmataz.zip
+	./riotcity.zip
+	./sbasebal.zip
+	./shdancer.zip
+	./skysoldr.zip
+	./timesold.zip
+	./tturf.zip
+	./wb3.zip
+	./wbml.zip
+
+
+collection: 0.36b10
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./ctribe.zip
+	./dcon.zip
+	./ddragon3.zip
+	./frogger.zip
+	./irobot.zip
+	./joyfulr.zip
+	./metrocrs.zip
+	./rocnrope.zip
+
+
+collection: 0.36b11
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./bladestl.zip
+	./cischeat.zip
+	./drgnbstr.zip
+	./mx5000.zip
+	./percuss.zip
+	./searchar.zip
+	./skykid.zip
+	./soccer.zip
+
+
+collection: 0.36b13
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./blockhl.zip
+	./blswhstl.zip
+	./dotrikun.zip
+	./fastlane.zip
+	./minivadr.zip
+	./ninjemak.zip
+	./nova2001.zip
+
+
+collection: 0.36b14
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./baluba.zip
+	./blkhole.zip
+	./cosmogng.zip
+	./hopmappy.zip
+	./junglek.zip
+	./marvland.zip
+	./plumppop.zip
+	./skykiddx.zip
+	./sws93.zip
+	./tankfrce.zip
+
+
+collection: 0.36b15
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./astorm.zip
+	./fantzone.zip
+	./invad2ct.zip
+	./sdi.zip
+	./sidearms.zip
+
+
+collection: 0.36b16
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./bigprowr.zip
+	./bombbee.zip
+	./cutieq.zip
+	./geebee.zip
+	./gtmr.zip
+	./gwar.zip
+	./kaitei.zip
+	./kozure.zip
+	./navarone.zip
+	./spcewarl.zip
+	./sws92.zip
+	./toryumon.zip
+	./worldwar.zip
+	./yosakdon.zip
+
+
+collection: 0.36b2
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./ajax.zip
+	./alexkidd.zip
+	./aliens.zip
+	./aztarac.zip
+	./batman.zip
+	./bayroute.zip
+	./bjtwin.zip
+	./cbuster.zip
+	./devstors.zip
+	./garyoret.zip
+	./ginganin.zip
+	./hcastle.zip
+	./madcrash.zip
+	./mia.zip
+	./mwalk.zip
+	./outrun.zip
+	./passsht.zip
+	./relief.zip
+	./simpsons.zip
+	./simpsons2p.zip
+	./srdmissn.zip
+	./ssridersubc.zip
+	./stadhero.zip
+	./tetris.zip
+	./tmnt2.zip
+	./tmnt22pu.zip
+	./vangrd2.zip
+
+
+collection: 0.36b3
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./88games.zip
+	./airwolf.zip
+	./cbasebal.zip
+	./empcity.zip
+	./enduror.zip
+	./flashgal.zip
+	./offtwall.zip
+	./repulse.zip
+	./scontra.zip
+	./simpsons2pj.zip
+	./ssriders.zip
+	./thunderx.zip
+	./tsamurai.zip
+	./vendetta2pu.zip
+	./yamagchi.zip
+
+
+collection: 0.36b4
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./arkarea.zip
+	./blastoff.zip
+	./blazer.zip
+	./bottom9.zip
+	./cachat.zip
+	./champwr.zip
+	./dangseed.zip
+	./galaga88.zip
+	./horshoes.zip
+	./hotchase.zip
+	./mmaze.zip
+	./pacmania.zip
+	./pgoal.zip
+	./pistoldm.zip
+	./rollerg.zip
+	./rompers.zip
+	./shadowld.zip
+	./wldcourt.zip
+
+
+collection: 0.36b5
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./astyanax.zip
+	./battlnts.zip
+	./cshift.zip
+	./cybattlr.zip
+	./gbusters.zip
+	./gghost.zip
+	./gimeabrk.zip
+	./hachoo.zip
+	./hattrick.zip
+	./minigolf.zip
+	./mrgoemon.zip
+	./nstocker.zip
+	./otwalls.zip
+	./rescraid.zip
+	./rodland.zip
+	./secretag.zip
+	./sfootbal.zip
+	./snakepit.zip
+	./snakjack.zip
+	./stdragon.zip
+	./stocker.zip
+	./toggle.zip
+	./trojan.zip
+
+
+collection: 0.36b6
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./archrivl.zip
+	./blasted.zip
+	./bmaster.zip
+	./gunforce.zip
+	./hharry.zip
+	./hook.zip
+	./inthunt.zip
+	./kikcubic.zip
+	./lethalth.zip
+	./majtitl2.zip
+	./pandoras.zip
+	./pigskin.zip
+	./powerdrv.zip
+	./rockrage.zip
+	./rtype2.zip
+	./sidepckt.zip
+	./spyhunt2.zip
+	./turbotag.zip
+	./uccops.zip
+	./zwackery.zip
+
+
+collection: 0.36b7
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./bchopper.zip
+	./cclimbr2.zip
+	./chimerab.zip
+	./finalizr.zip
+	./loht.zip
+	./mayday.zip
+	./mysticri.zip
+	./nspirit.zip
+	./orbitron.zip
+	./plusalph.zip
+	./sparkz.zip
+	./spiker.zip
+	./ssozumo.zip
+
+
+collection: 0.36b8
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./assault.zip
+	./bogeyman.zip
+	./burnforc.zip
+	./devilw.zip
+	./finehour.zip
+	./mirninja.zip
+	./rthun2.zip
+	./stratgyx.zip
+	./theend.zip
+	./tumblep.zip
+	./valkyrie.zip
+	./vulcan.zip
+
+
+collection: 0.36b9
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./bigstrik.zip
+	./dsoccr94.zip
+	./exctscc2.zip
+	./kicknrun.zip
+	./kickoff.zip
+	./kikikai.zip
+
+
+collection: 0.36rc1
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./berlwall.zip
+	./dremshpr.zip
+	./faceoff.zip
+	./fireshrk.zip
+	./kbash.zip
+	./polepos2.zip
+	./quester.zip
+	./snowbro2.zip
+	./tekipaki.zip
+	./tshingen.zip
+	./ultraman.zip
+	./vanvan.zip
+
+
+collection: 0.36rc2
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./bosco.zip
+	./cobracom.zip
+	./crimfght.zip
+	./desertgu.zip
+	./dogyuun.zip
+	./ghox.zip
+	./kangaroo.zip
+	./kyukaidk.zip
+	./lasso.zip
+	./nbajamte.zip
+	./puzlclub.zip
+	./shuffle.zip
+	./ws.zip
+
+
+collection: 0.37b1
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./arbalest.zip
+	./fnkyfish.zip
+	./karatblz.zip
+	./metafox.zip
+	./mrjong.zip
+	./poundfor.zip
+	./rabiolep.zip
+	./rtype.zip
+	./spinlbrk.zip
+	./svolley.zip
+	./tndrcade.zip
+	./twineagl.zip
+	./usclssic.zip
+	./wrofaero.zip
+	./zingzip.zip
+
+
+collection: 0.37b10
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./8ball.zip
+	./amspdwy.zip
+	./argus.zip
+	./beathead.zip
+	./chinatwn.zip
+	./cosmos.zip
+	./darius2.zip
+	./darkwar.zip
+	./dazzler.zip
+	./goldbug.zip
+	./gtg2.zip
+	./heartatk.zip
+	./hero.zip
+	./holeland.zip
+	./hstennis.zip
+	./hunchbak.zip
+	./huncholy.zip
+	./logger.zip
+	./mrflea.zip
+	./ninclown.zip
+	./ninjaw.zip
+	./omegaf.zip
+	./peggle.zip
+	./pegglet.zip
+	./perfrman.zip
+	./radarzon.zip
+	./recordbr.zip
+	./rimrockn.zip
+	./robokid.zip
+	./superbik.zip
+	./syvalion.zip
+	./topspeed.zip
+	./valtric.zip
+	./wallst.zip
+	./warriorb.zip
+
+
+collection: 0.37b11
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./arabianm.zip
+	./arlingtn.zip
+	./balcube.zip
+	./balonfgt.zip
+	./blkpnthr.zip
+	./blockcar.zip
+	./bloodstm.zip
+	./btlecity.zip
+	./bubblem.zip
+	./citybomb.zip
+	./cleopatr.zip
+	./cluclu.zip
+	./cstlevna.zip
+	./ctomaday.zip
+	./cupfinal.zip
+	./dankuga.zip
+	./darius.zip
+	./drmario.zip
+	./duckhunt.zip
+	./goonies.zip
+	./gseeker.zip
+	./gunlock.zip
+	./guwange.zip
+	./hardyard.zip
+	./hogalley.zip
+	./kaiserkn.zip
+	./mslugx.zip
+	./ninjakun.zip
+	./nvs_machrider.zip
+	./nvs_platoon.zip
+	./pangpoms.zip
+	./pbobbl2n.zip
+	./pbobble3.zip
+	./pwrgoal.zip
+	./rbibb.zip
+	./ridingf.zip
+	./ringrage.zip
+	./skyalert.zip
+	./spacegun.zip
+	./stratab.zip
+	./timekill.zip
+	./tkoboxng.zip
+	./trstar.zip
+	./vsbball.zip
+	./vsgradus.zip
+	./vsskykid.zip
+	./vsslalom.zip
+	./vstetris.zip
+	./wrecking.zip
+
+
+collection: 0.37b12
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./bcruzm12.zip
+	./chinhero.zip
+	./fightrol.zip
+	./firetrk.zip
+	./grchamp.zip
+	./iceclmrd.zip
+	./karatour.zip
+	./kittenk.zip
+	./kof99.zip
+	./msgundam.zip
+	./nbahangt.zip
+	./poitto.zip
+	./sfa.zip
+	./sftm.zip
+	./shocking.zip
+	./shootbul.zip
+	./skybump.zip
+	./starlstr.zip
+	./stg.zip
+	./tinklpit.zip
+	./uballoon.zip
+	./vsgongf.zip
+
+
+collection: 0.37b13
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./asterix.zip
+	./bioship.zip
+	./blzntrnd.zip
+	./bounty.zip
+	./castfant.zip
+	./cbdash.zip
+	./cbtime.zip
+	./cburnrub.zip
+	./cexplore.zip
+	./cfghtice.zip
+	./cgraplop.zip
+	./chqflag.zip
+	./clapapa.zip
+	./clocknch.zip
+	./cmissnx.zip
+	./cnightst.zip
+	./cppicf.zip
+	./cprobowl.zip
+	./cprogolf.zip
+	./cpsoccer.zip
+	./cptennis.zip
+	./cscrtry.zip
+	./csuperas.zip
+	./cterrani.zip
+	./ctisland.zip
+	./ctornado.zip
+	./gijoe.zip
+	./gunnail.zip
+	./hotdogst.zip
+	./momoko.zip
+	./puzzli.zip
+	./ringdest.zip
+	./sgladiat.zip
+	./ssf2t.zip
+	./tetrisp2.zip
+	./vendetta.zip
+
+
+collection: 0.37b14
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./bbonk.zip
+	./cubybop.zip
+	./dynamski.zip
+	./fround.zip
+	./hardhead.zip
+	./hexion.zip
+	./igmo.zip
+	./mouja.zip
+	./pbancho.zip
+	./shangkid.zip
+	./skyadvnt.zip
+	./suprglob.zip
+	./tricktrp.zip
+	./wndrplnt.zip
+	./xxmissio.zip
+
+
+collection: 0.37b15
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./bangball.zip
+	./clshroad.zip
+	./dariusgx.zip
+	./dommy.zip
+	./elvactr.zip
+	./gogomile.zip
+	./ixion.zip
+	./jitsupro.zip
+	./jjsquawk.zip
+	./magicbub.zip
+	./marble.zip
+	./neckneck.zip
+	./pbobble4.zip
+	./powrplay.zip
+	./shufshot.zip
+	./vandyke.zip
+	./vindictr.zip
+
+
+collection: 0.37b16
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./avsp.zip
+	./bonzeadv.zip
+	./bullfgt.zip
+	./burglarx.zip
+	./cgangpzl.zip
+	./chinagat.zip
+	./extdwnhl.zip
+	./gridlee.zip
+	./gslgr94u.zip
+	./gundhara.zip
+	./hangonjr.zip
+	./ikki.zip
+	./markham.zip
+	./mspacman.zip
+	./raiders5.zip
+	./redclash.zip
+	./ridleofp.zip
+	./slither.zip
+	./stagger1.zip
+	./strnskil.zip
+	./sws96.zip
+	./sws97.zip
+	./transfrm.zip
+	./undrfire.zip
+	./wwfwfest.zip
+	./zeropnt.zip
+
+
+collection: 0.37b2
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./astrob.zip
+	./battlera.zip
+	./grindstm.zip
+	./insector.zip
+	./kyros.zip
+	./mermaid.zip
+	./screwloo.zip
+	./sheriff.zip
+	./sstingry.zip
+	./supbtime.zip
+	./tail2nos.zip
+	./vaportra.zip
+
+
+collection: 0.37b3
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./aafb.zip
+	./aafbd2p.zip
+	./alleymas.zip
+	./basebal2.zip
+	./cerberus.zip
+	./crimec.zip
+	./dangerz.zip
+	./dblplay.zip
+	./indyheat.zip
+	./mayhem.zip
+	./nastar.zip
+	./offroad.zip
+	./offroadt.zip
+	./ohmygod.zip
+	./pigout.zip
+	./quarterb.zip
+	./redlin2p.zip
+	./strkzone.zip
+	./teamqb.zip
+	./viper.zip
+	./wseries.zip
+
+
+collection: 0.37b4
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./exodus.zip
+	./hitice.zip
+	./pbobble.zip
+	./victory.zip
+
+
+collection: 0.37b5
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./arkatour.zip
+	./blocken.zip
+	./brutforc.zip
+	./calibr50.zip
+	./cameltry.zip
+	./deadconx.zip
+	./dinorex.zip
+	./drgnunit.zip
+	./euroch92.zip
+	./finalb.zip
+	./footchmp.zip
+	./fstarfrc.zip
+	./gunfront.zip
+	./heberpop.zip
+	./koshien.zip
+	./lsasquad.zip
+	./masterw.zip
+	./mk3.zip
+	./nbamht1.zip
+	./ninjak.zip
+	./olibochu.zip
+	./openice.zip
+	./pulirula.zip
+	./rackemup.zip
+	./rambo3u.zip
+	./rmpgwt.zip
+	./silentd.zip
+	./solfigtr.zip
+	./tmnt2po.zip
+	./toypop.zip
+	./umk3.zip
+	./viofight.zip
+	./wwfmania.zip
+
+
+collection: 0.37b6
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./bigkarnk.zip
+	./biomtoy.zip
+	./bluehawk.zip
+	./bssoccer.zip
+	./karianx.zip
+	./kurikint.zip
+	./lastday.zip
+	./megablst.zip
+	./metalb.zip
+	./pollux.zip
+	./rshark.zip
+	./skyfox.zip
+	./spacbeam.zip
+	./truxton2.zip
+
+
+collection: 0.37b7
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./buggychl.zip
+	./kncljoe.zip
+	./magmax.zip
+	./natodef.zip
+	./shocktro.zip
+	./thief.zip
+	./tinv2650.zip
+	./wbeachvl.zip
+	./xexex.zip
+
+
+collection: 0.37b8
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./bbmanw.zip
+	./beezer.zip
+	./macross.zip
+	./macross2.zip
+	./selfeena.zip
+	./spdodgeb.zip
+
+
+collection: 0.37b9
+shortname: version-0.3
+sortBy: version-0.3
+files:
+	./aburner.zip
+	./aburner2.zip
+	./asuka.zip
+	./ballbros.zip
+	./bgaregga.zip
+	./bloxeed.zip
+	./borench.zip
+	./btlkroad.zip
+	./cadash.zip
+	./cavelon.zip
+	./columns.zip
+	./columns2.zip
+	./earthjkr.zip
+	./eightfrc.zip
+	./eto.zip
+	./flstory.zip
+	./galmedes.zip
+	./harddriv.zip
+	./krzybowl.zip
+	./m660.zip
+	./mofflott.zip
+	./naname.zip
+	./potopoto.zip
+	./puyopuy2.zip
+	./rbisland.zip
+	./rezon.zip
+	./sabotenb.zip
+	./tfrceac.zip
+	./thunderl.zip
+	./twotiger.zip
+	./zunkyou.zip
+
+
+collection: 0.5
+shortname: version-0.5
+sortBy: version-0.5
+files:
+	./dkongjr.zip
+	./galapx.zip
+	./galaxian.zip
+	./galturbo.zip
+	./warofbug.zip
+
+
+collection: 0.53
+shortname: version-0.5
+sortBy: version-0.5
+files:
+	./aquajack.zip
+	./bigrun.zip
+	./chasehq.zip
+	./chelnov.zip
+	./contcirc.zip
+	./dirtfoxj.zip
+	./dondokod.zip
+	./ecofghtr.zip
+	./galxwars.zip
+	./mazinger.zip
+	./mightguy.zip
+	./ptblank.zip
+	./robocop.zip
+	./robocop2.zip
+	./robocop2j.zip
+	./sailormn.zip
+	./sandscrp.zip
+	./sci.zip
+	./sokonuke.zip
+	./srdarwin.zip
+	./sstrangr.zip
+	./thundfox.zip
+	./twinhawk.zip
+	./ultratnk.zip
+	./upndown.zip
+
+
+collection: 0.54
+shortname: version-0.5
+sortBy: version-0.5
+files:
+	./gulfstrm.zip
+	./mineswpr.zip
+	./spcforce.zip
+	./timelimt.zip
+	./youjyudn.zip
+
+
+collection: 0.55
+shortname: version-0.5
+sortBy: version-0.5
+files:
+	./blmbycar.zip
+	./crzrally.zip
+	./nyny.zip
+	./rambo3.zip
+	./skysmash.zip
+	./spacedx.zip
+	./spacefrt.zip
+	./thehand.zip
+	./typhoon.zip
+	./umanclub.zip
+	./zerohour.zip
+
+
+collection: 0.56
+shortname: version-0.5
+sortBy: version-0.5
+files:
+	./chameleo.zip
+	./ddtod.zip
+	./ganryu.zip
+	./garou.zip
+	./metmqstr.zip
+	./mshvsfj.zip
+	./preisle2.zip
+	./pzlbowl.zip
+	./raflesia.zip
+	./spatter.zip
+	./stargrds.zip
+	./vsav2.zip
+	./wmatch.zip
+	./wwjgtin.zip
+
+
+collection: 0.57
+shortname: version-0.5
+sortBy: version-0.5
+files:
+	./40love.zip
+	./acrobatm.zip
+	./agallet.zip
+	./btoads.zip
+	./buckrog.zip
+	./carjmbre.zip
+	./demonwld.zip
+	./destroyr.zip
+	./drifto94.zip
+	./kof2000.zip
+	./mosaic.zip
+	./mslider.zip
+	./mslug3.zip
+	./nitd.zip
+	./numanath.zip
+	./onna34ro.zip
+	./playball.zip
+	./popflame.zip
+	./popnpop.zip
+	./popper.zip
+	./revx.zip
+	./s1945p.zip
+	./sdgndmps.zip
+	./skybase.zip
+	./sprcros2.zip
+	./subroc3d.zip
+	./vsav.zip
+	./wits.zip
+
+
+collection: 0.58
+shortname: version-0.5
+sortBy: version-0.5
+files:
+	./angelkds.zip
+	./captaven.zip
+	./captavenu.zip
+	./dstlk.zip
+	./gunforc2.zip
+	./mugsmash.zip
+	./stlforce.zip
+
+
+collection: 0.59
+shortname: version-0.5
+sortBy: version-0.5
+files:
+	./berabohm.zip
+	./bucky.zip
+	./ccastles.zip
+	./daraku.zip
+	./dynwar.zip
+	./gradius3.zip
+	./gunbird2.zip
+	./paddlema.zip
+	./pass.zip
+	./pisces.zip
+	./s1945ii.zip
+	./sbomber.zip
+	./soldivid.zip
+	./superbug.zip
+
+
+collection: 0.60
+shortname: version-0.6
+sortBy: version-0.6
+files:
+	./barricad.zip
+	./blkheart.zip
+	./dragrace.zip
+	./fghtatck.zip
+	./formatz.zip
+	./gunbird.zip
+	./hyperpac.zip
+	./hyprduel.zip
+	./iqblock.zip
+	./jdreddp.zip
+	./knckhead.zip
+	./manybloc.zip
+	./mastkin.zip
+	./moomesa.zip
+	./mustang.zip
+	./nebulray.zip
+	./outfxies.zip
+	./piratpet.zip
+	./poolshrk.zip
+	./primrage.zip
+	./rtypeleo.zip
+	./sfz2al.zip
+	./sgemf.zip
+	./silkroad.zip
+	./tactcian.zip
+	./tankbust.zip
+	./taxidriv.zip
+	./xyonix.zip
+
+
+collection: 0.61
+shortname: version-0.6
+sortBy: version-0.6
+files:
+	./airbustr.zip
+	./bakutotu.zip
+	./battlex.zip
+	./bbusters.zip
+	./bking.zip
+	./bullfgtr.zip
+	./carpolo.zip
+	./clayshoo.zip
+	./crshrace.zip
+	./dariusg.zip
+	./dingo.zip
+	./dribling.zip
+	./equites.zip
+	./esprade.zip
+	./gulfwar2.zip
+	./hvoltage.zip
+	./jumpkids.zip
+	./kickgoal.zip
+	./kouyakyu.zip
+	./kov.zip
+	./kovplus.zip
+	./loderndf.zip
+	./macrossp.zip
+	./mechatt.zip
+	./megaman2.zip
+	./minferno.zip
+	./montecar.zip
+	./mrkougar.zip
+	./mshvsf.zip
+	./netwars.zip
+	./orbit.zip
+	./orlegend.zip
+	./pspikes.zip
+	./redrobin.zip
+	./rjammer.zip
+	./spcinv95.zip
+	./spcking2.zip
+	./splndrbt.zip
+	./spy.zip
+	./stmblade.zip
+	./suprslam.zip
+	./tnextspc.zip
+	./toffy.zip
+	./triplhnt.zip
+	./tubep.zip
+	./wilytowr.zip
+
+
+collection: 0.62
+shortname: version-0.6
+sortBy: version-0.6
+files:
+	./ace.zip
+	./amazon.zip
+	./asylum.zip
+	./bbbxing.zip
+	./beaminv.zip
+	./bradley.zip
+	./cairblad.zip
+	./centiped.zip
+	./dbz2.zip
+	./desertwr.zip
+	./diverboy.zip
+	./dragnblz.zip
+	./fitfight.zip
+	./flower.zip
+	./fncywld.zip
+	./gametngk.zip
+	./gigawing.zip
+	./goindol.zip
+	./gratia.zip
+	./greenber.zip
+	./hdrivair.zip
+	./histryma.zip
+	./horekid.zip
+	./idsoccer.zip
+	./ipminvad.zip
+	./kamenrid.zip
+	./legend.zip
+	./legion.zip
+	./luckywld.zip
+	./mcatadv.zip
+	./megadon.zip
+	./metlhawk.zip
+	./nost.zip
+	./nycaptor.zip
+	./oneshot.zip
+	./propcycl.zip
+	./racedriv.zip
+	./s1945.zip
+	./s1945iii.zip
+	./samuraia.zip
+	./senknow.zip
+	./sgunner2.zip
+	./skyraid.zip
+	./skyskipr.zip
+	./spdball.zip
+	./speedspn.zip
+	./ssmissin.zip
+	./starshp1.zip
+	./steeltal.zip
+	./sws95.zip
+	./tetrisp.zip
+	./vcircle.zip
+	./xmen2pa.zip
+
+
+collection: 0.63
+shortname: version-0.6
+sortBy: version-0.6
+files:
+	./alien3.zip
+	./bang.zip
+	./batcir.zip
+	./boomrang.zip
+	./dotron.zip
+	./drmicro.zip
+	./f1en.zip
+	./f1gp2.zip
+	./freekick.zip
+	./ga2.zip
+	./gollygho.zip
+	./holo.zip
+	./kamikcab.zip
+	./kinst.zip
+	./kinst2.zip
+	./liberate.zip
+	./mimonkey.zip
+	./mshuttle.zip
+	./pbillrd.zip
+	./penbros.zip
+	./pirates.zip
+	./radr.zip
+	./rungun.zip
+	./sfx.zip
+	./shrike.zip
+	./snowboar.zip
+	./sonic.zip
+	./spidman.zip
+	./svf.zip
+	./targeth.zip
+	./thoop2.zip
+	./tugboat.zip
+
+
+collection: 0.64
+shortname: version-0.6
+sortBy: version-0.6
+files:
+	./cheesech.zip
+	./edrandy.zip
+	./jpark.zip
+	./mutantf.zip
+	./sf2.zip
+	./shadoww.zip
+	./shtrider.zip
+	./stonebal.zip
+	./tickee.zip
+	./ultennis.zip
+	./zombraid.zip
+
+
+collection: 0.65
+shortname: version-0.6
+sortBy: version-0.6
+files:
+	./mmatrix.zip
+	./mouser.zip
+	./ribbit.zip
+	./taotaido.zip
+
+
+collection: 0.66
+shortname: version-0.6
+sortBy: version-0.6
+files:
+	./benberob.zip
+	./bnglngby.zip
+	./cosmccop.zip
+	./dorodon.zip
+	./halleysc.zip
+	./iceclimb.zip
+	./jajamaru.zip
+	./madshark.zip
+	./mystston.zip
+	./nvs_mightybj.zip
+	./stratof.zip
+	./topgun.zip
+	./utoukond.zip
+	./vsgshoe.zip
+
+
+collection: 0.67
+shortname: version-0.6
+sortBy: version-0.6
+files:
+	./complexx.zip
+	./deadang.zip
+	./dragngun.zip
+	./drgnmst.zip
+	./fantjour.zip
+	./grdians.zip
+	./le2.zip
+	./mystwarr.zip
+	./tattass.zip
+	./tbowl.zip
+	./tbyahhoo.zip
+
+
+collection: 0.68
+shortname: version-0.6
+sortBy: version-0.6
+files:
+	./area51mx.zip
+	./bangbead.zip
+	./bbprot.zip
+	./bking3.zip
+	./bwings.zip
+	./chaknpop.zip
+	./chboxing.zip
+	./chukatai.zip
+	./chwrestl.zip
+	./countryc.zip
+	./darktowr.zip
+	./ddonpach.zip
+	./donpachi.zip
+	./drtoppel.zip
+	./eggor.zip
+	./eggventr.zip
+	./fantland.zip
+	./firebatl.zip
+	./galaxygn.zip
+	./groundfx.zip
+	./hedpanic.zip
+	./horizon.zip
+	./intcup94.zip
+	./kikstart.zip
+	./kungfut.zip
+	./lastblad.zip
+	./lethalj.zip
+	./metlclsh.zip
+	./msisaac.zip
+	./neobattl.zip
+	./nitrobal.zip
+	./opwolf3.zip
+	./panic.zip
+	./pbillian.zip
+	./progress.zip
+	./puckpkmn.zip
+	./rbff2.zip
+	./rockclim.zip
+	./rotaryf.zip
+	./salmndr2.zip
+	./sdtennis.zip
+	./sflush.zip
+	./sgunner.zip
+	./skyarmy.zip
+	./thedeep.zip
+	./tkmmpzdm.zip
+	./trckydoc.zip
+	./vasara.zip
+	./vshoot.zip
+	./wallc.zip
+	./zaviga.zip
+	./zeropnt2.zip
+
+
+collection: 0.69
+shortname: version-0.6
+sortBy: version-0.6
+files:
+	./chopper.zip
+	./mainevt2p.zip
+	./nmouse.zip
+	./quartet2a.zip
+	./tunhunt.zip
+	./wcbowl.zip
+	./wolfpack.zip
+
+
+collection: 0.69b
+shortname: version-0.6
+sortBy: version-0.6
+files:
+	./evilston.zip
+	./mustache.zip
+	./spacecr.zip
+	./tripool.zip
+
+
+collection: 0.70u4
+shortname: version-0.7
+sortBy: version-0.7
+files:
+	./finalap2.zip
+	./finallap.zip
+	./fourtrax.zip
+	./suzuk8h2.zip
+
+
+collection: 0.70u5
+shortname: version-0.7
+sortBy: version-0.7
+files:
+	./finalap3.zip
+	./r2dtank.zip
+	./scross.zip
+	./vhunt2.zip
+
+
+collection: 0.71
+shortname: version-0.7
+sortBy: version-0.7
+files:
+	./boxer.zip
+	./magspot.zip
+	./maxforce.zip
+	./sengekis.zip
+
+
+collection: 0.71u2
+shortname: version-0.7
+sortBy: version-0.7
+files:
+	./bigevglf.zip
+	./cuebrick.zip
+	./ddsom.zip
+	./genix.zip
+	./greatgun.zip
+	./sbowling.zip
+	./ssrj.zip
+
+
+collection: 0.71u3p
+shortname: version-0.7
+sortBy: version-0.7
+files:
+	./8ballact.zip
+	./dogfgt.zip
+	./parodius.zip
+	./pitnrun.zip
+	./pwrinst2.zip
+	./spclforc.zip
+	./sprint4.zip
+
+
+collection: 0.73
+shortname: version-0.7
+sortBy: version-0.7
+files:
+	./hanagumi.zip
+	./sprint8.zip
+	./twineag2.zip
+	./ultrax.zip
+
+
+collection: 0.74u2
+shortname: version-0.7
+sortBy: version-0.7
+files:
+	./9ballsht.zip
+	./aceattac.zip
+	./afighter.zip
+	./airco22b.zip
+	./alpinerd.zip
+	./amerdart.zip
+	./astrass.zip
+	./bakubaku.zip
+	./batmanfr.zip
+	./bloodwar.zip
+	./bnzabros.zip
+	./cflyball.zip
+	./champbb2.zip
+	./chwy.zip
+	./cltchitr.zip
+	./colmns97.zip
+	./compgolf.zip
+	./cookbib2.zip
+	./coolpool.zip
+	./cotton.zip
+	./cotton2.zip
+	./cottonbm.zip
+	./cybrcomm.zip
+	./cybrcycc.zip
+	./czeroize.zip
+	./dbzvrvs.zip
+	./deroon.zip
+	./diehard.zip
+	./doapp.zip
+	./dorachan.zip
+	./drakton.zip
+	./drivedge.zip
+	./dynablst.zip
+	./eaglshot.zip
+	./elandore.zip
+	./exctleag.zip
+	./f1gpstr2.zip
+	./fantzn2.zip
+	./fcombat.zip
+	./fhboxers.zip
+	./fightfev.zip
+	./fixeight.zip
+	./ftimpcta.zip
+	./gardia.zip
+	./gaxeduel.zip
+	./gdarius2.zip
+	./grdforce.zip
+	./groovef.zip
+	./guardian.zip
+	./hachamf.zip
+	./hardhea2.zip
+	./hotsmash.zip
+	./htchctch.zip
+	./jcross.zip
+	./kovsh.zip
+	./legionna.zip
+	./loffire.zip
+	./mainsnk.zip
+	./mausuke.zip
+	./mazerbla.zip
+	./motofren.zip
+	./mvp.zip
+	./nslasher.zip
+	./opaopa.zip
+	./pblbeach.zip
+	./prikura.zip
+	./primglex.zip
+	./prosoccr.zip
+	./puyosun.zip
+	./raiden2.zip
+	./raveracw.zip
+	./riskchal.zip
+	./rougien.zip
+	./rsgun.zip
+	./rungun2.zip
+	./rushhero.zip
+	./seabass.zip
+	./shienryu.zip
+	./shootgal.zip
+	./slipstrm.zip
+	./smgolf.zip
+	./soccerss.zip
+	./sokyugrt.zip
+	./souledge.zip
+	./sparkman.zip
+	./spcpostn.zip
+	./sranger.zip
+	./sss.zip
+	./starfigh.zip
+	./suikoenb.zip
+	./suprleag.zip
+	./supxevs.zip
+	./survival.zip
+	./suzuka8h.zip
+	./thndrbld.zip
+	./tkdensho.zip
+	./tmek.zip
+	./topland.zip
+	./toratora.zip
+	./ufosensi.zip
+	./vfkids.zip
+	./victlapw.zip
+	./vsfdf.zip
+	./winrun91.zip
+	./winterht.zip
+	./wrally.zip
+	./znpwfv.zip
+
+
+collection: 0.75
+shortname: version-0.7
+sortBy: version-0.7
+files:
+	./dodgem.zip
+	./ladyfrog.zip
+	./msh.zip
+	./tempest.zip
+	./tharrier.zip
+
+
+collection: 0.76u1
+shortname: version-0.7
+sortBy: version-0.7
+files:
+	./cosmo.zip
+	./csprint.zip
+	./cyberbal2p.zip
+	./ssoldier.zip
+	./sspeedr.zip
+	./stunrun.zip
+
+
+collection: 0.77
+shortname: version-0.7
+sortBy: version-0.7
+files:
+	./aquarush.zip
+	./blitz99.zip
+	./bonkadv.zip
+	./calspeed.zip
+	./carnevil.zip
+	./fgtlayer.zip
+	./godzilla.zip
+	./golgo13.zip
+	./sfrush.zip
+	./sws99.zip
+	./wg3dh.zip
+
+
+collection: 0.77u2
+shortname: version-0.7
+sortBy: version-0.7
+files:
+	./biofreak.zip
+	./blitz.zip
+	./blitz2k.zip
+	./gundamex.zip
+	./kyustrkr.zip
+	./rabbit.zip
+	./runaway.zip
+	./tceptor.zip
+
+
+collection: 0.78
+shortname: version-0.7
+sortBy: version-0.7
+files:
+	./acedrvrw.zip
+	./beastrzr.zip
+	./cryptklr.zip
+	./dcclub.zip
+	./fhawk.zip
+	./gground.zip
+	./glpracr2.zip
+	./jdredd.zip
+	./ldrun3.zip
+	./prmrsocr.zip
+	./sgmast.zip
+	./sspirits.zip
+	./starglad.zip
+	./supertnk.zip
+
+
+collection: 0.79
+shortname: version-0.7
+sortBy: version-0.7
+files:
+	./dragoona.zip
+	./feversos.zip
+	./plsmaswd.zip
+	./shangon.zip
+	./vmetal.zip
+	./vstennis.zip
+
+
+collection: 0.79u1
+shortname: version-0.7
+sortBy: version-0.7
+files:
+	./bullsdrt.zip
+	./galaga.zip
+	./gslugrsj.zip
+	./spacelnc.zip
+	./sslam.zip
+	./sstriker.zip
+	./talbot.zip
+
+
+collection: 0.79u2
+shortname: version-0.7
+sortBy: version-0.7
+files:
+	./bongo.zip
+	./ksayakyu.zip
+	./madalien.zip
+	./samsho3.zip
+	./soulclbr.zip
+	./surfplnt.zip
+	./tankbatl.zip
+
+
+collection: 0.8
+shortname: version-0.8
+sortBy: version-0.8
+files:
+	./atlantis.zip
+	./carnival.zip
+	./invaders.zip
+	./lrescue.zip
+	./mario.zip
+	./moonqsr.zip
+	./zaxxon.zip
+
+
+collection: 0.80u2
+shortname: version-0.8
+sortBy: version-0.8
+files:
+	./changela.zip
+	./gyrodine.zip
+	./pturn.zip
+	./scotrsht.zip
+
+
+collection: 0.81u4
+shortname: version-0.8
+sortBy: version-0.8
+files:
+	./dendego.zip
+	./dendego2.zip
+	./ghostlop.zip
+	./landgear.zip
+	./lordgun.zip
+	./suprridr.zip
+
+
+collection: 0.81u5
+shortname: version-0.8
+sortBy: version-0.8
+files:
+	./hyprdriv.zip
+	./nbamht.zip
+	./piratetr.zip
+	./sfrushrk.zip
+	./vaportrx.zip
+
+
+collection: 0.82
+shortname: version-0.8
+sortBy: version-0.8
+files:
+	./1945kiii.zip
+	./agress.zip
+	./dynagear.zip
+	./racingb.zip
+	./sws.zip
+	./tylz.zip
+
+
+collection: 0.82u2
+shortname: version-0.8
+sortBy: version-0.8
+files:
+	./gpgolf.zip
+	./mmaulers.zip
+	./psyforce.zip
+	./victnine.zip
+
+
+collection: 0.82u3
+shortname: version-0.8
+sortBy: version-0.8
+files:
+	./argusg.zip
+	./hvnsgate.zip
+	./jumppop.zip
+	./vidvince.zip
+	./wizwarz.zip
+
+
+collection: 0.84
+shortname: version-0.8
+sortBy: version-0.8
+files:
+	./backfire.zip
+	./bmcbowl.zip
+	./boogwing.zip
+	./chainrec.zip
+	./charlien.zip
+	./drgnbowl.zip
+	./joemacr.zip
+	./kngtmare.zip
+	./osman.zip
+	./puchicar.zip
+	./spclords.zip
+	./squash.zip
+	./strtdriv.zip
+	./thoop.zip
+
+
+collection: 0.84u3
+shortname: version-0.8
+sortBy: version-0.8
+files:
+	./cybots.zip
+	./diggerc.zip
+	./gnbarich.zip
+	./mfjump.zip
+	./mk4.zip
+	./twinfalc.zip
+	./vasara2.zip
+
+
+collection: 0.84u5
+shortname: version-0.8
+sortBy: version-0.8
+files:
+	./dunkmnia.zip
+	./gtmr2.zip
+	./harem.zip
+	./sengoku3.zip
+	./vbowl.zip
+	./zupapa.zip
+
+
+collection: 0.87u3
+shortname: version-0.8
+sortBy: version-0.8
+files:
+	./atlantol.zip
+	./olds.zip
+	./qb3.zip
+	./sraider.zip
+	./wotw.zip
+
+
+collection: 0.88
+shortname: version-0.8
+sortBy: version-0.8
+files:
+	./ddcrew.zip
+	./ddcrew2.zip
+	./ddux.zip
+	./eswat.zip
+	./sonicbom.zip
+	./tank8.zip
+
+
+collection: 0.88u3
+shortname: version-0.8
+sortBy: version-0.8
+files:
+	./gforce2.zip
+	./pdrift.zip
+	./sfexp.zip
+	./woodpeck.zip
+
+
+collection: 0.88u4
+shortname: version-0.8
+sortBy: version-0.8
+files:
+	./hotrod.zip
+	./mf_achas.zip
+	./mf_bdash.zip
+	./mf_brist.zip
+	./mf_flip.zip
+	./twinsqua.zip
+
+
+collection: 0.89u5
+shortname: version-0.8
+sortBy: version-0.8
+files:
+	./ar_airh.zip
+	./ar_bowl.zip
+	./ar_dart.zip
+	./ar_fast.zip
+	./ar_ldrb.zip
+	./ar_ninj.zip
+	./ar_rdwr.zip
+	./ar_sdwr.zip
+	./ar_sprg.zip
+	./ar_xeon.zip
+
+
+collection: 0.90
+shortname: version-0.9
+sortBy: version-0.9
+files:
+	./buccanrs.zip
+	./crysking.zip
+	./evosocc.zip
+	./progear.zip
+	./radm.zip
+	./riot.zip
+
+
+collection: 0.91u1
+shortname: version-0.9
+sortBy: version-0.9
+files:
+	./cartfury.zip
+	./gauntdl.zip
+	./gauntleg.zip
+	./nbanfl.zip
+	./nbashowt.zip
+	./roadburn.zip
+	./tenthdeg.zip
+	./warfa.zip
+
+
+collection: 0.92
+shortname: version-0.9
+sortBy: version-0.9
+files:
+	./champbwl.zip
+	./dambustr.zip
+	./futflash.zip
+	./gt2k.zip
+	./gt2kt500.zip
+	./gt3d.zip
+	./gt97.zip
+	./gt98.zip
+	./gt99.zip
+	./gtclassc.zip
+	./gunpey.zip
+	./kof2002.zip
+	./lgtnfght.zip
+	./matrim.zip
+	./ppking.zip
+	./racknrol.zip
+	./rotd.zip
+	./spaceg.zip
+	./twinkle.zip
+
+
+collection: 0.94u1
+shortname: version-0.9
+sortBy: version-0.9
+files:
+	./calorie.zip
+	./pipeline.zip
+	./starfir2.zip
+	./twcupmil.zip
+
+
+collection: 0.95
+shortname: version-0.9
+sortBy: version-0.9
+files:
+	./demndrgn.zip
+	./mp_bio.zip
+	./mp_sor2.zip
+	./nagano98.zip
+
+
+collection: 0.95u3
+shortname: version-0.9
+sortBy: version-0.9
+files:
+	./actionhw.zip
+	./flytiger.zip
+	./opwolf.zip
+	./wbbc97.zip
+
+
+collection: 0.96
+shortname: version-0.9
+sortBy: version-0.9
+files:
+	./dblewing.zip
+	./lockon.zip
+	./nsub.zip
+	./ridgera2.zip
+	./survarts.zip
+	./xtheball.zip
+
+
+collection: 0.96u3
+shortname: version-0.9
+sortBy: version-0.9
+files:
+	./ad2083.zip
+	./brdrline.zip
+	./cybertnk.zip
+	./darkmist.zip
+	./exprraid.zip
+	./welltris.zip
+
+

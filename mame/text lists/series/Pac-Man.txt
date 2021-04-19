@@ -1,0 +1,13 @@
+jrpacman
+mspacman
+mspacmnf
+pacland
+paclandp
+pacman
+pacmanf
+pacmania
+pacnpal
+pacplus
+puckman
+puckpkmn
+superpac
