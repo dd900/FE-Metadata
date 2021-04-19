@@ -1117,6 +1117,27 @@ assets.logo: ./media/wheel/ajax.png
 assets.screenshot: ./media/screenshot/ajax.png
 
 
+game: Aki Katana
+file: ./akatana.zip
+sort-by: Aki Katana
+developer: Cave
+publisher: Cave
+genres:
+	Shooter
+	Flying Horizontal
+	Shoot 'em Up
+release: 2010-08-20
+players: 2
+description:
+	Akai Katana (赤い刀, Red Katana) is a bullet hell shooter video game developed by Cave that was released on August 20, 2010 in arcades. A video game console port, Akai Katana Shin (赤い刀 真), was released on the Xbox 360 on May 26, 2011 in Japan. Rising Star Games released the game in North America and Europe on May 15, 2012.
+	.
+	It is the fourth horizontal shoot 'em up game from the company, the prior three being Progear, Deathsmiles, and Deathsmiles II. The game's soundtrack was composed by Ryu Umemoto.
+assets.boxfront: ./media/mixart/akatana.png
+assets.video: ./media/snap/akatana.mp4
+assets.logo: ./media/wheel/akatana.png
+assets.screenshot: ./media/screenshot/akatana.png
+
+
 game: Akka Arrh
 file: ./akkaarrh.zip
 sort-by: Akka Arrh
@@ -4085,15 +4106,60 @@ assets.logo: ./media/wheel/bbbxing.png
 assets.screenshot: ./media/screenshot/bbbxing.png
 
 
-game: bbhcotw
+game: Big Buck Hunter
+file: ./bbh.zip
+sort-by: Big Buck Hunter
+developer: Play Mechanix
+publisher: Incredible Technologies
+genres:
+	Shooter
+	Gun
+	Hunting
+release: 2000-12-01
+players: 4
+description:
+	Big Buck Hunter is a hunting video game developed by Play Mechanix, Inc. Primarily developed for arcades, it centers on shooting up bucks without shooting a doe or female animal, thus ending the player's turn prematurely.
+	.
+	The initial series of games from 2000-2004 operated on a single gun platform and allowed four players to compete round robin style through various treks and bonus stages. Big Buck Hunter Pro and Big Buck Safari introduced a two gun platform, allowing head-to-head competition in addition to a variety of new animals and critters to hunt.
+assets.boxfront: ./media/mixart/bbh.png
+assets.logo: ./media/wheel/bbh.png
+assets.screenshot: ./media/screenshot/bbh.png
+
+
+game: Big Buck Hunter II: Sportsman's Paradise
+file: ./bbh2sp.zip
+sort-by: Big Buck Hunter II: Sportsman's Paradise
+developer: Play Mechanix
+publisher: Incredible Technologies
+genres:
+	Shooter
+	Gun
+	Hunting
+release: 2002-08-01
+players: 4
+description:
+	A shooting game where the player uses a pump-action shotgun and hunts deer and elk in various terrians in The United States and Canada. A sequel to the original Big Buck Hunter.
+assets.boxfront: ./media/mixart/bbh2sp.png
+assets.video: ./media/snap/bbh2sp.mp4
+assets.logo: ./media/wheel/bbh2sp.png
+assets.screenshot: ./media/screenshot/bbh2sp.png
+
+
+game: Big Buck Hunter 2006: Call of the Wild
 file: ./bbhcotw.zip
-sort-by: bbhcotw
+sort-by: Big Buck Hunter 2006: Call of the Wild
 developer: Incredible Technologies
 publisher: Incredible Technologies
 genres:
 	Shooter
 	Gun
-release: 2006-01-01
+	Hunting
+release: 2005-03-01
+players: 4
+description:
+	The Call of the Wild update added Two New Hunting Regions (including the Midwest and the Southwest), new game such as Antelope, an expanded hunt club, and offered Bonus Only mode for the first time.
+	.
+	The game features a single pump-to-reload shotgun and allows up to 4 players to enjoy the game by taking turns.
 rating: 60%
 assets.boxfront: ./media/mixart/bbhcotw.png
 assets.video: ./media/snap/bbhcotw.mp4
@@ -7514,6 +7580,24 @@ assets.logo: ./media/wheel/carnival.png
 assets.screenshot: ./media/screenshot/carnival.png
 
 
+game: Carnival King
+file: ./carnking.zip
+sort-by: Carnival King
+publisher: Incredible Technologies
+genres:
+	Shooter
+	Gun
+release: 2002-01-01
+players: 2
+description:
+	A carnival-themed shooting game consisting of many different games including: Knock'Em Over, Animal Match, Cluster Buster and Shoot The Star. The game has different parks: Arcadia, Dreamland and Lagoon Park. The object of the game is to shoot all required on-screen targets plus bonus targets, using an optical gun, within a certain time limit in each game to try and make it to the bonus round.
+	.
+	Each round consists of four separate games and a bonus game. The bonus round is dependent on your score.
+assets.boxfront: ./media/mixart/carnking.png
+assets.logo: ./media/wheel/carnking.png
+assets.screenshot: ./media/screenshot/carnking.png
+
+
 game: Car Polo
 file: ./carpolo.zip
 sort-by: Car Polo
@@ -8030,9 +8114,9 @@ assets.logo: ./media/wheel/cerberus.png
 assets.screenshot: ./media/screenshot/cerberus.png
 
 
-game: cexplore
+game: Explorer
 file: ./cexplore.zip
-sort-by: cexplore
+sort-by: Explorer
 developer: bootleg
 publisher: Data East
 genres:
@@ -8361,6 +8445,24 @@ assets.boxfront: ./media/mixart/changes.png
 assets.video: ./media/snap/changes.mp4
 assets.logo: ./media/wheel/changes.png
 assets.screenshot: ./media/screenshot/changes.png
+
+
+game: Chaos Heat
+file: ./chaoshea.zip
+sort-by: Chaos Heat
+developer: Taito
+publisher: Taito
+genres:
+	Platform
+	Shooter Scrolling
+release: 1998-01-01
+players: 2
+description:
+	Chaos Heat is a 3D hack 'n slash with modern weapons like flamethrowers, machineguns, and grenades. Players have to battle against zombie like creatures in a biotech lab.
+assets.boxfront: ./media/mixart/chaoshea.png
+assets.video: ./media/snap/chaoshea.mp4
+assets.logo: ./media/wheel/chaoshea.png
+assets.screenshot: ./media/screenshot/chaoshea.png
 
 
 game: Charlie Ninja
@@ -12814,6 +12916,28 @@ assets.logo: ./media/wheel/digger.png
 assets.screenshot: ./media/screenshot/digger.png
 
 
+game: Digger (CVS)
+file: ./diggerc.zip
+sort-by: Digger (CVS)
+developer: Century Electronics
+genres:
+	Maze
+	Digging
+release: 1982-01-01
+description:
+	Many features of Digger are similar to those in the arcade games Mr. Do! and Dig Dug. The player is placed in an underground maze and can dig horizontal and vertical tunnels through it. At least one tunnel already exists at the start of play. At various points on the board are emeralds (usually in clusters) and bags of gold. Monsters (initially in the "nobbin" form) appear at the top right-hand corner. If earth is excavated from under a gold bag, then the bag will wobble for a few seconds and then drop; if it falls more than one row, it will break open after falling, releasing gold, which can be collected. Bags can be pushed left or right into vertical paths, with similar results. Falling bags will squash monsters, but they will also squash the digger. The digger has a weapon, which fires in a straight line, but takes several seconds to recharge (taking longer as the levels go higher).
+	.
+	Monsters sometimes change from the "nobbin" form to the "hobbin" form, more frequently on higher levels. Hobbins also have the power to excavate and can destroy emeralds and gold bags while so doing.
+	.
+	When a monster is killed, another will appear at the top right-hand corner of the screen, up to a maximal number, which depends on the level. Once all the monsters for the level have been created, a cherry appears in their place. If the digger collects this, bonus mode is entered, and for about fifteen seconds (which decreases as the game level gets higher) the digger is able to eat the monsters. Accordingly, the monsters now run away from the digger rather than towards it (similar to Pac-Man).
+	.
+	A level ends when all the emeralds are gone or all the monsters have been killed.
+assets.boxfront: ./media/mixart/diggerc.png
+assets.video: ./media/snap/diggerc.mp4
+assets.logo: ./media/wheel/diggerc.png
+assets.screenshot: ./media/screenshot/diggerc.png
+
+
 game: Digger Man
 file: ./diggerma.zip
 sort-by: Digger Man
@@ -14764,6 +14888,18 @@ assets.boxfront: ./media/mixart/eightman.png
 assets.video: ./media/snap/eightman.mp4
 assets.logo: ./media/wheel/eightman.png
 assets.screenshot: ./media/screenshot/eightman.png
+
+
+game: Extra Inning / Ball Park II
+file: ./einning.zip
+sort-by: Extra Inning / Ball Park II
+genres:
+	Sports
+	Baseball
+assets.boxfront: ./media/mixart/einning.png
+assets.video: ./media/snap/einning.mp4
+assets.logo: ./media/wheel/einning.png
+assets.screenshot: ./media/screenshot/einning.png
 
 
 game: Touryuu Densetsu: Elan-Doree
@@ -20083,6 +20219,39 @@ assets.boxfront: ./media/mixart/gtfore03.png
 assets.video: ./media/snap/gtfore03.mp4
 assets.logo: ./media/wheel/gtfore03.png
 assets.screenshot: ./media/screenshot/gtfore03.png
+
+
+game: gtfore04
+file: ./gtfore04.zip
+sort-by: gtfore04
+genres:
+	Sports
+	Golf
+assets.boxfront: ./media/mixart/gtfore04.png
+assets.logo: ./media/wheel/gtfore04.png
+assets.screenshot: ./media/screenshot/gtfore04.png
+
+
+game: gtfore05
+file: ./gtfore05.zip
+sort-by: gtfore05
+genres:
+	Sports
+	Golf
+assets.boxfront: ./media/mixart/gtfore05.png
+assets.logo: ./media/wheel/gtfore05.png
+assets.screenshot: ./media/screenshot/gtfore05.png
+
+
+game: gtfore06
+file: ./gtfore06.zip
+sort-by: gtfore06
+genres:
+	Sports
+	Golf
+assets.boxfront: ./media/mixart/gtfore06.png
+assets.logo: ./media/wheel/gtfore06.png
+assets.screenshot: ./media/screenshot/gtfore06.png
 
 
 game: Golden Tee Golf
@@ -41620,6 +41789,18 @@ assets.boxfront: ./media/mixart/shikigam.png
 assets.video: ./media/snap/shikigam.mp4
 assets.logo: ./media/wheel/shikigam.png
 assets.screenshot: ./media/screenshot/shikigam.png
+
+
+game: shikigama
+file: ./shikigama.zip
+sort-by: shikigama
+genres:
+	Shooter
+	Flying Vertical
+assets.boxfront: ./media/mixart/shikigama.png
+assets.video: ./media/snap/shikigama.mp4
+assets.logo: ./media/wheel/shikigama.png
+assets.screenshot: ./media/screenshot/shikigama.png
 
 
 game: Super High Impact
