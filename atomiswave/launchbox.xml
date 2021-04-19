@@ -1,0 +1,2000 @@
+<?xml version="1.0" standalone="yes"?>
+<LaunchBox>
+  <Game>
+    <ApplicationPath>..\roms\atomiswave\mslug6.zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2021-04-18T12:01:31.8088254-04:00</DateAdded>
+    <DateModified>2021-04-18T12:01:31.8088254-04:00</DateModified>
+    <Developer>SNK Playmore</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>10bc66b7-83e1-4341-8377-3396e35454e0</ID>
+    <Notes>The seventh main game in the series stays close to the fast-paced 2D side-scrolling shooting gameplay of the original, but with a few enhancements. The storyline is reminiscent of Metal Slug 2, X, and 3, as it focuses on the Rebel-Martian alliance where the team, with the help of the Rebels, had to fight the Martians. In this version however, all sides team up to combat a threat together. The four original heroes, Marco, Tarma, Fio and Eri, are joined by Ralf and Clark, of King of Fighters and Ikari Warriors fame, each with different attributes and a special ability. The characters also vary by running speed, the defense abilities when driving vehicles, and the amount of ammo received.
+
+The characters can now carry two power-ups at the same time, and choose to discard one, or give it to another player in the Co-op mode. Next to new drivable vehicles, there is also a new weapon, the Zantetsu Sword, a blade that neutralizes enemy firepower. An additional melee attack has been added, and the sliding technique from the previous game has been removed.
+
+When enemies are killed at a fast rate, more points are received, and this is reflected by a meter at the bottom of the screen. When the meter maxes out, enemies drop coins. Two new difficulty levels have been added: Easy and Hard. In the Easy mode, the fifth and final level cannot be accessed, but instead of the pistol, the default weapon is the heavy machine gun with unlimited ammo. Next to the main Arcade Mode, there is Combat School, a modified version where skills are tested.</Notes>
+    <Platform>Sammy Atomiswave</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2006-02-24T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.5</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>52</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>91854</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Metal_Slug_6</WikipediaURL>
+    <Title>Metal Slug 6</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>mslug6</Version>
+    <PlayMode>Cooperative; Multiplayer</PlayMode>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Action;Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>true</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\atomiswave\maxspeed.zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2021-04-18T12:01:31.7701055-04:00</DateAdded>
+    <DateModified>2021-04-18T12:01:31.7701055-04:00</DateModified>
+    <Developer>Sammy</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>dd2c8f33-9256-4a45-8704-c112d7a5dc16</ID>
+    <Notes>A white-hot racing game that will thrill all your senses! Take part in this extravagant racing game; 3 kinds of races, formula one style, Indy car style, truck racing and on 8 different racing circuits. Use your brilliant driving technique to trim your lap time, whilst fighting against the steering feedback.</Notes>
+    <Platform>Sammy Atomiswave</Platform>
+    <Publisher>Sammy</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2003-01-01T00:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.3235295</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>17</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>91853</DatabaseID>
+    <Title>Maximum Speed</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>maxspeed</Version>
+    <PlayMode>Single Player</PlayMode>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Racing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>true</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=fio04Qavqms</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\atomiswave\basschal.zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2021-04-18T12:01:31.1604255-04:00</DateAdded>
+    <DateModified>2021-04-18T12:01:31.1604255-04:00</DateModified>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>675ba72c-0f18-40db-a088-79c8a73f0e1e</ID>
+    <Platform>Sammy Atomiswave</Platform>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <Title>basschal</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre />
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>true</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\atomiswave\rumblef2.zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2021-04-18T12:01:31.9504699-04:00</DateAdded>
+    <DateModified>2021-04-18T12:01:31.9504699-04:00</DateModified>
+    <Developer>Dimps</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>1d193dfd-c8f8-4b2b-8aa2-76ccbf2f62b5</ID>
+    <Notes>The Rumble Fish 2 (ザ・ランブルフィッシュ2) is a 2D fighting game for the Atomiswave arcade platform. It was produced by Dimps and published by Sammy. It is the sequel to The Rumble Fish, bringing in several new additions. 
+
+The Rumble Fish 2 uses all of the elements from the first game and adds some new ones. The Offense and Defense gauges have been divided into three sections each, allowing for more usage of Offensive and Defensive Arts, as well as techniques tied to each gauge. An addition to the system is the Boost Dive, which puts each character into a powered-up state according to their style. Most characters have had modifications to their movelists in some way, such as new moves and new commands for old moves.
+
+Returning characters include Zen, Hikari, Typhon, Garnet, Orville, Boyd, Viren, Kaya, and Aran. Greed is a secret character, playable only after inputting a password in the operator options.
+
+
+New characters:
+
+• Sheryl - A calm, stoic assassin whose fighting style is based upon the use of wires and setting traps across the screen.
+
+• Mito - A young girl who fights with a wooden bokken. She fights with two different styles: one with wide, sweeping attacks, and one with short, stabbing attacks.
+
+• Bazoo - An over 8 ft tall large man who is caged and seemingly used for sport, which has taken a toll on his mind. He has long range with his arms, and using all kinds of debris to his advantage.
+
+• Lud - Leader of the Valour Gang with a Gauntlet attached to his arm. He focuses on rapid, dashing attacks. He also can guard and absorb any attack with a special gauntlet of his.
+
+• Hazama - He works under PROBE-NEXUS' CEO. He has strong attacks and a somewhat long range. Hazama is also playable, but only after inputting a password in the operator options.
+
+• Beatrice - PROBE-NEXUS' new chairman, and a relative of Vlad. She is powerful, with the ability to project long range waves. She is also playable after inputting the operator password, then inputting a code on the character select screen. However, the playable version of Beatrice is significantly less powerful than her final boss counterpart.</Notes>
+    <Platform>Sammy Atomiswave</Platform>
+    <Publisher>Sammy</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2005-03-07T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.9444444</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>18</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>91858</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/The_Rumble_Fish_2</WikipediaURL>
+    <Title>The Rumble Fish 2</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>rumblef2</Version>
+    <PlayMode>Multiplayer</PlayMode>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Fighting</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>true</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://youtu.be/9uGaG_Cpcck</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\atomiswave\sushibar.zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2021-04-18T12:01:32.241135-04:00</DateAdded>
+    <DateModified>2021-04-18T12:01:32.241135-04:00</DateModified>
+    <Developer>Sammy</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>9ffa434e-1ee1-4b8b-8334-8792fdedc7cb</ID>
+    <Notes>Sushi Bar is a puzzle game for the Sammy Atomiswave arcade board. The gameplay is very similar with Puyo Puyo where the player must rearrange various foods of the traditional Japanese culinary to unlock the next level. The game was released only in Japan.</Notes>
+    <Platform>Sammy Atomiswave</Platform>
+    <Publisher>Sammy</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2003-01-01T00:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.25</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>4</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>155543</DatabaseID>
+    <Title>Sushi Bar</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <PlayMode>Cooperative; Multiplayer</PlayMode>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Puzzle</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>true</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=i_iFH-OYrAc</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\atomiswave\basschalo.zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2021-04-18T12:01:31.1791871-04:00</DateAdded>
+    <DateModified>2021-04-18T12:01:31.1791871-04:00</DateModified>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>d805f542-6174-406e-9add-84a48d78fba7</ID>
+    <Platform>Sammy Atomiswave</Platform>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <Title>basschalo</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre />
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>true</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\atomiswave\salmankt.zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2021-04-18T12:01:32.1022217-04:00</DateAdded>
+    <DateModified>2021-04-18T12:01:32.1022217-04:00</DateModified>
+    <Developer>Sammy</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>b55b76d7-2cc9-4ebf-9e78-a7451716dccb</ID>
+    <Notes>A video arcade Mahjongg game with a theme based on the Japanese manga series Salaryman Kintarō</Notes>
+    <Platform>Sammy Atomiswave</Platform>
+    <Publisher>Sammy</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2004-01-01T00:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.25</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>4</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>39159</DatabaseID>
+    <Title>Salaryman Kintaro</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>salmankt</Version>
+    <PlayMode>Multiplayer</PlayMode>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Casino</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>true</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=0OQRQqyfw3M</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\atomiswave\rumblf2p.zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2021-04-18T12:01:32.0805846-04:00</DateAdded>
+    <DateModified>2021-04-18T12:01:32.0805846-04:00</DateModified>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>62242087-3fbb-4321-bf68-1f6bfd72de4c</ID>
+    <Platform>Sammy Atomiswave</Platform>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <Title>rumblf2p</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre />
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>true</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\atomiswave\anmlbskta.zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2021-04-18T12:01:31.1390976-04:00</DateAdded>
+    <DateModified>2021-04-18T12:01:31.1390976-04:00</DateModified>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>ab31ac57-f6af-47ba-93ef-6b0ad9ccd841</ID>
+    <Platform>Sammy Atomiswave</Platform>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <Title>anmlbskta</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre />
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>true</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\atomiswave\ggx15.zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2021-04-18T12:01:31.5831852-04:00</DateAdded>
+    <DateModified>2021-04-18T12:01:31.5831852-04:00</DateModified>
+    <Developer>Arc System Works</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>ff5e495f-6b72-442e-8ba6-101c09373244</ID>
+    <Notes>When the humans created artificial beings named "gears" in 22th century, they didn't expect that their creation will eventually turn against them. Because gears had no will of their own and could only obey humans. Only one gear, named Justice, was able to transfer his will onto other gears and to rebel against the humans. In year 2180, Justice was killed as a result of a bloody tournament organized by the Sacred Order of Holy Knights. Yet recently, a new gear was discovered. He showed no signs of hostility, yet he had no master and was roaming about free. It was impossible to capture or to kill him because he was immensely strong. Fearing a new Justice will grow out of this gear, the Order organized yet another tournament, this time with a solid prize: five hundred thousand world dollars for the winner.
+
+Guilty Gear X is a follow up to Guilty Gear, and is also a 2D fighting game. There are now 16 characters available for you to choose. The battle system became more complicated, thanks to the variety of moves you can perform. Beside special attacks which you can execute if you build up your Tension Gauge by attacking or advancing towards your opponent, there is also a variety of defensing moves to perform. The instant kill moves are back from the previous game.</Notes>
+    <Platform>Sammy Atomiswave</Platform>
+    <Publisher>Sammy Studios</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2003-01-01T00:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.9615386</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>13</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>91849</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Guilty_Gear_X</WikipediaURL>
+    <Title>Guilty Gear X Ver. 1.5</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>ggx15</Version>
+    <PlayMode>Multiplayer</PlayMode>
+    <Region />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Fighting</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>true</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\atomiswave\kov7sprt.zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2021-04-18T12:01:31.7076653-04:00</DateAdded>
+    <DateModified>2021-04-18T12:01:31.7076653-04:00</DateModified>
+    <Developer>International Games System</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>3491c4cb-dd51-4183-86fe-28fcf80a6801</ID>
+    <Notes>Knights of Valour: The Seven Spirits (新·三国戦紀 七星転生) is a 2003 side-scrolling beat-'em-up by International Games System for the Atomiswave. The plot is loosely adapted from the Chinese historical novel Romance of the Three Kingdoms and features the Five Tiger Generals, Zhuge Liang, Diaochan and others as playable characters. The gameplay involves the use of magical powers that are not featured in other games also based on the novel.</Notes>
+    <Platform>Sammy Atomiswave</Platform>
+    <Publisher>Sammy</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2003-01-01T00:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.9444444</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>27</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>91852</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Knights_of_Valour</WikipediaURL>
+    <Title>Knights of Valour: The Seven Spirits</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>kov7sprt</Version>
+    <PlayMode>Cooperative; Multiplayer</PlayMode>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Beat 'em Up</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>true</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\atomiswave\demofist.zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2021-04-18T12:01:31.2577889-04:00</DateAdded>
+    <DateModified>2021-04-18T12:01:31.2577889-04:00</DateModified>
+    <Developer>Sammy</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>93d5c226-c432-4f81-a13d-e4989dc6da4e</ID>
+    <Notes>Demolish Fist is a side scrolling beat 'em up where the player controls one of four characters, Enzo, Leoneer, Vanessa or Undead as you battle your way through various stages. There are many items, which are available to use as a weapons against your enemies. Each player has their own assortment of moves and specials that they can unleash at will. Also all four of these characters have the ability to use the awesome 'Vertigo' technique! Demolish Fist is a well put together fighting game that has many things to offer the beat 'em up world.</Notes>
+    <Platform>Sammy Atomiswave</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2003-06-10T03:00:00-04:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.0185184</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>27</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>14950</DatabaseID>
+    <Title>Demolish Fist</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>demofist</Version>
+    <PlayMode>Cooperative; Multiplayer</PlayMode>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Beat 'em Up</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>true</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=kcn4bHjD4ts</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\atomiswave\blokpong.zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2021-04-18T12:01:31.1979879-04:00</DateAdded>
+    <DateModified>2021-04-18T12:01:31.1979879-04:00</DateModified>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>35e3c6f4-eb80-41a8-b9b5-2fe57cdf5ac1</ID>
+    <Platform>Sammy Atomiswave</Platform>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <Title>blokpong</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre />
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>true</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\atomiswave\samsptk.zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2021-04-18T12:01:32.1608495-04:00</DateAdded>
+    <DateModified>2021-04-18T12:01:32.1608495-04:00</DateModified>
+    <Developer>SNK Playmore Corp.</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>71909aef-13d1-412d-9279-f17f5ddb9a76</ID>
+    <Notes>Samurai Spirits Tenkaichi Kenkakuden is a dream match game which features the entire cast from Samurai Shodown V Special, seven returning characters from Samurai Shodown and Samurai Shodown II, and several new characters added to the Playstation 2 port of the game.
+
+The story is parallel to Samurai Shodown V; Yoshitora decides to find out who the strongest fighter in the world is, so a tournament is then organized with this purpose.
+
+The game is similar to the Samurai Showdown V Special; however, the player is now capable of using one of six different fighting systems, all of which have their own advantages and disadvantages. Items like bombs and rocks can also be picked up and thrown at the enemy.</Notes>
+    <Platform>Sammy Atomiswave</Platform>
+    <Publisher>SNK Playmore Corp.</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2005-01-01T00:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.652174</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>23</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>39176</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Samurai_Shodown_VI</WikipediaURL>
+    <Title>Samurai Shodown VI</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>samsptk</Version>
+    <PlayMode>Multiplayer</PlayMode>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Fighting</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>true</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=E9CgQvLxPno</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\atomiswave\xtrmhunt.zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2021-04-18T12:01:31.3764482-04:00</DateAdded>
+    <DateModified>2021-04-18T12:01:31.3764482-04:00</DateModified>
+    <Developer>Sammy Corporation</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>23b0682d-af17-4d01-9f82-f999c6ab77ac</ID>
+    <Notes>You can hunt a total of 6 animals, each with its own uniqueness and life-like animation. The individual animal hunting stages feature a variety of hunting regions, all with magnificent background imagery. Weather conditions will also come into play depending on the region. Once you complete the entire animal stage you will be able to hunt in that stage's unique bonus spot.</Notes>
+    <Platform>Sammy Atomiswave</Platform>
+    <Publisher>Sammy Corporation</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2005-01-01T00:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.178571</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>14</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>14974</DatabaseID>
+    <Title>Extreme Hunting</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>xtrmhunt</Version>
+    <PlayMode>Single Player</PlayMode>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter;Sports</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>true</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>1</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=Sd9BziukCZQ</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\atomiswave\dolphin.zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2021-04-18T12:01:31.3387445-04:00</DateAdded>
+    <DateModified>2021-04-18T12:01:31.3387445-04:00</DateModified>
+    <Developer>Sammy</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>175d948c-ae3d-4cac-bf21-e4110761114c</ID>
+    <Notes>You take on the role of either Ann (a royal army soldier who is out to protect the kingdom) or Erio (an arms dealer with a thirst for action). The game is set in the future and it appears a major incident has transformed what used to be a peace-filled nation into a troubled land of waste and ruin. What exactly has happened in this land remains unknown but whatever it was, it has damaged the earth's surface. Now the entire location is immersed in water. Our gallant heroes must now protect the earth's remains from the dastardly evil empire that are planning to take over the world. Dolphin Blue is an action side-scrolling shoot-em up with great graphics, super sound and gripping gameplay that will leave you sitting on the edge of your dolphin!</Notes>
+    <Platform>Sammy Atomiswave</Platform>
+    <Publisher>Sammy - SEGA</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2003-08-01T03:00:00-04:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.7375</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>40</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>14952</DatabaseID>
+    <Title>Dolphin Blue</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>dolphin</Version>
+    <PlayMode>Multiplayer</PlayMode>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Action;Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>true</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=1a5A4-b1630</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\atomiswave\rumblef.zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2021-04-18T12:01:31.9996222-04:00</DateAdded>
+    <DateModified>2021-04-18T12:01:31.9996222-04:00</DateModified>
+    <Developer>Dimps</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>db720348-6c8d-433b-90b8-ea9c85dfadca</ID>
+    <Notes>The Rumble Fish (ザ・ランブルフィッシュ) is a 2D fighting game developed by Dimps and first published by Sammy for the Atomiswave arcade platform in 2004, and was later ported by Sega to the Sony PlayStation 2 on March 17, 2005. A sequel, The Rumble Fish 2, has since been developed.</Notes>
+    <Platform>Sammy Atomiswave</Platform>
+    <Publisher>Sammy</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2004-01-01T00:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.6041667</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>24</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>91857</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/The_Rumble_Fish</WikipediaURL>
+    <Title>The Rumble Fish</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>rumblef</Version>
+    <PlayMode>Multiplayer</PlayMode>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Fighting</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>true</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=PTT63mbytq8</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\atomiswave\dirtypig.zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2021-04-18T12:01:31.2965447-04:00</DateAdded>
+    <DateModified>2021-04-18T12:01:31.2965447-04:00</DateModified>
+    <Developer>Sammy</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>4463b0cb-6dfd-417a-a976-5ecb999ac749</ID>
+    <Notes>This is Football with a twist. Rather than regularly suited up football players each with their own set of morals, we have got a completely unique cast of players who don't know the meaning of the word. One of the featured teams is: The prisoners, in their traditional orange jail overalls. Then we have: The Hitman group, a group of assassinsall dressed in black suits and dark glasses, pleasant right? These men are all just urging to get their hands dirty. In total there are 12 teams in this game, various venues to play at, and the game also features a cool 4-player simultaneous play mode. With a play system that is easy to use, Pigskin welcomes all level of player to join in the action.</Notes>
+    <Platform>Sammy Atomiswave</Platform>
+    <Publisher>Sammy</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2004-06-16T03:00:00-04:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.388889</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>9</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>14953</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Atomiswave</WikipediaURL>
+    <Title>Dirty Pigskin Football</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>dirtypig</Version>
+    <PlayMode>Multiplayer</PlayMode>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Sports</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>true</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>4</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=21k3brydMOM</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\atomiswave\sprtshot.zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2021-04-18T12:01:32.2015195-04:00</DateAdded>
+    <DateModified>2021-04-18T12:01:32.2015195-04:00</DateModified>
+    <Developer>Sammy</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>56f41c4c-e07f-4099-9bd8-117088adff2d</ID>
+    <Notes>Compete on the speed, accuracy, and technique in this faithful reproduction of the world of target shooting. Guns are the exclusive Sammy scope gun with laser sight. Single or twin player game, which allows you to play against the computer or a friend. The game is very addictive giving you the chance to improve your ability to score the highest points, qualifying you to the next level. After the end of the events you are then graded. There are four levels from Beginner to Master, and you can play up to a hundred different events. The targets vary between moving targets and still targets, so keep your eyes peeled!</Notes>
+    <Platform>Sammy Atomiswave</Platform>
+    <Publisher>Sammy</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2003-01-01T00:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.75</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>14</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>91860</DatabaseID>
+    <Title>Sports Shooting USA</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>sprtshot</Version>
+    <PlayMode>Multiplayer</PlayMode>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>true</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=KnPUnqfy4Xw</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\atomiswave\ftspeed.zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2021-04-18T12:01:31.45683-04:00</DateAdded>
+    <DateModified>2021-04-18T12:01:31.45683-04:00</DateModified>
+    <Developer>Sammy Corporation</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>1363783f-26c0-4d20-9645-4fbb418e4339</ID>
+    <Notes>A futuristic car racing game with 12 selectable cars and 12 selectable race tracks.
+Per Sega: 'Enter the exciting street-racing world of Faster Than Speed where the winner rules and the loser walks! Hit the street with the most addictive driving experience of your life! Pick from 8 customized rides. Faster Than Speed will take your players into the exotic, dim-lit, back streets of over 6 tracks challenging the quickest, the fastest, the baddest, and the most stocked racer conquers the asphalt! To take down your challenger, you need to burn the street with a variety of high-speed tricks.
+
+Features:
+· Single Play
+· Head to Head Competition
+· 2 - 4 Alternate Play
+· Bonus Game with Hidden Cars
+· Trick Maneuvers &amp; Nitro Boost
+· Steering Wheel Feedback</Notes>
+    <Platform>Sammy Atomiswave</Platform>
+    <Publisher>Sammy Corporation</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2004-08-03T03:00:00-04:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.2083335</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>12</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>14954</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Atomiswave</WikipediaURL>
+    <Title>Faster Than Speed</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>ftspeed</Version>
+    <PlayMode>Multiplayer</PlayMode>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Racing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>true</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>4</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=ZlJwA2MQzDw</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\atomiswave\kofxi.zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2021-04-18T12:01:31.670445-04:00</DateAdded>
+    <DateModified>2021-04-18T12:01:31.670445-04:00</DateModified>
+    <Developer>SNK Playmore</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>4f0c23d3-4133-4f48-9667-770edf459435</ID>
+    <Notes>The King of Fighters XI is a 2D fighting game produced by SNK Playmore originally released as a coin-operated arcade game for the Atomiswave platform in 2005. It is the eleventh installment in The King of Fighters series following The King of Fighters 2003.Set after the events of The King of Fighters 2003, the story focuses on a group known a "Those From the Past" who aim to obtain the power of the ancient demon Orochi. At the same time, a group of fighters seeks revenge against the protagonist Ash Crimson for stealing the powers of the clans in charge of sealing the creature. The game retains the gameplay elements from The King of Fighters 2003 involving fights between six fighters while at the same calling for assists It also provides new features allowing the player to perform simultaneous multiple special moves.
+
+Development of The King of Fighters XI began after SNK Playmore finished making NeoGeo Battle Coliseum. The major changes to the gameplay and graphics were made possible thanks to the Atomiswave platform.  Along with providing three new original playable characters, SNK Playmore decided to use characters from older fighting games including Buriki One and Kizuna Encounter to surprise fans.
+
+During the previous series' installment, Mukai, a member of a mysterious group known as "Those from the Distant Land", stole the Orochi seal during the last tournament and broke it, causing confusion and destruction. Taking advantage of this situation, Ash Crimson attacked Chizuru Kagura in her weakened state and stole the Yata Mirror from her, draining her powers in the process. In a new King of Fighters tournament, new faces are handed invitations. These include Eiji Kisaragi (making his long-awaited comeback since his last appearance as a member of the Rival Team in The King of Fighters '95), who creates the Anti-Kyokugen Ryu Team and Kasumi Todoh, who also returns to The King of Fighters, and Malin. Oswald, an Irish card player who is an expert at using his playing cards to battle, joins Ash and Shen Woo on the Hero Team to find the whereabouts of a powerful new drug. Elisabeth Blanctorche, a young French woman who is acquainted with Ash, creates a Rival Team with Benimaru Nikaido and Duo Lon to investigate Ash's true intentions.
+
+Duck King, a well-known South Town veteran fighter, joins Terry Bogard and Kim Kaphwan on the Fatal Fury Team as Joe Higashi had left to focus on his training, and Mai Shiranui had refused to help Terry out after he told her that he did not know where his young brother Andy was. Having recovered his powers lost during the NESTS Chronicles, Sie Kensou returns to the Psycho Soldiers Team with Athena Asamiya and newcomer Momoko, a cheerful capoeira-fighting girl.
+
+Blue Mary forms a new Agent Team with returning characters Vanessa and Ramon. The female pirate B. Jenet, Gato and Tizoc form a new team, the MOTW Team. Due to an emotional trauma her character suffered at the end of The King of Fighters 2003, Leona leaves the Ikari Team to focus on regaining her strong will. Whip decides to leave the K′ Team to replace her. Former NESTS agent, Kula Diamond, joins K'. Maxima takes Whip's place on the K' team to help them investigate their latest threat. Since Chizuru is unable to help her teammates, Shingo Yabuki replaces her on the Sacred Treasures Team to help Kyo and Iori Yagami recover her powers from Ash.</Notes>
+    <Platform>Sammy Atomiswave</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2005-10-26T03:00:00-04:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.7692308</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>26</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>91851</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/The_King_of_Fighters_XI</WikipediaURL>
+    <Title>The King of Fighters XI</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>kofxi</Version>
+    <PlayMode>Multiplayer</PlayMode>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Fighting</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>true</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=PZPuQeOeBhk</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\atomiswave\vfurlong.zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2021-04-18T12:01:32.2813943-04:00</DateAdded>
+    <DateModified>2021-04-18T12:01:32.2813943-04:00</DateModified>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>3c2efe74-a2cc-4d74-8fff-5176574e1e6d</ID>
+    <Platform>Sammy Atomiswave</Platform>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <Title>Victory Furlong Horse Racing</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>vfurlong</Version>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre />
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>true</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\atomiswave\fotns.zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2021-04-18T12:01:31.4963484-04:00</DateAdded>
+    <DateModified>2021-04-18T12:01:31.4963484-04:00</DateModified>
+    <Developer>Arc System Works</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>01090167-5bd9-42a0-a979-13e6a3c5c0ce</ID>
+    <Notes>Fist of the North Star (北斗の拳 Hokuto no Ken) is a 2D competitive fighting game produced by Sega and developed by Arc System Works, based on the manga series of the same name. It was originally released in 2005 as a coin-operated arcade game for the Atomiswave hardware. A PlayStation 2 port, retitled Hokuto no Ken: Shinpan no Sōsōsei Kengō Retsuden (北斗の拳 ～審判の双蒼星 拳豪列伝～, roughly translated as Fist of the North Star: The Twin Blue Stars of Judgment - History of the Fist Masters), was released in Japan in March 2007. This version features a bonus DVD including an exclusive training mode ("Starter's Guide") and a documentary covering history of previous Hokuto no Ken titles for home consoles. The arcade version was officially distributed by Sega in North America, while the PS2 port was released only in Japan.</Notes>
+    <Platform>Sammy Atomiswave</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2005-12-01T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>4.3235292</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>34</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>91846</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Fist_of_the_North_Star_(2005_video_game)</WikipediaURL>
+    <Title>Fist of the North Star</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>fotns</Version>
+    <PlayMode>Multiplayer</PlayMode>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Fighting</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>true</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=rSYPhCzl5vo</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\atomiswave\rumblefp.zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2021-04-18T12:01:32.0602936-04:00</DateAdded>
+    <DateModified>2021-04-18T12:01:32.0602936-04:00</DateModified>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>d432d7bd-58f2-4797-b031-b5bd5097f4bc</ID>
+    <Platform>Sammy Atomiswave</Platform>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <Title>rumblefp</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre />
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>true</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\atomiswave\rangrmsn.zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2021-04-18T12:01:31.9112103-04:00</DateAdded>
+    <DateModified>2021-04-18T12:01:31.9112103-04:00</DateModified>
+    <Developer>Sammy Studios</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>c1b23923-d661-433e-8bed-99742e255a34</ID>
+    <Notes>Ranger Mission is an exciting first person simulation shooter. The game consists of a variety of mission types that must all be cleared in order to progress through the game.
+
+Mission objectives will require you to go through many an obstacle, such as: Clearing compounds, rescuing hostages, capturing enemy leaders, disarming live bombs and explosives, taking out enemy tanks, shooting down enemy helicopters and more and more.
+
+In Ranger Mission you are provided with an assortment of different weapons that are all to be used accordingly with each mission. At the end of each mission you are graded on your ability and given a rank. The required combination of reflexes and accuracy make Ranger Mission a must-play for all first person shooting fans.</Notes>
+    <Platform>Sammy Atomiswave</Platform>
+    <Publisher>Sammy Studios</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2004-01-01T00:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.5882354</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>17</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>91856</DatabaseID>
+    <Title>Ranger Mission</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>rangrmsn</Version>
+    <PlayMode>Cooperative; Multiplayer</PlayMode>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Action</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>true</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\atomiswave\kofnw.zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2021-04-18T12:01:31.6294026-04:00</DateAdded>
+    <DateModified>2021-04-18T12:01:31.6294026-04:00</DateModified>
+    <Developer>SNK Playmore</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>37d4a857-5fab-4db1-a205-e69fc3fa5c09</ID>
+    <Notes>The King of Fighters Neowave is a 2D competitive fighting game produced by SNK Playmore and released as a coin-operated arcade game for Sammy's Atomiswave hardware in 2004. It was the first game SNK Playmore produced for the Atomiswave. An offshoot of The King of Fighters series, it is not counted in the main series numbering. The character artwork was done by Tomokazu Nakano (of Power Instinct fame).
+
+Like KOF '98 and KOF 2002, Neowave has no actual storyline, but is instead a "Dream Match" which gathers numerous characters from various past KOF games, regardless of their status in the overarching storyline. The character roster of the arcade version is similar to the Neo Geo version of KOF 2002, with a few differences in the team placement. The KOF 2000 Team and the KOF 2001 Team are eliminated from the lineup, and a Mixed Team is introduced, composed of Saisyu Kusanagi, Kula Diamond, and Shingo Yabuki. King replaces May Lee in the Women Fighters Team, while Jhun Hoon replaces Kim Kaphwan in the Korean Team. Kim, along with Vanessa and Ramon, are still featured in the arcade version as hidden characters, along with the Orochi versions of the KOF '97 New Faces Team. Geese Howard appears in the game as the main boss character, with this incarnation of the character being based on his younger self from Art of Fighting 2.
+
+The game reverts to the 3-character elimination system from KOF '94 to KOF '98, ignoring gameplay features from later games such as the "Striker" system used from KOF '99 through KOF 2001 and tag team system in KOF 2003. The game's graphics consist of 2D character sprites overlaid over polygonal 3D backgrounds (similar to the 3D stages featured in the console versions of previous games in the series such as the Dreamcast versions of KOF '98).
+
+With the change of hardware from Neo Geo to Atomiswave, the number of buttons is now increased to five. In addition to the standard four attack buttons used in the previous games, a fifth button is now added which is used to activate the Heat Mode.</Notes>
+    <Platform>Sammy Atomiswave</Platform>
+    <Publisher>Sammy Corporation</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2004-01-01T00:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.4</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>25</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>91850</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/The_King_of_Fighters_Neowave</WikipediaURL>
+    <Title>The King of Fighters NeoWave</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>kofnw</Version>
+    <PlayMode>Multiplayer</PlayMode>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Fighting</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>true</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=6FW2qB82t-M</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\atomiswave\ngbc.zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2021-04-18T12:01:31.8481142-04:00</DateAdded>
+    <DateModified>2021-04-18T12:01:31.8481142-04:00</DateModified>
+    <Developer>SNK Playmore</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>f5f88950-ee2f-444f-8603-7b09bf3893b9</ID>
+    <Notes>In February, 2017 of the new Japanese era there is a man trying to rule the NEOGEO World. "I will topple NeoGeo's most powerful warriors and put myself on the throne!". We knew that if he managed to obtain NeoGeo world's awesome power, world domination would not be far from his reach. This man, who sat at the heart of the "WAREZ Conglomerate" with overwhelming financial power behind him, had already set out on his ambitious path to gain NeoGeo World's power. Those who knew the truth of his intentions were already trembling with fear... As NeoGeo World drew closer to the verge of disaster, a WAREZ sponsored fighting competition was announced. This event is called "NEOGEO BATTLE COLISEUM". The Federal Government is worried about the situation, and has secretly dispatched its two best secret agents, Yuki and Ai. A world on the verge of eternal darkness... The future of NEOGEO World is now in the hands of the warriors.</Notes>
+    <Platform>Sammy Atomiswave</Platform>
+    <Publisher>SNK Playmore</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2005-07-27T03:00:00-04:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.2380953</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>21</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>91855</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/NeoGeo_Battle_Coliseum</WikipediaURL>
+    <Title>NeoGeo Battle Coliseum</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>ngbc</Version>
+    <PlayMode>Multiplayer</PlayMode>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Fighting</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>true</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\atomiswave\waidrive.zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2021-04-18T12:01:32.3043616-04:00</DateAdded>
+    <DateModified>2021-04-18T12:01:32.3043616-04:00</DateModified>
+    <Developer>Moss</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>121edd23-cade-4185-a845-83f1a07795fa</ID>
+    <Notes>WaiWai Drive is cartoon stylized race car game for children and released in Japan for the Atomiswave arcade system.</Notes>
+    <Platform>Sammy Atomiswave</Platform>
+    <Publisher>Sammy Corporation</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2005-01-01T00:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>1.625</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>4</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>158213</DatabaseID>
+    <Title>WaiWai Drive</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <PlayMode>Multiplayer</PlayMode>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Racing</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>true</MissingBoxFrontImage>
+    <MissingScreenshotImage>true</MissingScreenshotImage>
+    <MissingClearLogoImage>true</MissingClearLogoImage>
+    <MissingBackgroundImage>true</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=es5MginSl-o</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\atomiswave\claychal.zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2021-04-18T12:01:31.2149938-04:00</DateAdded>
+    <DateModified>2021-04-18T12:01:31.2149938-04:00</DateModified>
+    <Developer>Sega</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>723be78b-b1cd-40af-ac06-860727950822</ID>
+    <Notes>Sega Clay Challenge is a Atomiswave light gun game released by Sega in 2008. It was also sold as a conversion kit for Extreme Hunting, Extreme Hunting 2, Ranger Mission or Sports Shooting USA - any Atomiswave game which is compatible with the Sega NAOMI universal upright cabinet (with light guns).</Notes>
+    <Platform>Sammy Atomiswave</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2008-01-01T00:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>2.1666667</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>9</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>91842</DatabaseID>
+    <Title>SEGA Clay Challenge</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <PlayMode>Multiplayer</PlayMode>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter;Sports</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>true</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=awN5rO8m3OQ</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\atomiswave\kofnwj.zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2021-04-18T12:01:31.7474894-04:00</DateAdded>
+    <DateModified>2021-04-18T12:01:31.7474894-04:00</DateModified>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>43ad36a3-cc1f-48a6-aa31-c36138d0f4b6</ID>
+    <Platform>Sammy Atomiswave</Platform>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <Title>kofnwj</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre />
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>true</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\atomiswave\ngbcj.zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2021-04-18T12:01:31.8903131-04:00</DateAdded>
+    <DateModified>2021-04-18T12:01:31.8903131-04:00</DateModified>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>1040400c-5348-4f54-80ee-d64078c2efeb</ID>
+    <Platform>Sammy Atomiswave</Platform>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>0</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>0</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <Title>ngbcj</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version />
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre />
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>true</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\atomiswave\ggisuka.zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2021-04-18T12:01:31.5396602-04:00</DateAdded>
+    <DateModified>2021-04-18T12:01:31.5396602-04:00</DateModified>
+    <Developer>Arc System Works</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>6538930d-c3fa-45eb-8621-0b93bf5d0d7d</ID>
+    <Notes>The brilliant 2D wonder is back in all its glory! Guilty Gear has rocked the 2D world ever since its very first release. It has captured the attention of 2D lovers worldwide.
+The original, vast and complex system of this classic sets it apart from other one on one beat 'em ups, also along with it's great and definitive character design. Guilty Gear has many great features to its system.
+In Isuka you can now play up to 4 players simultaneously. You can either go against 3 other opponents alone to test your individual skills, or pair up with a partner and go head to head against an opposing team. The choice is yours. Now the level of excitement can be taken up yet again with this great new version called Guilty Gear Isuka!</Notes>
+    <Platform>Sammy Atomiswave</Platform>
+    <Publisher>Sammy Studios</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2003-12-17T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.7115386</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>26</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>91848</DatabaseID>
+    <WikipediaURL>https://en.wikipedia.org/wiki/Guilty_Gear_Isuka</WikipediaURL>
+    <Title>Guilty Gear Isuka</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>ggisuka</Version>
+    <PlayMode>Multiplayer</PlayMode>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Fighting</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>true</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>http://www.youtube.com/watch?v=gj2Hce9j2PY</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\atomiswave\anmlbskt.zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2021-04-18T12:01:30.6632412-04:00</DateAdded>
+    <DateModified>2021-04-18T12:01:30.6632412-04:00</DateModified>
+    <Developer>Moss</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>5f5b0e56-c02d-4448-8462-ab47faa2db71</ID>
+    <Notes>Animal Basket © 2005 Sammy Corp.
+
+Known in Japan as "Hustle Tamaire Kyousou".</Notes>
+    <Platform>Sammy Atomiswave</Platform>
+    <Publisher>Sammy</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2005-01-24T03:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.3846154</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>13</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>35428</DatabaseID>
+    <Title>Animal Basket</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>anmlbskt</Version>
+    <PlayMode>Multiplayer</PlayMode>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Sports</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>true</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+    <VideoUrl>https://www.youtube.com/watch?v=-pytwFCGKVg</VideoUrl>
+  </Game>
+  <Game>
+    <ApplicationPath>..\roms\atomiswave\xtrmhnt2.zip</ApplicationPath>
+    <Completed>false</Completed>
+    <DateAdded>2021-04-18T12:01:31.4174403-04:00</DateAdded>
+    <DateModified>2021-04-18T12:01:31.4174403-04:00</DateModified>
+    <Developer>Sega</Developer>
+    <Emulator>aea9e734-0b9f-4d21-8aee-659239abaa08</Emulator>
+    <Favorite>false</Favorite>
+    <ID>362e35ef-deeb-4b8d-bb2c-0f36ab985474</ID>
+    <Notes>Extreme Hunting 2 is an Atomiswave light gun game released by Sega in 2006. It is a sequel to Extreme Hunting. 
+
+Also released as "Extreme Hunting 2: Tournament Edition [Deluxe model]".</Notes>
+    <Platform>Sammy Atomiswave</Platform>
+    <Publisher>Sega</Publisher>
+    <Rating>Not Rated</Rating>
+    <ReleaseDate>2006-01-01T00:00:00-05:00</ReleaseDate>
+    <ScummVMAspectCorrection>false</ScummVMAspectCorrection>
+    <ScummVMFullscreen>false</ScummVMFullscreen>
+    <StarRatingFloat>0</StarRatingFloat>
+    <StarRating>0</StarRating>
+    <CommunityStarRating>3.3888888</CommunityStarRating>
+    <CommunityStarRatingTotalVotes>9</CommunityStarRatingTotalVotes>
+    <Status>Imported ROM</Status>
+    <DatabaseID>91861</DatabaseID>
+    <Title>Extreme Hunting 2</Title>
+    <UseDosBox>false</UseDosBox>
+    <UseScummVM>false</UseScummVM>
+    <Version>xtrmhnt2</Version>
+    <PlayMode>Multiplayer</PlayMode>
+    <PlayCount>0</PlayCount>
+    <Portable>false</Portable>
+    <Hide>false</Hide>
+    <Broken>false</Broken>
+    <Genre>Shooter</Genre>
+    <MissingVideo>false</MissingVideo>
+    <MissingBoxFrontImage>true</MissingBoxFrontImage>
+    <MissingScreenshotImage>false</MissingScreenshotImage>
+    <MissingClearLogoImage>false</MissingClearLogoImage>
+    <MissingBackgroundImage>false</MissingBackgroundImage>
+    <MissingBox3dImage>false</MissingBox3dImage>
+    <MissingCartImage>false</MissingCartImage>
+    <MissingCart3dImage>false</MissingCart3dImage>
+    <MissingManual>false</MissingManual>
+    <MissingBannerImage>false</MissingBannerImage>
+    <MissingMusic>false</MissingMusic>
+    <UseStartupScreen>false</UseStartupScreen>
+    <HideAllNonExclusiveFullscreenWindows>false</HideAllNonExclusiveFullscreenWindows>
+    <StartupLoadDelay>0</StartupLoadDelay>
+    <HideMouseCursorInGame>false</HideMouseCursorInGame>
+    <DisableShutdownScreen>false</DisableShutdownScreen>
+    <AggressiveWindowHiding>false</AggressiveWindowHiding>
+    <OverrideDefaultStartupScreenSettings>false</OverrideDefaultStartupScreenSettings>
+    <UsePauseScreen>false</UsePauseScreen>
+    <OverrideDefaultPauseScreenSettings>false</OverrideDefaultPauseScreenSettings>
+    <SuspendProcessOnPause>false</SuspendProcessOnPause>
+    <ForcefulPauseScreenActivation>false</ForcefulPauseScreenActivation>
+    <ReleaseType>Released</ReleaseType>
+    <MaxPlayers>2</MaxPlayers>
+  </Game>
+  <AlternateName>
+    <GameID>9ffa434e-1ee1-4b8b-8334-8792fdedc7cb</GameID>
+    <Name>Sushi Bar</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>b55b76d7-2cc9-4ebf-9e78-a7451716dccb</GameID>
+    <Name>Net Select: Salaryman Kintaro</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>ff5e495f-6b72-442e-8ba6-101c09373244</GameID>
+    <Name>Guilty Gear X</Name>
+    <Region />
+  </AlternateName>
+  <AlternateName>
+    <GameID>71909aef-13d1-412d-9279-f17f5ddb9a76</GameID>
+    <Name>Samurai Spirits Tenkaichi Kenkakuden</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>01090167-5bd9-42a0-a979-13e6a3c5c0ce</GameID>
+    <Name>Hokuto No Ken</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>121edd23-cade-4185-a845-83f1a07795fa</GameID>
+    <Name>WaiWai Drive</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>6538930d-c3fa-45eb-8621-0b93bf5d0d7d</GameID>
+    <Name>Giruti Gia Isuka</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>5f5b0e56-c02d-4448-8462-ab47faa2db71</GameID>
+    <Name>Hustle Tamaire Kyousou</Name>
+    <Region>Japan</Region>
+  </AlternateName>
+  <AlternateName>
+    <GameID>362e35ef-deeb-4b8d-bb2c-0f36ab985474</GameID>
+    <Name>Extreme Hunting 2: Tournament Edition</Name>
+    <Region />
+  </AlternateName>
+</LaunchBox>

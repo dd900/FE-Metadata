@@ -1,0 +1,636 @@
+game: Animal Basket
+file: ./anmlbskt.zip
+sort-by: Animal Basket
+developer: MOSS
+publisher: Sammy Studios
+genre: Sports
+release: 2005-01-01
+players: 2
+rating: 70%
+description:
+	"Tamaire" is a game traditionally played by japanese elementary school children at sport festivals. It takes about 200 stuffed balls, 2 baskets and 2 poles to hold the baskets. Any number of children can participate. This is the videogame version of this japanese game !
+assets.boxfront: ./media/mixart/anmlbskt.png
+assets.video: ./media/snap/anmlbskt.mp4
+assets.logo: ./media/wheel/anmlbskt.png
+assets.screenshot: ./media/screenshot/anmlbskt.png
+assets.background: ./media/background/anmlbskt.jpg
+
+
+game: Animal Basket
+file: ./anmlbskta.zip
+sort-by: Animal Basket
+developer: MOSS
+publisher: Sammy Studios
+genres:
+	Sports-Basketball
+	Sports
+release: 2005-01-01
+players: 2
+rating: 70%
+description:
+	"Tamaire" is a game traditionally played by japanese elementary school children at sport festivals. It takes about 200 stuffed balls, 2 baskets and 2 poles to hold the baskets. Any number of children can participate. This is the videogame version of this japanese game !
+assets.boxfront: ./media/mixart/anmlbskta.png
+assets.video: ./media/snap/anmlbskta.mp4
+assets.logo: ./media/wheel/anmlbskta.png
+assets.screenshot: ./media/screenshot/anmlbskta.png
+assets.background: ./media/background/anmlbskta.jpg
+
+
+game: Sega Bass Fishing Challenge
+file: ./basschal.zip
+sort-by: Sega Bass Fishing Challenge
+developer: SEGA
+publisher: SEGA
+genres:
+	Hunting and Fishing
+	Fishing
+	Sports
+release: 2009-01-01
+players: 2
+rating: 70%
+description:
+	Sega Bass Fishing Challenge is a 1-Player only fishing game.
+assets.boxfront: ./media/mixart/basschal.png
+assets.video: ./media/snap/basschal.mp4
+assets.logo: ./media/wheel/basschal.png
+assets.screenshot: ./media/screenshot/basschal.png
+assets.background: ./media/background/basschal.jpg
+
+
+game: Sega Bass Fishing Challenge
+file: ./basschalo.zip
+sort-by: Sega Bass Fishing Challenge
+developer: SEGA
+publisher: SEGA
+genres:
+	Hunting and Fishing
+	Fishing
+	Sports
+release: 2009-01-01
+players: 2
+rating: 70%
+description:
+	Sega Bass Fishing Challenge is a 1-Player only fishing game.
+assets.boxfront: ./media/mixart/basschalo.png
+assets.logo: ./media/wheel/basschalo.png
+assets.screenshot: ./media/screenshot/basschalo.png
+assets.background: ./media/background/basschalo.jpg
+
+
+game: Block Pong-Pong
+file: ./blokpong.zip
+sort-by: Block Pong-Pong
+developer: MOSS
+publisher: Sammy
+genres:
+	Action
+	Action-Breakout games
+release: 2004-01-01
+players: 2
+description:
+	Game derived from ping-pong where rackets are replaced by cards with cute animals.
+assets.boxfront: ./media/mixart/blokpong.png
+assets.video: ./media/snap/blokpong.mp4
+assets.logo: ./media/wheel/blokpong.png
+assets.screenshot: ./media/screenshot/blokpong.png
+
+
+game: SEGA Clay Challenge
+file: ./claychal.zip
+sort-by: SEGA Clay Challenge
+developer: SEGA
+publisher: SEGA
+genres:
+	Shooter
+	Sports
+release: 2008-01-01
+players: 2
+rating: 75%
+description:
+	Sega Clay Challenge (c) 2009 Sega Amusements, Inc.  - SOURCES -  Game's ROM.
+assets.boxfront: ./media/mixart/claychal.png
+assets.video: ./media/snap/claychal.mp4
+assets.logo: ./media/wheel/claychal.png
+assets.screenshot: ./media/screenshot/claychal.png
+assets.background: ./media/background/claychal.jpg
+
+
+game: Demolish Fist
+file: ./demofist.zip
+sort-by: Demolish Fist
+developer: Sammy Studios
+publisher: Sammy Studios
+genre: Beat 'em Up
+release: 2003-06-01
+players: 2
+rating: 75%
+description:
+	Demolish Fist is a side scrolling beat 'em up where the player controls one of four characters, Enzo, Leoneer, Vanessa or Undead as you battle your way through various stages. There are many items, which are available to use as a weapons against your enemies. Each player has their own assortment of moves and specials that they can unleash at will. Also all four of these characters have the ability to use the awesome 'Vertigo' technique! Demolish Fist is a well put together fighting game that has many things to offer the beat 'em up world.
+assets.boxfront: ./media/mixart/demofist.png
+assets.video: ./media/snap/demofist.mp4
+assets.logo: ./media/wheel/demofist.png
+assets.screenshot: ./media/screenshot/demofist.png
+assets.background: ./media/background/demofist.jpg
+
+
+game: Dirty Pigskin Football
+file: ./dirtypig.zip
+sort-by: Dirty Pigskin Football
+developer: Sammy Studios
+publisher: Sammy
+genre: Sports
+release: 2004-01-01
+players: 2
+rating: 70%
+description:
+	This is Football with a twist. Rather than regularly suited up football players each with their own set of morals, we have got a completely unique cast of players who don't know the meaning of the word. One of the featured teams is: The prisoners, in their traditional orange jail overalls. Then we have: The Hitman group, a group of assassinsall dressed in black suits and dark glasses, pleasant right? These men are all just urging to get their hands dirty. In total there are 12 teams in this game, various venues to play at, and the game also features a cool 4-player simultaneous play mode. With a play system that is easy to use, Pigskin welcomes all level of player to join in the action.
+assets.boxfront: ./media/mixart/dirtypig.png
+assets.video: ./media/snap/dirtypig.mp4
+assets.logo: ./media/wheel/dirtypig.png
+assets.screenshot: ./media/screenshot/dirtypig.png
+assets.background: ./media/background/dirtypig.jpg
+
+
+game: Dolphin Blue
+file: ./dolphin.zip
+sort-by: Dolphin Blue
+developer: Sammy Studios
+publisher: Sammy Studios
+genres:
+	Action
+	Shooter
+release: 2003-01-01
+players: 2
+rating: 80%
+description:
+	Sammy's Atomiswave arcade shoot-em-up in the vein of Metal Slug, where players ride dolphins and destroy fleets of enemy ships and submarines.  Unfortunately, this arcade shoot-em-up was never ported to any home console.
+assets.boxfront: ./media/mixart/dolphin.png
+assets.video: ./media/snap/dolphin.mp4
+assets.logo: ./media/wheel/dolphin.png
+assets.screenshot: ./media/screenshot/dolphin.png
+assets.background: ./media/background/dolphin.jpg
+
+
+game: Fist of the North Star
+file: ./fotns.zip
+sort-by: Fist of the North Star
+developer: SEGA
+publisher: SEGA
+genre: Fighting
+release: 2005-01-01
+players: 2
+rating: 95%
+description:
+	This was an arcade game released in 2000 by Konami (also known as Punch Mania: Hokuto no Ken)
+assets.boxfront: ./media/mixart/fotns.png
+assets.video: ./media/snap/fotns.mp4
+assets.logo: ./media/wheel/fotns.png
+assets.screenshot: ./media/screenshot/fotns.png
+assets.background: ./media/background/fotns.jpg
+
+
+game: Faster Than Speed
+file: ./ftspeed.zip
+sort-by: Faster Than Speed
+developer: Sammy Studios
+publisher: Sammy Corporation
+genre: Racing
+release: 2004-01-01
+players: 1
+rating: 80%
+description:
+	Enter the exciting street-racing world of FASTER THAN SPEED where the winner rules and the loser walks! Hit the street with the most addictive driving experience of your life! Pick from 8 customized rides. FASTER THAN SPEED will take your players into the exotic, dim-lit, back streets of over 6 tracks challenging the quickest, the fastest, the baddest, and the most stocked racer conquers the asphalt! To take down your challenger, you need to burn the street with a variety of high-speed tricks.
+assets.boxfront: ./media/mixart/ftspeed.png
+assets.video: ./media/snap/ftspeed.mp4
+assets.logo: ./media/wheel/ftspeed.png
+assets.screenshot: ./media/screenshot/ftspeed.png
+assets.background: ./media/background/ftspeed.jpg
+
+
+game: Guilty Gear Isuka
+file: ./ggisuka.zip
+sort-by: Guilty Gear Isuka
+developer: Sammy Studios
+publisher: Sammy Studios
+genre: Fighting
+release: 2003-01-01
+players: 2
+rating: 85%
+description:
+	Guilty Gear Isuka introduces new characters, new arenas, and several new franchise firsts. Now, four players can brawl in two-on-two fighting or cooperatively against the computer AI. A new mode lets you customize your own character's appearance, moves, and combos with points earned during matches. Guilty Gear Isuka also features three new characters, all-new arenas, and a side-scrolling Action Game mode. Prove that you're skilled enough to win the tournament, and save humans from the Gear threat.
+assets.boxfront: ./media/mixart/ggisuka.png
+assets.video: ./media/snap/ggisuka.mp4
+assets.logo: ./media/wheel/ggisuka.png
+assets.screenshot: ./media/screenshot/ggisuka.png
+assets.background: ./media/background/ggisuka.jpg
+
+
+game: Guilty Gear X Ver. 1.5
+file: ./ggx15.zip
+sort-by: Guilty Gear X Ver. 1.5
+developer: Sammy Studios
+publisher: Sammy Studios
+genre: Fighting
+release: 2003-01-01
+players: 2
+rating: 90%
+description:
+	Taking place a few weeks after the first game. A new Commander Gear was discovered by the name Dizzy. Worried that a second War would start, another Holy Knights Tournament was started. The person who could capture and kill this Gear would be rewarded 500,000 World Dollars.
+assets.boxfront: ./media/mixart/ggx15.png
+assets.video: ./media/snap/ggx15.mp4
+assets.logo: ./media/wheel/ggx15.png
+assets.screenshot: ./media/screenshot/ggx15.png
+assets.background: ./media/background/ggx15.jpg
+
+
+game: The King of Fighters NeoWave
+file: ./kofnw.zip
+sort-by: The King of Fighters NeoWave
+developer: SNK Playmore
+publisher: Sammy Studios
+genre: Fighting
+release: 2005-01-01
+players: 2
+rating: 80%
+description:
+	The King of Fighters: Neowave is a 2D 3-on-3 fighting game in the King of Fighters series, featuring three gameplay styles and new hardware.
+assets.boxfront: ./media/mixart/kofnw.png
+assets.video: ./media/snap/kofnw.mp4
+assets.logo: ./media/wheel/kofnw.png
+assets.screenshot: ./media/screenshot/kofnw.png
+assets.background: ./media/background/kofnw.jpg
+
+
+game: The King of Fighters NeoWave
+file: ./kofnwj.zip
+sort-by: The King of Fighters NeoWave
+developer: SNK Playmore
+publisher: Sammy Studios
+genres:
+	Fight
+	Fight-Versus
+release: 2005-01-01
+players: 2
+rating: 80%
+description:
+	The King of Fighters: Neowave is a 2D 3-on-3 fighting game in the King of Fighters series, featuring three gameplay styles and new hardware.
+assets.boxfront: ./media/mixart/kofnwj.png
+assets.video: ./media/snap/kofnwj.mp4
+assets.logo: ./media/wheel/kofnwj.png
+assets.screenshot: ./media/screenshot/kofnwj.png
+assets.background: ./media/background/kofnwj.jpg
+
+
+game: The King of Fighters XI
+file: ./kofxi.zip
+sort-by: The King of Fighters XI
+developer: SNK Playmore
+publisher: SEGA
+genre: Fighting
+release: 2005-01-01
+players: 2
+rating: 85%
+description:
+	The eleventh game in the KOF series following The King of Fighters 2003. According to Sega: 'For over 10 years, the King of Fighters series has been the choice of game players around the world. The 11th team of fighters continues this tradition. KOF11 is suited for one to two players, with continuous buy-in. Choose from 33 fighters, including 4 new characters. A fifth control button was added to enhance your skills by delivering a devastating blow to your opponent, if hit at the right time. A New Skill Gauge performs a variety of tag-off moves and new attacks. A player can also custom construct a Three-Fighter Tag-Team by selecting three choice combatants.'
+assets.boxfront: ./media/mixart/kofxi.png
+assets.video: ./media/snap/kofxi.mp4
+assets.logo: ./media/wheel/kofxi.png
+assets.screenshot: ./media/screenshot/kofxi.png
+assets.background: ./media/background/kofxi.jpg
+
+
+game: Knights of Valour: The Seven Spirits
+file: ./kov7sprt.zip
+sort-by: Knights of Valour: The Seven Spirits
+developer: International Games System
+publisher: Sammy Studios
+genre: Beat 'em Up
+release: 2004-01-01
+players: 2
+rating: 80%
+description:
+	Knights of Valour is a side-scrolling Beat 'em up action arcade game released by International Games System in 1999. The plot is loosely adapted from the Chinese historical novel Romance of the Three Kingdoms and features the Five Tiger Generals, Zhuge Liang, Diaochan and others as playable characters. The gameplay involves the use of magical powers that are not featured in other games also based on the novel.
+assets.boxfront: ./media/mixart/kov7sprt.png
+assets.logo: ./media/wheel/kov7sprt.png
+assets.screenshot: ./media/screenshot/kov7sprt.png
+assets.background: ./media/background/kov7sprt.jpg
+
+
+game: Maximum Speed
+file: ./maxspeed.zip
+sort-by: Maximum Speed
+developer: Sammy Studios
+publisher: Sammy
+genre: Racing
+release: 2003-01-01
+players: 1
+rating: 75%
+description:
+	Maximum Speed is a driving game which includes a single player mode, and a 2 Player Head to Head mode.
+	Maximum Speed features 6 different courses, and allows players to select either automatic or manual transmission. There are 3 different difficulty levels available to the player, which ensures that Maximum Speed remains enjoyable and appealing to a variety of players.
+	Players can also choose from 3 distinctly different racing styles: Stock Car, Open Wheel Cart or Pickup Truck. Maximum Speed also features great 3D action graphics and steering wheel feedback, which both add a degree of realism of the game.
+assets.boxfront: ./media/mixart/maxspeed.png
+assets.video: ./media/snap/maxspeed.mp4
+assets.logo: ./media/wheel/maxspeed.png
+assets.screenshot: ./media/screenshot/maxspeed.png
+assets.background: ./media/background/maxspeed.jpg
+
+
+game: Metal Slug 6
+file: ./mslug6.zip
+sort-by: Metal Slug 6
+developer: SNK Playmore
+publisher: SEGA
+genres:
+	Action
+	Shooter
+release: 2006-02-24
+players: 2
+rating: 90%
+description:
+	Metal Slug 6 returns to the Rebel-Martian alliance featured in Metal Slugs 2, X, and 3, but on a much broader scale. Rather than repeating the previous games' events of the Martians breaking the alliance and the Rebels assisting the player in turn, the player now teams up with the Rebels and Martians to combat an even greater threat.
+	Metal Slug 6 introduces a new play mechanic dubbed the 'Weapon Stock System'. Two gun power-ups can now be carried at the same time. Players can switch between the two weapons, or simply put them both away in favor of the default weapon. When obtaining a new weapon power-up, it will automatically occupy the inactive slot, or, if both are holstered, replace the less recent weapon of the two.
+	The score is now multiplied by powers of 2. The faster the speed at which enemies are killed, the higher the power, as a meter at the bottom of the screen shows. When it says "Max" enemies and destructible objects will drop coins for an extra high score.
+assets.boxfront: ./media/mixart/mslug6.png
+assets.video: ./media/snap/mslug6.mp4
+assets.logo: ./media/wheel/mslug6.png
+assets.screenshot: ./media/screenshot/mslug6.png
+assets.background: ./media/background/mslug6.jpg
+
+
+game: NeoGeo Battle Coliseum
+file: ./ngbc.zip
+sort-by: NeoGeo Battle Coliseum
+developer: SNK Playmore
+publisher: SEGA
+genre: Fighting
+release: 2005-01-01
+players: 2
+rating: 85%
+description:
+	NeoGeo Special Cast unleashes the tag-team versus fighter NeoGeo Battle Coliseum. In addition to original heroes and heroines, it features a host of unique characters that transcend time. Armed with weapons and robots, warriors from both old and new titles of the once dominant NeoGeo platform have been amassed under one roof in this new Xbox LIVE Arcade version, featuring both character and background graphics redone in high definition.
+assets.boxfront: ./media/mixart/ngbc.png
+assets.video: ./media/snap/ngbc.mp4
+assets.logo: ./media/wheel/ngbc.png
+assets.screenshot: ./media/screenshot/ngbc.png
+assets.background: ./media/background/ngbc.jpg
+
+
+game: NeoGeo Battle Coliseum
+file: ./ngbcj.zip
+sort-by: NeoGeo Battle Coliseum
+developer: SNK Playmore
+publisher: SEGA
+genre: Fight
+release: 2005-01-01
+players: 2
+rating: 85%
+description:
+	NeoGeo Special Cast unleashes the tag-team versus fighter NeoGeo Battle Coliseum. In addition to original heroes and heroines, it features a host of unique characters that transcend time. Armed with weapons and robots, warriors from both old and new titles of the once dominant NeoGeo platform have been amassed under one roof in this new Xbox LIVE Arcade version, featuring both character and background graphics redone in high definition.
+assets.boxfront: ./media/mixart/ngbcj.png
+assets.video: ./media/snap/ngbcj.mp4
+assets.logo: ./media/wheel/ngbcj.png
+assets.screenshot: ./media/screenshot/ngbcj.png
+assets.background: ./media/background/ngbcj.jpg
+
+
+game: Ranger Mission
+file: ./rangrmsn.zip
+sort-by: Ranger Mission
+developer: Sammy Studios
+publisher: Sammy Studios
+genre: Action
+release: 2004-01-01
+players: 1
+rating: 75%
+description:
+	A 1 to 2 player 3-D military combat shooting game where players use pump-action shotguns to shoot on-screen enemies.The game has four different missions:Jungle Mission, Desert Mission, Indoor Rescue Mission and Tundra Mission.
+assets.boxfront: ./media/mixart/rangrmsn.png
+assets.video: ./media/snap/rangrmsn.mp4
+assets.logo: ./media/wheel/rangrmsn.png
+assets.screenshot: ./media/screenshot/rangrmsn.png
+assets.background: ./media/background/rangrmsn.jpg
+
+
+game: The Rumble Fish
+file: ./rumblef.zip
+sort-by: The Rumble Fish
+developer: Sammy Studios
+publisher: Sammy Studios
+genre: Fighting
+release: 2004-01-01
+players: 2
+rating: 85%
+description:
+	The Rumble Fish is a fighting game created by Dimps for the Atomiswave arcade platform. Its most distinguishing quality is its graphics engine, which animates the characters' limbs separately.
+assets.boxfront: ./media/mixart/rumblef.png
+assets.video: ./media/snap/rumblef.mp4
+assets.logo: ./media/wheel/rumblef.png
+assets.screenshot: ./media/screenshot/rumblef.png
+assets.background: ./media/background/rumblef.jpg
+
+
+game: The Rumble Fish 2
+file: ./rumblef2.zip
+sort-by: The Rumble Fish 2
+developer: Sammy Studios
+publisher: Sammy Studios
+genre: Fighting
+release: 2004-01-01
+players: 2
+rating: 85%
+description:
+	he Rumble Fish 2 uses all of the elements from the first game and adds some new ones.
+	The Offense and Defense gauges have been divided into three sections each, allowing for more usage of Offensive and Defensive Arts, as well as techniques tied to each gauge. An addition to the system is the Boost Dive, which puts each character into a powered-up state according to their style.
+	Most characters have had modifications to their movelists in some way, such as new moves, new commands for old moves, and so forth.
+assets.boxfront: ./media/mixart/rumblef2.png
+assets.video: ./media/snap/rumblef2.mp4
+assets.logo: ./media/wheel/rumblef2.png
+assets.screenshot: ./media/screenshot/rumblef2.png
+assets.background: ./media/background/rumblef2.jpg
+
+
+game: The Rumble Fish
+file: ./rumblefp.zip
+sort-by: The Rumble Fish
+developer: Sammy Studios
+publisher: Sammy Studios
+genres:
+	Fight-Versus
+	Fight
+release: 2004-01-01
+players: 2
+rating: 85%
+description:
+	The Rumble Fish is a fighting game created by Dimps for the Atomiswave arcade platform. Its most distinguishing quality is its graphics engine, which animates the characters' limbs separately.
+assets.boxfront: ./media/mixart/rumblefp.png
+assets.video: ./media/snap/rumblefp.mp4
+assets.logo: ./media/wheel/rumblefp.png
+assets.screenshot: ./media/screenshot/rumblefp.png
+assets.background: ./media/background/rumblefp.jpg
+
+
+game: The Rumble Fish 2
+file: ./rumblf2p.zip
+sort-by: The Rumble Fish 2
+developer: Sammy Studios
+publisher: Sammy Studios
+genres:
+	Fight-Versus
+	Fight
+release: 2004-01-01
+players: 2
+rating: 85%
+description:
+	he Rumble Fish 2 uses all of the elements from the first game and adds some new ones.
+	The Offense and Defense gauges have been divided into three sections each, allowing for more usage of Offensive and Defensive Arts, as well as techniques tied to each gauge. An addition to the system is the Boost Dive, which puts each character into a powered-up state according to their style.
+	Most characters have had modifications to their movelists in some way, such as new moves, new commands for old moves, and so forth.
+assets.boxfront: ./media/mixart/rumblf2p.png
+assets.video: ./media/snap/rumblf2p.mp4
+assets.logo: ./media/wheel/rumblf2p.png
+assets.screenshot: ./media/screenshot/rumblf2p.png
+assets.background: ./media/background/rumblf2p.jpg
+
+
+game: Salaryman Kintaro
+file: ./salmankt.zip
+sort-by: Salaryman Kintaro
+developer: Sammy
+publisher: Sammy
+genre: Casino
+release: 2004-01-01
+players: 2
+rating: 75%
+description:
+	Classico gioco del domino ispirato ad una serie manga giapponese di Hiroshi Motomiya. È stato serializzato su Weekly Young Jump dal 1994 al 2002, con molti periodi di inattività durante la sua esecuzione. Salaryman Kintaro aveva venduto oltre 30 milioni di copie in formato cartaceo.
+assets.boxfront: ./media/mixart/salmankt.png
+assets.video: ./media/snap/salmankt.mp4
+assets.logo: ./media/wheel/salmankt.png
+assets.screenshot: ./media/screenshot/salmankt.png
+assets.background: ./media/background/salmankt.jpg
+
+
+game: Samurai Shodown VI
+file: ./samsptk.zip
+sort-by: Samurai Shodown VI
+developer: SNK Playmore
+publisher: Sammy Studios
+genre: Fighting
+release: 2005-01-01
+players: 2
+rating: 85%
+description:
+	Among other series changes, aerial blocking was removed entirely, and the switch-around move, which enabled a player to shift quickly behind the other's back, as well as the dodge (evade, side-step), in which the move virtually brings a semi-3D environment to the defense in attempt to use each sword more effectively.
+	One can no longer charge one's own "pow" gauge. The off-screen delivery man was omitted entirely from the game. The "CD combo" was added, wherein a player can press the C and D buttons together, triggering a strike that can be followed up by a sequence of button taps.
+	SNK also added a "suicide" move, wherein one's character forfeits the round. The bonus to this is that the one committing suicide will start the next round with a full "POW" gauge. Certain finishes also enable a "fatality" move in the vein of Mortal Kombat.
+assets.boxfront: ./media/mixart/samsptk.png
+assets.video: ./media/snap/samsptk.mp4
+assets.logo: ./media/wheel/samsptk.png
+assets.screenshot: ./media/screenshot/samsptk.png
+assets.background: ./media/background/samsptk.jpg
+
+
+game: Sports Shooting USA
+file: ./sprtshot.zip
+sort-by: Sports Shooting USA
+developer: Sammy Studios
+publisher: Sammy Studios
+genre: Shooter
+release: 2003-01-01
+players: 2
+rating: 75%
+description:
+	A competitive 1 to 2 player shooting game where players, using optical guns, must shoot a number of required on-screen targets within a certain time limit to qualify and proceed to next round.
+assets.boxfront: ./media/mixart/sprtshot.png
+assets.video: ./media/snap/sprtshot.mp4
+assets.logo: ./media/wheel/sprtshot.png
+assets.screenshot: ./media/screenshot/sprtshot.png
+assets.background: ./media/background/sprtshot.jpg
+
+
+game: Sushi Bar
+file: ./sushibar.zip
+sort-by: Sushi Bar
+developer: Sammy
+publisher: Sammy
+genre: Puzzle
+release: 2003-01-01
+players: 2
+rating: 80%
+description:
+	Sushi simulation Game.
+assets.boxfront: ./media/mixart/sushibar.png
+assets.video: ./media/snap/sushibar.mp4
+assets.logo: ./media/wheel/sushibar.png
+assets.screenshot: ./media/screenshot/sushibar.png
+
+
+game: Victory Furlong Horse Racing
+file: ./vfurlong.zip
+sort-by: Victory Furlong Horse Racing
+developer: Progress
+publisher: Sammy Studios
+genres:
+	Sports with Animals
+	Horses race
+release: 2005-01-01
+description:
+	Net Select Horse Racing - Victory Furlong es un juego árcade de carreras de caballos desarrollado por Sammy en 2005.
+assets.boxfront: ./media/mixart/vfurlong.png
+assets.video: ./media/snap/vfurlong.mp4
+assets.logo: ./media/wheel/vfurlong.png
+assets.screenshot: ./media/screenshot/vfurlong.png
+
+
+game: WaiWai Drive
+file: ./waidrive.zip
+sort-by: WaiWai Drive
+developer: Moss
+publisher: Sammy Corporation
+genre: Racing
+release: 2005-01-01
+players: 2
+description:
+	WaiWai Drive is a car game intended for a young audience where two cars have to collect available items on the screen while trying to get more than the opponent.
+assets.boxfront: ./media/mixart/waidrive.png
+assets.video: ./media/snap/waidrive.mp4
+assets.logo: ./media/wheel/waidrive.png
+assets.screenshot: ./media/screenshot/waidrive.png
+
+
+game: Extreme Hunting 2
+file: ./xtrmhnt2.zip
+sort-by: Extreme Hunting 2
+developer: SEGA
+publisher: SEGA
+genre: Shooter
+release: 2006-01-01
+players: 2
+rating: 75%
+description:
+	Embark on a hunting trip of a lifetime with Extreme Hunting 2, the sequel to Sega Amusements' line of coin-operated hunting games. A choice of the most prestigious North American wild game a hunter could ask for including Bison, Bear, Moose, Elk, Deer, and Wolf along with bonus stages featuring Bass, Goose, Bat, Squirrel and more. Don't miss the chance to play our ever-changing Special Hunts. The first game for the ALL.Net online platform, the game links arcade machines into a common community allowing for national tournaments and online rankings as you hunt a widest variety of wild game.
+assets.boxfront: ./media/mixart/xtrmhnt2.png
+assets.video: ./media/snap/xtrmhnt2.mp4
+assets.logo: ./media/wheel/xtrmhnt2.png
+assets.screenshot: ./media/screenshot/xtrmhnt2.png
+assets.background: ./media/background/xtrmhnt2.jpg
+
+
+game: Extreme Hunting
+file: ./xtrmhunt.zip
+sort-by: Extreme Hunting
+developer: SEGA
+publisher: SEGA
+genres:
+	Shooter
+	Sports
+release: 2005-01-01
+players: 2
+rating: 75%
+description:
+	You can hunt a total of 6 animals, each with its own uniqueness and life-like animation. The individual animal hunting stages feature a variety of hunting regions, all with magnificent background imagery. Weather conditions will also come into play depending on the region. Once you complete the entire animal stage you will be able to hunt in that stage's unique bonus spot.
+assets.boxfront: ./media/mixart/xtrmhunt.png
+assets.video: ./media/snap/xtrmhunt.mp4
+assets.logo: ./media/wheel/xtrmhunt.png
+assets.screenshot: ./media/screenshot/xtrmhunt.png
+assets.background: ./media/background/xtrmhunt.jpg
